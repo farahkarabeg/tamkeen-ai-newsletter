@@ -4,8 +4,8 @@ from __future__ import annotations
 
 import json
 
-from ai_pulse.compose import (build_adaptive_card, compose_digest, week_id,
-                              ADAPTIVE_CARD_VERSION)
+from ai_pulse.compose import (build_adaptive_card, build_markdown,
+                              compose_digest, week_id, ADAPTIVE_CARD_VERSION)
 
 
 def _texts(card: dict) -> str:
@@ -60,3 +60,17 @@ def test_compose_digest_renders_both_variants(compose_cfg, curated_items):
 
 def test_week_id_format():
     assert week_id().startswith("20")
+
+
+def test_build_markdown_draft_and_content(compose_cfg, curated_items):
+    md = build_markdown(compose_cfg, subtitle="Week of 9–16 June 2026",
+                        editor_note="Intro.", items=curated_items,
+                        is_draft=True, delivery_note="Digest `2026-W24` · posted")
+    assert "DRAFT — for Policy & Strategy review" in md
+    assert "[Story one](https://a.com/edu)" in md          # hyperlinked title
+    assert "Why it matters for Tamkeen" in md
+    assert "Digest `2026-W24`" in md
+
+    final = build_markdown(compose_cfg, subtitle="x", editor_note="",
+                           items=curated_items, is_draft=False)
+    assert "DRAFT" not in final

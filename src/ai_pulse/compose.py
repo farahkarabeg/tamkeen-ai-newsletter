@@ -153,6 +153,38 @@ def build_plain_text(*, title: str, subtitle: str, editor_note: str,
     return "\n".join(lines)
 
 
+def build_markdown(cfg: ComposeConfig, *, subtitle: str, editor_note: str,
+                   items: list[CuratedItem], is_draft: bool,
+                   delivery_note: str = "") -> str:
+    """Render the digest as GitHub-flavoured Markdown.
+
+    Used for the GitHub Actions job summary so each run shows a clean, readable
+    report on its Summary page (rather than only in the step logs).
+    """
+    brand = cfg.brand
+    md: list[str] = []
+    if is_draft:
+        md.append("> ⚠️ **DRAFT — for Policy & Strategy review**\n")
+    md.append(f"# {brand.digest_title}")
+    md.append(f"**{subtitle}**")
+    if delivery_note:
+        md.append(f"\n_{delivery_note}_")
+    if editor_note:
+        md.append(f"\n{editor_note}")
+    md.append("\n---")
+    for n, item in enumerate(items, start=1):
+        date_str = _fmt_date(item.published_iso, cfg.timezone)
+        meta = " · ".join(p for p in (item.source_name, date_str) if p)
+        md.append(f"### {n}. [{item.title}]({item.url})")
+        md.append(f"{item.summary}")
+        md.append(f"**Why it matters for {brand.org_name}:** {item.why_it_matters}")
+        md.append(f"<sub>{meta} · relevance {item.relevance}/10</sub>")
+        md.append("")
+    md.append("---")
+    md.append(f"_{brand.footer}_")
+    return "\n".join(md)
+
+
 def compose_digest(cfg: ComposeConfig, *, editor_note: str,
                    items: list[CuratedItem], lookback_days: int = 7,
                    now: datetime | None = None) -> Digest:

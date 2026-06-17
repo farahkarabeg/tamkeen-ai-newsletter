@@ -12,8 +12,10 @@ logged, captured in the run report, and the run continues where it can.
 from __future__ import annotations
 
 import json
+import os
+from pathlib import Path
 
-from .compose import compose_digest
+from .compose import build_markdown, compose_digest
 from .config import Config
 from .curate import Curator
 from .dedup import DedupStore
@@ -29,6 +31,26 @@ log = get_logger()
 def _preview(digest: Digest) -> str:
     """Readable console preview used by --dry-run."""
     return digest.plain_text
+
+
+def _write_job_summary(cfg: Config, digest: Digest, *, is_draft: bool,
+                       delivery_note: str) -> None:
+    """If running in GitHub Actions, render the digest to the run's Summary page
+    as Markdown. No-op locally. Best-effort — never fails the run.
+    """
+    target = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not target:
+        return
+    try:
+        md = build_markdown(
+            cfg.compose, subtitle=f"Week of {digest.date_range_label}",
+            editor_note=digest.editor_note, items=digest.items,
+            is_draft=is_draft, delivery_note=delivery_note)
+        with Path(target).open("a", encoding="utf-8") as fh:
+            fh.write(md + "\n")
+        log.info("Wrote digest to GitHub Actions job summary.")
+    except OSError as exc:  # pragma: no cover
+        log.warning("Could not write job summary: %s", exc)
 
 
 def run_phase_a(cfg: Config, *, dry_run: bool = False,
@@ -106,6 +128,12 @@ def run_phase_a(cfg: Config, *, dry_run: bool = False,
             report.errors.append(f"Draft delivery failed: {exc}")
             log.error("Draft delivery failed: %s", exc)
 
+    note = (f"Digest `{digest.id}` · "
+            + ("DRY RUN — not posted to Teams." if dry_run
+               else ("Posted to the P&S review channel." if report.delivered
+                     else "Delivery failed — see logs.")))
+    _write_job_summary(cfg, digest, is_draft=True, delivery_note=note)
+
     log.info("\n%s", report.render())
     return digest, report
 
@@ -136,6 +164,9 @@ def run_phase_b(cfg: Config, digest_id: str, *,
         print(digest.broadcast_text)
         report.delivery_target = "dry-run broadcast (not posted)"
         log.info("Dry-run broadcast; nothing posted, nothing marked sent.")
+        _write_job_summary(cfg, digest, is_draft=False,
+                           delivery_note=f"Digest `{digest.id}` · DRY RUN "
+                                         f"broadcast — not posted to all-staff.")
         log.info("\n%s", report.render())
         return report
 
@@ -152,6 +183,11 @@ def run_phase_b(cfg: Config, digest_id: str, *,
     except DeliveryError as exc:
         report.errors.append(f"Broadcast failed: {exc}")
         log.error("Broadcast failed: %s", exc)
+
+    note = (f"Digest `{digest.id}` · "
+            + ("Broadcast to the all-staff channel." if report.delivered
+               else "Broadcast failed — see logs."))
+    _write_job_summary(cfg, digest, is_draft=False, delivery_note=note)
 
     log.info("\n%s", report.render())
     return report
