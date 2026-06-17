@@ -1,0 +1,790 @@
+{
+  "id": "2026-W25",
+  "generated_at_iso": "2026-06-17T06:45:51.575697+00:00",
+  "date_range_label": "11–17 June 2026",
+  "editor_note": "This week's digest centres on two themes close to our mission: practical AI skills for the workplace and the growing role of government in shaping how AI is used. We also highlight several developments in AI access rules and safety that carry direct relevance for the Gulf and broader international community. As always, our aim is to keep you informed in clear, everyday language.",
+  "items": [
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-12T10:00:00+00:00",
+      "summary": "OpenAI has launched three new free courses through its Academy to help working people build practical AI skills, set up repeatable work routines, and use AI assistants in their daily tasks. The courses are aimed at general employees rather than technical specialists.",
+      "why_it_matters": "These ready-made, accessible courses could support Tamkeen's workforce upskilling and training programmes for non-technical staff.",
+      "relevance": 10
+    },
+    {
+      "title": "US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5",
+      "source_name": "Anthropic (via Google News)",
+      "published_iso": "2026-06-14T14:10:04+00:00",
+      "summary": "Reports say the US government has asked the AI company Anthropic to restrict access to its most advanced AI models outside the United States. The move reflects growing efforts to control who can use the most powerful AI systems internationally.",
+      "why_it_matters": "Such restrictions may affect which advanced AI tools are available in the UAE and the wider region, shaping local access and planning.",
+      "relevance": 8
+    },
+    {
+      "title": "US orders Anthropic to disable AI models for all foreign nationals - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmZuTGlDUmF4cmg4ZE5na21hQjJIczNUaVN4RzUwdXowdjJhUGl2SXRBYm84MU5vbERZU1R1WGkxMS1VSEhIcXEwRnl2YXpManBYV1p5blJsYUltR2ZzNXdBOFFZYUFTenUwQXczdUxyTHAxLTI4cG9HQ1A4Wjd2ZlZrM2p2SmwyZXQtaThJU2Z6UHBrc3FaUDhxbnY0NXlfVXpXSVh0YWtkSHfSAbABQVVfeXFMTlpoa1BoWjRvODVoYWYyME1ESDROZkFJM2NBRVJsSnVUb1NDUC1GSlZVLUllUzltUG1xTFN6ME5XQ1dhbmNJUmRpc2g3eXhHOVRpT0N2a1FsRmhBSmp1NkJ6UFVhakc2RTYwbGRBQUxQZWRLb3I1QlpDaFZfb1VHZE5idzM0MWhoeVIyQndteEVlS0k4T29rYnpsUzFRdDVqZU8tNXZzR3NzSnNXMjhNVGY?oc=5",
+      "source_name": "Anthropic (via Google News)",
+      "published_iso": "2026-06-13T09:38:20+00:00",
+      "summary": "Following on from related reports, coverage indicates the US has directed Anthropic to disable its AI models for all foreign nationals. The exact scope and conditions of the order remain a developing story.",
+      "why_it_matters": "Limits on foreign access to leading AI tools could influence the AI options open to UAE institutions and employees.",
+      "relevance": 8
+    },
+    {
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-16T00:00:00+00:00",
+      "summary": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by running it against real-style conversations before it is released to the public. The goal is to catch problems earlier and make safety checks more accurate.",
+      "why_it_matters": "Better pre-release testing helps build trust in AI systems that public-sector bodies like Tamkeen may eventually adopt.",
+      "relevance": 8
+    },
+    {
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-12T00:00:00+00:00",
+      "summary": "The language-learning platform Preply is using OpenAI's technology to create AI-generated lesson summaries, personalised feedback, and tailored practice exercises. The approach combines AI tools with human tutors rather than replacing them.",
+      "why_it_matters": "It offers a practical example of how AI can personalise education and learning while keeping human teachers central—relevant to Tamkeen's education mandate.",
+      "relevance": 8
+    },
+    {
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-11T00:00:00+00:00",
+      "summary": "OpenAI says it is backing the European Union's Code of Practice on AI content transparency, supporting standards and tools that show where digital content comes from. The aim is to help people tell whether content was created by AI.",
+      "why_it_matters": "Content transparency standards point to emerging good practice that public institutions can reference when setting their own AI guidelines.",
+      "relevance": 8
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-06-16T21:29:50+00:00",
+      "summary": "The UK government is working with Google DeepMind to build a prototype AI tool designed to speed up housing planning decisions. The project aims to make a slow public process faster using AI.",
+      "why_it_matters": "It is a concrete case of government using AI to improve public services, offering lessons for how Tamkeen and UAE bodies might apply AI.",
+      "relevance": 8
+    },
+    {
+      "title": "Trump Blocks Foreigners From Using Anthropic’s Latest AI Tech - Mother Jones",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXRnQW9XUHVXMnR2TXo1d1VpV0F4c0dPZ3pCaC02aFk4YUo5RGs5aGJGMEJURDllcGppSjVIei03UHNudkRSOHlWdXM2LVBBbEdaczdTemQ2aEYtaXdWc3Flb1ozeG8ySFoyRGFZUEduSlRBeUFOUzFyaFcwaGVocnowVmZndzN2Ymc?oc=5",
+      "source_name": "Anthropic (via Google News)",
+      "published_iso": "2026-06-13T19:43:11+00:00",
+      "summary": "Mother Jones reports that the US administration is blocking foreign nationals from using Anthropic's newest AI technology. This aligns with other coverage of tightening US controls on advanced AI access abroad.",
+      "why_it_matters": "Restrictions on who can use frontier AI tools may affect technology access and strategy for organisations in the UAE.",
+      "relevance": 7
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Week of 11–17 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This week's digest centres on two themes close to our mission: practical AI skills for the workplace and the growing role of government in shaping how AI is used. We also highlight several developments in AI access rules and safety that carry direct relevance for the Gulf and broader international community. As always, our aim is to keep you informed in clear, everyday language.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has launched three new free courses through its Academy to help working people build practical AI skills, set up repeatable work routines, and use AI assistants in their daily tasks. The courses are aimed at general employees rather than technical specialists.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** These ready-made, accessible courses could support Tamkeen's workforce upskilling and training programmes for non-technical staff.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 12 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Reports say the US government has asked the AI company Anthropic to restrict access to its most advanced AI models outside the United States. The move reflects growing efforts to control who can use the most powerful AI systems internationally.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Such restrictions may affect which advanced AI tools are available in the UAE and the wider region, shaping local access and planning.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 14 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. US orders Anthropic to disable AI models for all foreign nationals - Al Jazeera](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmZuTGlDUmF4cmg4ZE5na21hQjJIczNUaVN4RzUwdXowdjJhUGl2SXRBYm84MU5vbERZU1R1WGkxMS1VSEhIcXEwRnl2YXpManBYV1p5blJsYUltR2ZzNXdBOFFZYUFTenUwQXczdUxyTHAxLTI4cG9HQ1A4Wjd2ZlZrM2p2SmwyZXQtaThJU2Z6UHBrc3FaUDhxbnY0NXlfVXpXSVh0YWtkSHfSAbABQVVfeXFMTlpoa1BoWjRvODVoYWYyME1ESDROZkFJM2NBRVJsSnVUb1NDUC1GSlZVLUllUzltUG1xTFN6ME5XQ1dhbmNJUmRpc2g3eXhHOVRpT0N2a1FsRmhBSmp1NkJ6UFVhakc2RTYwbGRBQUxQZWRLb3I1QlpDaFZfb1VHZE5idzM0MWhoeVIyQndteEVlS0k4T29rYnpsUzFRdDVqZU8tNXZzR3NzSnNXMjhNVGY?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Following on from related reports, coverage indicates the US has directed Anthropic to disable its AI models for all foreign nationals. The exact scope and conditions of the order remain a developing story.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Limits on foreign access to leading AI tools could influence the AI options open to UAE institutions and employees.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 13 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by running it against real-style conversations before it is released to the public. The goal is to catch problems earlier and make safety checks more accurate.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Better pre-release testing helps build trust in AI systems that public-sector bodies like Tamkeen may eventually adopt.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. How Preply combines AI and human tutors to personalize learning](https://openai.com/index/preply)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The language-learning platform Preply is using OpenAI's technology to create AI-generated lesson summaries, personalised feedback, and tailored practice exercises. The approach combines AI tools with human tutors rather than replacing them.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It offers a practical example of how AI can personalise education and learning while keeping human teachers central—relevant to Tamkeen's education mandate.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 12 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[6. Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI says it is backing the European Union's Code of Practice on AI content transparency, supporting standards and tools that show where digital content comes from. The aim is to help people tell whether content was created by AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Content transparency standards point to emerging good practice that public institutions can reference when setting their own AI guidelines.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 11 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[7. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The UK government is working with Google DeepMind to build a prototype AI tool designed to speed up housing planning decisions. The project aims to make a slow public process faster using AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It is a concrete case of government using AI to improve public services, offering lessons for how Tamkeen and UAE bodies might apply AI.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 17 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[8. Trump Blocks Foreigners From Using Anthropic’s Latest AI Tech - Mother Jones](https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXRnQW9XUHVXMnR2TXo1d1VpV0F4c0dPZ3pCaC02aFk4YUo5RGs5aGJGMEJURDllcGppSjVIei03UHNudkRSOHlWdXM2LVBBbEdaczdTemQ2aEYtaXdWc3Flb1ozeG8ySFoyRGFZUEduSlRBeUFOUzFyaFcwaGVocnowVmZndzN2Ymc?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Mother Jones reports that the US administration is blocking foreign nationals from using Anthropic's newest AI technology. This aligns with other coverage of tightening US controls on advanced AI access abroad.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Restrictions on who can use frontier AI tools may affect technology access and strategy for organisations in the UAE.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 13 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWeek of 11–17 June 2026\n============================================================\nThis week's digest centres on two themes close to our mission: practical AI skills for the workplace and the growing role of government in shaping how AI is used. We also highlight several developments in AI access rules and safety that carry direct relevance for the Gulf and broader international community. As always, our aim is to keep you informed in clear, everyday language.\n\n1. New OpenAI Academy courses for the next era of work\n   https://openai.com/index/academy-courses-applying-ai-at-work\n   OpenAI has launched three new free courses through its Academy to help working people build practical AI skills, set up repeatable work routines, and use AI assistants in their daily tasks. The courses are aimed at general employees rather than technical specialists.\n   Why it matters for Tamkeen: These ready-made, accessible courses could support Tamkeen's workforce upskilling and training programmes for non-technical staff.\n   (OpenAI · 12 Jun 2026)\n\n2. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera\n   https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5\n   Reports say the US government has asked the AI company Anthropic to restrict access to its most advanced AI models outside the United States. The move reflects growing efforts to control who can use the most powerful AI systems internationally.\n   Why it matters for Tamkeen: Such restrictions may affect which advanced AI tools are available in the UAE and the wider region, shaping local access and planning.\n   (Anthropic (via Google News) · 14 Jun 2026)\n\n3. US orders Anthropic to disable AI models for all foreign nationals - Al Jazeera\n   https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmZuTGlDUmF4cmg4ZE5na21hQjJIczNUaVN4RzUwdXowdjJhUGl2SXRBYm84MU5vbERZU1R1WGkxMS1VSEhIcXEwRnl2YXpManBYV1p5blJsYUltR2ZzNXdBOFFZYUFTenUwQXczdUxyTHAxLTI4cG9HQ1A4Wjd2ZlZrM2p2SmwyZXQtaThJU2Z6UHBrc3FaUDhxbnY0NXlfVXpXSVh0YWtkSHfSAbABQVVfeXFMTlpoa1BoWjRvODVoYWYyME1ESDROZkFJM2NBRVJsSnVUb1NDUC1GSlZVLUllUzltUG1xTFN6ME5XQ1dhbmNJUmRpc2g3eXhHOVRpT0N2a1FsRmhBSmp1NkJ6UFVhakc2RTYwbGRBQUxQZWRLb3I1QlpDaFZfb1VHZE5idzM0MWhoeVIyQndteEVlS0k4T29rYnpsUzFRdDVqZU8tNXZzR3NzSnNXMjhNVGY?oc=5\n   Following on from related reports, coverage indicates the US has directed Anthropic to disable its AI models for all foreign nationals. The exact scope and conditions of the order remain a developing story.\n   Why it matters for Tamkeen: Limits on foreign access to leading AI tools could influence the AI options open to UAE institutions and employees.\n   (Anthropic (via Google News) · 13 Jun 2026)\n\n4. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by running it against real-style conversations before it is released to the public. The goal is to catch problems earlier and make safety checks more accurate.\n   Why it matters for Tamkeen: Better pre-release testing helps build trust in AI systems that public-sector bodies like Tamkeen may eventually adopt.\n   (OpenAI · 16 Jun 2026)\n\n5. How Preply combines AI and human tutors to personalize learning\n   https://openai.com/index/preply\n   The language-learning platform Preply is using OpenAI's technology to create AI-generated lesson summaries, personalised feedback, and tailored practice exercises. The approach combines AI tools with human tutors rather than replacing them.\n   Why it matters for Tamkeen: It offers a practical example of how AI can personalise education and learning while keeping human teachers central—relevant to Tamkeen's education mandate.\n   (OpenAI · 12 Jun 2026)\n\n6. Supporting Europe’s work in ensuring a trustworthy AI ecosystem\n   https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem\n   OpenAI says it is backing the European Union's Code of Practice on AI content transparency, supporting standards and tools that show where digital content comes from. The aim is to help people tell whether content was created by AI.\n   Why it matters for Tamkeen: Content transparency standards point to emerging good practice that public institutions can reference when setting their own AI guidelines.\n   (OpenAI · 11 Jun 2026)\n\n7. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government is working with Google DeepMind to build a prototype AI tool designed to speed up housing planning decisions. The project aims to make a slow public process faster using AI.\n   Why it matters for Tamkeen: It is a concrete case of government using AI to improve public services, offering lessons for how Tamkeen and UAE bodies might apply AI.\n   (Google DeepMind · 17 Jun 2026)\n\n8. Trump Blocks Foreigners From Using Anthropic’s Latest AI Tech - Mother Jones\n   https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXRnQW9XUHVXMnR2TXo1d1VpV0F4c0dPZ3pCaC02aFk4YUo5RGs5aGJGMEJURDllcGppSjVIei03UHNudkRSOHlWdXM2LVBBbEdaczdTemQ2aEYtaXdWc3Flb1ozeG8ySFoyRGFZUEduSlRBeUFOUzFyaFcwaGVocnowVmZndzN2Ymc?oc=5\n   Mother Jones reports that the US administration is blocking foreign nationals from using Anthropic's newest AI technology. This aligns with other coverage of tightening US controls on advanced AI access abroad.\n   Why it matters for Tamkeen: Restrictions on who can use frontier AI tools may affect technology access and strategy for organisations in the UAE.\n   (Anthropic (via Google News) · 13 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Week of 11–17 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This week's digest centres on two themes close to our mission: practical AI skills for the workplace and the growing role of government in shaping how AI is used. We also highlight several developments in AI access rules and safety that carry direct relevance for the Gulf and broader international community. As always, our aim is to keep you informed in clear, everyday language.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has launched three new free courses through its Academy to help working people build practical AI skills, set up repeatable work routines, and use AI assistants in their daily tasks. The courses are aimed at general employees rather than technical specialists.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** These ready-made, accessible courses could support Tamkeen's workforce upskilling and training programmes for non-technical staff.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 12 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Reports say the US government has asked the AI company Anthropic to restrict access to its most advanced AI models outside the United States. The move reflects growing efforts to control who can use the most powerful AI systems internationally.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Such restrictions may affect which advanced AI tools are available in the UAE and the wider region, shaping local access and planning.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 14 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. US orders Anthropic to disable AI models for all foreign nationals - Al Jazeera](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmZuTGlDUmF4cmg4ZE5na21hQjJIczNUaVN4RzUwdXowdjJhUGl2SXRBYm84MU5vbERZU1R1WGkxMS1VSEhIcXEwRnl2YXpManBYV1p5blJsYUltR2ZzNXdBOFFZYUFTenUwQXczdUxyTHAxLTI4cG9HQ1A4Wjd2ZlZrM2p2SmwyZXQtaThJU2Z6UHBrc3FaUDhxbnY0NXlfVXpXSVh0YWtkSHfSAbABQVVfeXFMTlpoa1BoWjRvODVoYWYyME1ESDROZkFJM2NBRVJsSnVUb1NDUC1GSlZVLUllUzltUG1xTFN6ME5XQ1dhbmNJUmRpc2g3eXhHOVRpT0N2a1FsRmhBSmp1NkJ6UFVhakc2RTYwbGRBQUxQZWRLb3I1QlpDaFZfb1VHZE5idzM0MWhoeVIyQndteEVlS0k4T29rYnpsUzFRdDVqZU8tNXZzR3NzSnNXMjhNVGY?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Following on from related reports, coverage indicates the US has directed Anthropic to disable its AI models for all foreign nationals. The exact scope and conditions of the order remain a developing story.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Limits on foreign access to leading AI tools could influence the AI options open to UAE institutions and employees.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 13 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by running it against real-style conversations before it is released to the public. The goal is to catch problems earlier and make safety checks more accurate.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Better pre-release testing helps build trust in AI systems that public-sector bodies like Tamkeen may eventually adopt.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. How Preply combines AI and human tutors to personalize learning](https://openai.com/index/preply)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The language-learning platform Preply is using OpenAI's technology to create AI-generated lesson summaries, personalised feedback, and tailored practice exercises. The approach combines AI tools with human tutors rather than replacing them.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It offers a practical example of how AI can personalise education and learning while keeping human teachers central—relevant to Tamkeen's education mandate.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 12 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[6. Supporting Europe’s work in ensuring a trustworthy AI ecosystem](https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI says it is backing the European Union's Code of Practice on AI content transparency, supporting standards and tools that show where digital content comes from. The aim is to help people tell whether content was created by AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Content transparency standards point to emerging good practice that public institutions can reference when setting their own AI guidelines.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 11 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[7. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The UK government is working with Google DeepMind to build a prototype AI tool designed to speed up housing planning decisions. The project aims to make a slow public process faster using AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It is a concrete case of government using AI to improve public services, offering lessons for how Tamkeen and UAE bodies might apply AI.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 17 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[8. Trump Blocks Foreigners From Using Anthropic’s Latest AI Tech - Mother Jones](https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXRnQW9XUHVXMnR2TXo1d1VpV0F4c0dPZ3pCaC02aFk4YUo5RGs5aGJGMEJURDllcGppSjVIei03UHNudkRSOHlWdXM2LVBBbEdaczdTemQ2aEYtaXdWc3Flb1ozeG8ySFoyRGFZUEduSlRBeUFOUzFyaFcwaGVocnowVmZndzN2Ymc?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Mother Jones reports that the US administration is blocking foreign nationals from using Anthropic's newest AI technology. This aligns with other coverage of tightening US controls on advanced AI access abroad.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** Restrictions on who can use frontier AI tools may affect technology access and strategy for organisations in the UAE.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 13 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWeek of 11–17 June 2026\n============================================================\nThis week's digest centres on two themes close to our mission: practical AI skills for the workplace and the growing role of government in shaping how AI is used. We also highlight several developments in AI access rules and safety that carry direct relevance for the Gulf and broader international community. As always, our aim is to keep you informed in clear, everyday language.\n\n1. New OpenAI Academy courses for the next era of work\n   https://openai.com/index/academy-courses-applying-ai-at-work\n   OpenAI has launched three new free courses through its Academy to help working people build practical AI skills, set up repeatable work routines, and use AI assistants in their daily tasks. The courses are aimed at general employees rather than technical specialists.\n   Why it matters for Tamkeen: These ready-made, accessible courses could support Tamkeen's workforce upskilling and training programmes for non-technical staff.\n   (OpenAI · 12 Jun 2026)\n\n2. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera\n   https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5\n   Reports say the US government has asked the AI company Anthropic to restrict access to its most advanced AI models outside the United States. The move reflects growing efforts to control who can use the most powerful AI systems internationally.\n   Why it matters for Tamkeen: Such restrictions may affect which advanced AI tools are available in the UAE and the wider region, shaping local access and planning.\n   (Anthropic (via Google News) · 14 Jun 2026)\n\n3. US orders Anthropic to disable AI models for all foreign nationals - Al Jazeera\n   https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmZuTGlDUmF4cmg4ZE5na21hQjJIczNUaVN4RzUwdXowdjJhUGl2SXRBYm84MU5vbERZU1R1WGkxMS1VSEhIcXEwRnl2YXpManBYV1p5blJsYUltR2ZzNXdBOFFZYUFTenUwQXczdUxyTHAxLTI4cG9HQ1A4Wjd2ZlZrM2p2SmwyZXQtaThJU2Z6UHBrc3FaUDhxbnY0NXlfVXpXSVh0YWtkSHfSAbABQVVfeXFMTlpoa1BoWjRvODVoYWYyME1ESDROZkFJM2NBRVJsSnVUb1NDUC1GSlZVLUllUzltUG1xTFN6ME5XQ1dhbmNJUmRpc2g3eXhHOVRpT0N2a1FsRmhBSmp1NkJ6UFVhakc2RTYwbGRBQUxQZWRLb3I1QlpDaFZfb1VHZE5idzM0MWhoeVIyQndteEVlS0k4T29rYnpsUzFRdDVqZU8tNXZzR3NzSnNXMjhNVGY?oc=5\n   Following on from related reports, coverage indicates the US has directed Anthropic to disable its AI models for all foreign nationals. The exact scope and conditions of the order remain a developing story.\n   Why it matters for Tamkeen: Limits on foreign access to leading AI tools could influence the AI options open to UAE institutions and employees.\n   (Anthropic (via Google News) · 13 Jun 2026)\n\n4. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by running it against real-style conversations before it is released to the public. The goal is to catch problems earlier and make safety checks more accurate.\n   Why it matters for Tamkeen: Better pre-release testing helps build trust in AI systems that public-sector bodies like Tamkeen may eventually adopt.\n   (OpenAI · 16 Jun 2026)\n\n5. How Preply combines AI and human tutors to personalize learning\n   https://openai.com/index/preply\n   The language-learning platform Preply is using OpenAI's technology to create AI-generated lesson summaries, personalised feedback, and tailored practice exercises. The approach combines AI tools with human tutors rather than replacing them.\n   Why it matters for Tamkeen: It offers a practical example of how AI can personalise education and learning while keeping human teachers central—relevant to Tamkeen's education mandate.\n   (OpenAI · 12 Jun 2026)\n\n6. Supporting Europe’s work in ensuring a trustworthy AI ecosystem\n   https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem\n   OpenAI says it is backing the European Union's Code of Practice on AI content transparency, supporting standards and tools that show where digital content comes from. The aim is to help people tell whether content was created by AI.\n   Why it matters for Tamkeen: Content transparency standards point to emerging good practice that public institutions can reference when setting their own AI guidelines.\n   (OpenAI · 11 Jun 2026)\n\n7. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government is working with Google DeepMind to build a prototype AI tool designed to speed up housing planning decisions. The project aims to make a slow public process faster using AI.\n   Why it matters for Tamkeen: It is a concrete case of government using AI to improve public services, offering lessons for how Tamkeen and UAE bodies might apply AI.\n   (Google DeepMind · 17 Jun 2026)\n\n8. Trump Blocks Foreigners From Using Anthropic’s Latest AI Tech - Mother Jones\n   https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXRnQW9XUHVXMnR2TXo1d1VpV0F4c0dPZ3pCaC02aFk4YUo5RGs5aGJGMEJURDllcGppSjVIei03UHNudkRSOHlWdXM2LVBBbEdaczdTemQ2aEYtaXdWc3Flb1ozeG8ySFoyRGFZUEduSlRBeUFOUzFyaFcwaGVocnowVmZndzN2Ymc?oc=5\n   Mother Jones reports that the US administration is blocking foreign nationals from using Anthropic's newest AI technology. This aligns with other coverage of tightening US controls on advanced AI access abroad.\n   Why it matters for Tamkeen: Restrictions on who can use frontier AI tools may affect technology access and strategy for organisations in the UAE.\n   (Anthropic (via Google News) · 13 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
