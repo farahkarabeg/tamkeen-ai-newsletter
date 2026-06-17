@@ -1,0 +1,67 @@
+name: AI Pulse — Phase A (weekly draft)
+
+# Generates the weekly digest and posts the DRAFT to the Policy & Strategy
+# review channel. Runs on a cron, and can also be triggered manually.
+on:
+  schedule:
+    # Thursday 06:00 UTC == 10:00 Gulf Standard Time. Adjust here + config.yaml.
+    - cron: "0 6 * * 4"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run — curate + render but post NOTHING to Teams (great for demos; needs only ANTHROPIC_API_KEY)."
+        type: boolean
+        default: false
+
+# Phase A commits the dedup DB + saved draft back to the repo so the dedup
+# state and the reviewable draft persist between runs.
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-pulse-phase-a
+  cancel-in-progress: false
+
+jobs:
+  draft:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Generate draft and post to P&S review channel
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TEAMS_REVIEW_WEBHOOK_URL: ${{ secrets.TEAMS_REVIEW_WEBHOOK_URL }}
+        # `dry_run` is only true on a manual dispatch; the weekly cron posts for real.
+        run: python -m ai_pulse ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
+
+      - name: Persist dedup DB and saved draft
+        if: always()
+        run: |
+          git config user.name  "ai-pulse-bot"
+          git config user.email "ai-pulse-bot@users.noreply.github.com"
+          git add -f state/ || true
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "chore(ai-pulse): persist weekly draft + dedup state"
+            git push
+          fi
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-pulse-logs
+          path: logs/
+          if-no-files-found: ignore

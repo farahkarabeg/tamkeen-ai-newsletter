@@ -1,0 +1,21 @@
+[project]
+name = "ai-pulse"
+version = "1.0.0"
+description = "AI Pulse — Weekly AI News Digest for Tamkeen (Policy & Strategy)."
+requires-python = ">=3.11"
+readme = "README.md"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[project.scripts]
+ai-pulse = "ai_pulse.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "-q"

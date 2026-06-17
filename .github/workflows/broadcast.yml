@@ -1,0 +1,58 @@
+name: AI Pulse — Phase B (broadcast to all-staff)
+
+# Manual, reviewer-triggered broadcast. A P&S reviewer runs this AFTER approving
+# the draft in the review channel. It sends the EXACT reviewed card (loaded from
+# saved state) to the all-staff channel — the content is never regenerated.
+on:
+  workflow_dispatch:
+    inputs:
+      digest_id:
+        description: "Digest id to broadcast (e.g. 2026-W25). See the draft's footer / run log."
+        required: true
+        type: string
+      dry_run:
+        description: "Dry run — load + render the saved card but post NOTHING (safe for demos)."
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-pulse-phase-b
+  cancel-in-progress: false
+
+jobs:
+  broadcast:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install -e .
+
+      - name: Broadcast approved digest to all-staff channel
+        env:
+          # No ANTHROPIC_API_KEY needed: Phase B never calls the model.
+          TEAMS_BROADCAST_WEBHOOK_URL: ${{ secrets.TEAMS_BROADCAST_WEBHOOK_URL }}
+        run: python -m ai_pulse --broadcast --digest "${{ inputs.digest_id }}" ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Persist updated dedup state (items now marked as sent)
+        if: always()
+        run: |
+          git config user.name  "ai-pulse-bot"
+          git config user.email "ai-pulse-bot@users.noreply.github.com"
+          git add -f state/ || true
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "chore(ai-pulse): mark ${{ inputs.digest_id }} as broadcast"
+            git push
+          fi

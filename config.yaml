@@ -1,0 +1,176 @@
+# =============================================================================
+# AI Pulse — configuration
+# -----------------------------------------------------------------------------
+# Everything that a non-developer might want to tune lives here. No URLs or
+# tuning knobs are hardcoded in the Python logic. Edit, save, re-run.
+# =============================================================================
+
+# ----------------------------------------------------------------------------
+# 1. INGEST — public RSS/Atom feeds.
+#    Add/remove feeds freely. Each feed is validated at startup; dead feeds are
+#    skipped (logged), they never crash the run. `enabled: false` to mute one.
+#    `weight` (0.5–1.5) gently nudges relevance scoring for trusted sources.
+# ----------------------------------------------------------------------------
+ingest:
+  lookback_days: 7          # only consider items published in the last N days
+  per_feed_timeout_s: 20    # network timeout per feed fetch
+  max_items_per_feed: 40    # cap to keep a noisy feed from dominating
+
+  feeds:
+    # --- Major AI labs (official news / blogs) ---
+    # NOTE: Anthropic does not publish an official public RSS feed, so we use a
+    # Google News query scoped to Anthropic/Claude as a working proxy. Swap in
+    # an official feed here if/when one is published.
+    - name: "Anthropic (via Google News)"
+      url: "https://news.google.com/rss/search?q=Anthropic%20Claude%20AI%20when:7d&hl=en-US&gl=US&ceid=US:en"
+      category: "lab"
+      weight: 1.2
+      enabled: true
+    - name: "OpenAI"
+      url: "https://openai.com/news/rss.xml"
+      category: "lab"
+      weight: 1.3
+      enabled: true
+    - name: "Google DeepMind"
+      url: "https://deepmind.google/blog/rss.xml"
+      category: "lab"
+      weight: 1.2
+      enabled: true
+    - name: "Microsoft AI"
+      url: "https://news.microsoft.com/source/topics/ai/feed/"
+      category: "lab"
+      weight: 1.1
+      enabled: true
+    - name: "Meta (Newsroom)"
+      url: "https://about.fb.com/news/feed/"
+      category: "lab"
+      weight: 1.0
+      enabled: true
+    - name: "Hugging Face Blog"
+      url: "https://huggingface.co/blog/feed.xml"
+      category: "lab"
+      weight: 1.0
+      enabled: true
+
+    # --- Reputable tech press (AI sections) ---
+    - name: "The Verge — AI"
+      url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+      category: "press"
+      weight: 1.0
+      enabled: true
+    - name: "TechCrunch — AI"
+      url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+      category: "press"
+      weight: 1.0
+      enabled: true
+    - name: "MIT Technology Review — AI"
+      url: "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+      category: "press"
+      weight: 1.1
+      enabled: true
+
+    # --- Research preprints (arXiv recent listings) ---
+    - name: "arXiv cs.AI"
+      url: "http://export.arxiv.org/rss/cs.AI"
+      category: "research"
+      weight: 0.9
+      enabled: true
+    - name: "arXiv cs.LG"
+      url: "http://export.arxiv.org/rss/cs.LG"
+      category: "research"
+      weight: 0.9
+      enabled: true
+
+  # Hacker News is pulled via the Algolia Search API (not an RSS feed) so we can
+  # filter by query + recency + minimum points. Handled specially in ingest.
+  hacker_news:
+    enabled: true
+    query: "AI OR LLM OR \"artificial intelligence\" OR \"machine learning\""
+    min_points: 100         # only surface stories the community rated highly
+    max_items: 20
+    category: "community"
+    weight: 0.9
+
+# ----------------------------------------------------------------------------
+# 2. CURATE & SUMMARISE — Claude + the Tamkeen context profile.
+#    The context profile is fully steerable: reword the mission, reweight the
+#    themes, add keywords. Higher theme weight = stronger pull into the digest.
+# ----------------------------------------------------------------------------
+curate:
+  model: "claude-opus-4-8"        # Anthropic model id (official SDK)
+  max_output_tokens: 8192         # headroom for scoring many candidates at once
+  select_min: 5                   # select between 5 and 8 items
+  select_max: 8
+  relevance_floor: 4              # drop anything Claude scores below this (1–10)
+
+  context_profile:
+    organisation: "Tamkeen"
+    mission: >
+      Tamkeen is a UAE government institution focused on national advancement
+      through education and culture, with a strong emphasis on human-capital and
+      workforce development. This digest keeps Tamkeen staff — most of them
+      non-technical — current on AI developments that affect their mandate.
+    audience: "All-staff (predominantly non-technical public-sector employees)."
+    tone: "Plain-language, factual, no hype. Accessible to a non-specialist."
+
+    # Themes Claude scores each story against. Reweight to re-steer the digest.
+    themes:
+      - name: "Education & human-capital / workforce development"
+        weight: 1.5
+        keywords: ["education", "training", "upskilling", "reskilling", "workforce",
+                   "skills", "learning", "talent", "curriculum", "human capital", "jobs"]
+      - name: "Public-sector & government AI adoption"
+        weight: 1.4
+        keywords: ["government", "public sector", "policy", "regulation", "governance",
+                   "civil service", "public services", "national strategy"]
+      - name: "MENA / Gulf relevance"
+        weight: 1.4
+        keywords: ["UAE", "Gulf", "GCC", "MENA", "Middle East", "Saudi", "Abu Dhabi",
+                   "Dubai", "Arabic", "G42", "regional"]
+      - name: "Frontier model releases"
+        weight: 1.1
+        keywords: ["model release", "frontier", "GPT", "Claude", "Gemini", "Llama",
+                   "benchmark", "multimodal", "reasoning", "open weights"]
+      - name: "AI policy & safety (general)"
+        weight: 1.0
+        keywords: ["AI policy", "AI safety", "AI act", "executive order", "guidelines",
+                   "ethics", "responsible AI", "standards"]
+
+# ----------------------------------------------------------------------------
+# 3. COMPOSE — Tamkeen brand + Adaptive Card.
+# ----------------------------------------------------------------------------
+compose:
+  brand:
+    primary_green: "#006A4E"
+    accent_gold: "#C0921E"
+    org_name: "Tamkeen"
+    digest_title: "AI Pulse — Weekly AI News Digest"
+    footer: "Automated digest curated for Tamkeen by Policy & Strategy."
+  timezone: "Asia/Dubai"      # used for human-readable date ranges (GST)
+
+# ----------------------------------------------------------------------------
+# 4. DELIVER — Teams channels via Power Automate "Workflows" webhooks.
+#    Referenced by ENV VAR NAME only — real URLs live in secrets, never here.
+# ----------------------------------------------------------------------------
+deliver:
+  review_webhook_env: "TEAMS_REVIEW_WEBHOOK_URL"       # Phase A: P&S review channel
+  broadcast_webhook_env: "TEAMS_BROADCAST_WEBHOOK_URL" # Phase B: all-staff channel
+  http_timeout_s: 30
+  max_retries: 4              # retry/backoff on the Teams POST
+
+# ----------------------------------------------------------------------------
+# 5. STATE & LOGS — local persistence.
+# ----------------------------------------------------------------------------
+storage:
+  dedup_db: "state/seen.sqlite3"    # SQLite store of already-sent articles
+  digests_dir: "state/digests"      # saved drafts; broadcast loads the EXACT draft
+  log_dir: "logs"
+  log_level: "INFO"
+
+# ----------------------------------------------------------------------------
+# 6. SCHEDULE — informational; the real cron lives in the GitHub Actions
+#    workflow. Kept here so it is documented in one place.
+# ----------------------------------------------------------------------------
+schedule:
+  cron_utc: "0 6 * * 4"       # Thursday 06:00 UTC == 10:00 Gulf Standard Time
+  note: "Phase A (draft) runs on this cron. Phase B (broadcast) is manual only."
