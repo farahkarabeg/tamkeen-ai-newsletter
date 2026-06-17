@@ -1,26 +1,17 @@
 {
   "id": "2026-06-17",
-  "generated_at_iso": "2026-06-17T10:23:13.908967+00:00",
+  "generated_at_iso": "2026-06-17T10:30:52.160084+00:00",
   "date_range_label": "17 June 2026",
   "subtitle": "Wednesday, 17 June 2026",
-  "editor_note": "This week's digest is dominated by a single significant event: at the request of the US government, the AI company Anthropic took its most advanced models offline worldwide, blocking access for all foreign users. We cover this story from several angles, alongside more constructive examples of how governments are using AI to improve public services. Together these stories highlight an important question for our region — how much can any nation rely on AI tools controlled by others?",
+  "editor_note": "This week's digest looks at how governments are putting AI to work in public services and how they are setting limits on it. We cover practical examples — from UK housing decisions to a major programme helping nonprofits adopt AI — alongside ongoing debates about who controls access to the most capable models and how AI should be regulated. Together these stories show both the opportunities and the responsibilities that come with adopting AI in the public sector.",
   "items": [
-    {
-      "title": "US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5",
-      "source_name": "Anthropic (via Google News)",
-      "published_iso": "2026-06-14T14:10:04+00:00",
-      "summary": "The US government asked Anthropic, a major American AI company, to block access to its most powerful AI models for users outside the United States. Anthropic complied, meaning organisations and individuals in other countries lost access to these tools.",
-      "why_it_matters": "It shows that access to leading AI tools can be withdrawn by foreign governments at short notice, reinforcing the value of building local and regional AI capability.",
-      "relevance": 8
-    },
     {
       "title": "Predicting model behavior before release by simulating deployment",
       "url": "https://openai.com/index/deployment-simulation",
       "source_name": "OpenAI",
       "published_iso": "2026-06-16T00:00:00+00:00",
-      "summary": "OpenAI introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses realistic conversation data to spot potential problems earlier and make safety checks more accurate.",
-      "why_it_matters": "Stronger pre-release testing is the kind of responsible-AI practice that public institutions can look to when setting their own standards for safely adopting AI tools.",
+      "summary": "OpenAI has introduced a method called Deployment Simulation that tests how an AI model is likely to behave before it is released to the public. It uses real conversation data to spot safety problems and improve evaluation accuracy ahead of launch.",
+      "why_it_matters": "It points to safer ways of checking AI tools before they reach staff or citizens — a useful reference as public bodies consider how to vet AI responsibly.",
       "relevance": 8
     },
     {
@@ -28,36 +19,45 @@
       "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
       "source_name": "Google DeepMind",
       "published_iso": "2026-06-16T21:29:50+00:00",
-      "summary": "The UK government is working with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The goal is to help officials process applications faster while keeping humans in charge of the final outcome.",
-      "why_it_matters": "It is a practical example of a government using AI to improve a public service, offering a model for how AI might support faster, better decision-making in the public sector.",
+      "summary": "The UK government has partnered with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The aim is to help officials process applications faster without removing human judgement.",
+      "why_it_matters": "It is a concrete example of a government using AI to make public services more efficient — directly relevant to how Tamkeen thinks about AI in the public sector.",
       "relevance": 8
+    },
+    {
+      "title": "US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5",
+      "source_name": "Anthropic (via Google News)",
+      "published_iso": "2026-06-14T14:10:04+00:00",
+      "summary": "According to Al Jazeera, the US government has asked AI company Anthropic to restrict global access to its most advanced AI models. The request reflects growing concern over who around the world can use the most powerful AI systems.",
+      "why_it_matters": "Decisions by governments and companies to limit access could affect which AI tools are available in the Gulf, shaping the region's technology choices.",
+      "relevance": 7
+    },
+    {
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-06-15T17:44:10+00:00",
+      "summary": "The Verge reports that large technology companies are lobbying the US Congress for a single national AI law that would override the current patchwork of state-by-state rules. Supporters want consistency, while critics worry it could weaken protections.",
+      "why_it_matters": "How major economies regulate AI sets reference points that influence governance and policy thinking worldwide, including in the UAE.",
+      "relevance": 7
     },
     {
       "title": "Why the US government shut down Anthropic’s latest Claude AI model - The Conversation",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5",
       "source_name": "Anthropic (via Google News)",
       "published_iso": "2026-06-15T04:08:34+00:00",
-      "summary": "This article explains the background to the US government's decision to have Anthropic shut down access to its latest Claude AI model for foreign users. It examines the national-security and policy reasons behind the move and what it means for users worldwide.",
-      "why_it_matters": "Understanding why such a shutdown happened helps our teams assess the risks of depending on AI services that may be subject to another country's policy decisions.",
-      "relevance": 7
+      "summary": "This article explains a case in which the US government moved to restrict Anthropic's latest Claude AI model over security and access concerns. It illustrates how national governments are increasingly involved in decisions about advanced AI.",
+      "why_it_matters": "It shows that access to leading AI models is now a matter of national policy, which can affect the tools available to institutions in the region.",
+      "relevance": 6
     },
     {
-      "title": "Anthropic's Fable shutdown is a big moment for open-source AI - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXB6V2tUTXpsbE8zckU0VHdRSU9jeGhkYldYZUthU2xyNFhEZmYwOWJyZnpxMmNidzRpMVM0OEdZOFRNZjhnTEZmTTVVXzRna0gzU1hleVJlOVVudUJ6QnV0T0JpTi1jX3RTQWpGQmhBenZsS1BGY3I2OThRQVlaM3owTzRKWFZHWlRqMUFoWVhzUTd4OW8tMmFNTU56Z9IBowFBVV95cUxNXzV2TUk3cFZWQ09halFhMFIwdG5PeWNULVo3cWN6SmdjRHZieXFxdldXMC1peGVlaW10OTBDNV9laElPNWE5SFJRWTFSdHpOM2FOQzVxbkpQYnRtSTNyVURlbGtyb1JGVk14SThTZGlfOU10elZkRGJzSXozMHVjSWJ2eWxVRHFSTHRVS0FVeU1nTFM2TXF4NnVUNmpXdzZjQWUw?oc=5",
+      "title": "$150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5",
       "source_name": "Anthropic (via Google News)",
-      "published_iso": "2026-06-16T22:34:32+00:00",
-      "summary": "Following the shutdown, commentators argue the episode strengthens the case for open-source AI — models that are freely available and not controlled by a single company or government. Open models cannot be switched off remotely in the same way.",
-      "why_it_matters": "It points to open-source AI as one route to greater independence, relevant for any institution wanting reliable, long-term access to AI tools.",
-      "relevance": 7
-    },
-    {
-      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "source_name": "The Verge — AI",
-      "published_iso": "2026-06-15T18:10:27+00:00",
-      "summary": "The Verge reports that Anthropic blocked its newest models for all foreign nationals — even its own overseas employees — at the White House's request. The piece argues this is a clear reason for countries outside the US to develop their own 'sovereign' AI capabilities.",
-      "why_it_matters": "This directly supports the Gulf's growing investment in regional and national AI, underlining why building local capacity and talent matters for the UAE.",
-      "relevance": 7
+      "published_iso": "2026-06-15T13:51:26+00:00",
+      "summary": "Anthropic has announced a $150 million programme, including 1,000 fellows, to help nonprofit organisations adopt and use AI. The initiative aims to build practical AI skills in the social and charitable sector.",
+      "why_it_matters": "It is a model for large-scale AI skills-building and workforce development — closely aligned with Tamkeen's focus on human-capital growth.",
+      "relevance": 6
     }
   ],
   "adaptive_card": {
@@ -103,7 +103,7 @@
       },
       {
         "type": "TextBlock",
-        "text": "This week's digest is dominated by a single significant event: at the request of the US government, the AI company Anthropic took its most advanced models offline worldwide, blocking access for all foreign users. We cover this story from several angles, alongside more constructive examples of how governments are using AI to improve public services. Together these stories highlight an important question for our region — how much can any nation rely on AI tools controlled by others?",
+        "text": "This week's digest looks at how governments are putting AI to work in public services and how they are setting limits on it. We cover practical examples — from UK housing decisions to a major programme helping nonprofits adopt AI — alongside ongoing debates about who controls access to the most capable models and how AI should be regulated. Together these stories show both the opportunities and the responsibilities that come with adopting AI in the public sector.",
         "wrap": true,
         "spacing": "Medium"
       },
@@ -114,7 +114,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[1. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5)",
+            "text": "[1. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -122,49 +122,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "The US government asked Anthropic, a major American AI company, to block access to its most powerful AI models for users outside the United States. Anthropic complied, meaning organisations and individuals in other countries lost access to these tools.",
+            "text": "OpenAI has introduced a method called Deployment Simulation that tests how an AI model is likely to behave before it is released to the public. It uses real conversation data to spot safety problems and improve evaluation accuracy ahead of launch.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It shows that access to leading AI tools can be withdrawn by foreign governments at short notice, reinforcing the value of building local and regional AI capability.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 14 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[2. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "OpenAI introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses realistic conversation data to spot potential problems earlier and make safety checks more accurate.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** Stronger pre-release testing is the kind of responsible-AI practice that public institutions can look to when setting their own standards for safely adopting AI tools.",
+            "text": "**Why it matters for Tamkeen:** It points to safer ways of checking AI tools before they reach staff or citizens — a useful reference as public bodies consider how to vet AI responsibly.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -186,7 +150,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[3. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "text": "[2. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -194,13 +158,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "The UK government is working with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The goal is to help officials process applications faster while keeping humans in charge of the final outcome.",
+            "text": "The UK government has partnered with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The aim is to help officials process applications faster without removing human judgement.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It is a practical example of a government using AI to improve a public service, offering a model for how AI might support faster, better decision-making in the public sector.",
+            "text": "**Why it matters for Tamkeen:** It is a concrete example of a government using AI to make public services more efficient — directly relevant to how Tamkeen thinks about AI in the public sector.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -222,7 +186,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[4. Why the US government shut down Anthropic’s latest Claude AI model - The Conversation](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5)",
+            "text": "[3. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -230,13 +194,85 @@
           },
           {
             "type": "TextBlock",
-            "text": "This article explains the background to the US government's decision to have Anthropic shut down access to its latest Claude AI model for foreign users. It examines the national-security and policy reasons behind the move and what it means for users worldwide.",
+            "text": "According to Al Jazeera, the US government has asked AI company Anthropic to restrict global access to its most advanced AI models. The request reflects growing concern over who around the world can use the most powerful AI systems.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** Understanding why such a shutdown happened helps our teams assess the risks of depending on AI services that may be subject to another country's policy decisions.",
+            "text": "**Why it matters for Tamkeen:** Decisions by governments and companies to limit access could affect which AI tools are available in the Gulf, shaping the region's technology choices.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 14 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Big Tech’s desperate last push at AI regulation](https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reports that large technology companies are lobbying the US Congress for a single national AI law that would override the current patchwork of state-by-state rules. Supporters want consistency, while critics worry it could weaken protections.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** How major economies regulate AI sets reference points that influence governance and policy thinking worldwide, including in the UAE.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Why the US government shut down Anthropic’s latest Claude AI model - The Conversation](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article explains a case in which the US government moved to restrict Anthropic's latest Claude AI model over security and access concerns. It illustrates how national governments are increasingly involved in decisions about advanced AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It shows that access to leading AI models is now a matter of national policy, which can affect the tools available to institutions in the region.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -258,7 +294,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[5. Anthropic's Fable shutdown is a big moment for open-source AI - CNBC](https://news.google.com/rss/articles/CBMingFBVV95cUxPTXB6V2tUTXpsbE8zckU0VHdRSU9jeGhkYldYZUthU2xyNFhEZmYwOWJyZnpxMmNidzRpMVM0OEdZOFRNZjhnTEZmTTVVXzRna0gzU1hleVJlOVVudUJ6QnV0T0JpTi1jX3RTQWpGQmhBenZsS1BGY3I2OThRQVlaM3owTzRKWFZHWlRqMUFoWVhzUTd4OW8tMmFNTU56Z9IBowFBVV95cUxNXzV2TUk3cFZWQ09halFhMFIwdG5PeWNULVo3cWN6SmdjRHZieXFxdldXMC1peGVlaW10OTBDNV9laElPNWE5SFJRWTFSdHpOM2FOQzVxbkpQYnRtSTNyVURlbGtyb1JGVk14SThTZGlfOU10elZkRGJzSXozMHVjSWJ2eWxVRHFSTHRVS0FVeU1nTFM2TXF4NnVUNmpXdzZjQWUw?oc=5)",
+            "text": "[6. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -266,56 +302,20 @@
           },
           {
             "type": "TextBlock",
-            "text": "Following the shutdown, commentators argue the episode strengthens the case for open-source AI — models that are freely available and not controlled by a single company or government. Open models cannot be switched off remotely in the same way.",
+            "text": "Anthropic has announced a $150 million programme, including 1,000 fellows, to help nonprofit organisations adopt and use AI. The initiative aims to build practical AI skills in the social and charitable sector.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It points to open-source AI as one route to greater independence, relevant for any institution wanting reliable, long-term access to AI tools.",
+            "text": "**Why it matters for Tamkeen:** It is a model for large-scale AI skills-building and workforce development — closely aligned with Tamkeen's focus on human-capital growth.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
           },
           {
             "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 17 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[6. Trump’s Anthropic shutdown just made the case for non-American AI](https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "The Verge reports that Anthropic blocked its newest models for all foreign nationals — even its own overseas employees — at the White House's request. The piece argues this is a clear reason for countries outside the US to develop their own 'sovereign' AI capabilities.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** This directly supports the Gulf's growing investment in regional and national AI, underlining why building local capacity and talent matters for the UAE.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "The Verge — AI · 15 Jun 2026",
+            "text": "Anthropic (via Google News) · 15 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -349,7 +349,7 @@
       "width": "Full"
     }
   },
-  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 17 June 2026\n============================================================\nThis week's digest is dominated by a single significant event: at the request of the US government, the AI company Anthropic took its most advanced models offline worldwide, blocking access for all foreign users. We cover this story from several angles, alongside more constructive examples of how governments are using AI to improve public services. Together these stories highlight an important question for our region — how much can any nation rely on AI tools controlled by others?\n\n1. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera\n   https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5\n   The US government asked Anthropic, a major American AI company, to block access to its most powerful AI models for users outside the United States. Anthropic complied, meaning organisations and individuals in other countries lost access to these tools.\n   Why it matters for Tamkeen: It shows that access to leading AI tools can be withdrawn by foreign governments at short notice, reinforcing the value of building local and regional AI capability.\n   (Anthropic (via Google News) · 14 Jun 2026)\n\n2. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses realistic conversation data to spot potential problems earlier and make safety checks more accurate.\n   Why it matters for Tamkeen: Stronger pre-release testing is the kind of responsible-AI practice that public institutions can look to when setting their own standards for safely adopting AI tools.\n   (OpenAI · 16 Jun 2026)\n\n3. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government is working with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The goal is to help officials process applications faster while keeping humans in charge of the final outcome.\n   Why it matters for Tamkeen: It is a practical example of a government using AI to improve a public service, offering a model for how AI might support faster, better decision-making in the public sector.\n   (Google DeepMind · 17 Jun 2026)\n\n4. Why the US government shut down Anthropic’s latest Claude AI model - The Conversation\n   https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5\n   This article explains the background to the US government's decision to have Anthropic shut down access to its latest Claude AI model for foreign users. It examines the national-security and policy reasons behind the move and what it means for users worldwide.\n   Why it matters for Tamkeen: Understanding why such a shutdown happened helps our teams assess the risks of depending on AI services that may be subject to another country's policy decisions.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n5. Anthropic's Fable shutdown is a big moment for open-source AI - CNBC\n   https://news.google.com/rss/articles/CBMingFBVV95cUxPTXB6V2tUTXpsbE8zckU0VHdRSU9jeGhkYldYZUthU2xyNFhEZmYwOWJyZnpxMmNidzRpMVM0OEdZOFRNZjhnTEZmTTVVXzRna0gzU1hleVJlOVVudUJ6QnV0T0JpTi1jX3RTQWpGQmhBenZsS1BGY3I2OThRQVlaM3owTzRKWFZHWlRqMUFoWVhzUTd4OW8tMmFNTU56Z9IBowFBVV95cUxNXzV2TUk3cFZWQ09halFhMFIwdG5PeWNULVo3cWN6SmdjRHZieXFxdldXMC1peGVlaW10OTBDNV9laElPNWE5SFJRWTFSdHpOM2FOQzVxbkpQYnRtSTNyVURlbGtyb1JGVk14SThTZGlfOU10elZkRGJzSXozMHVjSWJ2eWxVRHFSTHRVS0FVeU1nTFM2TXF4NnVUNmpXdzZjQWUw?oc=5\n   Following the shutdown, commentators argue the episode strengthens the case for open-source AI — models that are freely available and not controlled by a single company or government. Open models cannot be switched off remotely in the same way.\n   Why it matters for Tamkeen: It points to open-source AI as one route to greater independence, relevant for any institution wanting reliable, long-term access to AI tools.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n6. Trump’s Anthropic shutdown just made the case for non-American AI\n   https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai\n   The Verge reports that Anthropic blocked its newest models for all foreign nationals — even its own overseas employees — at the White House's request. The piece argues this is a clear reason for countries outside the US to develop their own 'sovereign' AI capabilities.\n   Why it matters for Tamkeen: This directly supports the Gulf's growing investment in regional and national AI, underlining why building local capacity and talent matters for the UAE.\n   (The Verge — AI · 15 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 17 June 2026\n============================================================\nThis week's digest looks at how governments are putting AI to work in public services and how they are setting limits on it. We cover practical examples — from UK housing decisions to a major programme helping nonprofits adopt AI — alongside ongoing debates about who controls access to the most capable models and how AI should be regulated. Together these stories show both the opportunities and the responsibilities that come with adopting AI in the public sector.\n\n1. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation that tests how an AI model is likely to behave before it is released to the public. It uses real conversation data to spot safety problems and improve evaluation accuracy ahead of launch.\n   Why it matters for Tamkeen: It points to safer ways of checking AI tools before they reach staff or citizens — a useful reference as public bodies consider how to vet AI responsibly.\n   (OpenAI · 16 Jun 2026)\n\n2. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government has partnered with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The aim is to help officials process applications faster without removing human judgement.\n   Why it matters for Tamkeen: It is a concrete example of a government using AI to make public services more efficient — directly relevant to how Tamkeen thinks about AI in the public sector.\n   (Google DeepMind · 17 Jun 2026)\n\n3. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera\n   https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5\n   According to Al Jazeera, the US government has asked AI company Anthropic to restrict global access to its most advanced AI models. The request reflects growing concern over who around the world can use the most powerful AI systems.\n   Why it matters for Tamkeen: Decisions by governments and companies to limit access could affect which AI tools are available in the Gulf, shaping the region's technology choices.\n   (Anthropic (via Google News) · 14 Jun 2026)\n\n4. Big Tech’s desperate last push at AI regulation\n   https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress\n   The Verge reports that large technology companies are lobbying the US Congress for a single national AI law that would override the current patchwork of state-by-state rules. Supporters want consistency, while critics worry it could weaken protections.\n   Why it matters for Tamkeen: How major economies regulate AI sets reference points that influence governance and policy thinking worldwide, including in the UAE.\n   (The Verge — AI · 15 Jun 2026)\n\n5. Why the US government shut down Anthropic’s latest Claude AI model - The Conversation\n   https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5\n   This article explains a case in which the US government moved to restrict Anthropic's latest Claude AI model over security and access concerns. It illustrates how national governments are increasingly involved in decisions about advanced AI.\n   Why it matters for Tamkeen: It shows that access to leading AI models is now a matter of national policy, which can affect the tools available to institutions in the region.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n6. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com\n   https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5\n   Anthropic has announced a $150 million programme, including 1,000 fellows, to help nonprofit organisations adopt and use AI. The initiative aims to build practical AI skills in the social and charitable sector.\n   Why it matters for Tamkeen: It is a model for large-scale AI skills-building and workforce development — closely aligned with Tamkeen's focus on human-capital growth.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
   "broadcast_card": {
     "type": "AdaptiveCard",
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
@@ -379,7 +379,7 @@
       },
       {
         "type": "TextBlock",
-        "text": "This week's digest is dominated by a single significant event: at the request of the US government, the AI company Anthropic took its most advanced models offline worldwide, blocking access for all foreign users. We cover this story from several angles, alongside more constructive examples of how governments are using AI to improve public services. Together these stories highlight an important question for our region — how much can any nation rely on AI tools controlled by others?",
+        "text": "This week's digest looks at how governments are putting AI to work in public services and how they are setting limits on it. We cover practical examples — from UK housing decisions to a major programme helping nonprofits adopt AI — alongside ongoing debates about who controls access to the most capable models and how AI should be regulated. Together these stories show both the opportunities and the responsibilities that come with adopting AI in the public sector.",
         "wrap": true,
         "spacing": "Medium"
       },
@@ -390,7 +390,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[1. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5)",
+            "text": "[1. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -398,49 +398,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "The US government asked Anthropic, a major American AI company, to block access to its most powerful AI models for users outside the United States. Anthropic complied, meaning organisations and individuals in other countries lost access to these tools.",
+            "text": "OpenAI has introduced a method called Deployment Simulation that tests how an AI model is likely to behave before it is released to the public. It uses real conversation data to spot safety problems and improve evaluation accuracy ahead of launch.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It shows that access to leading AI tools can be withdrawn by foreign governments at short notice, reinforcing the value of building local and regional AI capability.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 14 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[2. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "OpenAI introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses realistic conversation data to spot potential problems earlier and make safety checks more accurate.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** Stronger pre-release testing is the kind of responsible-AI practice that public institutions can look to when setting their own standards for safely adopting AI tools.",
+            "text": "**Why it matters for Tamkeen:** It points to safer ways of checking AI tools before they reach staff or citizens — a useful reference as public bodies consider how to vet AI responsibly.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -462,7 +426,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[3. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "text": "[2. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -470,13 +434,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "The UK government is working with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The goal is to help officials process applications faster while keeping humans in charge of the final outcome.",
+            "text": "The UK government has partnered with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The aim is to help officials process applications faster without removing human judgement.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It is a practical example of a government using AI to improve a public service, offering a model for how AI might support faster, better decision-making in the public sector.",
+            "text": "**Why it matters for Tamkeen:** It is a concrete example of a government using AI to make public services more efficient — directly relevant to how Tamkeen thinks about AI in the public sector.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -498,7 +462,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[4. Why the US government shut down Anthropic’s latest Claude AI model - The Conversation](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5)",
+            "text": "[3. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -506,13 +470,85 @@
           },
           {
             "type": "TextBlock",
-            "text": "This article explains the background to the US government's decision to have Anthropic shut down access to its latest Claude AI model for foreign users. It examines the national-security and policy reasons behind the move and what it means for users worldwide.",
+            "text": "According to Al Jazeera, the US government has asked AI company Anthropic to restrict global access to its most advanced AI models. The request reflects growing concern over who around the world can use the most powerful AI systems.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** Understanding why such a shutdown happened helps our teams assess the risks of depending on AI services that may be subject to another country's policy decisions.",
+            "text": "**Why it matters for Tamkeen:** Decisions by governments and companies to limit access could affect which AI tools are available in the Gulf, shaping the region's technology choices.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 14 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Big Tech’s desperate last push at AI regulation](https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reports that large technology companies are lobbying the US Congress for a single national AI law that would override the current patchwork of state-by-state rules. Supporters want consistency, while critics worry it could weaken protections.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** How major economies regulate AI sets reference points that influence governance and policy thinking worldwide, including in the UAE.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Why the US government shut down Anthropic’s latest Claude AI model - The Conversation](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article explains a case in which the US government moved to restrict Anthropic's latest Claude AI model over security and access concerns. It illustrates how national governments are increasingly involved in decisions about advanced AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It shows that access to leading AI models is now a matter of national policy, which can affect the tools available to institutions in the region.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -534,7 +570,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[5. Anthropic's Fable shutdown is a big moment for open-source AI - CNBC](https://news.google.com/rss/articles/CBMingFBVV95cUxPTXB6V2tUTXpsbE8zckU0VHdRSU9jeGhkYldYZUthU2xyNFhEZmYwOWJyZnpxMmNidzRpMVM0OEdZOFRNZjhnTEZmTTVVXzRna0gzU1hleVJlOVVudUJ6QnV0T0JpTi1jX3RTQWpGQmhBenZsS1BGY3I2OThRQVlaM3owTzRKWFZHWlRqMUFoWVhzUTd4OW8tMmFNTU56Z9IBowFBVV95cUxNXzV2TUk3cFZWQ09halFhMFIwdG5PeWNULVo3cWN6SmdjRHZieXFxdldXMC1peGVlaW10OTBDNV9laElPNWE5SFJRWTFSdHpOM2FOQzVxbkpQYnRtSTNyVURlbGtyb1JGVk14SThTZGlfOU10elZkRGJzSXozMHVjSWJ2eWxVRHFSTHRVS0FVeU1nTFM2TXF4NnVUNmpXdzZjQWUw?oc=5)",
+            "text": "[6. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -542,56 +578,20 @@
           },
           {
             "type": "TextBlock",
-            "text": "Following the shutdown, commentators argue the episode strengthens the case for open-source AI — models that are freely available and not controlled by a single company or government. Open models cannot be switched off remotely in the same way.",
+            "text": "Anthropic has announced a $150 million programme, including 1,000 fellows, to help nonprofit organisations adopt and use AI. The initiative aims to build practical AI skills in the social and charitable sector.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It points to open-source AI as one route to greater independence, relevant for any institution wanting reliable, long-term access to AI tools.",
+            "text": "**Why it matters for Tamkeen:** It is a model for large-scale AI skills-building and workforce development — closely aligned with Tamkeen's focus on human-capital growth.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
           },
           {
             "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 17 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[6. Trump’s Anthropic shutdown just made the case for non-American AI](https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "The Verge reports that Anthropic blocked its newest models for all foreign nationals — even its own overseas employees — at the White House's request. The piece argues this is a clear reason for countries outside the US to develop their own 'sovereign' AI capabilities.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** This directly supports the Gulf's growing investment in regional and national AI, underlining why building local capacity and talent matters for the UAE.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "The Verge — AI · 15 Jun 2026",
+            "text": "Anthropic (via Google News) · 15 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -625,5 +625,5 @@
       "width": "Full"
     }
   },
-  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 17 June 2026\n============================================================\nThis week's digest is dominated by a single significant event: at the request of the US government, the AI company Anthropic took its most advanced models offline worldwide, blocking access for all foreign users. We cover this story from several angles, alongside more constructive examples of how governments are using AI to improve public services. Together these stories highlight an important question for our region — how much can any nation rely on AI tools controlled by others?\n\n1. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera\n   https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5\n   The US government asked Anthropic, a major American AI company, to block access to its most powerful AI models for users outside the United States. Anthropic complied, meaning organisations and individuals in other countries lost access to these tools.\n   Why it matters for Tamkeen: It shows that access to leading AI tools can be withdrawn by foreign governments at short notice, reinforcing the value of building local and regional AI capability.\n   (Anthropic (via Google News) · 14 Jun 2026)\n\n2. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses realistic conversation data to spot potential problems earlier and make safety checks more accurate.\n   Why it matters for Tamkeen: Stronger pre-release testing is the kind of responsible-AI practice that public institutions can look to when setting their own standards for safely adopting AI tools.\n   (OpenAI · 16 Jun 2026)\n\n3. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government is working with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The goal is to help officials process applications faster while keeping humans in charge of the final outcome.\n   Why it matters for Tamkeen: It is a practical example of a government using AI to improve a public service, offering a model for how AI might support faster, better decision-making in the public sector.\n   (Google DeepMind · 17 Jun 2026)\n\n4. Why the US government shut down Anthropic’s latest Claude AI model - The Conversation\n   https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5\n   This article explains the background to the US government's decision to have Anthropic shut down access to its latest Claude AI model for foreign users. It examines the national-security and policy reasons behind the move and what it means for users worldwide.\n   Why it matters for Tamkeen: Understanding why such a shutdown happened helps our teams assess the risks of depending on AI services that may be subject to another country's policy decisions.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n5. Anthropic's Fable shutdown is a big moment for open-source AI - CNBC\n   https://news.google.com/rss/articles/CBMingFBVV95cUxPTXB6V2tUTXpsbE8zckU0VHdRSU9jeGhkYldYZUthU2xyNFhEZmYwOWJyZnpxMmNidzRpMVM0OEdZOFRNZjhnTEZmTTVVXzRna0gzU1hleVJlOVVudUJ6QnV0T0JpTi1jX3RTQWpGQmhBenZsS1BGY3I2OThRQVlaM3owTzRKWFZHWlRqMUFoWVhzUTd4OW8tMmFNTU56Z9IBowFBVV95cUxNXzV2TUk3cFZWQ09halFhMFIwdG5PeWNULVo3cWN6SmdjRHZieXFxdldXMC1peGVlaW10OTBDNV9laElPNWE5SFJRWTFSdHpOM2FOQzVxbkpQYnRtSTNyVURlbGtyb1JGVk14SThTZGlfOU10elZkRGJzSXozMHVjSWJ2eWxVRHFSTHRVS0FVeU1nTFM2TXF4NnVUNmpXdzZjQWUw?oc=5\n   Following the shutdown, commentators argue the episode strengthens the case for open-source AI — models that are freely available and not controlled by a single company or government. Open models cannot be switched off remotely in the same way.\n   Why it matters for Tamkeen: It points to open-source AI as one route to greater independence, relevant for any institution wanting reliable, long-term access to AI tools.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n6. Trump’s Anthropic shutdown just made the case for non-American AI\n   https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai\n   The Verge reports that Anthropic blocked its newest models for all foreign nationals — even its own overseas employees — at the White House's request. The piece argues this is a clear reason for countries outside the US to develop their own 'sovereign' AI capabilities.\n   Why it matters for Tamkeen: This directly supports the Gulf's growing investment in regional and national AI, underlining why building local capacity and talent matters for the UAE.\n   (The Verge — AI · 15 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 17 June 2026\n============================================================\nThis week's digest looks at how governments are putting AI to work in public services and how they are setting limits on it. We cover practical examples — from UK housing decisions to a major programme helping nonprofits adopt AI — alongside ongoing debates about who controls access to the most capable models and how AI should be regulated. Together these stories show both the opportunities and the responsibilities that come with adopting AI in the public sector.\n\n1. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation that tests how an AI model is likely to behave before it is released to the public. It uses real conversation data to spot safety problems and improve evaluation accuracy ahead of launch.\n   Why it matters for Tamkeen: It points to safer ways of checking AI tools before they reach staff or citizens — a useful reference as public bodies consider how to vet AI responsibly.\n   (OpenAI · 16 Jun 2026)\n\n2. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government has partnered with Google DeepMind to build a prototype tool that uses AI to speed up housing planning decisions. The aim is to help officials process applications faster without removing human judgement.\n   Why it matters for Tamkeen: It is a concrete example of a government using AI to make public services more efficient — directly relevant to how Tamkeen thinks about AI in the public sector.\n   (Google DeepMind · 17 Jun 2026)\n\n3. US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera\n   https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5\n   According to Al Jazeera, the US government has asked AI company Anthropic to restrict global access to its most advanced AI models. The request reflects growing concern over who around the world can use the most powerful AI systems.\n   Why it matters for Tamkeen: Decisions by governments and companies to limit access could affect which AI tools are available in the Gulf, shaping the region's technology choices.\n   (Anthropic (via Google News) · 14 Jun 2026)\n\n4. Big Tech’s desperate last push at AI regulation\n   https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress\n   The Verge reports that large technology companies are lobbying the US Congress for a single national AI law that would override the current patchwork of state-by-state rules. Supporters want consistency, while critics worry it could weaken protections.\n   Why it matters for Tamkeen: How major economies regulate AI sets reference points that influence governance and policy thinking worldwide, including in the UAE.\n   (The Verge — AI · 15 Jun 2026)\n\n5. Why the US government shut down Anthropic’s latest Claude AI model - The Conversation\n   https://news.google.com/rss/articles/CBMiogFBVV95cUxNWUpveEJWVS1OcWh3cDBXVFl3SXAxUUpxemJtNXEtUm9fZWkzNVpRS2wtaU1kZDNIb0pWRkFLdllyNkpSMzNTTXV4a2trWFlNNkN5aGI3RTY5b0VSMm54bjY3a25xUXZ0bmhLUVhPSGhjUXljMWtBNk56ekJ6bEpBRHhibDg4MU1ocWRlbFQtaXltc1h6LXRReTI0d0VWLWdNZ1E?oc=5\n   This article explains a case in which the US government moved to restrict Anthropic's latest Claude AI model over security and access concerns. It illustrates how national governments are increasingly involved in decisions about advanced AI.\n   Why it matters for Tamkeen: It shows that access to leading AI models is now a matter of national policy, which can affect the tools available to institutions in the region.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n6. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com\n   https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5\n   Anthropic has announced a $150 million programme, including 1,000 fellows, to help nonprofit organisations adopt and use AI. The initiative aims to build practical AI skills in the social and charitable sector.\n   Why it matters for Tamkeen: It is a model for large-scale AI skills-building and workforce development — closely aligned with Tamkeen's focus on human-capital growth.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
 }
