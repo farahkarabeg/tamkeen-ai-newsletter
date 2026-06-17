@@ -55,7 +55,7 @@ jobs:
             echo "No state changes to commit."
           else
             git commit -m "chore(ai-pulse): persist weekly draft + dedup state"
-            git push
+            git push || echo "::warning::Could not push state — enable Settings → Actions → General → Workflow permissions → Read and write."
           fi
 
       - name: Upload logs

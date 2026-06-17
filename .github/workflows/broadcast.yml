@@ -54,5 +54,5 @@ jobs:
             echo "No state changes to commit."
           else
             git commit -m "chore(ai-pulse): mark ${{ inputs.digest_id }} as broadcast"
-            git push
+            git push || echo "::warning::Could not push state — enable Settings → Actions → General → Workflow permissions → Read and write."
           fi
