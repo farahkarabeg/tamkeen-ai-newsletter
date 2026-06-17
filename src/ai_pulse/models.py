@@ -43,9 +43,10 @@ class CuratedItem(BaseModel):
 class Digest(BaseModel):
     """The full weekly digest — persisted, reviewed, then broadcast verbatim."""
 
-    id: str                      # e.g. "2026-W24"
+    id: str                      # weekly "2026-W24" | daily "2026-06-17"
     generated_at_iso: str
     date_range_label: str        # human-readable, e.g. "9–16 June 2026"
+    subtitle: str = ""           # header line, cadence-aware (default "" for old drafts)
     editor_note: str
     items: list[CuratedItem]
     # Rendered artefacts are stored so Phase B broadcasts the EXACT reviewed

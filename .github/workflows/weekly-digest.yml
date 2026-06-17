@@ -1,11 +1,13 @@
-name: AI Pulse — Phase A (weekly draft)
+name: AI Pulse — Phase A (draft)
 
-# Generates the weekly digest and posts the DRAFT to the Policy & Strategy
-# review channel. Runs on a cron, and can also be triggered manually.
+# Generates the digest and posts the DRAFT to the Policy & Strategy review
+# channel. Runs on a cron, and can also be triggered manually.
+# Keep this cron in sync with schedule.cron_utc in config.yaml.
 on:
   schedule:
-    # Thursday 06:00 UTC == 10:00 Gulf Standard Time. Adjust here + config.yaml.
-    - cron: "0 6 * * 4"
+    # Mon–Fri 06:00 UTC == 10:00 Gulf Standard Time (daily cadence).
+    # For weekly, use "0 6 * * 4" and set cadence: weekly in config.yaml.
+    - cron: "0 6 * * 1-5"
   workflow_dispatch:
     inputs:
       dry_run:

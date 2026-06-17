@@ -12,7 +12,9 @@
 #    `weight` (0.5–1.5) gently nudges relevance scoring for trusted sources.
 # ----------------------------------------------------------------------------
 ingest:
-  lookback_days: 7          # only consider items published in the last N days
+  # Daily cadence: 3 days covers the weekend on a Monday run; dedup stops any
+  # repeats on Tue–Fri. For weekly cadence, set this back to 7.
+  lookback_days: 3          # only consider items published in the last N days
   per_feed_timeout_s: 20    # network timeout per feed fetch
   max_items_per_feed: 40    # cap to keep a noisy feed from dominating
 
@@ -99,8 +101,8 @@ ingest:
 curate:
   model: "claude-opus-4-8"        # Anthropic model id (official SDK)
   max_output_tokens: 8192         # headroom for scoring many candidates at once
-  select_min: 5                   # select between 5 and 8 items
-  select_max: 8
+  select_min: 3                   # daily: fewer fresh items some mornings (weekly: 5)
+  select_max: 6                   # daily: keep the morning read short (weekly: 8)
   relevance_floor: 4              # drop anything Claude scores below this (1–10)
 
   context_profile:
@@ -172,5 +174,9 @@ storage:
 #    workflow. Kept here so it is documented in one place.
 # ----------------------------------------------------------------------------
 schedule:
-  cron_utc: "0 6 * * 4"       # Thursday 06:00 UTC == 10:00 Gulf Standard Time
-  note: "Phase A (draft) runs on this cron. Phase B (broadcast) is manual only."
+  cadence: "daily"            # "daily" (Mon–Fri) or "weekly". Drives id + header.
+  cron_utc: "0 6 * * 1-5"     # Mon–Fri 06:00 UTC == 10:00 Gulf Standard Time
+  note: >
+    Phase A (draft) runs on this cron. Phase B (broadcast) is manual only.
+    For a weekly digest instead: set cadence "weekly", cron_utc "0 6 * * 4",
+    lookback_days 7, select_min 5, select_max 8.

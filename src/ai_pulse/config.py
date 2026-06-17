@@ -7,6 +7,7 @@ fails loudly at startup with a clear message, rather than deep inside a run.
 from __future__ import annotations
 
 from pathlib import Path
+from typing import Literal
 
 import yaml
 from pydantic import BaseModel, Field, field_validator
@@ -115,6 +116,9 @@ class StorageConfig(BaseModel):
 
 
 class ScheduleConfig(BaseModel):
+    # "weekly" → ISO-week digest ids (2026-W25), "Week of …" header.
+    # "daily"  → date digest ids (2026-06-17), weekday header.
+    cadence: Literal["daily", "weekly"] = "weekly"
     cron_utc: str = "0 6 * * 4"
     note: str = ""
 

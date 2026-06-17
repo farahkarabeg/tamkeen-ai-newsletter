@@ -42,8 +42,9 @@ def _write_job_summary(cfg: Config, digest: Digest, *, is_draft: bool,
     if not target:
         return
     try:
+        subtitle = digest.subtitle or f"Week of {digest.date_range_label}"
         md = build_markdown(
-            cfg.compose, subtitle=f"Week of {digest.date_range_label}",
+            cfg.compose, subtitle=subtitle,
             editor_note=digest.editor_note, items=digest.items,
             is_draft=is_draft, delivery_note=delivery_note)
         with Path(target).open("a", encoding="utf-8") as fh:
@@ -104,7 +105,7 @@ def run_phase_a(cfg: Config, *, dry_run: bool = False,
     # 4. Compose + persist -------------------------------------------------
     digest = compose_digest(
         cfg.compose, editor_note=editor_note, items=items,
-        lookback_days=cfg.ingest.lookback_days)
+        cadence=cfg.schedule.cadence, lookback_days=cfg.ingest.lookback_days)
     report.digest_id = digest.id
     DigestStore(cfg.storage.digests_dir).save(digest)
 

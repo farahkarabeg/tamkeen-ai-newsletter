@@ -111,11 +111,20 @@ secret**. Add:
 | `TEAMS_BROADCAST_WEBHOOK_URL` | the all-staff channel webhook |
 
 ### (d) Enable the schedule
-The workflow `.github/workflows/weekly-digest.yml` runs **Phase A** every
-**Thursday 06:00 UTC (10:00 Gulf Standard Time)**. To change the time, edit the
-`cron` line there (and the mirrored note in `config.yaml`). GitHub Actions runs
-scheduled workflows automatically once the file is on the default branch; you can
-also trigger it any time from **Actions → "AI Pulse — Phase A" → Run workflow**.
+The workflow `.github/workflows/weekly-digest.yml` runs **Phase A** on a cron.
+The default is **daily, Mon–Fri 06:00 UTC (10:00 Gulf Standard Time)** — driven
+by `schedule.cadence: daily` in `config.yaml`. To change cadence/time:
+
+- **Daily ↔ weekly:** set `schedule.cadence` (`daily` or `weekly`) in
+  `config.yaml`. This drives the digest id scheme (date `2026-06-17` vs ISO week
+  `2026-W25`) and the header ("Wednesday, 17 June 2026" vs "Week of …").
+- **Time/days:** edit the `cron` line in the workflow (UTC) and keep
+  `schedule.cron_utc` in `config.yaml` in sync. For weekly, also bump
+  `lookback_days` to 7 and `select_min/max` to 5/8 (see the note in config).
+
+GitHub runs scheduled workflows automatically once the file is on the default
+branch; you can also trigger it any time from **Actions → "AI Pulse — Phase A" →
+Run workflow**.
 
 ### (e) How P&S reviews and triggers the broadcast
 1. Each week, Phase A posts a **DRAFT** card to the P&S review channel. Its

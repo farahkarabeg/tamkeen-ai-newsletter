@@ -62,6 +62,25 @@ def test_week_id_format():
     assert week_id().startswith("20")
 
 
+def test_daily_cadence_id_and_subtitle(compose_cfg, curated_items):
+    from datetime import datetime, timezone
+    now = datetime(2026, 6, 17, 8, 0, tzinfo=timezone.utc)  # Wed
+    digest = compose_digest(compose_cfg, editor_note="", items=curated_items,
+                            cadence="daily", lookback_days=3, now=now)
+    assert digest.id == "2026-06-17"            # date-based id, not ISO week
+    assert "2026" in digest.subtitle and "June" in digest.subtitle
+    assert "Week of" not in digest.subtitle      # daily header, not weekly
+
+
+def test_weekly_cadence_id_and_subtitle(compose_cfg, curated_items):
+    from datetime import datetime, timezone
+    now = datetime(2026, 6, 17, 8, 0, tzinfo=timezone.utc)
+    digest = compose_digest(compose_cfg, editor_note="", items=curated_items,
+                            cadence="weekly", lookback_days=7, now=now)
+    assert digest.id.startswith("2026-W")
+    assert digest.subtitle.startswith("Week of")
+
+
 def test_build_markdown_draft_and_content(compose_cfg, curated_items):
     md = build_markdown(compose_cfg, subtitle="Week of 9–16 June 2026",
                         editor_note="Intro.", items=curated_items,

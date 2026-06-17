@@ -38,6 +38,27 @@ def date_range_label(cfg: ComposeConfig, lookback_days: int = 7,
     return f"{start:%d %b} – {end:%d %b %Y}"
 
 
+def period_info(cfg: ComposeConfig, cadence: str, lookback_days: int,
+                now: datetime | None = None) -> tuple[str, str, str]:
+    """Return (digest_id, date_range_label, subtitle) for the given cadence.
+
+    daily  → id "2026-06-17", header "Tuesday, 17 June 2026"
+    weekly → id "2026-W25",  header "Week of 11–17 June 2026"
+    """
+    tz = ZoneInfo(cfg.timezone)
+    end = (now or datetime.now(timezone.utc)).astimezone(tz)
+    if cadence == "daily":
+        digest_id = end.strftime("%Y-%m-%d")
+        drange = f"{end.day} {end:%B %Y}"
+        subtitle = f"{end:%A}, {drange}"
+    else:
+        iso = end.isocalendar()
+        digest_id = f"{iso.year}-W{iso.week:02d}"
+        drange = date_range_label(cfg, lookback_days, now)
+        subtitle = f"Week of {drange}"
+    return digest_id, drange, subtitle
+
+
 def _fmt_date(iso: str, tz_name: str) -> str:
     try:
         dt = datetime.fromisoformat(iso).astimezone(ZoneInfo(tz_name))
@@ -186,15 +207,15 @@ def build_markdown(cfg: ComposeConfig, *, subtitle: str, editor_note: str,
 
 
 def compose_digest(cfg: ComposeConfig, *, editor_note: str,
-                   items: list[CuratedItem], lookback_days: int = 7,
+                   items: list[CuratedItem], cadence: str = "weekly",
+                   lookback_days: int = 7,
                    now: datetime | None = None) -> Digest:
     """Assemble the full Digest, rendering BOTH the draft (review) and the
     broadcast (all-staff) artefacts from the same curated items, so Phase B
     never regenerates content.
     """
     now = now or datetime.now(timezone.utc)
-    drange = date_range_label(cfg, lookback_days, now)
-    subtitle = f"Week of {drange}"
+    digest_id, drange, subtitle = period_info(cfg, cadence, lookback_days, now)
 
     def _render(is_draft: bool) -> tuple[dict, str]:
         card = build_adaptive_card(
@@ -212,8 +233,8 @@ def compose_digest(cfg: ComposeConfig, *, editor_note: str,
     bcast_card, bcast_text = _render(is_draft=False)
 
     return Digest(
-        id=week_id(now), generated_at_iso=now.isoformat(),
-        date_range_label=drange, editor_note=editor_note, items=items,
-        adaptive_card=draft_card, plain_text=draft_text,
+        id=digest_id, generated_at_iso=now.isoformat(),
+        date_range_label=drange, subtitle=subtitle, editor_note=editor_note,
+        items=items, adaptive_card=draft_card, plain_text=draft_text,
         broadcast_card=bcast_card, broadcast_text=bcast_text,
     )
