@@ -42,10 +42,15 @@ jobs:
           pip install -r requirements.txt
           pip install -e .
 
-      - name: Generate draft and post to P&S review channel
+      - name: Generate draft (post to review channel or hand off to approval flow)
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # All delivery secrets are mapped in; which one is used depends on
+          # deliver.mode in config.yaml (direct -> review webhook; approval_flow
+          # -> approval flow URL). Unused ones are simply ignored.
           TEAMS_REVIEW_WEBHOOK_URL: ${{ secrets.TEAMS_REVIEW_WEBHOOK_URL }}
+          TEAMS_BROADCAST_WEBHOOK_URL: ${{ secrets.TEAMS_BROADCAST_WEBHOOK_URL }}
+          TEAMS_APPROVAL_FLOW_URL: ${{ secrets.TEAMS_APPROVAL_FLOW_URL }}
         # `dry_run` is only true on a manual dispatch; the weekly cron posts for real.
         run: python -m ai_pulse ${{ (github.event_name == 'workflow_dispatch' && inputs.dry_run) && '--dry-run' || '' }}
 
