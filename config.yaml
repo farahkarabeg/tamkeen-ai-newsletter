@@ -162,7 +162,7 @@ deliver:
   #                   broadcasts to all-staff. No manual Phase B. See
   #                   docs/APPROVAL_FLOW.md to build the flow, then flip this to
   #                   "approval_flow" and set the TEAMS_APPROVAL_FLOW_URL secret.
-  mode: "direct"
+  mode: "approval_flow"
   review_webhook_env: "TEAMS_REVIEW_WEBHOOK_URL"        # direct mode: P&S review channel
   broadcast_webhook_env: "TEAMS_BROADCAST_WEBHOOK_URL"  # direct mode: all-staff channel
   approval_flow_url_env: "TEAMS_APPROVAL_FLOW_URL"      # approval_flow mode: PA flow trigger
