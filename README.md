@@ -112,8 +112,10 @@ secret**. Add:
 
 ### (d) Enable the schedule
 The workflow `.github/workflows/weekly-digest.yml` runs **Phase A** on a cron.
-The default is **daily, Mon–Fri 06:00 UTC (10:00 Gulf Standard Time)** — driven
-by `schedule.cadence: daily` in `config.yaml`. To change cadence/time:
+The default is **daily, Mon–Fri 06:17 UTC (10:17 Gulf Standard Time)** — driven
+by `schedule.cadence: daily` in `config.yaml`. (The cron is kept off the top of
+the hour because GitHub's `:00` slots are heavily contended and often delayed.)
+To change cadence/time:
 
 - **Daily ↔ weekly:** set `schedule.cadence` (`daily` or `weekly`) in
   `config.yaml`. This drives the digest id scheme (date `2026-06-17` vs ISO week

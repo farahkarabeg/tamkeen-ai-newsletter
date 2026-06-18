@@ -184,8 +184,8 @@ storage:
 # ----------------------------------------------------------------------------
 schedule:
   cadence: "daily"            # "daily" (Mon–Fri) or "weekly". Drives id + header.
-  cron_utc: "0 6 * * 1-5"     # Mon–Fri 06:00 UTC == 10:00 Gulf Standard Time
+  cron_utc: "17 6 * * 1-5"    # Mon–Fri 06:17 UTC == 10:17 Gulf Standard Time
   note: >
-    Phase A (draft) runs on this cron. Phase B (broadcast) is manual only.
-    For a weekly digest instead: set cadence "weekly", cron_utc "0 6 * * 4",
-    lookback_days 7, select_min 5, select_max 8.
+    Phase A (draft) runs on this cron (kept off :00, which GitHub delays/drops).
+    Phase B (broadcast) is manual only. For a weekly digest instead: set cadence
+    "weekly", cron_utc "17 6 * * 4", lookback_days 7, select_min 5, select_max 8.
