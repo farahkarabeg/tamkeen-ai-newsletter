@@ -1,35 +1,17 @@
 {
   "id": "2026-06-18",
-  "generated_at_iso": "2026-06-18T12:44:07.128068+00:00",
+  "generated_at_iso": "2026-06-18T12:50:48.065464+00:00",
   "date_range_label": "18 June 2026",
   "subtitle": "Thursday, 18 June 2026",
-  "editor_note": "This week's digest looks at how AI is moving deeper into public services and the social sector, from faster housing decisions in the UK to a major effort to bring AI tools to nonprofits. We also follow continuing developments in AI oversight and safety, including a regulatory pause on new models and new methods for testing AI before release. Together these stories highlight a common theme: the growing focus on using AI responsibly within government and public-interest work.",
+  "editor_note": "This week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.",
   "items": [
-    {
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "source_name": "Google DeepMind",
-      "published_iso": "2026-06-16T21:29:50+00:00",
-      "summary": "The UK government has partnered with Google DeepMind to develop a prototype tool that uses AI to speed up housing planning decisions. The aim is to reduce delays in the approval process while keeping human officials in charge of the final outcomes.",
-      "why_it_matters": "It is a concrete example of how governments can apply AI to make public services faster and more efficient — directly relevant to Tamkeen's public-sector mandate.",
-      "relevance": 7
-    },
-    {
-      "title": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5",
-      "source_name": "Anthropic (via Google News)",
-      "published_iso": "2026-06-15T21:03:00+00:00",
-      "summary": "AI company Anthropic has withdrawn two new Claude models, named Fable and Mythos, after US federal authorities raised concerns that their safety protections could be bypassed (a problem known as 'jailbreaking'). The models were pulled while these safety issues are reviewed.",
-      "why_it_matters": "It shows that even leading AI tools can have safety gaps, a useful reminder for any organisation considering AI adoption to weigh reliability and safeguards.",
-      "relevance": 6
-    },
     {
       "title": "$150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5",
       "source_name": "Anthropic (via Google News)",
       "published_iso": "2026-06-15T13:51:26+00:00",
-      "summary": "Anthropic has announced a $150 million programme to help nonprofit organisations adopt AI, including support for 1,000 fellows who will assist these groups in using the technology. The goal is to make AI tools more accessible to mission-driven, public-interest organisations.",
-      "why_it_matters": "It signals growing investment in building AI skills and capacity in the social sector, aligning with Tamkeen's focus on human-capital and workforce development.",
+      "summary": "Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.",
+      "why_it_matters": "It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.",
       "relevance": 6
     },
     {
@@ -37,8 +19,8 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5",
       "source_name": "Anthropic (via Google News)",
       "published_iso": "2026-06-17T15:09:01+00:00",
-      "summary": "This article explains the reasoning behind the US decision to freeze Anthropic's newest Claude models, citing safety concerns that the models could be misused. The freeze reflects increased government scrutiny of advanced AI before it reaches the public.",
-      "why_it_matters": "It illustrates how regulators are stepping in to oversee AI safety, offering insight for Tamkeen as governments worldwide shape their own AI policies.",
+      "summary": "Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.",
+      "why_it_matters": "It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.",
       "relevance": 6
     },
     {
@@ -46,8 +28,8 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5",
       "source_name": "Anthropic (via Google News)",
       "published_iso": "2026-06-16T02:30:43+00:00",
-      "summary": "This report examines how US efforts to create a clear, unified approach to AI oversight have quickly run into difficulties and inconsistency. It highlights the ongoing challenge governments face in setting stable rules for a fast-moving technology.",
-      "why_it_matters": "It underlines how complex AI governance can be, useful context for public-sector bodies developing their own national AI strategies and policies.",
+      "summary": "An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.",
+      "why_it_matters": "Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.",
       "relevance": 6
     },
     {
@@ -55,8 +37,26 @@
       "url": "https://openai.com/index/deployment-simulation",
       "source_name": "OpenAI",
       "published_iso": "2026-06-16T00:00:00+00:00",
-      "summary": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by using realistic conversation data before the model is released to the public. The approach is intended to catch problems early and improve safety.",
-      "why_it_matters": "It points to better tools for checking AI safety before public use, which is valuable for any institution weighing how to adopt AI responsibly.",
+      "summary": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.",
+      "why_it_matters": "Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.",
+      "relevance": 6
+    },
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-06-16T21:29:50+00:00",
+      "summary": "The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.",
+      "why_it_matters": "It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.",
+      "relevance": 6
+    },
+    {
+      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-06-17T19:01:19+00:00",
+      "summary": "At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.",
+      "why_it_matters": "This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.",
       "relevance": 6
     }
   ],
@@ -103,7 +103,7 @@
       },
       {
         "type": "TextBlock",
-        "text": "This week's digest looks at how AI is moving deeper into public services and the social sector, from faster housing decisions in the UK to a major effort to bring AI tools to nonprofits. We also follow continuing developments in AI oversight and safety, including a regulatory pause on new models and new methods for testing AI before release. Together these stories highlight a common theme: the growing focus on using AI responsibly within government and public-interest work.",
+        "text": "This week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.",
         "wrap": true,
         "spacing": "Medium"
       },
@@ -114,7 +114,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[1. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "text": "[1. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -122,85 +122,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "The UK government has partnered with Google DeepMind to develop a prototype tool that uses AI to speed up housing planning decisions. The aim is to reduce delays in the approval process while keeping human officials in charge of the final outcomes.",
+            "text": "Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It is a concrete example of how governments can apply AI to make public services faster and more efficient — directly relevant to Tamkeen's public-sector mandate.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Google DeepMind · 17 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[2. Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET](https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "AI company Anthropic has withdrawn two new Claude models, named Fable and Mythos, after US federal authorities raised concerns that their safety protections could be bypassed (a problem known as 'jailbreaking'). The models were pulled while these safety issues are reviewed.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It shows that even leading AI tools can have safety gaps, a useful reminder for any organisation considering AI adoption to weigh reliability and safeguards.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 16 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[3. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic has announced a $150 million programme to help nonprofit organisations adopt AI, including support for 1,000 fellows who will assist these groups in using the technology. The goal is to make AI tools more accessible to mission-driven, public-interest organisations.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It signals growing investment in building AI skills and capacity in the social sector, aligning with Tamkeen's focus on human-capital and workforce development.",
+            "text": "**Why it matters for Tamkeen:** It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -222,7 +150,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[4. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5)",
+            "text": "[2. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -230,13 +158,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "This article explains the reasoning behind the US decision to freeze Anthropic's newest Claude models, citing safety concerns that the models could be misused. The freeze reflects increased government scrutiny of advanced AI before it reaches the public.",
+            "text": "Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It illustrates how regulators are stepping in to oversee AI safety, offering insight for Tamkeen as governments worldwide shape their own AI policies.",
+            "text": "**Why it matters for Tamkeen:** It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -258,7 +186,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[5. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5)",
+            "text": "[3. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -266,13 +194,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "This report examines how US efforts to create a clear, unified approach to AI oversight have quickly run into difficulties and inconsistency. It highlights the ongoing challenge governments face in setting stable rules for a fast-moving technology.",
+            "text": "An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It underlines how complex AI governance can be, useful context for public-sector bodies developing their own national AI strategies and policies.",
+            "text": "**Why it matters for Tamkeen:** Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -294,7 +222,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[6. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
+            "text": "[4. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -302,13 +230,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by using realistic conversation data before the model is released to the public. The approach is intended to catch problems early and improve safety.",
+            "text": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It points to better tools for checking AI safety before public use, which is valuable for any institution weighing how to adopt AI responsibly.",
+            "text": "**Why it matters for Tamkeen:** Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -316,6 +244,78 @@
           {
             "type": "TextBlock",
             "text": "OpenAI · 16 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 17 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[6. World leaders want American AI. They just don’t want America to be able to turn it off.](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -349,7 +349,7 @@
       "width": "Full"
     }
   },
-  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 18 June 2026\n============================================================\nThis week's digest looks at how AI is moving deeper into public services and the social sector, from faster housing decisions in the UK to a major effort to bring AI tools to nonprofits. We also follow continuing developments in AI oversight and safety, including a regulatory pause on new models and new methods for testing AI before release. Together these stories highlight a common theme: the growing focus on using AI responsibly within government and public-interest work.\n\n1. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government has partnered with Google DeepMind to develop a prototype tool that uses AI to speed up housing planning decisions. The aim is to reduce delays in the approval process while keeping human officials in charge of the final outcomes.\n   Why it matters for Tamkeen: It is a concrete example of how governments can apply AI to make public services faster and more efficient — directly relevant to Tamkeen's public-sector mandate.\n   (Google DeepMind · 17 Jun 2026)\n\n2. Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET\n   https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5\n   AI company Anthropic has withdrawn two new Claude models, named Fable and Mythos, after US federal authorities raised concerns that their safety protections could be bypassed (a problem known as 'jailbreaking'). The models were pulled while these safety issues are reviewed.\n   Why it matters for Tamkeen: It shows that even leading AI tools can have safety gaps, a useful reminder for any organisation considering AI adoption to weigh reliability and safeguards.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n3. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com\n   https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5\n   Anthropic has announced a $150 million programme to help nonprofit organisations adopt AI, including support for 1,000 fellows who will assist these groups in using the technology. The goal is to make AI tools more accessible to mission-driven, public-interest organisations.\n   Why it matters for Tamkeen: It signals growing investment in building AI skills and capacity in the social sector, aligning with Tamkeen's focus on human-capital and workforce development.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n4. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine\n   https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5\n   This article explains the reasoning behind the US decision to freeze Anthropic's newest Claude models, citing safety concerns that the models could be misused. The freeze reflects increased government scrutiny of advanced AI before it reaches the public.\n   Why it matters for Tamkeen: It illustrates how regulators are stepping in to oversee AI safety, offering insight for Tamkeen as governments worldwide shape their own AI policies.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n5. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico\n   https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5\n   This report examines how US efforts to create a clear, unified approach to AI oversight have quickly run into difficulties and inconsistency. It highlights the ongoing challenge governments face in setting stable rules for a fast-moving technology.\n   Why it matters for Tamkeen: It underlines how complex AI governance can be, useful context for public-sector bodies developing their own national AI strategies and policies.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n6. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by using realistic conversation data before the model is released to the public. The approach is intended to catch problems early and improve safety.\n   Why it matters for Tamkeen: It points to better tools for checking AI safety before public use, which is valuable for any institution weighing how to adopt AI responsibly.\n   (OpenAI · 16 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 18 June 2026\n============================================================\nThis week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.\n\n1. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com\n   https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5\n   Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.\n   Why it matters for Tamkeen: It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n2. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine\n   https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5\n   Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.\n   Why it matters for Tamkeen: It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n3. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico\n   https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5\n   An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.\n   Why it matters for Tamkeen: Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n4. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.\n   Why it matters for Tamkeen: Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.\n   (OpenAI · 16 Jun 2026)\n\n5. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.\n   Why it matters for Tamkeen: It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.\n   (Google DeepMind · 17 Jun 2026)\n\n6. World leaders want American AI. They just don’t want America to be able to turn it off.\n   https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/\n   At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.\n   Why it matters for Tamkeen: This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.\n   (TechCrunch — AI · 17 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
   "broadcast_card": {
     "type": "AdaptiveCard",
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
@@ -379,7 +379,7 @@
       },
       {
         "type": "TextBlock",
-        "text": "This week's digest looks at how AI is moving deeper into public services and the social sector, from faster housing decisions in the UK to a major effort to bring AI tools to nonprofits. We also follow continuing developments in AI oversight and safety, including a regulatory pause on new models and new methods for testing AI before release. Together these stories highlight a common theme: the growing focus on using AI responsibly within government and public-interest work.",
+        "text": "This week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.",
         "wrap": true,
         "spacing": "Medium"
       },
@@ -390,7 +390,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[1. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "text": "[1. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -398,85 +398,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "The UK government has partnered with Google DeepMind to develop a prototype tool that uses AI to speed up housing planning decisions. The aim is to reduce delays in the approval process while keeping human officials in charge of the final outcomes.",
+            "text": "Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It is a concrete example of how governments can apply AI to make public services faster and more efficient — directly relevant to Tamkeen's public-sector mandate.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Google DeepMind · 17 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[2. Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET](https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "AI company Anthropic has withdrawn two new Claude models, named Fable and Mythos, after US federal authorities raised concerns that their safety protections could be bypassed (a problem known as 'jailbreaking'). The models were pulled while these safety issues are reviewed.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It shows that even leading AI tools can have safety gaps, a useful reminder for any organisation considering AI adoption to weigh reliability and safeguards.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 16 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[3. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic has announced a $150 million programme to help nonprofit organisations adopt AI, including support for 1,000 fellows who will assist these groups in using the technology. The goal is to make AI tools more accessible to mission-driven, public-interest organisations.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It signals growing investment in building AI skills and capacity in the social sector, aligning with Tamkeen's focus on human-capital and workforce development.",
+            "text": "**Why it matters for Tamkeen:** It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -498,7 +426,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[4. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5)",
+            "text": "[2. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -506,13 +434,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "This article explains the reasoning behind the US decision to freeze Anthropic's newest Claude models, citing safety concerns that the models could be misused. The freeze reflects increased government scrutiny of advanced AI before it reaches the public.",
+            "text": "Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It illustrates how regulators are stepping in to oversee AI safety, offering insight for Tamkeen as governments worldwide shape their own AI policies.",
+            "text": "**Why it matters for Tamkeen:** It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -534,7 +462,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[5. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5)",
+            "text": "[3. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -542,13 +470,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "This report examines how US efforts to create a clear, unified approach to AI oversight have quickly run into difficulties and inconsistency. It highlights the ongoing challenge governments face in setting stable rules for a fast-moving technology.",
+            "text": "An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It underlines how complex AI governance can be, useful context for public-sector bodies developing their own national AI strategies and policies.",
+            "text": "**Why it matters for Tamkeen:** Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -570,7 +498,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[6. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
+            "text": "[4. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -578,13 +506,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by using realistic conversation data before the model is released to the public. The approach is intended to catch problems early and improve safety.",
+            "text": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It points to better tools for checking AI safety before public use, which is valuable for any institution weighing how to adopt AI responsibly.",
+            "text": "**Why it matters for Tamkeen:** Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -592,6 +520,78 @@
           {
             "type": "TextBlock",
             "text": "OpenAI · 16 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 17 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[6. World leaders want American AI. They just don’t want America to be able to turn it off.](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -625,5 +625,5 @@
       "width": "Full"
     }
   },
-  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 18 June 2026\n============================================================\nThis week's digest looks at how AI is moving deeper into public services and the social sector, from faster housing decisions in the UK to a major effort to bring AI tools to nonprofits. We also follow continuing developments in AI oversight and safety, including a regulatory pause on new models and new methods for testing AI before release. Together these stories highlight a common theme: the growing focus on using AI responsibly within government and public-interest work.\n\n1. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government has partnered with Google DeepMind to develop a prototype tool that uses AI to speed up housing planning decisions. The aim is to reduce delays in the approval process while keeping human officials in charge of the final outcomes.\n   Why it matters for Tamkeen: It is a concrete example of how governments can apply AI to make public services faster and more efficient — directly relevant to Tamkeen's public-sector mandate.\n   (Google DeepMind · 17 Jun 2026)\n\n2. Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET\n   https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5\n   AI company Anthropic has withdrawn two new Claude models, named Fable and Mythos, after US federal authorities raised concerns that their safety protections could be bypassed (a problem known as 'jailbreaking'). The models were pulled while these safety issues are reviewed.\n   Why it matters for Tamkeen: It shows that even leading AI tools can have safety gaps, a useful reminder for any organisation considering AI adoption to weigh reliability and safeguards.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n3. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com\n   https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5\n   Anthropic has announced a $150 million programme to help nonprofit organisations adopt AI, including support for 1,000 fellows who will assist these groups in using the technology. The goal is to make AI tools more accessible to mission-driven, public-interest organisations.\n   Why it matters for Tamkeen: It signals growing investment in building AI skills and capacity in the social sector, aligning with Tamkeen's focus on human-capital and workforce development.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n4. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine\n   https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5\n   This article explains the reasoning behind the US decision to freeze Anthropic's newest Claude models, citing safety concerns that the models could be misused. The freeze reflects increased government scrutiny of advanced AI before it reaches the public.\n   Why it matters for Tamkeen: It illustrates how regulators are stepping in to oversee AI safety, offering insight for Tamkeen as governments worldwide shape their own AI policies.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n5. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico\n   https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5\n   This report examines how US efforts to create a clear, unified approach to AI oversight have quickly run into difficulties and inconsistency. It highlights the ongoing challenge governments face in setting stable rules for a fast-moving technology.\n   Why it matters for Tamkeen: It underlines how complex AI governance can be, useful context for public-sector bodies developing their own national AI strategies and policies.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n6. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave by using realistic conversation data before the model is released to the public. The approach is intended to catch problems early and improve safety.\n   Why it matters for Tamkeen: It points to better tools for checking AI safety before public use, which is valuable for any institution weighing how to adopt AI responsibly.\n   (OpenAI · 16 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 18 June 2026\n============================================================\nThis week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.\n\n1. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com\n   https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5\n   Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.\n   Why it matters for Tamkeen: It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n2. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine\n   https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5\n   Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.\n   Why it matters for Tamkeen: It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n3. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico\n   https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5\n   An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.\n   Why it matters for Tamkeen: Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n4. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.\n   Why it matters for Tamkeen: Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.\n   (OpenAI · 16 Jun 2026)\n\n5. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.\n   Why it matters for Tamkeen: It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.\n   (Google DeepMind · 17 Jun 2026)\n\n6. World leaders want American AI. They just don’t want America to be able to turn it off.\n   https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/\n   At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.\n   Why it matters for Tamkeen: This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.\n   (TechCrunch — AI · 17 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
 }
