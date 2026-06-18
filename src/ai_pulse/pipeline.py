@@ -15,11 +15,12 @@ import json
 import os
 from pathlib import Path
 
-from .compose import build_markdown, compose_digest
+from .compose import build_markdown, build_review_card, compose_digest
 from .config import Config
 from .curate import Curator
 from .dedup import DedupStore
-from .deliver import DeliveryError, post_card, resolve_webhook, wrap_card
+from .deliver import (DeliveryError, build_approval_bundle, post_approval_bundle,
+                      post_card, resolve_webhook, wrap_card)
 from .ingest import ingest, validate_feeds
 from .logging_setup import get_logger
 from .models import Digest, RunReport
@@ -110,14 +111,44 @@ def run_phase_a(cfg: Config, *, dry_run: bool = False,
     DigestStore(cfg.storage.digests_dir).save(digest)
 
     # 5. Deliver draft (or dry-run preview) --------------------------------
+    approval_mode = cfg.deliver.mode == "approval_flow"
+
     if dry_run:
-        print("\n========== DRY RUN: rendered Adaptive Card (draft) ==========")
-        print(json.dumps(wrap_card(digest.adaptive_card), indent=2))
-        print("\n========== DRY RUN: readable preview ==========")
-        print(_preview(digest))
+        if approval_mode:
+            bundle = build_approval_bundle(
+                digest_id=digest.id, subtitle=digest.subtitle,
+                review_card=build_review_card(digest.adaptive_card, digest.id),
+                broadcast_card=digest.broadcast_card)
+            print("\n===== DRY RUN: approval bundle (handed to Power Automate flow) =====")
+            print(json.dumps(bundle, indent=2))
+        else:
+            print("\n========== DRY RUN: rendered Adaptive Card (draft) ==========")
+            print(json.dumps(wrap_card(digest.adaptive_card), indent=2))
+            print("\n========== DRY RUN: readable preview ==========")
+            print(_preview(digest))
         report.delivery_target = "dry-run (not posted)"
         log.info("Dry-run complete; nothing posted to Teams.")
-    else:
+
+    elif approval_mode:
+        try:
+            url = resolve_webhook(cfg.deliver.approval_flow_url_env)
+            bundle = build_approval_bundle(
+                digest_id=digest.id, subtitle=digest.subtitle,
+                review_card=build_review_card(digest.adaptive_card, digest.id),
+                broadcast_card=digest.broadcast_card)
+            post_approval_bundle(bundle, url, timeout_s=cfg.deliver.http_timeout_s,
+                                 max_retries=cfg.deliver.max_retries)
+            report.delivered = True
+            report.delivery_target = "approval flow (P&S group chat)"
+            # The flow owns the broadcast, so mark items seen now to keep daily
+            # drafts free of repeats (a story proposed once is not re-proposed).
+            with DedupStore(cfg.storage.dedup_db) as dedup:
+                dedup.mark_sent(digest.items, digest.id)
+        except DeliveryError as exc:
+            report.errors.append(f"Approval-flow handoff failed: {exc}")
+            log.error("Approval-flow handoff failed: %s", exc)
+
+    else:  # direct mode
         try:
             url = resolve_webhook(cfg.deliver.review_webhook_env)
             post_card(digest.adaptive_card, url,
@@ -129,10 +160,12 @@ def run_phase_a(cfg: Config, *, dry_run: bool = False,
             report.errors.append(f"Draft delivery failed: {exc}")
             log.error("Draft delivery failed: %s", exc)
 
-    note = (f"Digest `{digest.id}` · "
-            + ("DRY RUN — not posted to Teams." if dry_run
-               else ("Posted to the P&S review channel." if report.delivered
-                     else "Delivery failed — see logs.")))
+    if dry_run:
+        note = f"Digest `{digest.id}` · DRY RUN — not posted to Teams."
+    elif report.delivered:
+        note = f"Digest `{digest.id}` · {report.delivery_target}."
+    else:
+        note = f"Digest `{digest.id}` · Delivery failed — see logs."
     _write_job_summary(cfg, digest, is_draft=True, delivery_note=note)
 
     log.info("\n%s", report.render())

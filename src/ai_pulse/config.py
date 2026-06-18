@@ -102,8 +102,15 @@ class ComposeConfig(BaseModel):
 # Deliver / Storage / Schedule
 # --------------------------------------------------------------------------- #
 class DeliverConfig(BaseModel):
+    # "direct"        → Phase A posts the draft to the review webhook; Phase B
+    #                   (manual) posts the broadcast to the all-staff webhook.
+    # "approval_flow" → Phase A hands the digest to a Power Automate flow that
+    #                   posts an Approve/Reject card to a P&S group chat and, on
+    #                   approval, broadcasts to all-staff. No manual Phase B.
+    mode: Literal["direct", "approval_flow"] = "direct"
     review_webhook_env: str = "TEAMS_REVIEW_WEBHOOK_URL"
     broadcast_webhook_env: str = "TEAMS_BROADCAST_WEBHOOK_URL"
+    approval_flow_url_env: str = "TEAMS_APPROVAL_FLOW_URL"
     http_timeout_s: float = Field(30.0, gt=0)
     max_retries: int = Field(4, ge=0, le=10)
 

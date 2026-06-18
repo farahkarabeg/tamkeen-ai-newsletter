@@ -5,7 +5,8 @@ from __future__ import annotations
 import json
 
 from ai_pulse.compose import (build_adaptive_card, build_markdown,
-                              compose_digest, week_id, ADAPTIVE_CARD_VERSION)
+                              build_review_card, compose_digest, week_id,
+                              ADAPTIVE_CARD_VERSION)
 
 
 def _texts(card: dict) -> str:
@@ -79,6 +80,16 @@ def test_weekly_cadence_id_and_subtitle(compose_cfg, curated_items):
                             cadence="weekly", lookback_days=7, now=now)
     assert digest.id.startswith("2026-W")
     assert digest.subtitle.startswith("Week of")
+
+
+def test_build_review_card_adds_actions_without_mutating(compose_cfg, curated_items):
+    draft = build_adaptive_card(compose_cfg, title="T", subtitle="S",
+                                editor_note="", items=curated_items, is_draft=True)
+    review = build_review_card(draft, "2026-06-17")
+    actions = review["actions"]
+    assert [a["data"]["action"] for a in actions] == ["approve", "reject"]
+    assert all(a["data"]["digestId"] == "2026-06-17" for a in actions)
+    assert "actions" not in draft  # original card untouched (deep-copied)
 
 
 def test_build_markdown_draft_and_content(compose_cfg, curated_items):

@@ -155,10 +155,19 @@ compose:
 #    Referenced by ENV VAR NAME only — real URLs live in secrets, never here.
 # ----------------------------------------------------------------------------
 deliver:
-  review_webhook_env: "TEAMS_REVIEW_WEBHOOK_URL"       # Phase A: P&S review channel
-  broadcast_webhook_env: "TEAMS_BROADCAST_WEBHOOK_URL" # Phase B: all-staff channel
+  # "direct"        → Phase A posts the draft to the review channel; a human runs
+  #                   Phase B to broadcast. (Webhooks below.)
+  # "approval_flow" → Phase A hands the digest to a Power Automate flow that posts
+  #                   Approve/Reject to a P&S group chat and, on approval,
+  #                   broadcasts to all-staff. No manual Phase B. See
+  #                   docs/APPROVAL_FLOW.md to build the flow, then flip this to
+  #                   "approval_flow" and set the TEAMS_APPROVAL_FLOW_URL secret.
+  mode: "direct"
+  review_webhook_env: "TEAMS_REVIEW_WEBHOOK_URL"        # direct mode: P&S review channel
+  broadcast_webhook_env: "TEAMS_BROADCAST_WEBHOOK_URL"  # direct mode: all-staff channel
+  approval_flow_url_env: "TEAMS_APPROVAL_FLOW_URL"      # approval_flow mode: PA flow trigger
   http_timeout_s: 30
-  max_retries: 4              # retry/backoff on the Teams POST
+  max_retries: 4              # retry/backoff on the POST
 
 # ----------------------------------------------------------------------------
 # 5. STATE & LOGS — local persistence.

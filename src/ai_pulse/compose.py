@@ -148,6 +148,24 @@ def build_adaptive_card(cfg: ComposeConfig, *, title: str, subtitle: str,
     }
 
 
+def build_review_card(draft_card: dict, digest_id: str) -> dict:
+    """Return a copy of the draft card with Approve/Reject Action.Submit buttons.
+
+    Used only in approval-flow mode: the Power Automate flow posts this to the
+    P&S group chat and waits. The submitted `data.action` ("approve"/"reject")
+    tells the flow how to branch.
+    """
+    import copy
+    card = copy.deepcopy(draft_card)
+    card["actions"] = [
+        {"type": "Action.Submit", "title": "✅ Approve & broadcast",
+         "style": "positive", "data": {"action": "approve", "digestId": digest_id}},
+        {"type": "Action.Submit", "title": "✕ Reject",
+         "style": "destructive", "data": {"action": "reject", "digestId": digest_id}},
+    ]
+    return card
+
+
 def build_plain_text(*, title: str, subtitle: str, editor_note: str,
                      items: list[CuratedItem], is_draft: bool,
                      footer: str, org_name: str, tz_name: str) -> str:

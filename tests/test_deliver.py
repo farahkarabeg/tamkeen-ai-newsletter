@@ -5,8 +5,9 @@ from __future__ import annotations
 import httpx
 import pytest
 
-from ai_pulse.deliver import (ADAPTIVE_CONTENT_TYPE, DeliveryError, post_card,
-                              resolve_webhook, wrap_card)
+from ai_pulse.deliver import (ADAPTIVE_CONTENT_TYPE, DeliveryError,
+                              build_approval_bundle, post_approval_bundle,
+                              post_card, resolve_webhook, wrap_card)
 
 
 def test_wrap_card_shape():
@@ -55,6 +56,31 @@ def test_post_card_4xx_not_retried(monkeypatch):
     with pytest.raises(DeliveryError):
         post_card({"x": 1}, "https://hook", max_retries=4)
     assert calls["n"] == 1  # 4xx is a client error: fail fast, no retries
+
+
+def test_build_approval_bundle_shape():
+    bundle = build_approval_bundle(
+        digest_id="2026-06-17", subtitle="Wednesday, 17 June 2026",
+        review_card={"type": "AdaptiveCard", "actions": [1, 2]},
+        broadcast_card={"type": "AdaptiveCard"})
+    assert bundle["digestId"] == "2026-06-17"
+    assert bundle["reviewCard"]["actions"] == [1, 2]
+    assert bundle["broadcastCard"] == {"type": "AdaptiveCard"}
+
+
+def test_post_approval_bundle_success(monkeypatch):
+    captured = {}
+
+    def handler(request):
+        captured["body"] = request.content
+        return httpx.Response(202)
+
+    transport = httpx.MockTransport(handler)
+    real_client = httpx.Client
+    monkeypatch.setattr(httpx, "Client",
+                        lambda *a, **k: real_client(transport=transport))
+    post_approval_bundle({"digestId": "x"}, "https://flow", max_retries=0)
+    assert b'"digestId"' in captured["body"]
 
 
 def test_post_card_retries_on_503(monkeypatch):
