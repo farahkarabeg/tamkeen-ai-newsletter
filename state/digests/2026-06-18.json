@@ -1,63 +1,63 @@
 {
   "id": "2026-06-18",
-  "generated_at_iso": "2026-06-18T12:50:48.065464+00:00",
+  "generated_at_iso": "2026-06-18T12:52:32.822567+00:00",
   "date_range_label": "18 June 2026",
   "subtitle": "Thursday, 18 June 2026",
-  "editor_note": "This week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.",
+  "editor_note": "This week's digest looks at how governments and AI companies are navigating an increasingly tense relationship, with several stories tracing a dispute between Anthropic (maker of the Claude AI models) and the US government. We also turn to South Korea, where strong public enthusiasm and new investment are shaping a national AI ecosystem, and consider what AI means for the value of human expertise and skills. Together, these stories highlight themes close to our mandate: workforce development, public-sector AI adoption, and the policies that guide responsible use.",
   "items": [
     {
-      "title": "$150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5",
+      "title": "Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5",
       "source_name": "Anthropic (via Google News)",
-      "published_iso": "2026-06-15T13:51:26+00:00",
-      "summary": "Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.",
-      "why_it_matters": "It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.",
+      "published_iso": "2026-06-15T21:03:00+00:00",
+      "summary": "Anthropic withdrew two of its AI models, named Claude Fable and Mythos, after US federal authorities said the systems could be tricked into bypassing their safety controls (a tactic known as 'jailbreaking'). The company pulled the models while it reviews the concerns.",
+      "why_it_matters": "It shows that even leading AI tools can have safety gaps, underlining the need for careful vetting before adopting AI in public services.",
       "relevance": 6
     },
     {
-      "title": "Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5",
+      "title": "Why do South Koreans love AI so much?",
+      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-06-15T18:46:08+00:00",
+      "summary": "South Korea has embraced AI in everyday life, from automated immigration checkpoints to widespread use on public transport and in daily services. The article explores the cultural and policy reasons behind this enthusiasm and high adoption.",
+      "why_it_matters": "It offers a real-world example of how a society and government can integrate AI into public services, relevant as the UAE pursues similar national ambitions.",
+      "relevance": 6
+    },
+    {
+      "title": "Agentic coding and persistent returns to expertise - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5",
       "source_name": "Anthropic (via Google News)",
-      "published_iso": "2026-06-17T15:09:01+00:00",
-      "summary": "Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.",
-      "why_it_matters": "It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.",
-      "relevance": 6
+      "published_iso": "2026-06-16T19:29:35+00:00",
+      "summary": "Anthropic published research on 'agentic coding,' where AI assistants carry out programming tasks more independently. The findings suggest that experienced, skilled workers still gain the most from these tools, as expertise remains valuable even as AI takes on more work.",
+      "why_it_matters": "It reinforces that investing in skills and training keeps people valuable in an AI-enabled workplace, a core part of our human-capital mission.",
+      "relevance": 5
     },
     {
-      "title": "Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5",
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh0bjBqVXNvaGk0ZVVsQkJZd2RhMUpQYU00SkxDUS1VQXdORkg5cjdaOHZQNlExR2R3Y1I0Mnpwbm1vR2lLU1doa1BmQ0NYbEY2YXJ4SC1BTGdWVWhnZGJ5dUhKSWFIRlNaVWpFa011RHFkUWdBNzgzRVUzU3Nnc1lB?oc=5",
       "source_name": "Anthropic (via Google News)",
-      "published_iso": "2026-06-16T02:30:43+00:00",
-      "summary": "An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.",
-      "why_it_matters": "Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.",
-      "relevance": 6
+      "published_iso": "2026-06-17T15:06:52+00:00",
+      "summary": "Anthropic opened a new office in Seoul and announced partnerships across South Korea's AI sector. The move is part of the company's effort to expand its presence and collaborations in Asia.",
+      "why_it_matters": "It illustrates how AI firms grow through local partnerships and offices, a model worth watching as the Gulf builds its own AI ecosystem.",
+      "relevance": 5
     },
     {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "source_name": "OpenAI",
-      "published_iso": "2026-06-16T00:00:00+00:00",
-      "summary": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.",
-      "why_it_matters": "Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.",
-      "relevance": 6
+      "title": "Anthropic Meeting With Trump Admin As Feud Grows Deeper - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDgxb25zbU9OUVEwUXJYNFBZZUl5MkpvUGk0TTNxdFg4WUg0aDljcWNrMGtCd1NMam9xWTB1TmNhOU1mOHQ3R3RRVnlxVl81MzlSVEdIU2NhYUE4QUxDc3U3Y01idmFESXh5X0d4RTkxMFpkeFljQTNJVnEtbkRxWDNncXMyeU5nbTY2NGxCUlIxS3BHZ0pFWG9KOWlKdGsxbXhZV1hqU1RSdW10aDJOMWtGcnRaSmxwa2F4aF83ekZURDVsRmFsdTNxaw?oc=5",
+      "source_name": "Anthropic (via Google News)",
+      "published_iso": "2026-06-15T18:26:03+00:00",
+      "summary": "Anthropic met with the Trump administration amid a deepening disagreement between the company and the US government. Reports describe ongoing friction over how the company's AI models are handled and regulated.",
+      "why_it_matters": "It shows the growing tension between AI companies and governments over oversight, a dynamic that shapes global AI policy and standards.",
+      "relevance": 5
     },
     {
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "source_name": "Google DeepMind",
-      "published_iso": "2026-06-16T21:29:50+00:00",
-      "summary": "The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.",
-      "why_it_matters": "It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.",
-      "relevance": 6
-    },
-    {
-      "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-      "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-      "source_name": "TechCrunch — AI",
-      "published_iso": "2026-06-17T19:01:19+00:00",
-      "summary": "At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.",
-      "why_it_matters": "This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.",
-      "relevance": 6
+      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5 - WIRED",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG9ZWjBhNGVHb2xPbURHZ0NNa1hHV2ZDN2FXNUZEak54VnV2YWtrSHd1SWhmZUtEaUZuZ0NzaGgyNTQ4c3B2OE9UNTJkcGdSMEVjWGZGckU5ckFDbm9sQ1JTeUVyVzZ1MVNzSEJKbWxKWEU1QlBPMEpVVWY4b2dYV1VPVzN4aThoMWdHMXUtV29CNUZmVm5wWUpVRXY?oc=5",
+      "source_name": "Anthropic (via Google News)",
+      "published_iso": "2026-06-16T00:53:00+00:00",
+      "summary": "Anthropic remains in dispute with the White House over its Claude Fable 5 model, continuing the disagreement covered in related stories this week. The two sides have not resolved their differences over the model.",
+      "why_it_matters": "It highlights how unresolved questions about AI safety and government oversight can affect which tools become available and trusted for official use.",
+      "relevance": 5
     }
   ],
   "adaptive_card": {
@@ -103,7 +103,7 @@
       },
       {
         "type": "TextBlock",
-        "text": "This week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.",
+        "text": "This week's digest looks at how governments and AI companies are navigating an increasingly tense relationship, with several stories tracing a dispute between Anthropic (maker of the Claude AI models) and the US government. We also turn to South Korea, where strong public enthusiasm and new investment are shaping a national AI ecosystem, and consider what AI means for the value of human expertise and skills. Together, these stories highlight themes close to our mandate: workforce development, public-sector AI adoption, and the policies that guide responsible use.",
         "wrap": true,
         "spacing": "Medium"
       },
@@ -114,7 +114,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[1. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5)",
+            "text": "[1. Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET](https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -122,85 +122,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.",
+            "text": "Anthropic withdrew two of its AI models, named Claude Fable and Mythos, after US federal authorities said the systems could be tricked into bypassing their safety controls (a tactic known as 'jailbreaking'). The company pulled the models while it reviews the concerns.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 15 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[2. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 17 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[3. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.",
+            "text": "**Why it matters for Tamkeen:** It shows that even leading AI tools can have safety gaps, underlining the need for careful vetting before adopting AI in public services.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -222,7 +150,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[4. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
+            "text": "[2. Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -230,20 +158,20 @@
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.",
+            "text": "South Korea has embraced AI in everyday life, from automated immigration checkpoints to widespread use on public transport and in daily services. The article explores the cultural and policy reasons behind this enthusiasm and high adoption.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.",
+            "text": "**Why it matters for Tamkeen:** It offers a real-world example of how a society and government can integrate AI into public services, relevant as the UAE pursues similar national ambitions.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI · 16 Jun 2026",
+            "text": "MIT Technology Review — AI · 15 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -258,7 +186,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[5. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "text": "[3. Agentic coding and persistent returns to expertise - Anthropic](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -266,20 +194,20 @@
           },
           {
             "type": "TextBlock",
-            "text": "The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.",
+            "text": "Anthropic published research on 'agentic coding,' where AI assistants carry out programming tasks more independently. The findings suggest that experienced, skilled workers still gain the most from these tools, as expertise remains valuable even as AI takes on more work.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.",
+            "text": "**Why it matters for Tamkeen:** It reinforces that investing in skills and training keeps people valuable in an AI-enabled workplace, a core part of our human-capital mission.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
           },
           {
             "type": "TextBlock",
-            "text": "Google DeepMind · 17 Jun 2026",
+            "text": "Anthropic (via Google News) · 16 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -294,7 +222,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[6. World leaders want American AI. They just don’t want America to be able to turn it off.](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)",
+            "text": "[4. Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem - Anthropic](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh0bjBqVXNvaGk0ZVVsQkJZd2RhMUpQYU00SkxDUS1VQXdORkg5cjdaOHZQNlExR2R3Y1I0Mnpwbm1vR2lLU1doa1BmQ0NYbEY2YXJ4SC1BTGdWVWhnZGJ5dUhKSWFIRlNaVWpFa011RHFkUWdBNzgzRVUzU3Nnc1lB?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -302,20 +230,92 @@
           },
           {
             "type": "TextBlock",
-            "text": "At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.",
+            "text": "Anthropic opened a new office in Seoul and announced partnerships across South Korea's AI sector. The move is part of the company's effort to expand its presence and collaborations in Asia.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.",
+            "text": "**Why it matters for Tamkeen:** It illustrates how AI firms grow through local partnerships and offices, a model worth watching as the Gulf builds its own AI ecosystem.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
           },
           {
             "type": "TextBlock",
-            "text": "TechCrunch — AI · 17 Jun 2026",
+            "text": "Anthropic (via Google News) · 17 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Anthropic Meeting With Trump Admin As Feud Grows Deeper - Forbes](https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDgxb25zbU9OUVEwUXJYNFBZZUl5MkpvUGk0TTNxdFg4WUg0aDljcWNrMGtCd1NMam9xWTB1TmNhOU1mOHQ3R3RRVnlxVl81MzlSVEdIU2NhYUE4QUxDc3U3Y01idmFESXh5X0d4RTkxMFpkeFljQTNJVnEtbkRxWDNncXMyeU5nbTY2NGxCUlIxS3BHZ0pFWG9KOWlKdGsxbXhZV1hqU1RSdW10aDJOMWtGcnRaSmxwa2F4aF83ekZURDVsRmFsdTNxaw?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic met with the Trump administration amid a deepening disagreement between the company and the US government. Reports describe ongoing friction over how the company's AI models are handled and regulated.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It shows the growing tension between AI companies and governments over oversight, a dynamic that shapes global AI policy and standards.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 15 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[6. Anthropic Is Still at Odds With the White House Over Claude Fable 5 - WIRED](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG9ZWjBhNGVHb2xPbURHZ0NNa1hHV2ZDN2FXNUZEak54VnV2YWtrSHd1SWhmZUtEaUZuZ0NzaGgyNTQ4c3B2OE9UNTJkcGdSMEVjWGZGckU5ckFDbm9sQ1JTeUVyVzZ1MVNzSEJKbWxKWEU1QlBPMEpVVWY4b2dYV1VPVzN4aThoMWdHMXUtV29CNUZmVm5wWUpVRXY?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic remains in dispute with the White House over its Claude Fable 5 model, continuing the disagreement covered in related stories this week. The two sides have not resolved their differences over the model.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It highlights how unresolved questions about AI safety and government oversight can affect which tools become available and trusted for official use.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 16 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -349,7 +349,7 @@
       "width": "Full"
     }
   },
-  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 18 June 2026\n============================================================\nThis week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.\n\n1. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com\n   https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5\n   Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.\n   Why it matters for Tamkeen: It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n2. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine\n   https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5\n   Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.\n   Why it matters for Tamkeen: It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n3. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico\n   https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5\n   An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.\n   Why it matters for Tamkeen: Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n4. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.\n   Why it matters for Tamkeen: Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.\n   (OpenAI · 16 Jun 2026)\n\n5. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.\n   Why it matters for Tamkeen: It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.\n   (Google DeepMind · 17 Jun 2026)\n\n6. World leaders want American AI. They just don’t want America to be able to turn it off.\n   https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/\n   At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.\n   Why it matters for Tamkeen: This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.\n   (TechCrunch — AI · 17 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 18 June 2026\n============================================================\nThis week's digest looks at how governments and AI companies are navigating an increasingly tense relationship, with several stories tracing a dispute between Anthropic (maker of the Claude AI models) and the US government. We also turn to South Korea, where strong public enthusiasm and new investment are shaping a national AI ecosystem, and consider what AI means for the value of human expertise and skills. Together, these stories highlight themes close to our mandate: workforce development, public-sector AI adoption, and the policies that guide responsible use.\n\n1. Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET\n   https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5\n   Anthropic withdrew two of its AI models, named Claude Fable and Mythos, after US federal authorities said the systems could be tricked into bypassing their safety controls (a tactic known as 'jailbreaking'). The company pulled the models while it reviews the concerns.\n   Why it matters for Tamkeen: It shows that even leading AI tools can have safety gaps, underlining the need for careful vetting before adopting AI in public services.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n2. Why do South Koreans love AI so much?\n   https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/\n   South Korea has embraced AI in everyday life, from automated immigration checkpoints to widespread use on public transport and in daily services. The article explores the cultural and policy reasons behind this enthusiasm and high adoption.\n   Why it matters for Tamkeen: It offers a real-world example of how a society and government can integrate AI into public services, relevant as the UAE pursues similar national ambitions.\n   (MIT Technology Review — AI · 15 Jun 2026)\n\n3. Agentic coding and persistent returns to expertise - Anthropic\n   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5\n   Anthropic published research on 'agentic coding,' where AI assistants carry out programming tasks more independently. The findings suggest that experienced, skilled workers still gain the most from these tools, as expertise remains valuable even as AI takes on more work.\n   Why it matters for Tamkeen: It reinforces that investing in skills and training keeps people valuable in an AI-enabled workplace, a core part of our human-capital mission.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n4. Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem - Anthropic\n   https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh0bjBqVXNvaGk0ZVVsQkJZd2RhMUpQYU00SkxDUS1VQXdORkg5cjdaOHZQNlExR2R3Y1I0Mnpwbm1vR2lLU1doa1BmQ0NYbEY2YXJ4SC1BTGdWVWhnZGJ5dUhKSWFIRlNaVWpFa011RHFkUWdBNzgzRVUzU3Nnc1lB?oc=5\n   Anthropic opened a new office in Seoul and announced partnerships across South Korea's AI sector. The move is part of the company's effort to expand its presence and collaborations in Asia.\n   Why it matters for Tamkeen: It illustrates how AI firms grow through local partnerships and offices, a model worth watching as the Gulf builds its own AI ecosystem.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n5. Anthropic Meeting With Trump Admin As Feud Grows Deeper - Forbes\n   https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDgxb25zbU9OUVEwUXJYNFBZZUl5MkpvUGk0TTNxdFg4WUg0aDljcWNrMGtCd1NMam9xWTB1TmNhOU1mOHQ3R3RRVnlxVl81MzlSVEdIU2NhYUE4QUxDc3U3Y01idmFESXh5X0d4RTkxMFpkeFljQTNJVnEtbkRxWDNncXMyeU5nbTY2NGxCUlIxS3BHZ0pFWG9KOWlKdGsxbXhZV1hqU1RSdW10aDJOMWtGcnRaSmxwa2F4aF83ekZURDVsRmFsdTNxaw?oc=5\n   Anthropic met with the Trump administration amid a deepening disagreement between the company and the US government. Reports describe ongoing friction over how the company's AI models are handled and regulated.\n   Why it matters for Tamkeen: It shows the growing tension between AI companies and governments over oversight, a dynamic that shapes global AI policy and standards.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n6. Anthropic Is Still at Odds With the White House Over Claude Fable 5 - WIRED\n   https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG9ZWjBhNGVHb2xPbURHZ0NNa1hHV2ZDN2FXNUZEak54VnV2YWtrSHd1SWhmZUtEaUZuZ0NzaGgyNTQ4c3B2OE9UNTJkcGdSMEVjWGZGckU5ckFDbm9sQ1JTeUVyVzZ1MVNzSEJKbWxKWEU1QlBPMEpVVWY4b2dYV1VPVzN4aThoMWdHMXUtV29CNUZmVm5wWUpVRXY?oc=5\n   Anthropic remains in dispute with the White House over its Claude Fable 5 model, continuing the disagreement covered in related stories this week. The two sides have not resolved their differences over the model.\n   Why it matters for Tamkeen: It highlights how unresolved questions about AI safety and government oversight can affect which tools become available and trusted for official use.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
   "broadcast_card": {
     "type": "AdaptiveCard",
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
@@ -379,7 +379,7 @@
       },
       {
         "type": "TextBlock",
-        "text": "This week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.",
+        "text": "This week's digest looks at how governments and AI companies are navigating an increasingly tense relationship, with several stories tracing a dispute between Anthropic (maker of the Claude AI models) and the US government. We also turn to South Korea, where strong public enthusiasm and new investment are shaping a national AI ecosystem, and consider what AI means for the value of human expertise and skills. Together, these stories highlight themes close to our mandate: workforce development, public-sector AI adoption, and the policies that guide responsible use.",
         "wrap": true,
         "spacing": "Medium"
       },
@@ -390,7 +390,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[1. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5)",
+            "text": "[1. Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET](https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -398,85 +398,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.",
+            "text": "Anthropic withdrew two of its AI models, named Claude Fable and Mythos, after US federal authorities said the systems could be tricked into bypassing their safety controls (a tactic known as 'jailbreaking'). The company pulled the models while it reviews the concerns.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 15 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[2. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine](https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.",
-            "wrap": true,
-            "spacing": "Small",
-            "color": "Good"
-          },
-          {
-            "type": "TextBlock",
-            "text": "Anthropic (via Google News) · 17 Jun 2026",
-            "isSubtle": true,
-            "size": "Small",
-            "spacing": "Small",
-            "wrap": true
-          }
-        ]
-      },
-      {
-        "type": "Container",
-        "separator": true,
-        "spacing": "Medium",
-        "items": [
-          {
-            "type": "TextBlock",
-            "text": "[3. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico](https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5)",
-            "weight": "Bolder",
-            "size": "Medium",
-            "color": "Accent",
-            "wrap": true
-          },
-          {
-            "type": "TextBlock",
-            "text": "An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.",
-            "wrap": true,
-            "spacing": "Small"
-          },
-          {
-            "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.",
+            "text": "**Why it matters for Tamkeen:** It shows that even leading AI tools can have safety gaps, underlining the need for careful vetting before adopting AI in public services.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
@@ -498,7 +426,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[4. Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)",
+            "text": "[2. Why do South Koreans love AI so much?](https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -506,20 +434,20 @@
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.",
+            "text": "South Korea has embraced AI in everyday life, from automated immigration checkpoints to widespread use on public transport and in daily services. The article explores the cultural and policy reasons behind this enthusiasm and high adoption.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.",
+            "text": "**Why it matters for Tamkeen:** It offers a real-world example of how a society and government can integrate AI into public services, relevant as the UAE pursues similar national ambitions.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI · 16 Jun 2026",
+            "text": "MIT Technology Review — AI · 15 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -534,7 +462,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[5. Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/)",
+            "text": "[3. Agentic coding and persistent returns to expertise - Anthropic](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -542,20 +470,20 @@
           },
           {
             "type": "TextBlock",
-            "text": "The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.",
+            "text": "Anthropic published research on 'agentic coding,' where AI assistants carry out programming tasks more independently. The findings suggest that experienced, skilled workers still gain the most from these tools, as expertise remains valuable even as AI takes on more work.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.",
+            "text": "**Why it matters for Tamkeen:** It reinforces that investing in skills and training keeps people valuable in an AI-enabled workplace, a core part of our human-capital mission.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
           },
           {
             "type": "TextBlock",
-            "text": "Google DeepMind · 17 Jun 2026",
+            "text": "Anthropic (via Google News) · 16 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -570,7 +498,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[6. World leaders want American AI. They just don’t want America to be able to turn it off.](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)",
+            "text": "[4. Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem - Anthropic](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh0bjBqVXNvaGk0ZVVsQkJZd2RhMUpQYU00SkxDUS1VQXdORkg5cjdaOHZQNlExR2R3Y1I0Mnpwbm1vR2lLU1doa1BmQ0NYbEY2YXJ4SC1BTGdWVWhnZGJ5dUhKSWFIRlNaVWpFa011RHFkUWdBNzgzRVUzU3Nnc1lB?oc=5)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -578,20 +506,92 @@
           },
           {
             "type": "TextBlock",
-            "text": "At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.",
+            "text": "Anthropic opened a new office in Seoul and announced partnerships across South Korea's AI sector. The move is part of the company's effort to expand its presence and collaborations in Asia.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "**Why it matters for Tamkeen:** This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.",
+            "text": "**Why it matters for Tamkeen:** It illustrates how AI firms grow through local partnerships and offices, a model worth watching as the Gulf builds its own AI ecosystem.",
             "wrap": true,
             "spacing": "Small",
             "color": "Good"
           },
           {
             "type": "TextBlock",
-            "text": "TechCrunch — AI · 17 Jun 2026",
+            "text": "Anthropic (via Google News) · 17 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Anthropic Meeting With Trump Admin As Feud Grows Deeper - Forbes](https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDgxb25zbU9OUVEwUXJYNFBZZUl5MkpvUGk0TTNxdFg4WUg0aDljcWNrMGtCd1NMam9xWTB1TmNhOU1mOHQ3R3RRVnlxVl81MzlSVEdIU2NhYUE4QUxDc3U3Y01idmFESXh5X0d4RTkxMFpkeFljQTNJVnEtbkRxWDNncXMyeU5nbTY2NGxCUlIxS3BHZ0pFWG9KOWlKdGsxbXhZV1hqU1RSdW10aDJOMWtGcnRaSmxwa2F4aF83ekZURDVsRmFsdTNxaw?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic met with the Trump administration amid a deepening disagreement between the company and the US government. Reports describe ongoing friction over how the company's AI models are handled and regulated.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It shows the growing tension between AI companies and governments over oversight, a dynamic that shapes global AI policy and standards.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 15 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[6. Anthropic Is Still at Odds With the White House Over Claude Fable 5 - WIRED](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG9ZWjBhNGVHb2xPbURHZ0NNa1hHV2ZDN2FXNUZEak54VnV2YWtrSHd1SWhmZUtEaUZuZ0NzaGgyNTQ4c3B2OE9UNTJkcGdSMEVjWGZGckU5ckFDbm9sQ1JTeUVyVzZ1MVNzSEJKbWxKWEU1QlBPMEpVVWY4b2dYV1VPVzN4aThoMWdHMXUtV29CNUZmVm5wWUpVRXY?oc=5)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic remains in dispute with the White House over its Claude Fable 5 model, continuing the disagreement covered in related stories this week. The two sides have not resolved their differences over the model.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "**Why it matters for Tamkeen:** It highlights how unresolved questions about AI safety and government oversight can affect which tools become available and trusted for official use.",
+            "wrap": true,
+            "spacing": "Small",
+            "color": "Good"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic (via Google News) · 16 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -625,5 +625,5 @@
       "width": "Full"
     }
   },
-  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 18 June 2026\n============================================================\nThis week's digest highlights a recurring theme: who controls access to AI, and what that means for governments and institutions that depend on it. We look at fresh efforts to bring AI skills to nonprofits and improve safety testing, alongside growing global concerns about reliance on US-based AI systems. For Tamkeen, these stories underline why building local capacity and clear governance matters.\n\n1. $150 Million, 1,000 Fellows: Inside Anthropic’s Plan to Bring AI to Nonprofits - inc.com\n   https://news.google.com/rss/articles/CBMitgFBVV95cUxONDk4cVozZFJfTThnQTBMNHZlWlcwM0VYME1GdTQ4R2NCbFB4TGZBMk12dG9VMHVDVUJuWGN6VW94WmxsSGVhMGVPaTE5UGNZRjBQY29hdzh4MWh0SkFPMW0zTGEyWHd3SDVlN0M1UldHWnFPWWoxX2R1NHM0QXREX28xVUdraWlvUGdoQUR1WTRMMGNjT1ZRMjN2WHNhcDlDTHBSRkdIVHZpVFlrUEVoTVAyR29KQQ?oc=5\n   Anthropic, the company behind the Claude AI assistant, has launched a $150 million programme to help 1,000 fellows bring AI tools into the nonprofit and social sector. The initiative focuses on training people to apply AI to real-world community and public-benefit work.\n   Why it matters for Tamkeen: It offers a useful model for how structured fellowships and funding can rapidly build practical AI skills within mission-driven, public-good organisations like Tamkeen.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n2. Why the US is Freezing Anthropic’s New Claude Models - Cyber Magazine\n   https://news.google.com/rss/articles/CBMiigFBVV95cUxNa01Xck5MaThVVDA5X0paNDNycE5BS1QxTHFkb0h3WUVsSTB4azJQLV9xMVpxTi1RUEZFMU9iSHdlS19GbHpabVAxblNweXowRDVmVzJaR0ZtcEVKaWRFVTI1Ny1vdmdUdGhCWHIwRjJySk00MmVyNFoxMzRES3hyNVQwbkpiNXVkQ1E?oc=5\n   Reports indicate the US government has placed restrictions on access to Anthropic's newest Claude models, effectively pausing their availability in certain contexts. The move highlights how national authorities can influence who can use specific AI systems.\n   Why it matters for Tamkeen: It is a reminder that access to leading AI tools can be controlled by their home governments, which is relevant when planning long-term reliance on foreign AI services.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n3. Trump promised to bring order to AI oversight. That lasted 2 weeks. - Politico\n   https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjJUeExDLVB0aHpfODdhNDBkY0o4Q01MQVhXLXpZMVRKdTc3SHAtV0FJUlFGVGNUaUV1bjZFNnFucHR6VzhNSmVKZzM5bUZVYlZHV1FWRmVBVkFiVzFTeVJ5eFRGRmxFWXVHcm1ENlVybUJNeWpRSnBVVmNfSDgxLVNPV1lRajhvcnY1bA?oc=5\n   An article reviews how the US administration's early promises to create clear, consistent AI oversight quickly ran into difficulties and confusion. It illustrates how unsettled AI regulation remains even in major markets.\n   Why it matters for Tamkeen: Understanding the instability of AI rules elsewhere helps Tamkeen appreciate the value of clear, steady national governance frameworks at home.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n4. Predicting model behavior before release by simulating deployment\n   https://openai.com/index/deployment-simulation\n   OpenAI has introduced a method called Deployment Simulation, which tests how an AI model is likely to behave before it is released to the public. It uses real conversation patterns to spot problems early and improve safety checks.\n   Why it matters for Tamkeen: Better pre-release testing supports more trustworthy AI tools, which is important for any institution considering AI in public services and training.\n   (OpenAI · 16 Jun 2026)\n\n5. Unlocking UK house-building with AI-accelerated planning\n   https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/\n   The UK government has partnered with Google DeepMind to build an AI prototype designed to speed up housing planning decisions. It is an example of a government using AI to make a slow, paperwork-heavy public process faster.\n   Why it matters for Tamkeen: It shows a practical, real-world case of AI improving government services, offering ideas for how public-sector workflows could be modernised.\n   (Google DeepMind · 17 Jun 2026)\n\n6. World leaders want American AI. They just don’t want America to be able to turn it off.\n   https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/\n   At the G7 summit, leaders including France's President Macron and India's Prime Minister Modi voiced concern that the US could cut off access to American AI systems at any time. A recent disruption to Anthropic's tools made this worry feel concrete for many governments.\n   Why it matters for Tamkeen: This directly affects national AI strategy in the Gulf, strengthening the case for sovereign AI capacity and reducing over-dependence on any single foreign provider.\n   (TechCrunch — AI · 17 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 18 June 2026\n============================================================\nThis week's digest looks at how governments and AI companies are navigating an increasingly tense relationship, with several stories tracing a dispute between Anthropic (maker of the Claude AI models) and the US government. We also turn to South Korea, where strong public enthusiasm and new investment are shaping a national AI ecosystem, and consider what AI means for the value of human expertise and skills. Together, these stories highlight themes close to our mandate: workforce development, public-sector AI adoption, and the policies that guide responsible use.\n\n1. Anthropic Pulls Claude Fable and Mythos AI Models After Feds Claim Jailbreak - CNET\n   https://news.google.com/rss/articles/CBMingFBVV95cUxPS0t6Wng3RzNPalVucXJsTWptTnhsNDF0VUI4M3ZjWTVjRUk5eTJNMmZvNE9aMjBRdXV6dWxfWFhVMkFEakhKM3dfTjFWY29VeG4zX3N4SkhhcTUtMnlpeVc4WlVvWmxVZnZyZEE5MHlqVmN1OFVZekRraGJKYUhkUkQtUnlaZVFRTjQ4ODZMa3poMDVVcjBJTXRJLTY2Zw?oc=5\n   Anthropic withdrew two of its AI models, named Claude Fable and Mythos, after US federal authorities said the systems could be tricked into bypassing their safety controls (a tactic known as 'jailbreaking'). The company pulled the models while it reviews the concerns.\n   Why it matters for Tamkeen: It shows that even leading AI tools can have safety gaps, underlining the need for careful vetting before adopting AI in public services.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n2. Why do South Koreans love AI so much?\n   https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/\n   South Korea has embraced AI in everyday life, from automated immigration checkpoints to widespread use on public transport and in daily services. The article explores the cultural and policy reasons behind this enthusiasm and high adoption.\n   Why it matters for Tamkeen: It offers a real-world example of how a society and government can integrate AI into public services, relevant as the UAE pursues similar national ambitions.\n   (MIT Technology Review — AI · 15 Jun 2026)\n\n3. Agentic coding and persistent returns to expertise - Anthropic\n   https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lM0p2cGtZWWJ4aE9Ocy05NEU1SXFraWl1V1gwNmxwdGpMWkg3N2Z3WGF6eFFMZXlWMGZEeGZZVGxmcGJyVlBSLXlCUXhma0lWRm1SNllTSVlmNXlTMFEzLTZIMFIwSDA?oc=5\n   Anthropic published research on 'agentic coding,' where AI assistants carry out programming tasks more independently. The findings suggest that experienced, skilled workers still gain the most from these tools, as expertise remains valuable even as AI takes on more work.\n   Why it matters for Tamkeen: It reinforces that investing in skills and training keeps people valuable in an AI-enabled workplace, a core part of our human-capital mission.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n4. Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem - Anthropic\n   https://news.google.com/rss/articles/CBMiggFBVV95cUxQcHh0bjBqVXNvaGk0ZVVsQkJZd2RhMUpQYU00SkxDUS1VQXdORkg5cjdaOHZQNlExR2R3Y1I0Mnpwbm1vR2lLU1doa1BmQ0NYbEY2YXJ4SC1BTGdWVWhnZGJ5dUhKSWFIRlNaVWpFa011RHFkUWdBNzgzRVUzU3Nnc1lB?oc=5\n   Anthropic opened a new office in Seoul and announced partnerships across South Korea's AI sector. The move is part of the company's effort to expand its presence and collaborations in Asia.\n   Why it matters for Tamkeen: It illustrates how AI firms grow through local partnerships and offices, a model worth watching as the Gulf builds its own AI ecosystem.\n   (Anthropic (via Google News) · 17 Jun 2026)\n\n5. Anthropic Meeting With Trump Admin As Feud Grows Deeper - Forbes\n   https://news.google.com/rss/articles/CBMiywFBVV95cUxPWDgxb25zbU9OUVEwUXJYNFBZZUl5MkpvUGk0TTNxdFg4WUg0aDljcWNrMGtCd1NMam9xWTB1TmNhOU1mOHQ3R3RRVnlxVl81MzlSVEdIU2NhYUE4QUxDc3U3Y01idmFESXh5X0d4RTkxMFpkeFljQTNJVnEtbkRxWDNncXMyeU5nbTY2NGxCUlIxS3BHZ0pFWG9KOWlKdGsxbXhZV1hqU1RSdW10aDJOMWtGcnRaSmxwa2F4aF83ekZURDVsRmFsdTNxaw?oc=5\n   Anthropic met with the Trump administration amid a deepening disagreement between the company and the US government. Reports describe ongoing friction over how the company's AI models are handled and regulated.\n   Why it matters for Tamkeen: It shows the growing tension between AI companies and governments over oversight, a dynamic that shapes global AI policy and standards.\n   (Anthropic (via Google News) · 15 Jun 2026)\n\n6. Anthropic Is Still at Odds With the White House Over Claude Fable 5 - WIRED\n   https://news.google.com/rss/articles/CBMinAFBVV95cUxQWG9ZWjBhNGVHb2xPbURHZ0NNa1hHV2ZDN2FXNUZEak54VnV2YWtrSHd1SWhmZUtEaUZuZ0NzaGgyNTQ4c3B2OE9UNTJkcGdSMEVjWGZGckU5ckFDbm9sQ1JTeUVyVzZ1MVNzSEJKbWxKWEU1QlBPMEpVVWY4b2dYV1VPVzN4aThoMWdHMXUtV29CNUZmVm5wWUpVRXY?oc=5\n   Anthropic remains in dispute with the White House over its Claude Fable 5 model, continuing the disagreement covered in related stories this week. The two sides have not resolved their differences over the model.\n   Why it matters for Tamkeen: It highlights how unresolved questions about AI safety and government oversight can affect which tools become available and trusted for official use.\n   (Anthropic (via Google News) · 16 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
 }
