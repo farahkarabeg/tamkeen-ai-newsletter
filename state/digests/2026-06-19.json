@@ -1,54 +1,54 @@
 {
   "id": "2026-06-19",
-  "generated_at_iso": "2026-06-19T06:21:43.370297+00:00",
+  "generated_at_iso": "2026-06-19T16:22:07.478467+00:00",
   "date_range_label": "19 June 2026",
   "subtitle": "Friday, 19 June 2026",
-  "editor_note": "Welcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.",
+  "editor_note": "Welcome to this edition of our AI digest. This week we look at how government export rules can disrupt access to AI tools, the growing role of AI in scientific and medical research, a new long-task-focused AI model, and fresh public-opinion data on how quickly people feel AI is moving. Together these stories highlight a recurring theme for our work: as AI capabilities expand, so does the need for clear policy, trusted evaluation, and public confidence.",
   "items": [
     {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "source_name": "OpenAI",
-      "published_iso": "2026-06-18T17:00:00+00:00",
-      "summary": "OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.",
-      "why_it_matters": "",
-      "relevance": 5
-    },
-    {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "source_name": "OpenAI",
-      "published_iso": "2026-06-18T11:00:00+00:00",
-      "summary": "OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.",
-      "why_it_matters": "",
-      "relevance": 5
-    },
-    {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "source_name": "OpenAI",
-      "published_iso": "2026-06-18T08:00:00+00:00",
-      "summary": "Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.",
-      "why_it_matters": "",
-      "relevance": 5
-    },
-    {
-      "title": "Securing the future of AI agents",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "source_name": "Google DeepMind",
-      "published_iso": "2026-06-16T15:46:31+00:00",
-      "summary": "Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.",
-      "why_it_matters": "",
-      "relevance": 5
-    },
-    {
-      "title": "Who decides when AI is too dangerous?",
-      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "title": "Anthropic got hit by export rules nobody understands",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
       "source_name": "The Verge — AI",
-      "published_iso": "2026-06-18T14:00:00+00:00",
-      "summary": "This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.",
+      "published_iso": "2026-06-17T18:28:50+00:00",
+      "summary": "Anthropic, a major US-based AI company, spent much of the week working to restore access to its newest AI models after the US government abruptly ordered it to cut off access for all foreign nationals — including people based inside the United States and some of the company's own employees. To comply, Anthropic temporarily blocked access to its latest models (referred to as Fable 5 and Mythos 5) for everyone while it sorted out the rules. The situation stemmed from export-control measures that, by many accounts, were unclear and difficult to interpret. This matters because export controls are increasingly being used to govern who can use advanced AI, and sudden enforcement can disrupt access for businesses, researchers, and institutions worldwide. For organisations outside the US that rely on these tools, it is a reminder that access to frontier AI can shift quickly due to government policy decisions.",
       "why_it_matters": "",
       "relevance": 5
+    },
+    {
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-17T10:00:00+00:00",
+      "summary": "OpenAI, together with a company called Molecule.one, demonstrated a 'near-autonomous AI chemist' — an AI system (built on a model referred to as GPT-5.4) that can help design and improve chemical reactions used in drug development. In this case, the AI improved a difficult reaction that is important in medicinal chemistry, the branch of science focused on creating new medicines. The system worked with limited human intervention, suggesting and refining approaches that human chemists then validated. This is notable because it shows AI moving beyond answering questions toward actively contributing to scientific discovery and laboratory work. For workforce and education planning, it signals that AI may increasingly support — and reshape — highly skilled technical roles in research and industry.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-17T00:00:00+00:00",
+      "summary": "OpenAI introduced LifeSciBench, a new test designed to measure how well AI systems handle real-world tasks and decisions in the life sciences, such as biology and medical research. What sets it apart is that it was written and reviewed by domain experts, meaning the questions reflect genuine professional challenges rather than simplified examples. Benchmarks like this are important because they give a more honest picture of what AI can and cannot reliably do in specialised fields, helping prevent overconfidence in the technology. As AI is considered for use in sensitive areas like healthcare and scientific research, rigorous and expert-backed evaluation becomes essential. For institutions, this reflects a broader shift toward demanding clear evidence of AI performance before trusting it with critical work.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+      "source_name": "Hugging Face Blog",
+      "published_iso": "2026-06-17T09:01:25+00:00",
+      "summary": "A new AI model called GLM-5.2 was released, with a particular focus on what developers call 'long-horizon tasks' — that is, work that involves many steps carried out over an extended period, rather than a single quick answer. Examples include completing a complex project, following a long set of instructions, or managing a multi-stage process from start to finish. This focus reflects a wider trend in the AI field toward systems that can plan and act more independently over time. The model was shared through Hugging Face, a popular platform where AI tools are published and made available to developers. For non-technical readers, the key takeaway is that AI is increasingly being built not just to respond, but to carry out longer, more involved tasks, which could influence how future workplace tools are designed.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-06-17T17:20:24+00:00",
+      "summary": "A new poll from Pew Research found that AI chatbots are now widely used in the United States, with 49 percent of Americans reporting they use them at least occasionally — a sharp rise from 33 percent in 2024. Use of ChatGPT specifically has doubled since 2023, with 44 percent of users reporting they rely on it. At the same time, 63 percent of Americans said they believe the technology is advancing too quickly. This combination is striking: people are adopting AI tools more than ever, yet many remain uneasy about the pace of change. For public-sector institutions, the findings underline the importance of clear communication, responsible adoption, and public engagement to build trust as AI becomes part of everyday life.",
+      "why_it_matters": "",
+      "relevance": 4
     }
   ],
   "adaptive_card": {
@@ -94,7 +94,7 @@
       },
       {
         "type": "TextBlock",
-        "text": "Welcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.",
+        "text": "Welcome to this edition of our AI digest. This week we look at how government export rules can disrupt access to AI tools, the growing role of AI in scientific and medical research, a new long-task-focused AI model, and fresh public-opinion data on how quickly people feel AI is moving. Together these stories highlight a recurring theme for our work: as AI capabilities expand, so does the need for clear policy, trusted evaluation, and public confidence.",
         "wrap": true,
         "spacing": "Medium"
       },
@@ -105,7 +105,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[1. New usage analytics and updated spend controls for enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls)",
+            "text": "[1. Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -113,13 +113,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.",
+            "text": "Anthropic, a major US-based AI company, spent much of the week working to restore access to its newest AI models after the US government abruptly ordered it to cut off access for all foreign nationals — including people based inside the United States and some of the company's own employees. To comply, Anthropic temporarily blocked access to its latest models (referred to as Fable 5 and Mythos 5) for everyone while it sorted out the rules. The situation stemmed from export-control measures that, by many accounts, were unclear and difficult to interpret. This matters because export controls are increasingly being used to govern who can use advanced AI, and sudden enforcement can disrupt access for businesses, researchers, and institutions worldwide. For organisations outside the US that rely on these tools, it is a reminder that access to frontier AI can shift quickly due to government policy decisions.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI · 18 Jun 2026",
+            "text": "The Verge — AI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -134,7 +134,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[2. Improving health intelligence in ChatGPT](https://openai.com/index/improving-health-intelligence-in-chatgpt)",
+            "text": "[2. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -142,13 +142,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.",
+            "text": "OpenAI, together with a company called Molecule.one, demonstrated a 'near-autonomous AI chemist' — an AI system (built on a model referred to as GPT-5.4) that can help design and improve chemical reactions used in drug development. In this case, the AI improved a difficult reaction that is important in medicinal chemistry, the branch of science focused on creating new medicines. The system worked with limited human intervention, suggesting and refining approaches that human chemists then validated. This is notable because it shows AI moving beyond answering questions toward actively contributing to scientific discovery and laboratory work. For workforce and education planning, it signals that AI may increasingly support — and reshape — highly skilled technical roles in research and industry.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI · 18 Jun 2026",
+            "text": "OpenAI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -163,7 +163,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[3. Using AI to help physicians diagnose rare genetic diseases affecting children](https://openai.com/index/diagnose-rare-childhood-diseases)",
+            "text": "[3. Introducing LifeSciBench](https://openai.com/index/introducing-life-sci-bench)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -171,13 +171,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.",
+            "text": "OpenAI introduced LifeSciBench, a new test designed to measure how well AI systems handle real-world tasks and decisions in the life sciences, such as biology and medical research. What sets it apart is that it was written and reviewed by domain experts, meaning the questions reflect genuine professional challenges rather than simplified examples. Benchmarks like this are important because they give a more honest picture of what AI can and cannot reliably do in specialised fields, helping prevent overconfidence in the technology. As AI is considered for use in sensitive areas like healthcare and scientific research, rigorous and expert-backed evaluation becomes essential. For institutions, this reflects a broader shift toward demanding clear evidence of AI performance before trusting it with critical work.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI · 18 Jun 2026",
+            "text": "OpenAI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -192,7 +192,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[4. Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)",
+            "text": "[4. GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -200,13 +200,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.",
+            "text": "A new AI model called GLM-5.2 was released, with a particular focus on what developers call 'long-horizon tasks' — that is, work that involves many steps carried out over an extended period, rather than a single quick answer. Examples include completing a complex project, following a long set of instructions, or managing a multi-stage process from start to finish. This focus reflects a wider trend in the AI field toward systems that can plan and act more independently over time. The model was shared through Hugging Face, a popular platform where AI tools are published and made available to developers. For non-technical readers, the key takeaway is that AI is increasingly being built not just to respond, but to carry out longer, more involved tasks, which could influence how future workplace tools are designed.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "Google DeepMind · 16 Jun 2026",
+            "text": "Hugging Face Blog · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -221,7 +221,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[5. Who decides when AI is too dangerous?](https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump)",
+            "text": "[5. Two-thirds of Americans think AI is advancing too quickly](https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -229,13 +229,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.",
+            "text": "A new poll from Pew Research found that AI chatbots are now widely used in the United States, with 49 percent of Americans reporting they use them at least occasionally — a sharp rise from 33 percent in 2024. Use of ChatGPT specifically has doubled since 2023, with 44 percent of users reporting they rely on it. At the same time, 63 percent of Americans said they believe the technology is advancing too quickly. This combination is striking: people are adopting AI tools more than ever, yet many remain uneasy about the pace of change. For public-sector institutions, the findings underline the importance of clear communication, responsible adoption, and public engagement to build trust as AI becomes part of everyday life.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "The Verge — AI · 18 Jun 2026",
+            "text": "The Verge — AI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -269,7 +269,7 @@
       "width": "Full"
     }
   },
-  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 19 June 2026\n============================================================\nWelcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.\n\n1. New usage analytics and updated spend controls for enterprises\n   https://openai.com/index/chatgpt-enterprise-spend-controls\n   OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.\n   (OpenAI · 18 Jun 2026)\n\n2. Improving health intelligence in ChatGPT\n   https://openai.com/index/improving-health-intelligence-in-chatgpt\n   OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.\n   (OpenAI · 18 Jun 2026)\n\n3. Using AI to help physicians diagnose rare genetic diseases affecting children\n   https://openai.com/index/diagnose-rare-childhood-diseases\n   Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.\n   (OpenAI · 18 Jun 2026)\n\n4. Securing the future of AI agents\n   https://deepmind.google/blog/securing-the-future-of-ai-agents/\n   Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.\n   (Google DeepMind · 16 Jun 2026)\n\n5. Who decides when AI is too dangerous?\n   https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump\n   This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.\n   (The Verge — AI · 18 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 19 June 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how government export rules can disrupt access to AI tools, the growing role of AI in scientific and medical research, a new long-task-focused AI model, and fresh public-opinion data on how quickly people feel AI is moving. Together these stories highlight a recurring theme for our work: as AI capabilities expand, so does the need for clear policy, trusted evaluation, and public confidence.\n\n1. Anthropic got hit by export rules nobody understands\n   https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls\n   Anthropic, a major US-based AI company, spent much of the week working to restore access to its newest AI models after the US government abruptly ordered it to cut off access for all foreign nationals — including people based inside the United States and some of the company's own employees. To comply, Anthropic temporarily blocked access to its latest models (referred to as Fable 5 and Mythos 5) for everyone while it sorted out the rules. The situation stemmed from export-control measures that, by many accounts, were unclear and difficult to interpret. This matters because export controls are increasingly being used to govern who can use advanced AI, and sudden enforcement can disrupt access for businesses, researchers, and institutions worldwide. For organisations outside the US that rely on these tools, it is a reminder that access to frontier AI can shift quickly due to government policy decisions.\n   (The Verge — AI · 17 Jun 2026)\n\n2. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry\n   https://openai.com/index/ai-chemist-improves-reaction\n   OpenAI, together with a company called Molecule.one, demonstrated a 'near-autonomous AI chemist' — an AI system (built on a model referred to as GPT-5.4) that can help design and improve chemical reactions used in drug development. In this case, the AI improved a difficult reaction that is important in medicinal chemistry, the branch of science focused on creating new medicines. The system worked with limited human intervention, suggesting and refining approaches that human chemists then validated. This is notable because it shows AI moving beyond answering questions toward actively contributing to scientific discovery and laboratory work. For workforce and education planning, it signals that AI may increasingly support — and reshape — highly skilled technical roles in research and industry.\n   (OpenAI · 17 Jun 2026)\n\n3. Introducing LifeSciBench\n   https://openai.com/index/introducing-life-sci-bench\n   OpenAI introduced LifeSciBench, a new test designed to measure how well AI systems handle real-world tasks and decisions in the life sciences, such as biology and medical research. What sets it apart is that it was written and reviewed by domain experts, meaning the questions reflect genuine professional challenges rather than simplified examples. Benchmarks like this are important because they give a more honest picture of what AI can and cannot reliably do in specialised fields, helping prevent overconfidence in the technology. As AI is considered for use in sensitive areas like healthcare and scientific research, rigorous and expert-backed evaluation becomes essential. For institutions, this reflects a broader shift toward demanding clear evidence of AI performance before trusting it with critical work.\n   (OpenAI · 17 Jun 2026)\n\n4. GLM-5.2: Built for Long-Horizon Tasks\n   https://huggingface.co/blog/zai-org/glm-52-blog\n   A new AI model called GLM-5.2 was released, with a particular focus on what developers call 'long-horizon tasks' — that is, work that involves many steps carried out over an extended period, rather than a single quick answer. Examples include completing a complex project, following a long set of instructions, or managing a multi-stage process from start to finish. This focus reflects a wider trend in the AI field toward systems that can plan and act more independently over time. The model was shared through Hugging Face, a popular platform where AI tools are published and made available to developers. For non-technical readers, the key takeaway is that AI is increasingly being built not just to respond, but to carry out longer, more involved tasks, which could influence how future workplace tools are designed.\n   (Hugging Face Blog · 17 Jun 2026)\n\n5. Two-thirds of Americans think AI is advancing too quickly\n   https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly\n   A new poll from Pew Research found that AI chatbots are now widely used in the United States, with 49 percent of Americans reporting they use them at least occasionally — a sharp rise from 33 percent in 2024. Use of ChatGPT specifically has doubled since 2023, with 44 percent of users reporting they rely on it. At the same time, 63 percent of Americans said they believe the technology is advancing too quickly. This combination is striking: people are adopting AI tools more than ever, yet many remain uneasy about the pace of change. For public-sector institutions, the findings underline the importance of clear communication, responsible adoption, and public engagement to build trust as AI becomes part of everyday life.\n   (The Verge — AI · 17 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
   "broadcast_card": {
     "type": "AdaptiveCard",
     "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
@@ -299,7 +299,7 @@
       },
       {
         "type": "TextBlock",
-        "text": "Welcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.",
+        "text": "Welcome to this edition of our AI digest. This week we look at how government export rules can disrupt access to AI tools, the growing role of AI in scientific and medical research, a new long-task-focused AI model, and fresh public-opinion data on how quickly people feel AI is moving. Together these stories highlight a recurring theme for our work: as AI capabilities expand, so does the need for clear policy, trusted evaluation, and public confidence.",
         "wrap": true,
         "spacing": "Medium"
       },
@@ -310,7 +310,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[1. New usage analytics and updated spend controls for enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls)",
+            "text": "[1. Anthropic got hit by export rules nobody understands](https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -318,13 +318,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.",
+            "text": "Anthropic, a major US-based AI company, spent much of the week working to restore access to its newest AI models after the US government abruptly ordered it to cut off access for all foreign nationals — including people based inside the United States and some of the company's own employees. To comply, Anthropic temporarily blocked access to its latest models (referred to as Fable 5 and Mythos 5) for everyone while it sorted out the rules. The situation stemmed from export-control measures that, by many accounts, were unclear and difficult to interpret. This matters because export controls are increasingly being used to govern who can use advanced AI, and sudden enforcement can disrupt access for businesses, researchers, and institutions worldwide. For organisations outside the US that rely on these tools, it is a reminder that access to frontier AI can shift quickly due to government policy decisions.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI · 18 Jun 2026",
+            "text": "The Verge — AI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -339,7 +339,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[2. Improving health intelligence in ChatGPT](https://openai.com/index/improving-health-intelligence-in-chatgpt)",
+            "text": "[2. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -347,13 +347,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.",
+            "text": "OpenAI, together with a company called Molecule.one, demonstrated a 'near-autonomous AI chemist' — an AI system (built on a model referred to as GPT-5.4) that can help design and improve chemical reactions used in drug development. In this case, the AI improved a difficult reaction that is important in medicinal chemistry, the branch of science focused on creating new medicines. The system worked with limited human intervention, suggesting and refining approaches that human chemists then validated. This is notable because it shows AI moving beyond answering questions toward actively contributing to scientific discovery and laboratory work. For workforce and education planning, it signals that AI may increasingly support — and reshape — highly skilled technical roles in research and industry.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI · 18 Jun 2026",
+            "text": "OpenAI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -368,7 +368,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[3. Using AI to help physicians diagnose rare genetic diseases affecting children](https://openai.com/index/diagnose-rare-childhood-diseases)",
+            "text": "[3. Introducing LifeSciBench](https://openai.com/index/introducing-life-sci-bench)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -376,13 +376,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.",
+            "text": "OpenAI introduced LifeSciBench, a new test designed to measure how well AI systems handle real-world tasks and decisions in the life sciences, such as biology and medical research. What sets it apart is that it was written and reviewed by domain experts, meaning the questions reflect genuine professional challenges rather than simplified examples. Benchmarks like this are important because they give a more honest picture of what AI can and cannot reliably do in specialised fields, helping prevent overconfidence in the technology. As AI is considered for use in sensitive areas like healthcare and scientific research, rigorous and expert-backed evaluation becomes essential. For institutions, this reflects a broader shift toward demanding clear evidence of AI performance before trusting it with critical work.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "OpenAI · 18 Jun 2026",
+            "text": "OpenAI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -397,7 +397,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[4. Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)",
+            "text": "[4. GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -405,13 +405,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.",
+            "text": "A new AI model called GLM-5.2 was released, with a particular focus on what developers call 'long-horizon tasks' — that is, work that involves many steps carried out over an extended period, rather than a single quick answer. Examples include completing a complex project, following a long set of instructions, or managing a multi-stage process from start to finish. This focus reflects a wider trend in the AI field toward systems that can plan and act more independently over time. The model was shared through Hugging Face, a popular platform where AI tools are published and made available to developers. For non-technical readers, the key takeaway is that AI is increasingly being built not just to respond, but to carry out longer, more involved tasks, which could influence how future workplace tools are designed.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "Google DeepMind · 16 Jun 2026",
+            "text": "Hugging Face Blog · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -426,7 +426,7 @@
         "items": [
           {
             "type": "TextBlock",
-            "text": "[5. Who decides when AI is too dangerous?](https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump)",
+            "text": "[5. Two-thirds of Americans think AI is advancing too quickly](https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly)",
             "weight": "Bolder",
             "size": "Medium",
             "color": "Accent",
@@ -434,13 +434,13 @@
           },
           {
             "type": "TextBlock",
-            "text": "This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.",
+            "text": "A new poll from Pew Research found that AI chatbots are now widely used in the United States, with 49 percent of Americans reporting they use them at least occasionally — a sharp rise from 33 percent in 2024. Use of ChatGPT specifically has doubled since 2023, with 44 percent of users reporting they rely on it. At the same time, 63 percent of Americans said they believe the technology is advancing too quickly. This combination is striking: people are adopting AI tools more than ever, yet many remain uneasy about the pace of change. For public-sector institutions, the findings underline the importance of clear communication, responsible adoption, and public engagement to build trust as AI becomes part of everyday life.",
             "wrap": true,
             "spacing": "Small"
           },
           {
             "type": "TextBlock",
-            "text": "The Verge — AI · 18 Jun 2026",
+            "text": "The Verge — AI · 17 Jun 2026",
             "isSubtle": true,
             "size": "Small",
             "spacing": "Small",
@@ -474,5 +474,5 @@
       "width": "Full"
     }
   },
-  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 19 June 2026\n============================================================\nWelcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.\n\n1. New usage analytics and updated spend controls for enterprises\n   https://openai.com/index/chatgpt-enterprise-spend-controls\n   OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.\n   (OpenAI · 18 Jun 2026)\n\n2. Improving health intelligence in ChatGPT\n   https://openai.com/index/improving-health-intelligence-in-chatgpt\n   OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.\n   (OpenAI · 18 Jun 2026)\n\n3. Using AI to help physicians diagnose rare genetic diseases affecting children\n   https://openai.com/index/diagnose-rare-childhood-diseases\n   Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.\n   (OpenAI · 18 Jun 2026)\n\n4. Securing the future of AI agents\n   https://deepmind.google/blog/securing-the-future-of-ai-agents/\n   Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.\n   (Google DeepMind · 16 Jun 2026)\n\n5. Who decides when AI is too dangerous?\n   https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump\n   This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.\n   (The Verge — AI · 18 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 19 June 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how government export rules can disrupt access to AI tools, the growing role of AI in scientific and medical research, a new long-task-focused AI model, and fresh public-opinion data on how quickly people feel AI is moving. Together these stories highlight a recurring theme for our work: as AI capabilities expand, so does the need for clear policy, trusted evaluation, and public confidence.\n\n1. Anthropic got hit by export rules nobody understands\n   https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls\n   Anthropic, a major US-based AI company, spent much of the week working to restore access to its newest AI models after the US government abruptly ordered it to cut off access for all foreign nationals — including people based inside the United States and some of the company's own employees. To comply, Anthropic temporarily blocked access to its latest models (referred to as Fable 5 and Mythos 5) for everyone while it sorted out the rules. The situation stemmed from export-control measures that, by many accounts, were unclear and difficult to interpret. This matters because export controls are increasingly being used to govern who can use advanced AI, and sudden enforcement can disrupt access for businesses, researchers, and institutions worldwide. For organisations outside the US that rely on these tools, it is a reminder that access to frontier AI can shift quickly due to government policy decisions.\n   (The Verge — AI · 17 Jun 2026)\n\n2. A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry\n   https://openai.com/index/ai-chemist-improves-reaction\n   OpenAI, together with a company called Molecule.one, demonstrated a 'near-autonomous AI chemist' — an AI system (built on a model referred to as GPT-5.4) that can help design and improve chemical reactions used in drug development. In this case, the AI improved a difficult reaction that is important in medicinal chemistry, the branch of science focused on creating new medicines. The system worked with limited human intervention, suggesting and refining approaches that human chemists then validated. This is notable because it shows AI moving beyond answering questions toward actively contributing to scientific discovery and laboratory work. For workforce and education planning, it signals that AI may increasingly support — and reshape — highly skilled technical roles in research and industry.\n   (OpenAI · 17 Jun 2026)\n\n3. Introducing LifeSciBench\n   https://openai.com/index/introducing-life-sci-bench\n   OpenAI introduced LifeSciBench, a new test designed to measure how well AI systems handle real-world tasks and decisions in the life sciences, such as biology and medical research. What sets it apart is that it was written and reviewed by domain experts, meaning the questions reflect genuine professional challenges rather than simplified examples. Benchmarks like this are important because they give a more honest picture of what AI can and cannot reliably do in specialised fields, helping prevent overconfidence in the technology. As AI is considered for use in sensitive areas like healthcare and scientific research, rigorous and expert-backed evaluation becomes essential. For institutions, this reflects a broader shift toward demanding clear evidence of AI performance before trusting it with critical work.\n   (OpenAI · 17 Jun 2026)\n\n4. GLM-5.2: Built for Long-Horizon Tasks\n   https://huggingface.co/blog/zai-org/glm-52-blog\n   A new AI model called GLM-5.2 was released, with a particular focus on what developers call 'long-horizon tasks' — that is, work that involves many steps carried out over an extended period, rather than a single quick answer. Examples include completing a complex project, following a long set of instructions, or managing a multi-stage process from start to finish. This focus reflects a wider trend in the AI field toward systems that can plan and act more independently over time. The model was shared through Hugging Face, a popular platform where AI tools are published and made available to developers. For non-technical readers, the key takeaway is that AI is increasingly being built not just to respond, but to carry out longer, more involved tasks, which could influence how future workplace tools are designed.\n   (Hugging Face Blog · 17 Jun 2026)\n\n5. Two-thirds of Americans think AI is advancing too quickly\n   https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly\n   A new poll from Pew Research found that AI chatbots are now widely used in the United States, with 49 percent of Americans reporting they use them at least occasionally — a sharp rise from 33 percent in 2024. Use of ChatGPT specifically has doubled since 2023, with 44 percent of users reporting they rely on it. At the same time, 63 percent of Americans said they believe the technology is advancing too quickly. This combination is striking: people are adopting AI tools more than ever, yet many remain uneasy about the pace of change. For public-sector institutions, the findings underline the importance of clear communication, responsible adoption, and public engagement to build trust as AI becomes part of everyday life.\n   (The Verge — AI · 17 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
 }
