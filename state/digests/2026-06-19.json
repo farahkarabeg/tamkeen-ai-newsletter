@@ -1,0 +1,478 @@
+{
+  "id": "2026-06-19",
+  "generated_at_iso": "2026-06-19T06:21:43.370297+00:00",
+  "date_range_label": "19 June 2026",
+  "subtitle": "Friday, 19 June 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.",
+  "items": [
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-18T17:00:00+00:00",
+      "summary": "OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-18T11:00:00+00:00",
+      "summary": "OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-18T08:00:00+00:00",
+      "summary": "Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-06-16T15:46:31+00:00",
+      "summary": "Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Who decides when AI is too dangerous?",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-06-18T14:00:00+00:00",
+      "summary": "This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 19 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. New usage analytics and updated spend controls for enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Improving health intelligence in ChatGPT](https://openai.com/index/improving-health-intelligence-in-chatgpt)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Using AI to help physicians diagnose rare genetic diseases affecting children](https://openai.com/index/diagnose-rare-childhood-diseases)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 16 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Who decides when AI is too dangerous?](https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 18 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 19 June 2026\n============================================================\nWelcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.\n\n1. New usage analytics and updated spend controls for enterprises\n   https://openai.com/index/chatgpt-enterprise-spend-controls\n   OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.\n   (OpenAI · 18 Jun 2026)\n\n2. Improving health intelligence in ChatGPT\n   https://openai.com/index/improving-health-intelligence-in-chatgpt\n   OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.\n   (OpenAI · 18 Jun 2026)\n\n3. Using AI to help physicians diagnose rare genetic diseases affecting children\n   https://openai.com/index/diagnose-rare-childhood-diseases\n   Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.\n   (OpenAI · 18 Jun 2026)\n\n4. Securing the future of AI agents\n   https://deepmind.google/blog/securing-the-future-of-ai-agents/\n   Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.\n   (Google DeepMind · 16 Jun 2026)\n\n5. Who decides when AI is too dangerous?\n   https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump\n   This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.\n   (The Verge — AI · 18 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 19 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. New usage analytics and updated spend controls for enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Improving health intelligence in ChatGPT](https://openai.com/index/improving-health-intelligence-in-chatgpt)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Using AI to help physicians diagnose rare genetic diseases affecting children](https://openai.com/index/diagnose-rare-childhood-diseases)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Securing the future of AI agents](https://deepmind.google/blog/securing-the-future-of-ai-agents/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 16 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Who decides when AI is too dangerous?](https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 18 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 19 June 2026\n============================================================\nWelcome to this edition of our AI digest. This time we focus on practical tools that help organisations manage AI spending responsibly, alongside notable advances in how AI supports health and medical diagnosis. We also examine emerging questions about keeping AI systems secure and the wider debate over who should decide when AI becomes too risky to deploy.\n\n1. New usage analytics and updated spend controls for enterprises\n   https://openai.com/index/chatgpt-enterprise-spend-controls\n   OpenAI has introduced new spending controls and usage analytics for ChatGPT Enterprise, its version of ChatGPT designed for organisations. These features let an organisation see how its teams are using the tool and set limits on costs, making it easier to plan budgets and scale up usage without unexpected expenses. For institutions adopting AI across many departments, this kind of oversight is increasingly important to ensure spending stays predictable and aligned with actual needs. The update reflects a broader shift in the market toward giving organisations more visibility and governance over how AI is used internally. For public-sector bodies in particular, where accountability for public funds is essential, tools that track usage and control costs are a practical step toward responsible adoption.\n   (OpenAI · 18 Jun 2026)\n\n2. Improving health intelligence in ChatGPT\n   https://openai.com/index/improving-health-intelligence-in-chatgpt\n   OpenAI announced improvements to how ChatGPT handles health and wellness questions, powered by an updated model it calls GPT-5.5 Instant. The company says the new version offers stronger reasoning, better understanding of a user's context, and clearer communication, and that its health responses were reviewed against evaluations informed by physicians. The aim is to make everyday health information more reliable and easier to understand, though such tools are intended to support, not replace, professional medical advice. This matters because many people now turn to AI chatbots for health questions, making accuracy and clarity a genuine public-interest concern. For workforce and training purposes, it also illustrates how general-purpose AI tools are being refined for sensitive, high-stakes topics.\n   (OpenAI · 18 Jun 2026)\n\n3. Using AI to help physicians diagnose rare genetic diseases affecting children\n   https://openai.com/index/diagnose-rare-childhood-diseases\n   Researchers used an OpenAI reasoning model to help physicians diagnose rare genetic diseases in children, reportedly identifying 18 new diagnoses in cases that had previously gone unsolved. Rare diseases are notoriously difficult to diagnose because they are uncommon and their symptoms can overlap with many other conditions, sometimes leaving families without answers for years. In this work, the AI acted as a support tool for medical experts, helping to surface possible explanations that doctors could then investigate and confirm. The notable point is that the technology was applied to genuinely difficult, real-world medical problems alongside trained clinicians, rather than replacing them. This is an example of AI being used to augment specialist human expertise in a field where the human cost of delayed answers is very high.\n   (OpenAI · 18 Jun 2026)\n\n4. Securing the future of AI agents\n   https://deepmind.google/blog/securing-the-future-of-ai-agents/\n   Google DeepMind described its approach to securing 'AI agents' — AI systems that can take actions on their own, such as carrying out multi-step tasks, rather than simply answering questions. The company outlined an 'AI Control Roadmap' that combines traditional security safeguards with real-time monitoring to watch what these agents do as they operate. As AI systems are given more autonomy and access to internal tools and data, the risk that they could behave in unintended or harmful ways grows, making this kind of oversight important. The roadmap reflects a wider industry recognition that more capable AI needs stronger guardrails built in from the start. For organisations considering more advanced AI, it is a useful reminder that security and monitoring should be planned alongside any new capabilities.\n   (Google DeepMind · 16 Jun 2026)\n\n5. Who decides when AI is too dangerous?\n   https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump\n   This episode of The Verge's Decoder podcast features senior AI reporter Hayden Field discussing a tense period involving the AI company Anthropic, the Trump administration, and a new Anthropic model. The conversation centres on a difficult and growing question: who should decide when an AI system is too dangerous to release or use, and what role governments versus companies should play. It touches on issues such as government use of AI, including by the Pentagon, and the broader debate over AI regulation in the United States. These questions are notable because they shape the rules and norms that will eventually influence how AI is governed worldwide. For public-sector staff, the discussion highlights the unresolved tension between rapid technological progress and the need for clear oversight and accountability.\n   (The Verge — AI · 18 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
