@@ -31,14 +31,14 @@ def test_draft_banner_present_only_when_draft(compose_cfg, curated_items):
     assert "DRAFT" not in _texts(final)
 
 
-def test_card_links_titles_and_why_it_matters(compose_cfg, curated_items):
+def test_card_links_titles_and_source(compose_cfg, curated_items):
     card = build_adaptive_card(compose_cfg, title="T", subtitle="S",
                                editor_note="", items=curated_items, is_draft=False)
     blob = _texts(card)
-    # Hyperlinked title (markdown) + source + why-it-matters present.
+    # Hyperlinked title (markdown) + source present; why-it-matters removed.
     assert "(https://a.com/edu)" in blob
-    assert "Why it matters for Tamkeen" in blob
     assert "Anthropic" in blob
+    assert "Why it matters" not in blob
 
 
 def test_brand_hex_in_metadata(compose_cfg, curated_items):
@@ -98,7 +98,7 @@ def test_build_markdown_draft_and_content(compose_cfg, curated_items):
                         is_draft=True, delivery_note="Digest `2026-W24` · posted")
     assert "DRAFT — for Policy & Strategy review" in md
     assert "[Story one](https://a.com/edu)" in md          # hyperlinked title
-    assert "Why it matters for Tamkeen" in md
+    assert "Why it matters" not in md                      # removed
     assert "Digest `2026-W24`" in md
 
     final = build_markdown(compose_cfg, subtitle="x", editor_note="",

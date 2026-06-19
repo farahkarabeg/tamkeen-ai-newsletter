@@ -23,11 +23,14 @@ ingest:
     # NOTE: Anthropic does not publish an official public RSS feed, so we use a
     # Google News query scoped to Anthropic/Claude as a working proxy. Swap in
     # an official feed here if/when one is published.
+    # Disabled: Google News proxy (Anthropic has no official RSS). It surfaced
+    # mixed/low-tier outlets (LinkedIn, etc.), which conflicts with trusted-only.
+    # Anthropic news still appears when the trusted press below covers it.
     - name: "Anthropic (via Google News)"
       url: "https://news.google.com/rss/search?q=Anthropic%20Claude%20AI%20when:7d&hl=en-US&gl=US&ceid=US:en"
       category: "lab"
       weight: 1.2
-      enabled: true
+      enabled: false
     - name: "OpenAI"
       url: "https://openai.com/news/rss.xml"
       category: "lab"
@@ -72,21 +75,22 @@ ingest:
       enabled: true
 
     # --- Research preprints (arXiv recent listings) ---
+    # Research preprints disabled — top-trusted-sources only (raw, unvetted).
     - name: "arXiv cs.AI"
       url: "http://export.arxiv.org/rss/cs.AI"
       category: "research"
       weight: 0.9
-      enabled: true
+      enabled: false
     - name: "arXiv cs.LG"
       url: "http://export.arxiv.org/rss/cs.LG"
       category: "research"
       weight: 0.9
-      enabled: true
+      enabled: false
 
   # Hacker News is pulled via the Algolia Search API (not an RSS feed) so we can
   # filter by query + recency + minimum points. Handled specially in ingest.
   hacker_news:
-    enabled: true
+    enabled: false              # community submissions — disabled for trusted-only
     query: "AI OR LLM OR \"artificial intelligence\" OR \"machine learning\""
     min_points: 100         # only surface stories the community rated highly
     max_items: 20
@@ -101,8 +105,8 @@ ingest:
 curate:
   model: "claude-opus-4-8"        # Anthropic model id (official SDK)
   max_output_tokens: 8192         # headroom for scoring many candidates at once
-  select_min: 3                   # daily: fewer fresh items some mornings (weekly: 5)
-  select_max: 6                   # daily: keep the morning read short (weekly: 8)
+  select_min: 5                   # exactly 5 articles per digest
+  select_max: 5
   relevance_floor: 4              # drop anything Claude scores below this (1–10)
 
   context_profile:

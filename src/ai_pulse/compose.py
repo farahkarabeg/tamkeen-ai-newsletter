@@ -117,10 +117,6 @@ def build_adaptive_card(cfg: ComposeConfig, *, title: str, subtitle: str,
                  "wrap": True},
                 {"type": "TextBlock", "text": item.summary, "wrap": True,
                  "spacing": "Small"},
-                {"type": "TextBlock",
-                 "text": f"**Why it matters for {brand.org_name}:** "
-                         f"{item.why_it_matters}",
-                 "wrap": True, "spacing": "Small", "color": "Good"},
                 {"type": "TextBlock", "text": meta, "isSubtle": True,
                  "size": "Small", "spacing": "Small", "wrap": True},
             ],
@@ -183,7 +179,6 @@ def build_plain_text(*, title: str, subtitle: str, editor_note: str,
         lines.append(f"{n}. {item.title}")
         lines.append(f"   {item.url}")
         lines.append(f"   {item.summary}")
-        lines.append(f"   Why it matters for {org_name}: {item.why_it_matters}")
         meta = " · ".join(p for p in (item.source_name, date_str) if p)
         lines.append(f"   ({meta})")
         lines.append("")
@@ -216,7 +211,6 @@ def build_markdown(cfg: ComposeConfig, *, subtitle: str, editor_note: str,
         meta = " · ".join(p for p in (item.source_name, date_str) if p)
         md.append(f"### {n}. [{item.title}]({item.url})")
         md.append(f"{item.summary}")
-        md.append(f"**Why it matters for {brand.org_name}:** {item.why_it_matters}")
         md.append(f"<sub>{meta} · relevance {item.relevance}/10</sub>")
         md.append("")
     md.append("---")

@@ -35,8 +35,8 @@ class CuratedItem(BaseModel):
     url: str
     source_name: str
     published_iso: str
-    summary: str                 # 2–3 plain-language sentences
-    why_it_matters: str          # one line, Tamkeen-specific
+    summary: str                 # full plain-language paragraph
+    why_it_matters: str = ""     # retained (optional) but no longer rendered
     relevance: int = Field(ge=1, le=10)
 
 

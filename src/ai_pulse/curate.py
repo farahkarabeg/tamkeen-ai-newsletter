@@ -175,17 +175,16 @@ class Curator:
         )
         prompt = (
             f"{_profile_text(self.cfg)}\n\n"
-            f"Write this week's digest content for the {len(selected)} stories below.\n"
+            f"Write this digest's content for the {len(selected)} stories below.\n"
             f"For EACH story produce:\n"
-            f'  - "summary": 2–3 plain-language sentences a non-technical employee '
-            f"understands. Factual, no hype, no jargon.\n"
-            f'  - "why_it_matters": ONE concise line on why it matters specifically '
-            f"for this organisation.\n"
+            f'  - "summary": a clear, substantive paragraph of 4–6 sentences that a '
+            f"non-technical employee understands — cover what happened, the key "
+            f"details and context, and why it is notable. Factual, no hype, no jargon.\n"
             f"Also write a single warm, professional 'editor_note' (2–3 sentences) "
-            f"introducing the week's themes.\n\n"
+            f"introducing the themes.\n\n"
             f"STORIES:\n{listing}\n\n"
             f'Return ONLY JSON: {{"editor_note": "...", '
-            f'"items": [{{"index": 0, "summary": "...", "why_it_matters": "..."}}, ...]}}'
+            f'"items": [{{"index": 0, "summary": "..."}}, ...]}}'
         )
         items: list[CuratedItem] = []
         failures = 0
@@ -209,7 +208,6 @@ class Curator:
                 title=art.title, url=art.url, source_name=art.source_name,
                 published_iso=art.published.isoformat(),
                 summary=str(d["summary"]).strip(),
-                why_it_matters=str(d.get("why_it_matters", "")).strip(),
                 relevance=max(1, min(10, score)),  # clamp into the valid range
             ))
         log.info("Summarised %d items (%d failures)", len(items), failures)
