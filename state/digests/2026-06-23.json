@@ -1,0 +1,478 @@
+{
+  "id": "2026-06-23",
+  "generated_at_iso": "2026-06-23T16:14:22.825476+00:00",
+  "date_range_label": "23 June 2026",
+  "subtitle": "Tuesday, 23 June 2026",
+  "editor_note": "Welcome to this edition, where we focus on how AI is reshaping the world of work — from the jobs being cut and the new ways people are being hired, to how companies are rebuilding themselves around AI tools. We also look at the practical side of running these systems, including their environmental footprint. Together, these stories highlight both the opportunities and the responsibilities that come with workforce and human-capital development in an AI-driven era.",
+  "items": [
+    {
+      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+      "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-06-23T01:27:55+00:00",
+      "summary": "TechCrunch is maintaining a running, regularly updated list of major technology companies that announced significant layoffs in 2026 and named AI as one of the reasons. The list, organised from most to least recent, tracks employers who say that automation, efficiency gains from AI tools, or a shift in business priorities toward AI contributed to their workforce reductions. It is notable because it offers a concrete, ongoing record of how AI is being cited in real employment decisions, rather than as a future hypothetical. For an institution focused on workforce development, this is a useful signal of which roles and sectors are most exposed to change. It also serves as a reminder that companies' stated reasons can blend AI with broader cost-cutting, so the figures should be read carefully rather than taken as proof that AI alone caused each job loss.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-06-23T13:00:00+00:00",
+      "summary": "Fika Jobs, a startup based in Stockholm, has raised $4 million to build a recruitment platform that combines short-form video profiles with AI agents that conduct initial interviews with candidates. The company describes the experience as a blend of LinkedIn and TikTok, where job seekers present themselves through quick videos and an AI tool carries out a first round of screening conversations. This reflects a growing trend of using AI to automate the early, time-consuming stages of hiring, potentially making recruitment faster and giving more candidates a chance to be seen. For workforce and talent development, it raises important questions about fairness, accessibility, and how candidates can best prepare for AI-led interviews. It also signals that the way people apply for and secure jobs may look quite different in the coming years, with implications for how we train and advise job seekers.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-23T00:00:00+00:00",
+      "summary": "Omio, a travel booking company, has described how it is using OpenAI's technology to power conversational travel experiences — allowing customers to plan and book trips through natural, chat-style interactions rather than traditional search forms. The company says these tools have also helped it develop new products faster and reposition itself as an \"AI-native\" business, meaning AI is built into the core of how it operates rather than added on afterward. This case is a practical example of how an established company can reorganise its work and customer service around AI rather than simply adopting it in isolated tasks. For public-sector organisations, it offers a relevant model for how conversational AI might one day simplify how citizens access services and information. It also illustrates that the deeper benefits often come from rethinking processes, not just deploying a new tool.",
+      "why_it_matters": "",
+      "relevance": 3
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-22T00:00:00+00:00",
+      "summary": "OpenAI shared an account of how one user, Jason Liu, uses its coding assistant Codex to handle long-running and complex projects rather than one-off requests. The piece, informally titled \"Codex-maxxing,\" describes techniques for preserving context — that is, helping the AI remember the bigger picture of a task — so that work can continue smoothly across many steps and over extended periods. This matters because a common limitation of AI tools is that they tend to lose track of earlier instructions, making them less reliable for sustained, multi-stage work. The example shows how skilled users are learning to structure their interactions to get more dependable results. For staff thinking about training and skills, it is a reminder that getting real value from AI increasingly depends on knowing how to manage and guide these tools effectively, which is itself a learnable skill.",
+      "why_it_matters": "",
+      "relevance": 3
+    },
+    {
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-06-22T23:24:32+00:00",
+      "summary": "Nvidia, a leading maker of the chips that power AI systems, says its new \"Rubin\" generation data center design uses far less power and almost no water by relying on liquid cooling and running at higher temperatures. The announcement responds to growing public concern about the heavy water and energy demands of the data centers that train and run AI models. While Nvidia claims its reference design eliminates most water usage, the report notes this does not address all environmental worries, such as the overall electricity these facilities still consume. This is notable because the rapid expansion of AI depends on building more of these centers, and their environmental impact is becoming a significant policy and community issue. For a region where water resources and sustainability are key priorities, the trade-offs in how AI infrastructure is built and cooled are particularly relevant.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 23 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we focus on how AI is reshaping the world of work — from the jobs being cut and the new ways people are being hired, to how companies are rebuilding themselves around AI tools. We also look at the practical side of running these systems, including their environmental footprint. Together, these stories highlight both the opportunities and the responsibilities that come with workforce and human-capital development in an AI-driven era.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch is maintaining a running, regularly updated list of major technology companies that announced significant layoffs in 2026 and named AI as one of the reasons. The list, organised from most to least recent, tracks employers who say that automation, efficiency gains from AI tools, or a shift in business priorities toward AI contributed to their workforce reductions. It is notable because it offers a concrete, ongoing record of how AI is being cited in real employment decisions, rather than as a future hypothetical. For an institution focused on workforce development, this is a useful signal of which roles and sectors are most exposed to change. It also serves as a reminder that companies' stated reasons can blend AI with broader cost-cutting, so the figures should be read carefully rather than taken as proof that AI alone caused each job loss.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates](https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Fika Jobs, a startup based in Stockholm, has raised $4 million to build a recruitment platform that combines short-form video profiles with AI agents that conduct initial interviews with candidates. The company describes the experience as a blend of LinkedIn and TikTok, where job seekers present themselves through quick videos and an AI tool carries out a first round of screening conversations. This reflects a growing trend of using AI to automate the early, time-consuming stages of hiring, potentially making recruitment faster and giving more candidates a chance to be seen. For workforce and talent development, it raises important questions about fairness, accessibility, and how candidates can best prepare for AI-led interviews. It also signals that the way people apply for and secure jobs may look quite different in the coming years, with implications for how we train and advise job seekers.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. How Omio is building the future of conversational travel](https://openai.com/index/omio)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Omio, a travel booking company, has described how it is using OpenAI's technology to power conversational travel experiences — allowing customers to plan and book trips through natural, chat-style interactions rather than traditional search forms. The company says these tools have also helped it develop new products faster and reposition itself as an \"AI-native\" business, meaning AI is built into the core of how it operates rather than added on afterward. This case is a practical example of how an established company can reorganise its work and customer service around AI rather than simply adopting it in isolated tasks. For public-sector organisations, it offers a relevant model for how conversational AI might one day simplify how citizens access services and information. It also illustrates that the deeper benefits often come from rethinking processes, not just deploying a new tool.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Codex-maxxing for long-running work](https://openai.com/index/codex-maxxing-long-running-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI shared an account of how one user, Jason Liu, uses its coding assistant Codex to handle long-running and complex projects rather than one-off requests. The piece, informally titled \"Codex-maxxing,\" describes techniques for preserving context — that is, helping the AI remember the bigger picture of a task — so that work can continue smoothly across many steps and over extended periods. This matters because a common limitation of AI tools is that they tend to lose track of earlier instructions, making them less reliable for sustained, multi-stage work. The example shows how skilled users are learning to structure their interactions to get more dependable results. For staff thinking about training and skills, it is a reminder that getting real value from AI increasingly depends on knowing how to manage and guide these tools effectively, which is itself a learnable skill.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Nvidia, a leading maker of the chips that power AI systems, says its new \"Rubin\" generation data center design uses far less power and almost no water by relying on liquid cooling and running at higher temperatures. The announcement responds to growing public concern about the heavy water and energy demands of the data centers that train and run AI models. While Nvidia claims its reference design eliminates most water usage, the report notes this does not address all environmental worries, such as the overall electricity these facilities still consume. This is notable because the rapid expansion of AI depends on building more of these centers, and their environmental impact is becoming a significant policy and community issue. For a region where water resources and sustainability are key priorities, the trade-offs in how AI infrastructure is built and cooled are particularly relevant.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 23 June 2026\n============================================================\nWelcome to this edition, where we focus on how AI is reshaping the world of work — from the jobs being cut and the new ways people are being hired, to how companies are rebuilding themselves around AI tools. We also look at the practical side of running these systems, including their environmental footprint. Together, these stories highlight both the opportunities and the responsibilities that come with workforce and human-capital development in an AI-driven era.\n\n1. The running list: major tech layoffs in 2026 where employers cited AI\n   https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/\n   TechCrunch is maintaining a running, regularly updated list of major technology companies that announced significant layoffs in 2026 and named AI as one of the reasons. The list, organised from most to least recent, tracks employers who say that automation, efficiency gains from AI tools, or a shift in business priorities toward AI contributed to their workforce reductions. It is notable because it offers a concrete, ongoing record of how AI is being cited in real employment decisions, rather than as a future hypothetical. For an institution focused on workforce development, this is a useful signal of which roles and sectors are most exposed to change. It also serves as a reminder that companies' stated reasons can blend AI with broader cost-cutting, so the figures should be read carefully rather than taken as proof that AI alone caused each job loss.\n   (TechCrunch — AI · 23 Jun 2026)\n\n2. Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates\n   https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/\n   Fika Jobs, a startup based in Stockholm, has raised $4 million to build a recruitment platform that combines short-form video profiles with AI agents that conduct initial interviews with candidates. The company describes the experience as a blend of LinkedIn and TikTok, where job seekers present themselves through quick videos and an AI tool carries out a first round of screening conversations. This reflects a growing trend of using AI to automate the early, time-consuming stages of hiring, potentially making recruitment faster and giving more candidates a chance to be seen. For workforce and talent development, it raises important questions about fairness, accessibility, and how candidates can best prepare for AI-led interviews. It also signals that the way people apply for and secure jobs may look quite different in the coming years, with implications for how we train and advise job seekers.\n   (TechCrunch — AI · 23 Jun 2026)\n\n3. How Omio is building the future of conversational travel\n   https://openai.com/index/omio\n   Omio, a travel booking company, has described how it is using OpenAI's technology to power conversational travel experiences — allowing customers to plan and book trips through natural, chat-style interactions rather than traditional search forms. The company says these tools have also helped it develop new products faster and reposition itself as an \"AI-native\" business, meaning AI is built into the core of how it operates rather than added on afterward. This case is a practical example of how an established company can reorganise its work and customer service around AI rather than simply adopting it in isolated tasks. For public-sector organisations, it offers a relevant model for how conversational AI might one day simplify how citizens access services and information. It also illustrates that the deeper benefits often come from rethinking processes, not just deploying a new tool.\n   (OpenAI · 23 Jun 2026)\n\n4. Codex-maxxing for long-running work\n   https://openai.com/index/codex-maxxing-long-running-work\n   OpenAI shared an account of how one user, Jason Liu, uses its coding assistant Codex to handle long-running and complex projects rather than one-off requests. The piece, informally titled \"Codex-maxxing,\" describes techniques for preserving context — that is, helping the AI remember the bigger picture of a task — so that work can continue smoothly across many steps and over extended periods. This matters because a common limitation of AI tools is that they tend to lose track of earlier instructions, making them less reliable for sustained, multi-stage work. The example shows how skilled users are learning to structure their interactions to get more dependable results. For staff thinking about training and skills, it is a reminder that getting real value from AI increasingly depends on knowing how to manage and guide these tools effectively, which is itself a learnable skill.\n   (OpenAI · 22 Jun 2026)\n\n5. Nvidia says its AI data center design runs hotter to use a lot less water\n   https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling\n   Nvidia, a leading maker of the chips that power AI systems, says its new \"Rubin\" generation data center design uses far less power and almost no water by relying on liquid cooling and running at higher temperatures. The announcement responds to growing public concern about the heavy water and energy demands of the data centers that train and run AI models. While Nvidia claims its reference design eliminates most water usage, the report notes this does not address all environmental worries, such as the overall electricity these facilities still consume. This is notable because the rapid expansion of AI depends on building more of these centers, and their environmental impact is becoming a significant policy and community issue. For a region where water resources and sustainability are key priorities, the trade-offs in how AI infrastructure is built and cooled are particularly relevant.\n   (The Verge — AI · 23 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 23 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we focus on how AI is reshaping the world of work — from the jobs being cut and the new ways people are being hired, to how companies are rebuilding themselves around AI tools. We also look at the practical side of running these systems, including their environmental footprint. Together, these stories highlight both the opportunities and the responsibilities that come with workforce and human-capital development in an AI-driven era.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch is maintaining a running, regularly updated list of major technology companies that announced significant layoffs in 2026 and named AI as one of the reasons. The list, organised from most to least recent, tracks employers who say that automation, efficiency gains from AI tools, or a shift in business priorities toward AI contributed to their workforce reductions. It is notable because it offers a concrete, ongoing record of how AI is being cited in real employment decisions, rather than as a future hypothetical. For an institution focused on workforce development, this is a useful signal of which roles and sectors are most exposed to change. It also serves as a reminder that companies' stated reasons can blend AI with broader cost-cutting, so the figures should be read carefully rather than taken as proof that AI alone caused each job loss.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates](https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Fika Jobs, a startup based in Stockholm, has raised $4 million to build a recruitment platform that combines short-form video profiles with AI agents that conduct initial interviews with candidates. The company describes the experience as a blend of LinkedIn and TikTok, where job seekers present themselves through quick videos and an AI tool carries out a first round of screening conversations. This reflects a growing trend of using AI to automate the early, time-consuming stages of hiring, potentially making recruitment faster and giving more candidates a chance to be seen. For workforce and talent development, it raises important questions about fairness, accessibility, and how candidates can best prepare for AI-led interviews. It also signals that the way people apply for and secure jobs may look quite different in the coming years, with implications for how we train and advise job seekers.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. How Omio is building the future of conversational travel](https://openai.com/index/omio)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Omio, a travel booking company, has described how it is using OpenAI's technology to power conversational travel experiences — allowing customers to plan and book trips through natural, chat-style interactions rather than traditional search forms. The company says these tools have also helped it develop new products faster and reposition itself as an \"AI-native\" business, meaning AI is built into the core of how it operates rather than added on afterward. This case is a practical example of how an established company can reorganise its work and customer service around AI rather than simply adopting it in isolated tasks. For public-sector organisations, it offers a relevant model for how conversational AI might one day simplify how citizens access services and information. It also illustrates that the deeper benefits often come from rethinking processes, not just deploying a new tool.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Codex-maxxing for long-running work](https://openai.com/index/codex-maxxing-long-running-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI shared an account of how one user, Jason Liu, uses its coding assistant Codex to handle long-running and complex projects rather than one-off requests. The piece, informally titled \"Codex-maxxing,\" describes techniques for preserving context — that is, helping the AI remember the bigger picture of a task — so that work can continue smoothly across many steps and over extended periods. This matters because a common limitation of AI tools is that they tend to lose track of earlier instructions, making them less reliable for sustained, multi-stage work. The example shows how skilled users are learning to structure their interactions to get more dependable results. For staff thinking about training and skills, it is a reminder that getting real value from AI increasingly depends on knowing how to manage and guide these tools effectively, which is itself a learnable skill.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Nvidia says its AI data center design runs hotter to use a lot less water](https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Nvidia, a leading maker of the chips that power AI systems, says its new \"Rubin\" generation data center design uses far less power and almost no water by relying on liquid cooling and running at higher temperatures. The announcement responds to growing public concern about the heavy water and energy demands of the data centers that train and run AI models. While Nvidia claims its reference design eliminates most water usage, the report notes this does not address all environmental worries, such as the overall electricity these facilities still consume. This is notable because the rapid expansion of AI depends on building more of these centers, and their environmental impact is becoming a significant policy and community issue. For a region where water resources and sustainability are key priorities, the trade-offs in how AI infrastructure is built and cooled are particularly relevant.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 23 June 2026\n============================================================\nWelcome to this edition, where we focus on how AI is reshaping the world of work — from the jobs being cut and the new ways people are being hired, to how companies are rebuilding themselves around AI tools. We also look at the practical side of running these systems, including their environmental footprint. Together, these stories highlight both the opportunities and the responsibilities that come with workforce and human-capital development in an AI-driven era.\n\n1. The running list: major tech layoffs in 2026 where employers cited AI\n   https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/\n   TechCrunch is maintaining a running, regularly updated list of major technology companies that announced significant layoffs in 2026 and named AI as one of the reasons. The list, organised from most to least recent, tracks employers who say that automation, efficiency gains from AI tools, or a shift in business priorities toward AI contributed to their workforce reductions. It is notable because it offers a concrete, ongoing record of how AI is being cited in real employment decisions, rather than as a future hypothetical. For an institution focused on workforce development, this is a useful signal of which roles and sectors are most exposed to change. It also serves as a reminder that companies' stated reasons can blend AI with broader cost-cutting, so the figures should be read carefully rather than taken as proof that AI alone caused each job loss.\n   (TechCrunch — AI · 23 Jun 2026)\n\n2. Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates\n   https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/\n   Fika Jobs, a startup based in Stockholm, has raised $4 million to build a recruitment platform that combines short-form video profiles with AI agents that conduct initial interviews with candidates. The company describes the experience as a blend of LinkedIn and TikTok, where job seekers present themselves through quick videos and an AI tool carries out a first round of screening conversations. This reflects a growing trend of using AI to automate the early, time-consuming stages of hiring, potentially making recruitment faster and giving more candidates a chance to be seen. For workforce and talent development, it raises important questions about fairness, accessibility, and how candidates can best prepare for AI-led interviews. It also signals that the way people apply for and secure jobs may look quite different in the coming years, with implications for how we train and advise job seekers.\n   (TechCrunch — AI · 23 Jun 2026)\n\n3. How Omio is building the future of conversational travel\n   https://openai.com/index/omio\n   Omio, a travel booking company, has described how it is using OpenAI's technology to power conversational travel experiences — allowing customers to plan and book trips through natural, chat-style interactions rather than traditional search forms. The company says these tools have also helped it develop new products faster and reposition itself as an \"AI-native\" business, meaning AI is built into the core of how it operates rather than added on afterward. This case is a practical example of how an established company can reorganise its work and customer service around AI rather than simply adopting it in isolated tasks. For public-sector organisations, it offers a relevant model for how conversational AI might one day simplify how citizens access services and information. It also illustrates that the deeper benefits often come from rethinking processes, not just deploying a new tool.\n   (OpenAI · 23 Jun 2026)\n\n4. Codex-maxxing for long-running work\n   https://openai.com/index/codex-maxxing-long-running-work\n   OpenAI shared an account of how one user, Jason Liu, uses its coding assistant Codex to handle long-running and complex projects rather than one-off requests. The piece, informally titled \"Codex-maxxing,\" describes techniques for preserving context — that is, helping the AI remember the bigger picture of a task — so that work can continue smoothly across many steps and over extended periods. This matters because a common limitation of AI tools is that they tend to lose track of earlier instructions, making them less reliable for sustained, multi-stage work. The example shows how skilled users are learning to structure their interactions to get more dependable results. For staff thinking about training and skills, it is a reminder that getting real value from AI increasingly depends on knowing how to manage and guide these tools effectively, which is itself a learnable skill.\n   (OpenAI · 22 Jun 2026)\n\n5. Nvidia says its AI data center design runs hotter to use a lot less water\n   https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling\n   Nvidia, a leading maker of the chips that power AI systems, says its new \"Rubin\" generation data center design uses far less power and almost no water by relying on liquid cooling and running at higher temperatures. The announcement responds to growing public concern about the heavy water and energy demands of the data centers that train and run AI models. While Nvidia claims its reference design eliminates most water usage, the report notes this does not address all environmental worries, such as the overall electricity these facilities still consume. This is notable because the rapid expansion of AI depends on building more of these centers, and their environmental impact is becoming a significant policy and community issue. For a region where water resources and sustainability are key priorities, the trade-offs in how AI infrastructure is built and cooled are particularly relevant.\n   (The Verge — AI · 23 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
