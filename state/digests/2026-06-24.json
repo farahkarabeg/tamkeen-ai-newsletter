@@ -1,0 +1,478 @@
+{
+  "id": "2026-06-24",
+  "generated_at_iso": "2026-06-24T15:39:28.038557+00:00",
+  "date_range_label": "24 June 2026",
+  "subtitle": "Wednesday, 24 June 2026",
+  "editor_note": "This edition looks at how the AI field is maturing — from new efforts to build shared safety and evaluation standards, to real-world breakthroughs in scientific research, to the specialised hardware now powering these systems. We also examine how AI is becoming a force in policy and elections, a reminder that the technology's influence reaches well beyond the lab. Together these stories show why governance, talent, and responsible adoption remain central to our mandate.",
+  "items": [
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-23T13:00:00+00:00",
+      "summary": "OpenAI has announced that it is helping to develop shared standards for advanced AI systems through a new initiative called the Appia Foundation. The goal is to create common ways of testing AI models for safety, evaluating their performance, and encouraging cooperation between organisations and countries. Shared standards matter because, until now, each AI company has largely set its own rules for what counts as safe or reliable, making it hard to compare systems or hold them to a consistent bar. For public-sector bodies, agreed standards can make it easier to assess and procure AI tools responsibly. This effort reflects a broader trend toward treating AI safety and governance as a collective responsibility rather than the work of any single company. It is an early-stage initiative, so its real influence will depend on how widely it is adopted.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-23T17:00:00+00:00",
+      "summary": "An immunologist named Derya Unutmaz used OpenAI's GPT-5 Pro to help crack a research puzzle about T cells — a type of immune cell — that had stumped him for three years. By working through the problem with the AI, he reportedly gained new insights into how these cells behave, which could feed into research on cancer and autoimmune diseases. This is notable because it shows AI being used not to replace scientists, but to act as a thinking partner that helps experts explore ideas and test hypotheses faster. It is an example of how AI tools may accelerate progress in fields that require deep human knowledge. For workforce and education planners, it highlights a future where professionals across many fields work alongside AI to enhance their expertise. As with any single case, the underlying findings will still need to be confirmed through normal scientific review.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-24T06:00:00+00:00",
+      "summary": "OpenAI, in partnership with chipmaker Broadcom, has unveiled a custom-built computer chip called Jalapeño designed specifically for 'inference' — the stage when an AI model actually answers questions or generates content, as opposed to when it is first being trained. The chip aims to make running AI systems faster, more energy-efficient, and cheaper at large scale. This matters because the cost and electricity needed to operate AI tools have become major concerns, and purpose-built hardware can help ease both. It also signals that AI companies increasingly want to design their own chips rather than rely entirely on outside suppliers. For non-technical readers, the key point is that improving the underlying hardware could make AI services more affordable and widely available over time, including for governments and public institutions.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Why corporate AI super PACs spent $27 million on a local election",
+      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-06-23T17:00:00+00:00",
+      "summary": "The Verge reports that political action committees (super PACs) backed by corporate AI interests spent roughly $27 million to influence a single local election in a New York district. The spending was aimed at a candidate, Alex Bores, associated with efforts to regulate AI. The scale of this investment in a relatively small race is striking and shows how seriously the AI industry is taking the fight over future rules and oversight. It signals that AI companies are now active players in politics, not just technology, and are willing to spend heavily to shape who writes the laws that govern them. For public-sector staff, this is a reminder that AI policy is becoming a high-stakes political arena, with significant money behind competing views on how the technology should be controlled.",
+      "why_it_matters": "",
+      "relevance": 3
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-06-24T14:54:46+00:00",
+      "summary": "TechCrunch confirms that OpenAI has revealed its first custom-designed chip, named Jalapeño, built in collaboration with Broadcom and tailored to the specific needs of OpenAI's inference systems — the part of an AI model that produces responses to users. Designing its own processor allows OpenAI to optimise performance and efficiency for its particular workloads rather than depending solely on general-purpose chips from other vendors. This move places OpenAI alongside other major technology firms that have begun building bespoke hardware to support their AI ambitions. The development is part of a wider race to control the costs and supply of the computing power that AI depends on. While this is a technical milestone, its practical importance lies in making large-scale AI systems more sustainable and reliable to operate.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 24 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how the AI field is maturing — from new efforts to build shared safety and evaluation standards, to real-world breakthroughs in scientific research, to the specialised hardware now powering these systems. We also examine how AI is becoming a force in policy and elections, a reminder that the technology's influence reaches well beyond the lab. Together these stories show why governance, talent, and responsible adoption remain central to our mandate.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced that it is helping to develop shared standards for advanced AI systems through a new initiative called the Appia Foundation. The goal is to create common ways of testing AI models for safety, evaluating their performance, and encouraging cooperation between organisations and countries. Shared standards matter because, until now, each AI company has largely set its own rules for what counts as safe or reliable, making it hard to compare systems or hold them to a consistent bar. For public-sector bodies, agreed standards can make it easier to assess and procure AI tools responsibly. This effort reflects a broader trend toward treating AI safety and governance as a collective responsibility rather than the work of any single company. It is an early-stage initiative, so its real influence will depend on how widely it is adopted.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "An immunologist named Derya Unutmaz used OpenAI's GPT-5 Pro to help crack a research puzzle about T cells — a type of immune cell — that had stumped him for three years. By working through the problem with the AI, he reportedly gained new insights into how these cells behave, which could feed into research on cancer and autoimmune diseases. This is notable because it shows AI being used not to replace scientists, but to act as a thinking partner that helps experts explore ideas and test hypotheses faster. It is an example of how AI tools may accelerate progress in fields that require deep human knowledge. For workforce and education planners, it highlights a future where professionals across many fields work alongside AI to enhance their expertise. As with any single case, the underlying findings will still need to be confirmed through normal scientific review.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, in partnership with chipmaker Broadcom, has unveiled a custom-built computer chip called Jalapeño designed specifically for 'inference' — the stage when an AI model actually answers questions or generates content, as opposed to when it is first being trained. The chip aims to make running AI systems faster, more energy-efficient, and cheaper at large scale. This matters because the cost and electricity needed to operate AI tools have become major concerns, and purpose-built hardware can help ease both. It also signals that AI companies increasingly want to design their own chips rather than rely entirely on outside suppliers. For non-technical readers, the key point is that improving the underlying hardware could make AI services more affordable and widely available over time, including for governments and public institutions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Why corporate AI super PACs spent $27 million on a local election](https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reports that political action committees (super PACs) backed by corporate AI interests spent roughly $27 million to influence a single local election in a New York district. The spending was aimed at a candidate, Alex Bores, associated with efforts to regulate AI. The scale of this investment in a relatively small race is striking and shows how seriously the AI industry is taking the fight over future rules and oversight. It signals that AI companies are now active players in politics, not just technology, and are willing to spend heavily to shape who writes the laws that govern them. For public-sector staff, this is a reminder that AI policy is becoming a high-stakes political arena, with significant money behind competing views on how the technology should be controlled.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch confirms that OpenAI has revealed its first custom-designed chip, named Jalapeño, built in collaboration with Broadcom and tailored to the specific needs of OpenAI's inference systems — the part of an AI model that produces responses to users. Designing its own processor allows OpenAI to optimise performance and efficiency for its particular workloads rather than depending solely on general-purpose chips from other vendors. This move places OpenAI alongside other major technology firms that have begun building bespoke hardware to support their AI ambitions. The development is part of a wider race to control the costs and supply of the computing power that AI depends on. While this is a technical milestone, its practical importance lies in making large-scale AI systems more sustainable and reliable to operate.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 24 June 2026\n============================================================\nThis edition looks at how the AI field is maturing — from new efforts to build shared safety and evaluation standards, to real-world breakthroughs in scientific research, to the specialised hardware now powering these systems. We also examine how AI is becoming a force in policy and elections, a reminder that the technology's influence reaches well beyond the lab. Together these stories show why governance, talent, and responsible adoption remain central to our mandate.\n\n1. Helping build shared standards for advanced AI\n   https://openai.com/index/helping-build-shared-standards-for-advanced-ai\n   OpenAI has announced that it is helping to develop shared standards for advanced AI systems through a new initiative called the Appia Foundation. The goal is to create common ways of testing AI models for safety, evaluating their performance, and encouraging cooperation between organisations and countries. Shared standards matter because, until now, each AI company has largely set its own rules for what counts as safe or reliable, making it hard to compare systems or hold them to a consistent bar. For public-sector bodies, agreed standards can make it easier to assess and procure AI tools responsibly. This effort reflects a broader trend toward treating AI safety and governance as a collective responsibility rather than the work of any single company. It is an early-stage initiative, so its real influence will depend on how widely it is adopted.\n   (OpenAI · 23 Jun 2026)\n\n2. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery\n   https://openai.com/index/gpt-5-immunology-mystery\n   An immunologist named Derya Unutmaz used OpenAI's GPT-5 Pro to help crack a research puzzle about T cells — a type of immune cell — that had stumped him for three years. By working through the problem with the AI, he reportedly gained new insights into how these cells behave, which could feed into research on cancer and autoimmune diseases. This is notable because it shows AI being used not to replace scientists, but to act as a thinking partner that helps experts explore ideas and test hypotheses faster. It is an example of how AI tools may accelerate progress in fields that require deep human knowledge. For workforce and education planners, it highlights a future where professionals across many fields work alongside AI to enhance their expertise. As with any single case, the underlying findings will still need to be confirmed through normal scientific review.\n   (OpenAI · 23 Jun 2026)\n\n3. OpenAI and Broadcom unveil LLM-optimized inference chip\n   https://openai.com/index/openai-broadcom-jalapeno-inference-chip\n   OpenAI, in partnership with chipmaker Broadcom, has unveiled a custom-built computer chip called Jalapeño designed specifically for 'inference' — the stage when an AI model actually answers questions or generates content, as opposed to when it is first being trained. The chip aims to make running AI systems faster, more energy-efficient, and cheaper at large scale. This matters because the cost and electricity needed to operate AI tools have become major concerns, and purpose-built hardware can help ease both. It also signals that AI companies increasingly want to design their own chips rather than rely entirely on outside suppliers. For non-technical readers, the key point is that improving the underlying hardware could make AI services more affordable and widely available over time, including for governments and public institutions.\n   (OpenAI · 24 Jun 2026)\n\n4. Why corporate AI super PACs spent $27 million on a local election\n   https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district\n   The Verge reports that political action committees (super PACs) backed by corporate AI interests spent roughly $27 million to influence a single local election in a New York district. The spending was aimed at a candidate, Alex Bores, associated with efforts to regulate AI. The scale of this investment in a relatively small race is striking and shows how seriously the AI industry is taking the fight over future rules and oversight. It signals that AI companies are now active players in politics, not just technology, and are willing to spend heavily to shape who writes the laws that govern them. For public-sector staff, this is a reminder that AI policy is becoming a high-stakes political arena, with significant money behind competing views on how the technology should be controlled.\n   (The Verge — AI · 23 Jun 2026)\n\n5. OpenAI unveils its first custom chip, built by Broadcom\n   https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/\n   TechCrunch confirms that OpenAI has revealed its first custom-designed chip, named Jalapeño, built in collaboration with Broadcom and tailored to the specific needs of OpenAI's inference systems — the part of an AI model that produces responses to users. Designing its own processor allows OpenAI to optimise performance and efficiency for its particular workloads rather than depending solely on general-purpose chips from other vendors. This move places OpenAI alongside other major technology firms that have begun building bespoke hardware to support their AI ambitions. The development is part of a wider race to control the costs and supply of the computing power that AI depends on. While this is a technical milestone, its practical importance lies in making large-scale AI systems more sustainable and reliable to operate.\n   (TechCrunch — AI · 24 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 24 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how the AI field is maturing — from new efforts to build shared safety and evaluation standards, to real-world breakthroughs in scientific research, to the specialised hardware now powering these systems. We also examine how AI is becoming a force in policy and elections, a reminder that the technology's influence reaches well beyond the lab. Together these stories show why governance, talent, and responsible adoption remain central to our mandate.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced that it is helping to develop shared standards for advanced AI systems through a new initiative called the Appia Foundation. The goal is to create common ways of testing AI models for safety, evaluating their performance, and encouraging cooperation between organisations and countries. Shared standards matter because, until now, each AI company has largely set its own rules for what counts as safe or reliable, making it hard to compare systems or hold them to a consistent bar. For public-sector bodies, agreed standards can make it easier to assess and procure AI tools responsibly. This effort reflects a broader trend toward treating AI safety and governance as a collective responsibility rather than the work of any single company. It is an early-stage initiative, so its real influence will depend on how widely it is adopted.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "An immunologist named Derya Unutmaz used OpenAI's GPT-5 Pro to help crack a research puzzle about T cells — a type of immune cell — that had stumped him for three years. By working through the problem with the AI, he reportedly gained new insights into how these cells behave, which could feed into research on cancer and autoimmune diseases. This is notable because it shows AI being used not to replace scientists, but to act as a thinking partner that helps experts explore ideas and test hypotheses faster. It is an example of how AI tools may accelerate progress in fields that require deep human knowledge. For workforce and education planners, it highlights a future where professionals across many fields work alongside AI to enhance their expertise. As with any single case, the underlying findings will still need to be confirmed through normal scientific review.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, in partnership with chipmaker Broadcom, has unveiled a custom-built computer chip called Jalapeño designed specifically for 'inference' — the stage when an AI model actually answers questions or generates content, as opposed to when it is first being trained. The chip aims to make running AI systems faster, more energy-efficient, and cheaper at large scale. This matters because the cost and electricity needed to operate AI tools have become major concerns, and purpose-built hardware can help ease both. It also signals that AI companies increasingly want to design their own chips rather than rely entirely on outside suppliers. For non-technical readers, the key point is that improving the underlying hardware could make AI services more affordable and widely available over time, including for governments and public institutions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Why corporate AI super PACs spent $27 million on a local election](https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reports that political action committees (super PACs) backed by corporate AI interests spent roughly $27 million to influence a single local election in a New York district. The spending was aimed at a candidate, Alex Bores, associated with efforts to regulate AI. The scale of this investment in a relatively small race is striking and shows how seriously the AI industry is taking the fight over future rules and oversight. It signals that AI companies are now active players in politics, not just technology, and are willing to spend heavily to shape who writes the laws that govern them. For public-sector staff, this is a reminder that AI policy is becoming a high-stakes political arena, with significant money behind competing views on how the technology should be controlled.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch confirms that OpenAI has revealed its first custom-designed chip, named Jalapeño, built in collaboration with Broadcom and tailored to the specific needs of OpenAI's inference systems — the part of an AI model that produces responses to users. Designing its own processor allows OpenAI to optimise performance and efficiency for its particular workloads rather than depending solely on general-purpose chips from other vendors. This move places OpenAI alongside other major technology firms that have begun building bespoke hardware to support their AI ambitions. The development is part of a wider race to control the costs and supply of the computing power that AI depends on. While this is a technical milestone, its practical importance lies in making large-scale AI systems more sustainable and reliable to operate.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 24 June 2026\n============================================================\nThis edition looks at how the AI field is maturing — from new efforts to build shared safety and evaluation standards, to real-world breakthroughs in scientific research, to the specialised hardware now powering these systems. We also examine how AI is becoming a force in policy and elections, a reminder that the technology's influence reaches well beyond the lab. Together these stories show why governance, talent, and responsible adoption remain central to our mandate.\n\n1. Helping build shared standards for advanced AI\n   https://openai.com/index/helping-build-shared-standards-for-advanced-ai\n   OpenAI has announced that it is helping to develop shared standards for advanced AI systems through a new initiative called the Appia Foundation. The goal is to create common ways of testing AI models for safety, evaluating their performance, and encouraging cooperation between organisations and countries. Shared standards matter because, until now, each AI company has largely set its own rules for what counts as safe or reliable, making it hard to compare systems or hold them to a consistent bar. For public-sector bodies, agreed standards can make it easier to assess and procure AI tools responsibly. This effort reflects a broader trend toward treating AI safety and governance as a collective responsibility rather than the work of any single company. It is an early-stage initiative, so its real influence will depend on how widely it is adopted.\n   (OpenAI · 23 Jun 2026)\n\n2. How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery\n   https://openai.com/index/gpt-5-immunology-mystery\n   An immunologist named Derya Unutmaz used OpenAI's GPT-5 Pro to help crack a research puzzle about T cells — a type of immune cell — that had stumped him for three years. By working through the problem with the AI, he reportedly gained new insights into how these cells behave, which could feed into research on cancer and autoimmune diseases. This is notable because it shows AI being used not to replace scientists, but to act as a thinking partner that helps experts explore ideas and test hypotheses faster. It is an example of how AI tools may accelerate progress in fields that require deep human knowledge. For workforce and education planners, it highlights a future where professionals across many fields work alongside AI to enhance their expertise. As with any single case, the underlying findings will still need to be confirmed through normal scientific review.\n   (OpenAI · 23 Jun 2026)\n\n3. OpenAI and Broadcom unveil LLM-optimized inference chip\n   https://openai.com/index/openai-broadcom-jalapeno-inference-chip\n   OpenAI, in partnership with chipmaker Broadcom, has unveiled a custom-built computer chip called Jalapeño designed specifically for 'inference' — the stage when an AI model actually answers questions or generates content, as opposed to when it is first being trained. The chip aims to make running AI systems faster, more energy-efficient, and cheaper at large scale. This matters because the cost and electricity needed to operate AI tools have become major concerns, and purpose-built hardware can help ease both. It also signals that AI companies increasingly want to design their own chips rather than rely entirely on outside suppliers. For non-technical readers, the key point is that improving the underlying hardware could make AI services more affordable and widely available over time, including for governments and public institutions.\n   (OpenAI · 24 Jun 2026)\n\n4. Why corporate AI super PACs spent $27 million on a local election\n   https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district\n   The Verge reports that political action committees (super PACs) backed by corporate AI interests spent roughly $27 million to influence a single local election in a New York district. The spending was aimed at a candidate, Alex Bores, associated with efforts to regulate AI. The scale of this investment in a relatively small race is striking and shows how seriously the AI industry is taking the fight over future rules and oversight. It signals that AI companies are now active players in politics, not just technology, and are willing to spend heavily to shape who writes the laws that govern them. For public-sector staff, this is a reminder that AI policy is becoming a high-stakes political arena, with significant money behind competing views on how the technology should be controlled.\n   (The Verge — AI · 23 Jun 2026)\n\n5. OpenAI unveils its first custom chip, built by Broadcom\n   https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/\n   TechCrunch confirms that OpenAI has revealed its first custom-designed chip, named Jalapeño, built in collaboration with Broadcom and tailored to the specific needs of OpenAI's inference systems — the part of an AI model that produces responses to users. Designing its own processor allows OpenAI to optimise performance and efficiency for its particular workloads rather than depending solely on general-purpose chips from other vendors. This move places OpenAI alongside other major technology firms that have begun building bespoke hardware to support their AI ambitions. The development is part of a wider race to control the costs and supply of the computing power that AI depends on. While this is a technical milestone, its practical importance lies in making large-scale AI systems more sustainable and reliable to operate.\n   (TechCrunch — AI · 24 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
