@@ -1,0 +1,478 @@
+{
+  "id": "2026-06-25",
+  "generated_at_iso": "2026-06-25T13:54:04.636273+00:00",
+  "date_range_label": "25 June 2026",
+  "subtitle": "Thursday, 25 June 2026",
+  "editor_note": "This edition looks at how AI is beginning to reshape the way people work — from new 'agent' systems that can carry out longer tasks to fresh evidence about which jobs are proving most durable. We also cover practical efforts to build digital skills among small businesses and a reminder, from a US legislative debate, that transparency about how AI is used matters as much as the technology itself.",
+  "items": [
+    {
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "source_name": "OpenAI",
+      "published_iso": "2026-06-25T02:00:00+00:00",
+      "summary": "OpenAI has published a research paper describing how AI 'agents' — software that can carry out multi-step tasks rather than just answer a single question — are changing the nature of work. The paper argues that these agents can now handle longer and more complex assignments, such as researching a topic, drafting documents, or completing a sequence of actions with less human supervision. OpenAI frames this as a shift from AI being a simple assistant toward becoming a tool that can take on whole portions of a workflow. For organisations focused on workforce development, the key takeaway is that roles may increasingly involve directing and reviewing the work of AI agents rather than doing every step manually. This is notable because it signals where employers' skills expectations may be heading, even if real-world adoption is still early and uneven.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-06-24T16:30:01+00:00",
+      "summary": "Google DeepMind has introduced a 'computer use' capability in its Gemini 3.5 Flash model, allowing the AI to operate a computer much like a person would — clicking buttons, filling in forms, and navigating websites and applications. Rather than only producing text, the model can now take actions on a screen to complete tasks on a user's behalf. This is part of a wider industry trend toward AI 'agents' that can carry out practical jobs end-to-end. For everyday users and public-sector teams, such tools could eventually help automate routine digital admin, though they also raise important questions about oversight, accuracy, and security when software is given control of real systems. It remains an early-stage feature, and careful testing will be needed before relying on it for sensitive work.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-06-24T21:56:41+00:00",
+      "summary": "Despite frequent predictions that AI would replace software engineers, new data reported by TechCrunch suggests engineering roles are among the most resilient in the current job market. According to figures from the investment firm SignalFire, engineers actually make up a growing share of new hires, even as AI features prominently in layoff announcements across the tech sector. One interpretation is that AI tools are making engineers more productive and therefore more valuable, rather than making them redundant. This challenges the common assumption that automation simply eliminates skilled jobs. For workforce planners, it is a useful reminder that AI's impact on employment is uneven and that strong technical skills continue to be in demand.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills",
+      "url": "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/",
+      "source_name": "Meta (Newsroom)",
+      "published_iso": "2026-06-23T13:00:09+00:00",
+      "summary": "Meta has launched a 'Small Business Growth Academy' across the Asia-Pacific region to help small businesses adopt AI tools and build digital skills. The programme offers practical training in areas such as AI-assisted advertising, online growth, and selling across borders, aimed at owners and staff who may have limited technical backgrounds. The initiative reflects a broader push by large technology companies to expand the use of their tools by equipping smaller firms with the know-how to use them. For institutions focused on human-capital development, it is a relevant example of how structured, accessible training can help non-specialists benefit from AI. While the academy is region-specific, the model of pairing tool access with skills training is widely applicable, including in the Gulf.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-06-24T19:36:46+00:00",
+      "summary": "US Representative Anna Paulina Luna has denied that her staff used AI to write the text of an amendment to a major defense funding bill, after screenshots circulated online suggesting AI involvement. Luna said AI was used only for 'spellcheck' in a summary document and insisted that 'NO legislation is ever drafted with AI.' The episode arose because observers spotted signs in the amendment summary that pointed to the use of an AI assistant. Beyond the specific dispute, the story highlights a growing public sensitivity about how AI is used in official and government work, and the importance of clear disclosure. For public-sector employees, it is a timely reminder that questions of transparency, accountability, and appropriate use are now part of any conversation about AI in government.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 25 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is beginning to reshape the way people work — from new 'agent' systems that can carry out longer tasks to fresh evidence about which jobs are proving most durable. We also cover practical efforts to build digital skills among small businesses and a reminder, from a US legislative debate, that transparency about how AI is used matters as much as the technology itself.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a research paper describing how AI 'agents' — software that can carry out multi-step tasks rather than just answer a single question — are changing the nature of work. The paper argues that these agents can now handle longer and more complex assignments, such as researching a topic, drafting documents, or completing a sequence of actions with less human supervision. OpenAI frames this as a shift from AI being a simple assistant toward becoming a tool that can take on whole portions of a workflow. For organisations focused on workforce development, the key takeaway is that roles may increasingly involve directing and reviewing the work of AI agents rather than doing every step manually. This is notable because it signals where employers' skills expectations may be heading, even if real-world adoption is still early and uneven.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has introduced a 'computer use' capability in its Gemini 3.5 Flash model, allowing the AI to operate a computer much like a person would — clicking buttons, filling in forms, and navigating websites and applications. Rather than only producing text, the model can now take actions on a screen to complete tasks on a user's behalf. This is part of a wider industry trend toward AI 'agents' that can carry out practical jobs end-to-end. For everyday users and public-sector teams, such tools could eventually help automate routine digital admin, though they also raise important questions about oversight, accuracy, and security when software is given control of real systems. It remains an early-stage feature, and careful testing will be needed before relying on it for sensitive work.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Despite frequent predictions that AI would replace software engineers, new data reported by TechCrunch suggests engineering roles are among the most resilient in the current job market. According to figures from the investment firm SignalFire, engineers actually make up a growing share of new hires, even as AI features prominently in layoff announcements across the tech sector. One interpretation is that AI tools are making engineers more productive and therefore more valuable, rather than making them redundant. This challenges the common assumption that automation simply eliminates skilled jobs. For workforce planners, it is a useful reminder that AI's impact on employment is uneven and that strong technical skills continue to be in demand.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills](https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta has launched a 'Small Business Growth Academy' across the Asia-Pacific region to help small businesses adopt AI tools and build digital skills. The programme offers practical training in areas such as AI-assisted advertising, online growth, and selling across borders, aimed at owners and staff who may have limited technical backgrounds. The initiative reflects a broader push by large technology companies to expand the use of their tools by equipping smaller firms with the know-how to use them. For institutions focused on human-capital development, it is a relevant example of how structured, accessible training can help non-specialists benefit from AI. While the academy is region-specific, the model of pairing tool access with skills training is widely applicable, including in the Gulf.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Congresswoman denies staff used AI to write defense funding amendment](https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "US Representative Anna Paulina Luna has denied that her staff used AI to write the text of an amendment to a major defense funding bill, after screenshots circulated online suggesting AI involvement. Luna said AI was used only for 'spellcheck' in a summary document and insisted that 'NO legislation is ever drafted with AI.' The episode arose because observers spotted signs in the amendment summary that pointed to the use of an AI assistant. Beyond the specific dispute, the story highlights a growing public sensitivity about how AI is used in official and government work, and the importance of clear disclosure. For public-sector employees, it is a timely reminder that questions of transparency, accountability, and appropriate use are now part of any conversation about AI in government.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 25 June 2026\n============================================================\nThis edition looks at how AI is beginning to reshape the way people work — from new 'agent' systems that can carry out longer tasks to fresh evidence about which jobs are proving most durable. We also cover practical efforts to build digital skills among small businesses and a reminder, from a US legislative debate, that transparency about how AI is used matters as much as the technology itself.\n\n1. How agents are transforming work\n   https://openai.com/index/how-agents-are-transforming-work\n   OpenAI has published a research paper describing how AI 'agents' — software that can carry out multi-step tasks rather than just answer a single question — are changing the nature of work. The paper argues that these agents can now handle longer and more complex assignments, such as researching a topic, drafting documents, or completing a sequence of actions with less human supervision. OpenAI frames this as a shift from AI being a simple assistant toward becoming a tool that can take on whole portions of a workflow. For organisations focused on workforce development, the key takeaway is that roles may increasingly involve directing and reviewing the work of AI agents rather than doing every step manually. This is notable because it signals where employers' skills expectations may be heading, even if real-world adoption is still early and uneven.\n   (OpenAI · 25 Jun 2026)\n\n2. Introducing computer use in Gemini 3.5 Flash\n   https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/\n   Google DeepMind has introduced a 'computer use' capability in its Gemini 3.5 Flash model, allowing the AI to operate a computer much like a person would — clicking buttons, filling in forms, and navigating websites and applications. Rather than only producing text, the model can now take actions on a screen to complete tasks on a user's behalf. This is part of a wider industry trend toward AI 'agents' that can carry out practical jobs end-to-end. For everyday users and public-sector teams, such tools could eventually help automate routine digital admin, though they also raise important questions about oversight, accuracy, and security when software is given control of real systems. It remains an early-stage feature, and careful testing will be needed before relying on it for sensitive work.\n   (Google DeepMind · 24 Jun 2026)\n\n3. AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient\n   https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/\n   Despite frequent predictions that AI would replace software engineers, new data reported by TechCrunch suggests engineering roles are among the most resilient in the current job market. According to figures from the investment firm SignalFire, engineers actually make up a growing share of new hires, even as AI features prominently in layoff announcements across the tech sector. One interpretation is that AI tools are making engineers more productive and therefore more valuable, rather than making them redundant. This challenges the common assumption that automation simply eliminates skilled jobs. For workforce planners, it is a useful reminder that AI's impact on employment is uneven and that strong technical skills continue to be in demand.\n   (TechCrunch — AI · 25 Jun 2026)\n\n4. Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills\n   https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/\n   Meta has launched a 'Small Business Growth Academy' across the Asia-Pacific region to help small businesses adopt AI tools and build digital skills. The programme offers practical training in areas such as AI-assisted advertising, online growth, and selling across borders, aimed at owners and staff who may have limited technical backgrounds. The initiative reflects a broader push by large technology companies to expand the use of their tools by equipping smaller firms with the know-how to use them. For institutions focused on human-capital development, it is a relevant example of how structured, accessible training can help non-specialists benefit from AI. While the academy is region-specific, the model of pairing tool access with skills training is widely applicable, including in the Gulf.\n   (Meta (Newsroom) · 23 Jun 2026)\n\n5. Congresswoman denies staff used AI to write defense funding amendment\n   https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude\n   US Representative Anna Paulina Luna has denied that her staff used AI to write the text of an amendment to a major defense funding bill, after screenshots circulated online suggesting AI involvement. Luna said AI was used only for 'spellcheck' in a summary document and insisted that 'NO legislation is ever drafted with AI.' The episode arose because observers spotted signs in the amendment summary that pointed to the use of an AI assistant. Beyond the specific dispute, the story highlights a growing public sensitivity about how AI is used in official and government work, and the importance of clear disclosure. For public-sector employees, it is a timely reminder that questions of transparency, accountability, and appropriate use are now part of any conversation about AI in government.\n   (The Verge — AI · 24 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 25 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is beginning to reshape the way people work — from new 'agent' systems that can carry out longer tasks to fresh evidence about which jobs are proving most durable. We also cover practical efforts to build digital skills among small businesses and a reminder, from a US legislative debate, that transparency about how AI is used matters as much as the technology itself.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a research paper describing how AI 'agents' — software that can carry out multi-step tasks rather than just answer a single question — are changing the nature of work. The paper argues that these agents can now handle longer and more complex assignments, such as researching a topic, drafting documents, or completing a sequence of actions with less human supervision. OpenAI frames this as a shift from AI being a simple assistant toward becoming a tool that can take on whole portions of a workflow. For organisations focused on workforce development, the key takeaway is that roles may increasingly involve directing and reviewing the work of AI agents rather than doing every step manually. This is notable because it signals where employers' skills expectations may be heading, even if real-world adoption is still early and uneven.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has introduced a 'computer use' capability in its Gemini 3.5 Flash model, allowing the AI to operate a computer much like a person would — clicking buttons, filling in forms, and navigating websites and applications. Rather than only producing text, the model can now take actions on a screen to complete tasks on a user's behalf. This is part of a wider industry trend toward AI 'agents' that can carry out practical jobs end-to-end. For everyday users and public-sector teams, such tools could eventually help automate routine digital admin, though they also raise important questions about oversight, accuracy, and security when software is given control of real systems. It remains an early-stage feature, and careful testing will be needed before relying on it for sensitive work.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Despite frequent predictions that AI would replace software engineers, new data reported by TechCrunch suggests engineering roles are among the most resilient in the current job market. According to figures from the investment firm SignalFire, engineers actually make up a growing share of new hires, even as AI features prominently in layoff announcements across the tech sector. One interpretation is that AI tools are making engineers more productive and therefore more valuable, rather than making them redundant. This challenges the common assumption that automation simply eliminates skilled jobs. For workforce planners, it is a useful reminder that AI's impact on employment is uneven and that strong technical skills continue to be in demand.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills](https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta has launched a 'Small Business Growth Academy' across the Asia-Pacific region to help small businesses adopt AI tools and build digital skills. The programme offers practical training in areas such as AI-assisted advertising, online growth, and selling across borders, aimed at owners and staff who may have limited technical backgrounds. The initiative reflects a broader push by large technology companies to expand the use of their tools by equipping smaller firms with the know-how to use them. For institutions focused on human-capital development, it is a relevant example of how structured, accessible training can help non-specialists benefit from AI. While the academy is region-specific, the model of pairing tool access with skills training is widely applicable, including in the Gulf.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 23 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Congresswoman denies staff used AI to write defense funding amendment](https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "US Representative Anna Paulina Luna has denied that her staff used AI to write the text of an amendment to a major defense funding bill, after screenshots circulated online suggesting AI involvement. Luna said AI was used only for 'spellcheck' in a summary document and insisted that 'NO legislation is ever drafted with AI.' The episode arose because observers spotted signs in the amendment summary that pointed to the use of an AI assistant. Beyond the specific dispute, the story highlights a growing public sensitivity about how AI is used in official and government work, and the importance of clear disclosure. For public-sector employees, it is a timely reminder that questions of transparency, accountability, and appropriate use are now part of any conversation about AI in government.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 25 June 2026\n============================================================\nThis edition looks at how AI is beginning to reshape the way people work — from new 'agent' systems that can carry out longer tasks to fresh evidence about which jobs are proving most durable. We also cover practical efforts to build digital skills among small businesses and a reminder, from a US legislative debate, that transparency about how AI is used matters as much as the technology itself.\n\n1. How agents are transforming work\n   https://openai.com/index/how-agents-are-transforming-work\n   OpenAI has published a research paper describing how AI 'agents' — software that can carry out multi-step tasks rather than just answer a single question — are changing the nature of work. The paper argues that these agents can now handle longer and more complex assignments, such as researching a topic, drafting documents, or completing a sequence of actions with less human supervision. OpenAI frames this as a shift from AI being a simple assistant toward becoming a tool that can take on whole portions of a workflow. For organisations focused on workforce development, the key takeaway is that roles may increasingly involve directing and reviewing the work of AI agents rather than doing every step manually. This is notable because it signals where employers' skills expectations may be heading, even if real-world adoption is still early and uneven.\n   (OpenAI · 25 Jun 2026)\n\n2. Introducing computer use in Gemini 3.5 Flash\n   https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/\n   Google DeepMind has introduced a 'computer use' capability in its Gemini 3.5 Flash model, allowing the AI to operate a computer much like a person would — clicking buttons, filling in forms, and navigating websites and applications. Rather than only producing text, the model can now take actions on a screen to complete tasks on a user's behalf. This is part of a wider industry trend toward AI 'agents' that can carry out practical jobs end-to-end. For everyday users and public-sector teams, such tools could eventually help automate routine digital admin, though they also raise important questions about oversight, accuracy, and security when software is given control of real systems. It remains an early-stage feature, and careful testing will be needed before relying on it for sensitive work.\n   (Google DeepMind · 24 Jun 2026)\n\n3. AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient\n   https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/\n   Despite frequent predictions that AI would replace software engineers, new data reported by TechCrunch suggests engineering roles are among the most resilient in the current job market. According to figures from the investment firm SignalFire, engineers actually make up a growing share of new hires, even as AI features prominently in layoff announcements across the tech sector. One interpretation is that AI tools are making engineers more productive and therefore more valuable, rather than making them redundant. This challenges the common assumption that automation simply eliminates skilled jobs. For workforce planners, it is a useful reminder that AI's impact on employment is uneven and that strong technical skills continue to be in demand.\n   (TechCrunch — AI · 25 Jun 2026)\n\n4. Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills\n   https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/\n   Meta has launched a 'Small Business Growth Academy' across the Asia-Pacific region to help small businesses adopt AI tools and build digital skills. The programme offers practical training in areas such as AI-assisted advertising, online growth, and selling across borders, aimed at owners and staff who may have limited technical backgrounds. The initiative reflects a broader push by large technology companies to expand the use of their tools by equipping smaller firms with the know-how to use them. For institutions focused on human-capital development, it is a relevant example of how structured, accessible training can help non-specialists benefit from AI. While the academy is region-specific, the model of pairing tool access with skills training is widely applicable, including in the Gulf.\n   (Meta (Newsroom) · 23 Jun 2026)\n\n5. Congresswoman denies staff used AI to write defense funding amendment\n   https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude\n   US Representative Anna Paulina Luna has denied that her staff used AI to write the text of an amendment to a major defense funding bill, after screenshots circulated online suggesting AI involvement. Luna said AI was used only for 'spellcheck' in a summary document and insisted that 'NO legislation is ever drafted with AI.' The episode arose because observers spotted signs in the amendment summary that pointed to the use of an AI assistant. Beyond the specific dispute, the story highlights a growing public sensitivity about how AI is used in official and government work, and the importance of clear disclosure. For public-sector employees, it is a timely reminder that questions of transparency, accountability, and appropriate use are now part of any conversation about AI in government.\n   (The Verge — AI · 24 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
