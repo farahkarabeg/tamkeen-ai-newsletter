@@ -1,0 +1,478 @@
+{
+  "id": "2026-06-26",
+  "generated_at_iso": "2026-06-26T13:36:24.801913+00:00",
+  "date_range_label": "26 June 2026",
+  "subtitle": "Friday, 26 June 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week's stories highlight how governments are increasingly shaping the pace of AI releases on safety grounds, how the major AI providers are competing for users and building their own hardware, and how global companies are pouring billions into AI infrastructure abroad. Together these developments offer useful context on the policy, workforce, and investment trends that touch our mandate.",
+  "items": [
+    {
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-06-25T21:57:06+00:00",
+      "summary": "OpenAI, the company behind ChatGPT, has reportedly decided to delay the full public launch of its next major AI model, GPT-5.6, following a request from the Trump administration concerned about possible security risks. According to The Information, CEO Sam Altman told staff during an internal company meeting that the model would first be released in a limited preview, with access granted only to a small group rather than the general public. This is notable because it shows a government directly influencing the timing and rollout of a powerful new AI system. For public-sector bodies, it signals a growing expectation that frontier AI tools be tested carefully and shared gradually before becoming widely available. It also illustrates the increasingly close relationship between leading AI developers and national governments around questions of safety and security.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-06-25T23:34:39+00:00",
+      "summary": "In a closely related report, TechCrunch confirmed that the White House asked OpenAI to slow the release of its newest model, GPT-5.6, over safety concerns. Rather than offering the model to the broad public immediately, OpenAI reportedly plans to share it first with a select group of partners. The reason cited is direct guidance from the Trump administration. This story reinforces a broader trend of governments taking an active role in how advanced AI is deployed, emphasizing caution and controlled testing. For staff following AI policy, it is a clear example of how regulation and informal government pressure can shape the AI products that eventually reach workplaces and citizens.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "OpenAI reveals its first AI processor: Jalapeño",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-06-24T14:36:47+00:00",
+      "summary": "OpenAI has unveiled its first dedicated AI chip, named Jalapeño, developed in partnership with the semiconductor company Broadcom. The chip is a specialized type of processor known as an ASIC, meaning it is purpose-built for a single task — in this case, running AI models efficiently rather than training them. By designing its own hardware, OpenAI aims to reduce its dependence on outside chip suppliers and lower the cost of operating its large AI systems. This matters because the cost and availability of specialized chips are among the biggest constraints on how widely AI can be deployed. For organizations planning long-term AI adoption, moves like this signal that the underlying infrastructure powering these tools is maturing and becoming more competitive.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-06-25T17:38:27+00:00",
+      "summary": "New data suggests that Anthropic's AI assistant, Claude, is steadily gaining ground among consumers who pay for AI services, a segment long dominated by OpenAI's ChatGPT. While ChatGPT still holds a commanding overall lead, a growing share of paying users are choosing Claude, indicating rising competition in the market. This shift is notable because it points to genuine choice emerging among quality AI tools, rather than a single provider controlling the field. For workforce and training purposes, increased competition can mean better features, improved reliability, and potentially lower prices over time. It also underlines the importance of staying informed about multiple AI options rather than relying on one provider.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-06-25T12:00:38+00:00",
+      "summary": "Amazon has announced a fresh investment of $13 billion in AI infrastructure in India, deepening its commitment to one of the world's fastest-growing technology markets. The investment comes as major global technology companies compete to build data centers and computing capacity in the country to support the rapid expansion of AI services. Such infrastructure — large facilities full of servers and specialized chips — is the foundation that allows AI applications to run at scale. This story is relevant because it shows how nations are positioning themselves to host AI capacity and attract investment, a strategy with clear parallels to the UAE's own ambitions in technology and human-capital development. It highlights the global race to build the physical backbone of the AI economy and the economic opportunities that can follow.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 26 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week's stories highlight how governments are increasingly shaping the pace of AI releases on safety grounds, how the major AI providers are competing for users and building their own hardware, and how global companies are pouring billions into AI infrastructure abroad. Together these developments offer useful context on the policy, workforce, and investment trends that touch our mandate.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, has reportedly decided to delay the full public launch of its next major AI model, GPT-5.6, following a request from the Trump administration concerned about possible security risks. According to The Information, CEO Sam Altman told staff during an internal company meeting that the model would first be released in a limited preview, with access granted only to a small group rather than the general public. This is notable because it shows a government directly influencing the timing and rollout of a powerful new AI system. For public-sector bodies, it signals a growing expectation that frontier AI tools be tested carefully and shared gradually before becoming widely available. It also illustrates the increasingly close relationship between leading AI developers and national governments around questions of safety and security.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 26 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a closely related report, TechCrunch confirmed that the White House asked OpenAI to slow the release of its newest model, GPT-5.6, over safety concerns. Rather than offering the model to the broad public immediately, OpenAI reportedly plans to share it first with a select group of partners. The reason cited is direct guidance from the Trump administration. This story reinforces a broader trend of governments taking an active role in how advanced AI is deployed, emphasizing caution and controlled testing. For staff following AI policy, it is a clear example of how regulation and informal government pressure can shape the AI products that eventually reach workplaces and citizens.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 26 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. OpenAI reveals its first AI processor: Jalapeño](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has unveiled its first dedicated AI chip, named Jalapeño, developed in partnership with the semiconductor company Broadcom. The chip is a specialized type of processor known as an ASIC, meaning it is purpose-built for a single task — in this case, running AI models efficiently rather than training them. By designing its own hardware, OpenAI aims to reduce its dependence on outside chip suppliers and lower the cost of operating its large AI systems. This matters because the cost and availability of specialized chips are among the biggest constraints on how widely AI can be deployed. For organizations planning long-term AI adoption, moves like this signal that the underlying infrastructure powering these tools is maturing and becoming more competitive.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "New data suggests that Anthropic's AI assistant, Claude, is steadily gaining ground among consumers who pay for AI services, a segment long dominated by OpenAI's ChatGPT. While ChatGPT still holds a commanding overall lead, a growing share of paying users are choosing Claude, indicating rising competition in the market. This shift is notable because it points to genuine choice emerging among quality AI tools, rather than a single provider controlling the field. For workforce and training purposes, increased competition can mean better features, improved reliability, and potentially lower prices over time. It also underlines the importance of staying informed about multiple AI options rather than relying on one provider.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Amazon ups India bet with fresh $13B AI infrastructure investment](https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Amazon has announced a fresh investment of $13 billion in AI infrastructure in India, deepening its commitment to one of the world's fastest-growing technology markets. The investment comes as major global technology companies compete to build data centers and computing capacity in the country to support the rapid expansion of AI services. Such infrastructure — large facilities full of servers and specialized chips — is the foundation that allows AI applications to run at scale. This story is relevant because it shows how nations are positioning themselves to host AI capacity and attract investment, a strategy with clear parallels to the UAE's own ambitions in technology and human-capital development. It highlights the global race to build the physical backbone of the AI economy and the economic opportunities that can follow.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 26 June 2026\n============================================================\nWelcome to this edition of our AI digest. This week's stories highlight how governments are increasingly shaping the pace of AI releases on safety grounds, how the major AI providers are competing for users and building their own hardware, and how global companies are pouring billions into AI infrastructure abroad. Together these developments offer useful context on the policy, workforce, and investment trends that touch our mandate.\n\n1. OpenAI will delay GPT-5.6 after Trump administration request\n   https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request\n   OpenAI, the company behind ChatGPT, has reportedly decided to delay the full public launch of its next major AI model, GPT-5.6, following a request from the Trump administration concerned about possible security risks. According to The Information, CEO Sam Altman told staff during an internal company meeting that the model would first be released in a limited preview, with access granted only to a small group rather than the general public. This is notable because it shows a government directly influencing the timing and rollout of a powerful new AI system. For public-sector bodies, it signals a growing expectation that frontier AI tools be tested carefully and shared gradually before becoming widely available. It also illustrates the increasingly close relationship between leading AI developers and national governments around questions of safety and security.\n   (The Verge — AI · 26 Jun 2026)\n\n2. The White House is asking OpenAI to slow roll the release of its new model over safety concerns\n   https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\n   In a closely related report, TechCrunch confirmed that the White House asked OpenAI to slow the release of its newest model, GPT-5.6, over safety concerns. Rather than offering the model to the broad public immediately, OpenAI reportedly plans to share it first with a select group of partners. The reason cited is direct guidance from the Trump administration. This story reinforces a broader trend of governments taking an active role in how advanced AI is deployed, emphasizing caution and controlled testing. For staff following AI policy, it is a clear example of how regulation and informal government pressure can shape the AI products that eventually reach workplaces and citizens.\n   (TechCrunch — AI · 26 Jun 2026)\n\n3. OpenAI reveals its first AI processor: Jalapeño\n   https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno\n   OpenAI has unveiled its first dedicated AI chip, named Jalapeño, developed in partnership with the semiconductor company Broadcom. The chip is a specialized type of processor known as an ASIC, meaning it is purpose-built for a single task — in this case, running AI models efficiently rather than training them. By designing its own hardware, OpenAI aims to reduce its dependence on outside chip suppliers and lower the cost of operating its large AI systems. This matters because the cost and availability of specialized chips are among the biggest constraints on how widely AI can be deployed. For organizations planning long-term AI adoption, moves like this signal that the underlying infrastructure powering these tools is maturing and becoming more competitive.\n   (The Verge — AI · 24 Jun 2026)\n\n4. Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT\n   https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/\n   New data suggests that Anthropic's AI assistant, Claude, is steadily gaining ground among consumers who pay for AI services, a segment long dominated by OpenAI's ChatGPT. While ChatGPT still holds a commanding overall lead, a growing share of paying users are choosing Claude, indicating rising competition in the market. This shift is notable because it points to genuine choice emerging among quality AI tools, rather than a single provider controlling the field. For workforce and training purposes, increased competition can mean better features, improved reliability, and potentially lower prices over time. It also underlines the importance of staying informed about multiple AI options rather than relying on one provider.\n   (TechCrunch — AI · 25 Jun 2026)\n\n5. Amazon ups India bet with fresh $13B AI infrastructure investment\n   https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/\n   Amazon has announced a fresh investment of $13 billion in AI infrastructure in India, deepening its commitment to one of the world's fastest-growing technology markets. The investment comes as major global technology companies compete to build data centers and computing capacity in the country to support the rapid expansion of AI services. Such infrastructure — large facilities full of servers and specialized chips — is the foundation that allows AI applications to run at scale. This story is relevant because it shows how nations are positioning themselves to host AI capacity and attract investment, a strategy with clear parallels to the UAE's own ambitions in technology and human-capital development. It highlights the global race to build the physical backbone of the AI economy and the economic opportunities that can follow.\n   (TechCrunch — AI · 25 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 26 June 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week's stories highlight how governments are increasingly shaping the pace of AI releases on safety grounds, how the major AI providers are competing for users and building their own hardware, and how global companies are pouring billions into AI infrastructure abroad. Together these developments offer useful context on the policy, workforce, and investment trends that touch our mandate.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, has reportedly decided to delay the full public launch of its next major AI model, GPT-5.6, following a request from the Trump administration concerned about possible security risks. According to The Information, CEO Sam Altman told staff during an internal company meeting that the model would first be released in a limited preview, with access granted only to a small group rather than the general public. This is notable because it shows a government directly influencing the timing and rollout of a powerful new AI system. For public-sector bodies, it signals a growing expectation that frontier AI tools be tested carefully and shared gradually before becoming widely available. It also illustrates the increasingly close relationship between leading AI developers and national governments around questions of safety and security.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 26 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The White House is asking OpenAI to slow roll the release of its new model over safety concerns](https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a closely related report, TechCrunch confirmed that the White House asked OpenAI to slow the release of its newest model, GPT-5.6, over safety concerns. Rather than offering the model to the broad public immediately, OpenAI reportedly plans to share it first with a select group of partners. The reason cited is direct guidance from the Trump administration. This story reinforces a broader trend of governments taking an active role in how advanced AI is deployed, emphasizing caution and controlled testing. For staff following AI policy, it is a clear example of how regulation and informal government pressure can shape the AI products that eventually reach workplaces and citizens.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 26 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. OpenAI reveals its first AI processor: Jalapeño](https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has unveiled its first dedicated AI chip, named Jalapeño, developed in partnership with the semiconductor company Broadcom. The chip is a specialized type of processor known as an ASIC, meaning it is purpose-built for a single task — in this case, running AI models efficiently rather than training them. By designing its own hardware, OpenAI aims to reduce its dependence on outside chip suppliers and lower the cost of operating its large AI systems. This matters because the cost and availability of specialized chips are among the biggest constraints on how widely AI can be deployed. For organizations planning long-term AI adoption, moves like this signal that the underlying infrastructure powering these tools is maturing and becoming more competitive.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT](https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "New data suggests that Anthropic's AI assistant, Claude, is steadily gaining ground among consumers who pay for AI services, a segment long dominated by OpenAI's ChatGPT. While ChatGPT still holds a commanding overall lead, a growing share of paying users are choosing Claude, indicating rising competition in the market. This shift is notable because it points to genuine choice emerging among quality AI tools, rather than a single provider controlling the field. For workforce and training purposes, increased competition can mean better features, improved reliability, and potentially lower prices over time. It also underlines the importance of staying informed about multiple AI options rather than relying on one provider.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Amazon ups India bet with fresh $13B AI infrastructure investment](https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Amazon has announced a fresh investment of $13 billion in AI infrastructure in India, deepening its commitment to one of the world's fastest-growing technology markets. The investment comes as major global technology companies compete to build data centers and computing capacity in the country to support the rapid expansion of AI services. Such infrastructure — large facilities full of servers and specialized chips — is the foundation that allows AI applications to run at scale. This story is relevant because it shows how nations are positioning themselves to host AI capacity and attract investment, a strategy with clear parallels to the UAE's own ambitions in technology and human-capital development. It highlights the global race to build the physical backbone of the AI economy and the economic opportunities that can follow.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Jun 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 26 June 2026\n============================================================\nWelcome to this edition of our AI digest. This week's stories highlight how governments are increasingly shaping the pace of AI releases on safety grounds, how the major AI providers are competing for users and building their own hardware, and how global companies are pouring billions into AI infrastructure abroad. Together these developments offer useful context on the policy, workforce, and investment trends that touch our mandate.\n\n1. OpenAI will delay GPT-5.6 after Trump administration request\n   https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request\n   OpenAI, the company behind ChatGPT, has reportedly decided to delay the full public launch of its next major AI model, GPT-5.6, following a request from the Trump administration concerned about possible security risks. According to The Information, CEO Sam Altman told staff during an internal company meeting that the model would first be released in a limited preview, with access granted only to a small group rather than the general public. This is notable because it shows a government directly influencing the timing and rollout of a powerful new AI system. For public-sector bodies, it signals a growing expectation that frontier AI tools be tested carefully and shared gradually before becoming widely available. It also illustrates the increasingly close relationship between leading AI developers and national governments around questions of safety and security.\n   (The Verge — AI · 26 Jun 2026)\n\n2. The White House is asking OpenAI to slow roll the release of its new model over safety concerns\n   https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/\n   In a closely related report, TechCrunch confirmed that the White House asked OpenAI to slow the release of its newest model, GPT-5.6, over safety concerns. Rather than offering the model to the broad public immediately, OpenAI reportedly plans to share it first with a select group of partners. The reason cited is direct guidance from the Trump administration. This story reinforces a broader trend of governments taking an active role in how advanced AI is deployed, emphasizing caution and controlled testing. For staff following AI policy, it is a clear example of how regulation and informal government pressure can shape the AI products that eventually reach workplaces and citizens.\n   (TechCrunch — AI · 26 Jun 2026)\n\n3. OpenAI reveals its first AI processor: Jalapeño\n   https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno\n   OpenAI has unveiled its first dedicated AI chip, named Jalapeño, developed in partnership with the semiconductor company Broadcom. The chip is a specialized type of processor known as an ASIC, meaning it is purpose-built for a single task — in this case, running AI models efficiently rather than training them. By designing its own hardware, OpenAI aims to reduce its dependence on outside chip suppliers and lower the cost of operating its large AI systems. This matters because the cost and availability of specialized chips are among the biggest constraints on how widely AI can be deployed. For organizations planning long-term AI adoption, moves like this signal that the underlying infrastructure powering these tools is maturing and becoming more competitive.\n   (The Verge — AI · 24 Jun 2026)\n\n4. Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT\n   https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/\n   New data suggests that Anthropic's AI assistant, Claude, is steadily gaining ground among consumers who pay for AI services, a segment long dominated by OpenAI's ChatGPT. While ChatGPT still holds a commanding overall lead, a growing share of paying users are choosing Claude, indicating rising competition in the market. This shift is notable because it points to genuine choice emerging among quality AI tools, rather than a single provider controlling the field. For workforce and training purposes, increased competition can mean better features, improved reliability, and potentially lower prices over time. It also underlines the importance of staying informed about multiple AI options rather than relying on one provider.\n   (TechCrunch — AI · 25 Jun 2026)\n\n5. Amazon ups India bet with fresh $13B AI infrastructure investment\n   https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/\n   Amazon has announced a fresh investment of $13 billion in AI infrastructure in India, deepening its commitment to one of the world's fastest-growing technology markets. The investment comes as major global technology companies compete to build data centers and computing capacity in the country to support the rapid expansion of AI services. Such infrastructure — large facilities full of servers and specialized chips — is the foundation that allows AI applications to run at scale. This story is relevant because it shows how nations are positioning themselves to host AI capacity and attract investment, a strategy with clear parallels to the UAE's own ambitions in technology and human-capital development. It highlights the global race to build the physical backbone of the AI economy and the economic opportunities that can follow.\n   (TechCrunch — AI · 25 Jun 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
