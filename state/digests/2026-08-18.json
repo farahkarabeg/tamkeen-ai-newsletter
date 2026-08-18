@@ -1,0 +1,478 @@
+{
+  "id": "2026-08-18",
+  "generated_at_iso": "2026-08-18T07:07:27.801929+00:00",
+  "date_range_label": "18 August 2026",
+  "subtitle": "Tuesday, 18 August 2026",
+  "editor_note": "This edition looks at how the organisations building AI are thinking about its wider impact on society, jobs, and public trust. We cover new funding for policy research, shifting approaches to cybersecurity and safety, and the practical steps companies are taking to label AI-generated content in line with emerging regulations. Together these stories offer a useful window into how AI governance and workforce readiness are evolving.",
+  "items": [
+    {
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-17T03:15:00+00:00",
+      "summary": "OpenAI has announced funding for 14 independent projects that will explore new policy ideas for what it calls the 'Intelligence Age' — a period in which AI plays a larger role in the economy and society. The stated aim is to expand economic opportunity and help communities and institutions adapt as AI reshapes work and daily life. The projects are being run by outside researchers rather than OpenAI itself, which is intended to encourage independent thinking on questions such as jobs, skills, and social resilience. For an institution focused on human-capital and workforce development, this signals growing recognition that AI's effects on employment require deliberate policy responses, not just technical solutions. It is notable as an example of a major AI company investing in the societal and economic questions that governments and public bodies will increasingly need to address.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-17T05:30:00+00:00",
+      "summary": "OpenAI has published its perspective on how AI is changing cybersecurity for both attackers and defenders. The company argues that while AI can help malicious actors mount attacks more easily, it can also give defenders new tools to detect and respond to threats faster — a competitive dynamic it describes as a 'defender's window' of opportunity. The piece outlines steps OpenAI is taking to strengthen its own defences and offers practical guidance for security teams on how to prepare now. For public-sector organisations, which hold sensitive data and deliver essential services, this is a reminder that AI raises both the risks and the available protections in cybersecurity. The key takeaway is that institutions should actively adopt AI-enabled defences rather than assume existing measures are sufficient.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Anthropic explains how Claude’s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-08-17T10:57:13+00:00",
+      "summary": "Anthropic, the company behind the Claude AI assistant, has explained how it will add invisible watermarks to text that Claude generates, in order to comply with new European Union transparency rules that require AI-generated content to be identifiable. The system is based on 'SynthID-Text', an open-source watermarking technology developed by Google DeepMind, which subtly adjusts the probabilities of word choices to create a hidden, detectable pattern. This allows software to later identify whether a piece of text was produced by the AI, without the watermark being visible to a reader. The move reflects a broader push by regulators, particularly in Europe, to help people distinguish human-written from AI-generated material. For public institutions, it highlights how content authenticity and transparency are becoming standard expectations backed by law.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-08-16T21:32:56+00:00",
+      "summary": "According to the Financial Times, OpenAI disbanded its 'preparedness' team at the end of last month. The team's role was to assess whether its AI models posed serious risks — such as being misused for cyberattacks or behaving in unintended ways — and to develop measures to reduce those risks. Reporting suggests that responsibility for this work has been reassigned within the company rather than eliminated entirely, though details remain limited. The change has drawn attention because dedicated safety teams are widely seen as an important check on the risks of increasingly powerful AI systems. For policymakers and public bodies, it underscores an ongoing question about whether AI companies can be relied upon to govern their own safety, or whether external oversight is needed.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-15T18:58:39+00:00",
+      "summary": "In a companion report, TechCrunch provides further detail on Anthropic's plan to watermark text generated by its Claude assistant. It addresses practical questions that matter for real-world use: how the watermarking actually works, whether it can be removed or weakened by editing the text, and how it applies to computer code as opposed to ordinary writing. These questions are important because a watermark that disappears after light editing would offer limited protection, and code presents particular challenges for this kind of hidden marking. The coverage helps clarify both the promise and the limitations of current watermarking approaches. For non-technical readers, the main point is that labelling AI content reliably is still a developing area, and no method is yet foolproof.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 18 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how the organisations building AI are thinking about its wider impact on society, jobs, and public trust. We cover new funding for policy research, shifting approaches to cybersecurity and safety, and the practical steps companies are taking to label AI-generated content in line with emerging regulations. Together these stories offer a useful window into how AI governance and workforce readiness are evolving.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. New policy ideas for the Intelligence Age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced funding for 14 independent projects that will explore new policy ideas for what it calls the 'Intelligence Age' — a period in which AI plays a larger role in the economy and society. The stated aim is to expand economic opportunity and help communities and institutions adapt as AI reshapes work and daily life. The projects are being run by outside researchers rather than OpenAI itself, which is intended to encourage independent thinking on questions such as jobs, skills, and social resilience. For an institution focused on human-capital and workforce development, this signals growing recognition that AI's effects on employment require deliberate policy responses, not just technical solutions. It is notable as an example of a major AI company investing in the societal and economic questions that governments and public bodies will increasingly need to address.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 17 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The Defender’s Window](https://openai.com/index/the-defenders-window)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published its perspective on how AI is changing cybersecurity for both attackers and defenders. The company argues that while AI can help malicious actors mount attacks more easily, it can also give defenders new tools to detect and respond to threats faster — a competitive dynamic it describes as a 'defender's window' of opportunity. The piece outlines steps OpenAI is taking to strengthen its own defences and offers practical guidance for security teams on how to prepare now. For public-sector organisations, which hold sensitive data and deliver essential services, this is a reminder that AI raises both the risks and the available protections in cybersecurity. The key takeaway is that institutions should actively adopt AI-enabled defences rather than assume existing measures are sufficient.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 17 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Anthropic explains how Claude’s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, the company behind the Claude AI assistant, has explained how it will add invisible watermarks to text that Claude generates, in order to comply with new European Union transparency rules that require AI-generated content to be identifiable. The system is based on 'SynthID-Text', an open-source watermarking technology developed by Google DeepMind, which subtly adjusts the probabilities of word choices to create a hidden, detectable pattern. This allows software to later identify whether a piece of text was produced by the AI, without the watermark being visible to a reader. The move reflects a broader push by regulators, particularly in Europe, to help people distinguish human-written from AI-generated material. For public institutions, it highlights how content authenticity and transparency are becoming standard expectations backed by law.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "According to the Financial Times, OpenAI disbanded its 'preparedness' team at the end of last month. The team's role was to assess whether its AI models posed serious risks — such as being misused for cyberattacks or behaving in unintended ways — and to develop measures to reduce those risks. Reporting suggests that responsibility for this work has been reassigned within the company rather than eliminated entirely, though details remain limited. The change has drawn attention because dedicated safety teams are widely seen as an important check on the risks of increasingly powerful AI systems. For policymakers and public bodies, it underscores an ongoing question about whether AI companies can be relied upon to govern their own safety, or whether external oversight is needed.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a companion report, TechCrunch provides further detail on Anthropic's plan to watermark text generated by its Claude assistant. It addresses practical questions that matter for real-world use: how the watermarking actually works, whether it can be removed or weakened by editing the text, and how it applies to computer code as opposed to ordinary writing. These questions are important because a watermark that disappears after light editing would offer limited protection, and code presents particular challenges for this kind of hidden marking. The coverage helps clarify both the promise and the limitations of current watermarking approaches. For non-technical readers, the main point is that labelling AI content reliably is still a developing area, and no method is yet foolproof.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 15 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 18 August 2026\n============================================================\nThis edition looks at how the organisations building AI are thinking about its wider impact on society, jobs, and public trust. We cover new funding for policy research, shifting approaches to cybersecurity and safety, and the practical steps companies are taking to label AI-generated content in line with emerging regulations. Together these stories offer a useful window into how AI governance and workforce readiness are evolving.\n\n1. New policy ideas for the Intelligence Age\n   https://openai.com/index/new-policy-ideas-for-the-intelligence-age\n   OpenAI has announced funding for 14 independent projects that will explore new policy ideas for what it calls the 'Intelligence Age' — a period in which AI plays a larger role in the economy and society. The stated aim is to expand economic opportunity and help communities and institutions adapt as AI reshapes work and daily life. The projects are being run by outside researchers rather than OpenAI itself, which is intended to encourage independent thinking on questions such as jobs, skills, and social resilience. For an institution focused on human-capital and workforce development, this signals growing recognition that AI's effects on employment require deliberate policy responses, not just technical solutions. It is notable as an example of a major AI company investing in the societal and economic questions that governments and public bodies will increasingly need to address.\n   (OpenAI · 17 Aug 2026)\n\n2. The Defender’s Window\n   https://openai.com/index/the-defenders-window\n   OpenAI has published its perspective on how AI is changing cybersecurity for both attackers and defenders. The company argues that while AI can help malicious actors mount attacks more easily, it can also give defenders new tools to detect and respond to threats faster — a competitive dynamic it describes as a 'defender's window' of opportunity. The piece outlines steps OpenAI is taking to strengthen its own defences and offers practical guidance for security teams on how to prepare now. For public-sector organisations, which hold sensitive data and deliver essential services, this is a reminder that AI raises both the risks and the available protections in cybersecurity. The key takeaway is that institutions should actively adopt AI-enabled defences rather than assume existing measures are sufficient.\n   (OpenAI · 17 Aug 2026)\n\n3. Anthropic explains how Claude’s invisible text watermarks will work\n   https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system\n   Anthropic, the company behind the Claude AI assistant, has explained how it will add invisible watermarks to text that Claude generates, in order to comply with new European Union transparency rules that require AI-generated content to be identifiable. The system is based on 'SynthID-Text', an open-source watermarking technology developed by Google DeepMind, which subtly adjusts the probabilities of word choices to create a hidden, detectable pattern. This allows software to later identify whether a piece of text was produced by the AI, without the watermark being visible to a reader. The move reflects a broader push by regulators, particularly in Europe, to help people distinguish human-written from AI-generated material. For public institutions, it highlights how content authenticity and transparency are becoming standard expectations backed by law.\n   (The Verge — AI · 17 Aug 2026)\n\n4. OpenAI reportedly disbanded its preparedness team\n   https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team\n   According to the Financial Times, OpenAI disbanded its 'preparedness' team at the end of last month. The team's role was to assess whether its AI models posed serious risks — such as being misused for cyberattacks or behaving in unintended ways — and to develop measures to reduce those risks. Reporting suggests that responsibility for this work has been reassigned within the company rather than eliminated entirely, though details remain limited. The change has drawn attention because dedicated safety teams are widely seen as an important check on the risks of increasingly powerful AI systems. For policymakers and public bodies, it underscores an ongoing question about whether AI companies can be relied upon to govern their own safety, or whether external oversight is needed.\n   (The Verge — AI · 17 Aug 2026)\n\n5. Anthropic shares more details about how Claude’s new watermarks will work\n   https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n   In a companion report, TechCrunch provides further detail on Anthropic's plan to watermark text generated by its Claude assistant. It addresses practical questions that matter for real-world use: how the watermarking actually works, whether it can be removed or weakened by editing the text, and how it applies to computer code as opposed to ordinary writing. These questions are important because a watermark that disappears after light editing would offer limited protection, and code presents particular challenges for this kind of hidden marking. The coverage helps clarify both the promise and the limitations of current watermarking approaches. For non-technical readers, the main point is that labelling AI content reliably is still a developing area, and no method is yet foolproof.\n   (TechCrunch — AI · 15 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 18 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how the organisations building AI are thinking about its wider impact on society, jobs, and public trust. We cover new funding for policy research, shifting approaches to cybersecurity and safety, and the practical steps companies are taking to label AI-generated content in line with emerging regulations. Together these stories offer a useful window into how AI governance and workforce readiness are evolving.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. New policy ideas for the Intelligence Age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced funding for 14 independent projects that will explore new policy ideas for what it calls the 'Intelligence Age' — a period in which AI plays a larger role in the economy and society. The stated aim is to expand economic opportunity and help communities and institutions adapt as AI reshapes work and daily life. The projects are being run by outside researchers rather than OpenAI itself, which is intended to encourage independent thinking on questions such as jobs, skills, and social resilience. For an institution focused on human-capital and workforce development, this signals growing recognition that AI's effects on employment require deliberate policy responses, not just technical solutions. It is notable as an example of a major AI company investing in the societal and economic questions that governments and public bodies will increasingly need to address.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 17 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The Defender’s Window](https://openai.com/index/the-defenders-window)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published its perspective on how AI is changing cybersecurity for both attackers and defenders. The company argues that while AI can help malicious actors mount attacks more easily, it can also give defenders new tools to detect and respond to threats faster — a competitive dynamic it describes as a 'defender's window' of opportunity. The piece outlines steps OpenAI is taking to strengthen its own defences and offers practical guidance for security teams on how to prepare now. For public-sector organisations, which hold sensitive data and deliver essential services, this is a reminder that AI raises both the risks and the available protections in cybersecurity. The key takeaway is that institutions should actively adopt AI-enabled defences rather than assume existing measures are sufficient.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 17 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Anthropic explains how Claude’s invisible text watermarks will work](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, the company behind the Claude AI assistant, has explained how it will add invisible watermarks to text that Claude generates, in order to comply with new European Union transparency rules that require AI-generated content to be identifiable. The system is based on 'SynthID-Text', an open-source watermarking technology developed by Google DeepMind, which subtly adjusts the probabilities of word choices to create a hidden, detectable pattern. This allows software to later identify whether a piece of text was produced by the AI, without the watermark being visible to a reader. The move reflects a broader push by regulators, particularly in Europe, to help people distinguish human-written from AI-generated material. For public institutions, it highlights how content authenticity and transparency are becoming standard expectations backed by law.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. OpenAI reportedly disbanded its preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "According to the Financial Times, OpenAI disbanded its 'preparedness' team at the end of last month. The team's role was to assess whether its AI models posed serious risks — such as being misused for cyberattacks or behaving in unintended ways — and to develop measures to reduce those risks. Reporting suggests that responsibility for this work has been reassigned within the company rather than eliminated entirely, though details remain limited. The change has drawn attention because dedicated safety teams are widely seen as an important check on the risks of increasingly powerful AI systems. For policymakers and public bodies, it underscores an ongoing question about whether AI companies can be relied upon to govern their own safety, or whether external oversight is needed.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Anthropic shares more details about how Claude’s new watermarks will work](https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a companion report, TechCrunch provides further detail on Anthropic's plan to watermark text generated by its Claude assistant. It addresses practical questions that matter for real-world use: how the watermarking actually works, whether it can be removed or weakened by editing the text, and how it applies to computer code as opposed to ordinary writing. These questions are important because a watermark that disappears after light editing would offer limited protection, and code presents particular challenges for this kind of hidden marking. The coverage helps clarify both the promise and the limitations of current watermarking approaches. For non-technical readers, the main point is that labelling AI content reliably is still a developing area, and no method is yet foolproof.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 15 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 18 August 2026\n============================================================\nThis edition looks at how the organisations building AI are thinking about its wider impact on society, jobs, and public trust. We cover new funding for policy research, shifting approaches to cybersecurity and safety, and the practical steps companies are taking to label AI-generated content in line with emerging regulations. Together these stories offer a useful window into how AI governance and workforce readiness are evolving.\n\n1. New policy ideas for the Intelligence Age\n   https://openai.com/index/new-policy-ideas-for-the-intelligence-age\n   OpenAI has announced funding for 14 independent projects that will explore new policy ideas for what it calls the 'Intelligence Age' — a period in which AI plays a larger role in the economy and society. The stated aim is to expand economic opportunity and help communities and institutions adapt as AI reshapes work and daily life. The projects are being run by outside researchers rather than OpenAI itself, which is intended to encourage independent thinking on questions such as jobs, skills, and social resilience. For an institution focused on human-capital and workforce development, this signals growing recognition that AI's effects on employment require deliberate policy responses, not just technical solutions. It is notable as an example of a major AI company investing in the societal and economic questions that governments and public bodies will increasingly need to address.\n   (OpenAI · 17 Aug 2026)\n\n2. The Defender’s Window\n   https://openai.com/index/the-defenders-window\n   OpenAI has published its perspective on how AI is changing cybersecurity for both attackers and defenders. The company argues that while AI can help malicious actors mount attacks more easily, it can also give defenders new tools to detect and respond to threats faster — a competitive dynamic it describes as a 'defender's window' of opportunity. The piece outlines steps OpenAI is taking to strengthen its own defences and offers practical guidance for security teams on how to prepare now. For public-sector organisations, which hold sensitive data and deliver essential services, this is a reminder that AI raises both the risks and the available protections in cybersecurity. The key takeaway is that institutions should actively adopt AI-enabled defences rather than assume existing measures are sufficient.\n   (OpenAI · 17 Aug 2026)\n\n3. Anthropic explains how Claude’s invisible text watermarks will work\n   https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system\n   Anthropic, the company behind the Claude AI assistant, has explained how it will add invisible watermarks to text that Claude generates, in order to comply with new European Union transparency rules that require AI-generated content to be identifiable. The system is based on 'SynthID-Text', an open-source watermarking technology developed by Google DeepMind, which subtly adjusts the probabilities of word choices to create a hidden, detectable pattern. This allows software to later identify whether a piece of text was produced by the AI, without the watermark being visible to a reader. The move reflects a broader push by regulators, particularly in Europe, to help people distinguish human-written from AI-generated material. For public institutions, it highlights how content authenticity and transparency are becoming standard expectations backed by law.\n   (The Verge — AI · 17 Aug 2026)\n\n4. OpenAI reportedly disbanded its preparedness team\n   https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team\n   According to the Financial Times, OpenAI disbanded its 'preparedness' team at the end of last month. The team's role was to assess whether its AI models posed serious risks — such as being misused for cyberattacks or behaving in unintended ways — and to develop measures to reduce those risks. Reporting suggests that responsibility for this work has been reassigned within the company rather than eliminated entirely, though details remain limited. The change has drawn attention because dedicated safety teams are widely seen as an important check on the risks of increasingly powerful AI systems. For policymakers and public bodies, it underscores an ongoing question about whether AI companies can be relied upon to govern their own safety, or whether external oversight is needed.\n   (The Verge — AI · 17 Aug 2026)\n\n5. Anthropic shares more details about how Claude’s new watermarks will work\n   https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/\n   In a companion report, TechCrunch provides further detail on Anthropic's plan to watermark text generated by its Claude assistant. It addresses practical questions that matter for real-world use: how the watermarking actually works, whether it can be removed or weakened by editing the text, and how it applies to computer code as opposed to ordinary writing. These questions are important because a watermark that disappears after light editing would offer limited protection, and code presents particular challenges for this kind of hidden marking. The coverage helps clarify both the promise and the limitations of current watermarking approaches. For non-technical readers, the main point is that labelling AI content reliably is still a developing area, and no method is yet foolproof.\n   (TechCrunch — AI · 15 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
