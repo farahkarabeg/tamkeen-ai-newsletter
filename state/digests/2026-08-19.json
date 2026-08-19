@@ -1,0 +1,478 @@
+{
+  "id": "2026-08-19",
+  "generated_at_iso": "2026-08-19T07:08:16.954264+00:00",
+  "date_range_label": "19 August 2026",
+  "subtitle": "Wednesday, 19 August 2026",
+  "editor_note": "This edition focuses on a theme close to our mandate: preparing people to learn, work, and thrive alongside AI. Several stories highlight new efforts to build AI literacy among young learners and to guarantee career pathways through free training. We also cover how AI providers are approaching government oversight and the responsible pacing of powerful new models.",
+  "items": [
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI has announced a partnership with an organisation called CodeAI aimed at helping students develop AI literacy and the skills to use and shape AI responsibly. The initiative focuses on teaching young people not just how to use AI tools, but how to think critically about them — understanding their strengths, limitations, and appropriate uses. This reflects a growing recognition that AI education needs to begin early and be embedded into how students learn, rather than treated as an optional add-on. For institutions focused on education and human-capital development, this is a useful signal of how major AI providers are positioning themselves in the classroom. It also raises practical questions about curriculum design, teacher preparation, and the standards needed to ensure such tools genuinely support learning.",
+      "why_it_matters": "",
+      "relevance": 10
+    },
+    {
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI has introduced a version of ChatGPT designed specifically for teenagers, built around learning while adding stronger safeguards. The teen-focused product includes built-in protections, features intended to encourage healthy usage patterns, and additional controls that allow parents to oversee how the tool is used. The aim is to help younger users learn, reason, and build confidence with AI in an environment tailored to their age. This matters because it signals a shift by AI providers toward age-appropriate design rather than one-size-fits-all products. For education-focused organisations, it is worth watching how such tools balance genuine learning benefits with concerns about safety, screen time, and data privacy for minors.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-18T19:00:00+00:00",
+      "summary": "OpenAI has launched an initiative to strengthen democratic oversight of how AI is used within national security contexts. The programme is intended to support government institutions with tools, training, and expertise so that public officials can better understand and supervise AI systems used in sensitive settings. The emphasis is on keeping accountable, elected and appointed decision-makers in control of how these technologies are deployed. This is relevant to public-sector bodies because it reflects a broader trend of AI companies working directly with governments on governance and capacity-building. It also highlights the growing importance of equipping civil servants with the knowledge needed to oversee, rather than simply adopt, advanced AI.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI has outlined how it is adjusting the pace of its model development in response to AI systems becoming more capable in areas related to cybersecurity. The company describes strengthening its monitoring, alignment, and security measures, meaning it is putting more safeguards in place before releasing increasingly powerful models. The core idea is that as AI grows able to assist with tasks that could be misused — such as cyber operations — the responsible approach is to slow down and add protective controls rather than race ahead. For non-technical readers, the key takeaway is that leading AI developers are publicly acknowledging risks and describing steps to manage them. This kind of transparency is useful context for policymakers and institutions thinking about AI safety and responsible deployment.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "America’s Workforce Academy: No Cost. No Prior Experience Necessary. A Career on the Other Side.",
+      "url": "https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/",
+      "source_name": "Meta (Newsroom)",
+      "published_iso": "2026-08-18T13:00:28+00:00",
+      "summary": "Meta has shared stories from the first graduates of America's Workforce Academy, a free training programme that guarantees skilled trade jobs to everyone who completes it. The programme requires no prior experience and no cost to participants, offering a direct route from training into employment in trades such as construction and technical fields. It represents a notable model of workforce development, connecting education directly to guaranteed job outcomes rather than leaving graduates to find work on their own. While run by a technology company, the focus here is on hands-on trades that support the infrastructure the sector depends on. For those working in human-capital and workforce development, it offers an interesting example of how guaranteed-employment training models can be structured and scaled.",
+      "why_it_matters": "",
+      "relevance": 6
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 19 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition focuses on a theme close to our mandate: preparing people to learn, work, and thrive alongside AI. Several stories highlight new efforts to build AI literacy among young learners and to guarantee career pathways through free training. We also cover how AI providers are approaching government oversight and the responsible pacing of powerful new models.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced a partnership with an organisation called CodeAI aimed at helping students develop AI literacy and the skills to use and shape AI responsibly. The initiative focuses on teaching young people not just how to use AI tools, but how to think critically about them — understanding their strengths, limitations, and appropriate uses. This reflects a growing recognition that AI education needs to begin early and be embedded into how students learn, rather than treated as an optional add-on. For institutions focused on education and human-capital development, this is a useful signal of how major AI providers are positioning themselves in the classroom. It also raises practical questions about curriculum design, teacher preparation, and the standards needed to ensure such tools genuinely support learning.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has introduced a version of ChatGPT designed specifically for teenagers, built around learning while adding stronger safeguards. The teen-focused product includes built-in protections, features intended to encourage healthy usage patterns, and additional controls that allow parents to oversee how the tool is used. The aim is to help younger users learn, reason, and build confidence with AI in an environment tailored to their age. This matters because it signals a shift by AI providers toward age-appropriate design rather than one-size-fits-all products. For education-focused organisations, it is worth watching how such tools balance genuine learning benefits with concerns about safety, screen time, and data privacy for minors.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has launched an initiative to strengthen democratic oversight of how AI is used within national security contexts. The programme is intended to support government institutions with tools, training, and expertise so that public officials can better understand and supervise AI systems used in sensitive settings. The emphasis is on keeping accountable, elected and appointed decision-makers in control of how these technologies are deployed. This is relevant to public-sector bodies because it reflects a broader trend of AI companies working directly with governments on governance and capacity-building. It also highlights the growing importance of equipping civil servants with the knowledge needed to oversee, rather than simply adopt, advanced AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has outlined how it is adjusting the pace of its model development in response to AI systems becoming more capable in areas related to cybersecurity. The company describes strengthening its monitoring, alignment, and security measures, meaning it is putting more safeguards in place before releasing increasingly powerful models. The core idea is that as AI grows able to assist with tasks that could be misused — such as cyber operations — the responsible approach is to slow down and add protective controls rather than race ahead. For non-technical readers, the key takeaway is that leading AI developers are publicly acknowledging risks and describing steps to manage them. This kind of transparency is useful context for policymakers and institutions thinking about AI safety and responsible deployment.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. America’s Workforce Academy: No Cost. No Prior Experience Necessary. A Career on the Other Side.](https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta has shared stories from the first graduates of America's Workforce Academy, a free training programme that guarantees skilled trade jobs to everyone who completes it. The programme requires no prior experience and no cost to participants, offering a direct route from training into employment in trades such as construction and technical fields. It represents a notable model of workforce development, connecting education directly to guaranteed job outcomes rather than leaving graduates to find work on their own. While run by a technology company, the focus here is on hands-on trades that support the infrastructure the sector depends on. For those working in human-capital and workforce development, it offers an interesting example of how guaranteed-employment training models can be structured and scaled.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 19 August 2026\n============================================================\nThis edition focuses on a theme close to our mandate: preparing people to learn, work, and thrive alongside AI. Several stories highlight new efforts to build AI literacy among young learners and to guarantee career pathways through free training. We also cover how AI providers are approaching government oversight and the responsible pacing of powerful new models.\n\n1. Partnering with CodeAI to prepare the first AI generation\n   https://openai.com/index/partnering-with-codeai\n   OpenAI has announced a partnership with an organisation called CodeAI aimed at helping students develop AI literacy and the skills to use and shape AI responsibly. The initiative focuses on teaching young people not just how to use AI tools, but how to think critically about them — understanding their strengths, limitations, and appropriate uses. This reflects a growing recognition that AI education needs to begin early and be embedded into how students learn, rather than treated as an optional add-on. For institutions focused on education and human-capital development, this is a useful signal of how major AI providers are positioning themselves in the classroom. It also raises practical questions about curriculum design, teacher preparation, and the standards needed to ensure such tools genuinely support learning.\n   (OpenAI · 18 Aug 2026)\n\n2. Introducing ChatGPT for Teens: Built for learning, backed by protections\n   https://openai.com/index/chatgpt-for-teens\n   OpenAI has introduced a version of ChatGPT designed specifically for teenagers, built around learning while adding stronger safeguards. The teen-focused product includes built-in protections, features intended to encourage healthy usage patterns, and additional controls that allow parents to oversee how the tool is used. The aim is to help younger users learn, reason, and build confidence with AI in an environment tailored to their age. This matters because it signals a shift by AI providers toward age-appropriate design rather than one-size-fits-all products. For education-focused organisations, it is worth watching how such tools balance genuine learning benefits with concerns about safety, screen time, and data privacy for minors.\n   (OpenAI · 18 Aug 2026)\n\n3. Strengthening democratic oversight in national security\n   https://openai.com/index/strengthening-democratic-oversight-in-national-security\n   OpenAI has launched an initiative to strengthen democratic oversight of how AI is used within national security contexts. The programme is intended to support government institutions with tools, training, and expertise so that public officials can better understand and supervise AI systems used in sensitive settings. The emphasis is on keeping accountable, elected and appointed decision-makers in control of how these technologies are deployed. This is relevant to public-sector bodies because it reflects a broader trend of AI companies working directly with governments on governance and capacity-building. It also highlights the growing importance of equipping civil servants with the knowledge needed to oversee, rather than simply adopt, advanced AI.\n   (OpenAI · 18 Aug 2026)\n\n4. Pacing model development in an era of cyber-critical capabilities\n   https://openai.com/index/pacing-model-development-cyber-capabilities\n   OpenAI has outlined how it is adjusting the pace of its model development in response to AI systems becoming more capable in areas related to cybersecurity. The company describes strengthening its monitoring, alignment, and security measures, meaning it is putting more safeguards in place before releasing increasingly powerful models. The core idea is that as AI grows able to assist with tasks that could be misused — such as cyber operations — the responsible approach is to slow down and add protective controls rather than race ahead. For non-technical readers, the key takeaway is that leading AI developers are publicly acknowledging risks and describing steps to manage them. This kind of transparency is useful context for policymakers and institutions thinking about AI safety and responsible deployment.\n   (OpenAI · 18 Aug 2026)\n\n5. America’s Workforce Academy: No Cost. No Prior Experience Necessary. A Career on the Other Side.\n   https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/\n   Meta has shared stories from the first graduates of America's Workforce Academy, a free training programme that guarantees skilled trade jobs to everyone who completes it. The programme requires no prior experience and no cost to participants, offering a direct route from training into employment in trades such as construction and technical fields. It represents a notable model of workforce development, connecting education directly to guaranteed job outcomes rather than leaving graduates to find work on their own. While run by a technology company, the focus here is on hands-on trades that support the infrastructure the sector depends on. For those working in human-capital and workforce development, it offers an interesting example of how guaranteed-employment training models can be structured and scaled.\n   (Meta (Newsroom) · 18 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 19 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition focuses on a theme close to our mandate: preparing people to learn, work, and thrive alongside AI. Several stories highlight new efforts to build AI literacy among young learners and to guarantee career pathways through free training. We also cover how AI providers are approaching government oversight and the responsible pacing of powerful new models.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Partnering with CodeAI to prepare the first AI generation](https://openai.com/index/partnering-with-codeai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced a partnership with an organisation called CodeAI aimed at helping students develop AI literacy and the skills to use and shape AI responsibly. The initiative focuses on teaching young people not just how to use AI tools, but how to think critically about them — understanding their strengths, limitations, and appropriate uses. This reflects a growing recognition that AI education needs to begin early and be embedded into how students learn, rather than treated as an optional add-on. For institutions focused on education and human-capital development, this is a useful signal of how major AI providers are positioning themselves in the classroom. It also raises practical questions about curriculum design, teacher preparation, and the standards needed to ensure such tools genuinely support learning.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Introducing ChatGPT for Teens: Built for learning, backed by protections](https://openai.com/index/chatgpt-for-teens)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has introduced a version of ChatGPT designed specifically for teenagers, built around learning while adding stronger safeguards. The teen-focused product includes built-in protections, features intended to encourage healthy usage patterns, and additional controls that allow parents to oversee how the tool is used. The aim is to help younger users learn, reason, and build confidence with AI in an environment tailored to their age. This matters because it signals a shift by AI providers toward age-appropriate design rather than one-size-fits-all products. For education-focused organisations, it is worth watching how such tools balance genuine learning benefits with concerns about safety, screen time, and data privacy for minors.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Strengthening democratic oversight in national security](https://openai.com/index/strengthening-democratic-oversight-in-national-security)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has launched an initiative to strengthen democratic oversight of how AI is used within national security contexts. The programme is intended to support government institutions with tools, training, and expertise so that public officials can better understand and supervise AI systems used in sensitive settings. The emphasis is on keeping accountable, elected and appointed decision-makers in control of how these technologies are deployed. This is relevant to public-sector bodies because it reflects a broader trend of AI companies working directly with governments on governance and capacity-building. It also highlights the growing importance of equipping civil servants with the knowledge needed to oversee, rather than simply adopt, advanced AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Pacing model development in an era of cyber-critical capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has outlined how it is adjusting the pace of its model development in response to AI systems becoming more capable in areas related to cybersecurity. The company describes strengthening its monitoring, alignment, and security measures, meaning it is putting more safeguards in place before releasing increasingly powerful models. The core idea is that as AI grows able to assist with tasks that could be misused — such as cyber operations — the responsible approach is to slow down and add protective controls rather than race ahead. For non-technical readers, the key takeaway is that leading AI developers are publicly acknowledging risks and describing steps to manage them. This kind of transparency is useful context for policymakers and institutions thinking about AI safety and responsible deployment.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. America’s Workforce Academy: No Cost. No Prior Experience Necessary. A Career on the Other Side.](https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta has shared stories from the first graduates of America's Workforce Academy, a free training programme that guarantees skilled trade jobs to everyone who completes it. The programme requires no prior experience and no cost to participants, offering a direct route from training into employment in trades such as construction and technical fields. It represents a notable model of workforce development, connecting education directly to guaranteed job outcomes rather than leaving graduates to find work on their own. While run by a technology company, the focus here is on hands-on trades that support the infrastructure the sector depends on. For those working in human-capital and workforce development, it offers an interesting example of how guaranteed-employment training models can be structured and scaled.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 19 August 2026\n============================================================\nThis edition focuses on a theme close to our mandate: preparing people to learn, work, and thrive alongside AI. Several stories highlight new efforts to build AI literacy among young learners and to guarantee career pathways through free training. We also cover how AI providers are approaching government oversight and the responsible pacing of powerful new models.\n\n1. Partnering with CodeAI to prepare the first AI generation\n   https://openai.com/index/partnering-with-codeai\n   OpenAI has announced a partnership with an organisation called CodeAI aimed at helping students develop AI literacy and the skills to use and shape AI responsibly. The initiative focuses on teaching young people not just how to use AI tools, but how to think critically about them — understanding their strengths, limitations, and appropriate uses. This reflects a growing recognition that AI education needs to begin early and be embedded into how students learn, rather than treated as an optional add-on. For institutions focused on education and human-capital development, this is a useful signal of how major AI providers are positioning themselves in the classroom. It also raises practical questions about curriculum design, teacher preparation, and the standards needed to ensure such tools genuinely support learning.\n   (OpenAI · 18 Aug 2026)\n\n2. Introducing ChatGPT for Teens: Built for learning, backed by protections\n   https://openai.com/index/chatgpt-for-teens\n   OpenAI has introduced a version of ChatGPT designed specifically for teenagers, built around learning while adding stronger safeguards. The teen-focused product includes built-in protections, features intended to encourage healthy usage patterns, and additional controls that allow parents to oversee how the tool is used. The aim is to help younger users learn, reason, and build confidence with AI in an environment tailored to their age. This matters because it signals a shift by AI providers toward age-appropriate design rather than one-size-fits-all products. For education-focused organisations, it is worth watching how such tools balance genuine learning benefits with concerns about safety, screen time, and data privacy for minors.\n   (OpenAI · 18 Aug 2026)\n\n3. Strengthening democratic oversight in national security\n   https://openai.com/index/strengthening-democratic-oversight-in-national-security\n   OpenAI has launched an initiative to strengthen democratic oversight of how AI is used within national security contexts. The programme is intended to support government institutions with tools, training, and expertise so that public officials can better understand and supervise AI systems used in sensitive settings. The emphasis is on keeping accountable, elected and appointed decision-makers in control of how these technologies are deployed. This is relevant to public-sector bodies because it reflects a broader trend of AI companies working directly with governments on governance and capacity-building. It also highlights the growing importance of equipping civil servants with the knowledge needed to oversee, rather than simply adopt, advanced AI.\n   (OpenAI · 18 Aug 2026)\n\n4. Pacing model development in an era of cyber-critical capabilities\n   https://openai.com/index/pacing-model-development-cyber-capabilities\n   OpenAI has outlined how it is adjusting the pace of its model development in response to AI systems becoming more capable in areas related to cybersecurity. The company describes strengthening its monitoring, alignment, and security measures, meaning it is putting more safeguards in place before releasing increasingly powerful models. The core idea is that as AI grows able to assist with tasks that could be misused — such as cyber operations — the responsible approach is to slow down and add protective controls rather than race ahead. For non-technical readers, the key takeaway is that leading AI developers are publicly acknowledging risks and describing steps to manage them. This kind of transparency is useful context for policymakers and institutions thinking about AI safety and responsible deployment.\n   (OpenAI · 18 Aug 2026)\n\n5. America’s Workforce Academy: No Cost. No Prior Experience Necessary. A Career on the Other Side.\n   https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/\n   Meta has shared stories from the first graduates of America's Workforce Academy, a free training programme that guarantees skilled trade jobs to everyone who completes it. The programme requires no prior experience and no cost to participants, offering a direct route from training into employment in trades such as construction and technical fields. It represents a notable model of workforce development, connecting education directly to guaranteed job outcomes rather than leaving graduates to find work on their own. While run by a technology company, the focus here is on hands-on trades that support the infrastructure the sector depends on. For those working in human-capital and workforce development, it offers an interesting example of how guaranteed-employment training models can be structured and scaled.\n   (Meta (Newsroom) · 18 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
