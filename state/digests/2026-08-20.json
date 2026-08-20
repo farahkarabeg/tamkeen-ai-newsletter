@@ -1,0 +1,478 @@
+{
+  "id": "2026-08-20",
+  "generated_at_iso": "2026-08-20T07:09:09.096846+00:00",
+  "date_range_label": "20 August 2026",
+  "subtitle": "Thursday, 20 August 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This issue centres on education and the tools students use to learn, with major providers rolling out study features and dedicated protections for younger users — developments that speak directly to our human-capital mandate. We also cover a data-privacy update relevant to how organisations can safely adopt advanced AI.",
+  "items": [
+    {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-08-19T19:00:00+00:00",
+      "summary": "Google has launched a dedicated student hub within its Gemini AI assistant, timed to coincide with the back-to-school season. The hub acts as a single place where students can gather their research into a study notebook, generate flashcards, and take practice quizzes to test their understanding. Google is also upgrading the study notebooks so they can handle graphs and images, and the tool can even track upcoming test dates to help students plan. This is part of Google's broader push to make Gemini the go-to AI companion for learning, in direct competition with rivals such as OpenAI. For institutions focused on education and skills development, it signals how mainstream AI tools are increasingly being shaped around structured study and self-directed learning.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-08-18T11:00:00+00:00",
+      "summary": "OpenAI is introducing a dedicated ChatGPT mode for teenagers that brings its existing youth safeguards together with new safety features in a single, purpose-built experience. The move comes amid growing public and regulatory scrutiny over how AI tools affect younger users, with several technology platforms now adopting age checks and teen-specific protections. ChatGPT for Teens is designed to offer a safer, more age-appropriate environment than the standard product. This reflects a wider industry shift toward tailoring AI services to different age groups rather than offering a one-size-fits-all tool. For education-focused organisations, it highlights the importance of appropriate safeguards when younger learners use AI.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-19T19:00:00+00:00",
+      "summary": "Google is adding a range of new AI-powered study tools across both its Search engine and the Gemini assistant, reinforcing its ambition to be the primary AI aid students rely on when learning. The features build on the dedicated student hub and extend AI study support into everyday search, making it easier for learners to research and revise. This is Google's latest step in an intensifying competition with companies like OpenAI over the education market. The trend points to AI becoming embedded in the routine tools students already use daily. For workforce and curriculum planners, it underscores how quickly AI-assisted study is becoming a normal part of the learning experience.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-18T13:50:30+00:00",
+      "summary": "OpenAI has released a safer version of ChatGPT designed specifically for teenagers, adding age-appropriate safety measures, parental controls, and learning tools. The features aim to steer young users away from harmful content and to discourage the use of AI for cheating on homework. Commentators noted that this protection arrives well after teenagers had already been widely using the tool, reflecting the fact that safeguards have often lagged behind actual usage. The launch comes as platforms across the industry face pressure to demonstrate responsibility toward younger audiences. For educators, the balance between supporting genuine learning and preventing misuse remains a central and ongoing challenge.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-19T19:00:00+00:00",
+      "summary": "OpenAI has reaffirmed its Zero Data Retention option for eligible business customers using its programming interfaces, meaning that in qualifying cases the data sent to its models is not stored after processing. The company also previewed a new approach called Private Safety Processing, which is intended to allow advanced AI safety checks to run without compromising the privacy of user data. These measures respond to a common concern among organisations considering AI adoption: how to use powerful tools while keeping sensitive information protected. For public-sector bodies handling confidential data, such privacy assurances are an important factor in deciding whether and how to deploy AI. The update reflects a broader industry effort to make advanced AI more trustworthy for regulated and government users.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 20 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue centres on education and the tools students use to learn, with major providers rolling out study features and dedicated protections for younger users — developments that speak directly to our human-capital mandate. We also cover a data-privacy update relevant to how organisations can safely adopt advanced AI.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google has launched a dedicated student hub within its Gemini AI assistant, timed to coincide with the back-to-school season. The hub acts as a single place where students can gather their research into a study notebook, generate flashcards, and take practice quizzes to test their understanding. Google is also upgrading the study notebooks so they can handle graphs and images, and the tool can even track upcoming test dates to help students plan. This is part of Google's broader push to make Gemini the go-to AI companion for learning, in direct competition with rivals such as OpenAI. For institutions focused on education and skills development, it signals how mainstream AI tools are increasingly being shaped around structured study and self-directed learning.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 19 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. ChatGPT is getting a dedicated mode for teens](https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI is introducing a dedicated ChatGPT mode for teenagers that brings its existing youth safeguards together with new safety features in a single, purpose-built experience. The move comes amid growing public and regulatory scrutiny over how AI tools affect younger users, with several technology platforms now adopting age checks and teen-specific protections. ChatGPT for Teens is designed to offer a safer, more age-appropriate environment than the standard product. This reflects a wider industry shift toward tailoring AI services to different age groups rather than offering a one-size-fits-all tool. For education-focused organisations, it highlights the importance of appropriate safeguards when younger learners use AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google is adding a range of new AI-powered study tools across both its Search engine and the Gemini assistant, reinforcing its ambition to be the primary AI aid students rely on when learning. The features build on the dedicated student hub and extend AI study support into everyday search, making it easier for learners to research and revise. This is Google's latest step in an intensifying competition with companies like OpenAI over the education market. The trend points to AI becoming embedded in the routine tools students already use daily. For workforce and curriculum planners, it underscores how quickly AI-assisted study is becoming a normal part of the learning experience.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 19 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. OpenAI launches a safer ChatGPT for teens — years after teens started using it](https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has released a safer version of ChatGPT designed specifically for teenagers, adding age-appropriate safety measures, parental controls, and learning tools. The features aim to steer young users away from harmful content and to discourage the use of AI for cheating on homework. Commentators noted that this protection arrives well after teenagers had already been widely using the tool, reflecting the fact that safeguards have often lagged behind actual usage. The launch comes as platforms across the industry face pressure to demonstrate responsibility toward younger audiences. For educators, the balance between supporting genuine learning and preventing misuse remains a central and ongoing challenge.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has reaffirmed its Zero Data Retention option for eligible business customers using its programming interfaces, meaning that in qualifying cases the data sent to its models is not stored after processing. The company also previewed a new approach called Private Safety Processing, which is intended to allow advanced AI safety checks to run without compromising the privacy of user data. These measures respond to a common concern among organisations considering AI adoption: how to use powerful tools while keeping sensitive information protected. For public-sector bodies handling confidential data, such privacy assurances are an important factor in deciding whether and how to deploy AI. The update reflects a broader industry effort to make advanced AI more trustworthy for regulated and government users.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 19 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 20 August 2026\n============================================================\nWelcome to this edition of our AI digest. This issue centres on education and the tools students use to learn, with major providers rolling out study features and dedicated protections for younger users — developments that speak directly to our human-capital mandate. We also cover a data-privacy update relevant to how organisations can safely adopt advanced AI.\n\n1. Google Gemini is getting a dedicated student hub\n   https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub\n   Google has launched a dedicated student hub within its Gemini AI assistant, timed to coincide with the back-to-school season. The hub acts as a single place where students can gather their research into a study notebook, generate flashcards, and take practice quizzes to test their understanding. Google is also upgrading the study notebooks so they can handle graphs and images, and the tool can even track upcoming test dates to help students plan. This is part of Google's broader push to make Gemini the go-to AI companion for learning, in direct competition with rivals such as OpenAI. For institutions focused on education and skills development, it signals how mainstream AI tools are increasingly being shaped around structured study and self-directed learning.\n   (The Verge — AI · 19 Aug 2026)\n\n2. ChatGPT is getting a dedicated mode for teens\n   https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode\n   OpenAI is introducing a dedicated ChatGPT mode for teenagers that brings its existing youth safeguards together with new safety features in a single, purpose-built experience. The move comes amid growing public and regulatory scrutiny over how AI tools affect younger users, with several technology platforms now adopting age checks and teen-specific protections. ChatGPT for Teens is designed to offer a safer, more age-appropriate environment than the standard product. This reflects a wider industry shift toward tailoring AI services to different age groups rather than offering a one-size-fits-all tool. For education-focused organisations, it highlights the importance of appropriate safeguards when younger learners use AI.\n   (The Verge — AI · 18 Aug 2026)\n\n3. Google packs Search and Gemini with new AI study tools\n   https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\n   Google is adding a range of new AI-powered study tools across both its Search engine and the Gemini assistant, reinforcing its ambition to be the primary AI aid students rely on when learning. The features build on the dedicated student hub and extend AI study support into everyday search, making it easier for learners to research and revise. This is Google's latest step in an intensifying competition with companies like OpenAI over the education market. The trend points to AI becoming embedded in the routine tools students already use daily. For workforce and curriculum planners, it underscores how quickly AI-assisted study is becoming a normal part of the learning experience.\n   (TechCrunch — AI · 19 Aug 2026)\n\n4. OpenAI launches a safer ChatGPT for teens — years after teens started using it\n   https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/\n   OpenAI has released a safer version of ChatGPT designed specifically for teenagers, adding age-appropriate safety measures, parental controls, and learning tools. The features aim to steer young users away from harmful content and to discourage the use of AI for cheating on homework. Commentators noted that this protection arrives well after teenagers had already been widely using the tool, reflecting the fact that safeguards have often lagged behind actual usage. The launch comes as platforms across the industry face pressure to demonstrate responsibility toward younger audiences. For educators, the balance between supporting genuine learning and preventing misuse remains a central and ongoing challenge.\n   (TechCrunch — AI · 18 Aug 2026)\n\n5. Offering Zero Data Retention for frontier models\n   https://openai.com/index/offering-zero-data-retention-for-frontier-models\n   OpenAI has reaffirmed its Zero Data Retention option for eligible business customers using its programming interfaces, meaning that in qualifying cases the data sent to its models is not stored after processing. The company also previewed a new approach called Private Safety Processing, which is intended to allow advanced AI safety checks to run without compromising the privacy of user data. These measures respond to a common concern among organisations considering AI adoption: how to use powerful tools while keeping sensitive information protected. For public-sector bodies handling confidential data, such privacy assurances are an important factor in deciding whether and how to deploy AI. The update reflects a broader industry effort to make advanced AI more trustworthy for regulated and government users.\n   (OpenAI · 19 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 20 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue centres on education and the tools students use to learn, with major providers rolling out study features and dedicated protections for younger users — developments that speak directly to our human-capital mandate. We also cover a data-privacy update relevant to how organisations can safely adopt advanced AI.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Google Gemini is getting a dedicated student hub](https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google has launched a dedicated student hub within its Gemini AI assistant, timed to coincide with the back-to-school season. The hub acts as a single place where students can gather their research into a study notebook, generate flashcards, and take practice quizzes to test their understanding. Google is also upgrading the study notebooks so they can handle graphs and images, and the tool can even track upcoming test dates to help students plan. This is part of Google's broader push to make Gemini the go-to AI companion for learning, in direct competition with rivals such as OpenAI. For institutions focused on education and skills development, it signals how mainstream AI tools are increasingly being shaped around structured study and self-directed learning.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 19 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. ChatGPT is getting a dedicated mode for teens](https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI is introducing a dedicated ChatGPT mode for teenagers that brings its existing youth safeguards together with new safety features in a single, purpose-built experience. The move comes amid growing public and regulatory scrutiny over how AI tools affect younger users, with several technology platforms now adopting age checks and teen-specific protections. ChatGPT for Teens is designed to offer a safer, more age-appropriate environment than the standard product. This reflects a wider industry shift toward tailoring AI services to different age groups rather than offering a one-size-fits-all tool. For education-focused organisations, it highlights the importance of appropriate safeguards when younger learners use AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Google packs Search and Gemini with new AI study tools](https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google is adding a range of new AI-powered study tools across both its Search engine and the Gemini assistant, reinforcing its ambition to be the primary AI aid students rely on when learning. The features build on the dedicated student hub and extend AI study support into everyday search, making it easier for learners to research and revise. This is Google's latest step in an intensifying competition with companies like OpenAI over the education market. The trend points to AI becoming embedded in the routine tools students already use daily. For workforce and curriculum planners, it underscores how quickly AI-assisted study is becoming a normal part of the learning experience.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 19 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. OpenAI launches a safer ChatGPT for teens — years after teens started using it](https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has released a safer version of ChatGPT designed specifically for teenagers, adding age-appropriate safety measures, parental controls, and learning tools. The features aim to steer young users away from harmful content and to discourage the use of AI for cheating on homework. Commentators noted that this protection arrives well after teenagers had already been widely using the tool, reflecting the fact that safeguards have often lagged behind actual usage. The launch comes as platforms across the industry face pressure to demonstrate responsibility toward younger audiences. For educators, the balance between supporting genuine learning and preventing misuse remains a central and ongoing challenge.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 18 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Offering Zero Data Retention for frontier models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has reaffirmed its Zero Data Retention option for eligible business customers using its programming interfaces, meaning that in qualifying cases the data sent to its models is not stored after processing. The company also previewed a new approach called Private Safety Processing, which is intended to allow advanced AI safety checks to run without compromising the privacy of user data. These measures respond to a common concern among organisations considering AI adoption: how to use powerful tools while keeping sensitive information protected. For public-sector bodies handling confidential data, such privacy assurances are an important factor in deciding whether and how to deploy AI. The update reflects a broader industry effort to make advanced AI more trustworthy for regulated and government users.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 19 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 20 August 2026\n============================================================\nWelcome to this edition of our AI digest. This issue centres on education and the tools students use to learn, with major providers rolling out study features and dedicated protections for younger users — developments that speak directly to our human-capital mandate. We also cover a data-privacy update relevant to how organisations can safely adopt advanced AI.\n\n1. Google Gemini is getting a dedicated student hub\n   https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub\n   Google has launched a dedicated student hub within its Gemini AI assistant, timed to coincide with the back-to-school season. The hub acts as a single place where students can gather their research into a study notebook, generate flashcards, and take practice quizzes to test their understanding. Google is also upgrading the study notebooks so they can handle graphs and images, and the tool can even track upcoming test dates to help students plan. This is part of Google's broader push to make Gemini the go-to AI companion for learning, in direct competition with rivals such as OpenAI. For institutions focused on education and skills development, it signals how mainstream AI tools are increasingly being shaped around structured study and self-directed learning.\n   (The Verge — AI · 19 Aug 2026)\n\n2. ChatGPT is getting a dedicated mode for teens\n   https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode\n   OpenAI is introducing a dedicated ChatGPT mode for teenagers that brings its existing youth safeguards together with new safety features in a single, purpose-built experience. The move comes amid growing public and regulatory scrutiny over how AI tools affect younger users, with several technology platforms now adopting age checks and teen-specific protections. ChatGPT for Teens is designed to offer a safer, more age-appropriate environment than the standard product. This reflects a wider industry shift toward tailoring AI services to different age groups rather than offering a one-size-fits-all tool. For education-focused organisations, it highlights the importance of appropriate safeguards when younger learners use AI.\n   (The Verge — AI · 18 Aug 2026)\n\n3. Google packs Search and Gemini with new AI study tools\n   https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/\n   Google is adding a range of new AI-powered study tools across both its Search engine and the Gemini assistant, reinforcing its ambition to be the primary AI aid students rely on when learning. The features build on the dedicated student hub and extend AI study support into everyday search, making it easier for learners to research and revise. This is Google's latest step in an intensifying competition with companies like OpenAI over the education market. The trend points to AI becoming embedded in the routine tools students already use daily. For workforce and curriculum planners, it underscores how quickly AI-assisted study is becoming a normal part of the learning experience.\n   (TechCrunch — AI · 19 Aug 2026)\n\n4. OpenAI launches a safer ChatGPT for teens — years after teens started using it\n   https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/\n   OpenAI has released a safer version of ChatGPT designed specifically for teenagers, adding age-appropriate safety measures, parental controls, and learning tools. The features aim to steer young users away from harmful content and to discourage the use of AI for cheating on homework. Commentators noted that this protection arrives well after teenagers had already been widely using the tool, reflecting the fact that safeguards have often lagged behind actual usage. The launch comes as platforms across the industry face pressure to demonstrate responsibility toward younger audiences. For educators, the balance between supporting genuine learning and preventing misuse remains a central and ongoing challenge.\n   (TechCrunch — AI · 18 Aug 2026)\n\n5. Offering Zero Data Retention for frontier models\n   https://openai.com/index/offering-zero-data-retention-for-frontier-models\n   OpenAI has reaffirmed its Zero Data Retention option for eligible business customers using its programming interfaces, meaning that in qualifying cases the data sent to its models is not stored after processing. The company also previewed a new approach called Private Safety Processing, which is intended to allow advanced AI safety checks to run without compromising the privacy of user data. These measures respond to a common concern among organisations considering AI adoption: how to use powerful tools while keeping sensitive information protected. For public-sector bodies handling confidential data, such privacy assurances are an important factor in deciding whether and how to deploy AI. The update reflects a broader industry effort to make advanced AI more trustworthy for regulated and government users.\n   (OpenAI · 19 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
