@@ -1,0 +1,478 @@
+{
+  "id": "2026-08-24",
+  "generated_at_iso": "2026-08-24T07:31:21.383571+00:00",
+  "date_range_label": "24 August 2026",
+  "subtitle": "Monday, 24 August 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week's stories touch on several themes close to our mandate: how governments are shaping AI safety rules, how universities are using AI in education, and the ongoing debates around responsible development and fair use of data. We hope these summaries help you stay informed on developments that matter to our work in education and human-capital development.",
+  "items": [
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-22T16:30:34+00:00",
+      "summary": "OpenAI, the company behind ChatGPT, has publicly urged the U.S. state of California to make its proposed AI safety law, known as SB 53, stronger — a notable shift given that the company had previously opposed the bill. SB 53 aims to set safety requirements for companies that build advanced AI systems, part of a broader effort by governments to establish clearer rules for the technology. OpenAI's change of position suggests that some leading AI developers now see value in having formal government oversight, rather than relying solely on voluntary commitments. This matters because California is home to many major technology firms, so rules adopted there often influence standards elsewhere. For public-sector bodies, it is a useful example of how governments and industry are negotiating the balance between innovation and safeguards.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-22T16:00:00+00:00",
+      "summary": "A new study has found that the leading AI companies have published very little about how they would stop or contain an AI system that begins behaving in harmful or unexpected ways. The report describes these as plans for a so-called 'rogue model' — a system that acts outside its intended limits — and notes that most labs have no clear, public strategy for such scenarios. This raises concerns about how prepared the industry is, especially as AI systems grow more capable and occasionally show surprising behaviour. The findings feed into a wider discussion about responsible AI and the need for transparency from developers. For government and public institutions, it underlines why independent oversight and clear safety standards are increasingly important as AI is adopted across sectors.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-22T21:46:56+00:00",
+      "summary": "Harvard Business School has launched a $699 online training programme called HBS Foundry that uses AI 'avatars' — digital versions of its instructors — to coach participants. During practice sessions, such as pitching a business idea or running a mock board meeting, these AI avatars give feedback to learners as if they were the real instructors. The programme is aimed at aspiring entrepreneurs and shows how respected institutions are experimenting with AI to make education more scalable and affordable. It is a clear example of AI being applied directly to teaching, training and skills development. For those focused on human-capital development, it offers a glimpse of how AI tools might expand access to high-quality learning, while also raising questions about the role of human instructors.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-23T15:00:00+00:00",
+      "summary": "This article examines the unresolved legal question of whether AI companies can lawfully use copyrighted books to train their models. Many published authors have discovered that their work was used to build AI tools without their knowledge or permission — the same tools that some fear could compete with or reduce demand for human writing. The piece explains that the law is genuinely unclear, with ongoing court cases and no settled answer about whether such use counts as fair or as infringement. This is a significant issue for education and culture, as it touches on how creative and intellectual work is valued and protected. It also highlights a broader policy challenge governments face in updating copyright rules for the age of AI.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-22T19:00:00+00:00",
+      "summary": "A British AI company called Inherent, founded by former staff of Google's DeepMind lab, has released an AI tool named Faraday that is designed to act as a research 'teammate.' The company says Faraday outperformed similar tools from Anthropic and OpenAI at reproducing the results of existing scientific papers — a task that tests whether an AI can reliably follow and verify complex research methods. Being able to replicate studies accurately is seen as a useful step toward using AI to support and accelerate scientific work. The claim, however, comes from the company itself and would benefit from independent confirmation. For institutions interested in research and innovation, it signals the growing role AI may play in supporting scientific discovery and building specialised skills.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 24 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week's stories touch on several themes close to our mandate: how governments are shaping AI safety rules, how universities are using AI in education, and the ongoing debates around responsible development and fair use of data. We hope these summaries help you stay informed on developments that matter to our work in education and human-capital development.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, has publicly urged the U.S. state of California to make its proposed AI safety law, known as SB 53, stronger — a notable shift given that the company had previously opposed the bill. SB 53 aims to set safety requirements for companies that build advanced AI systems, part of a broader effort by governments to establish clearer rules for the technology. OpenAI's change of position suggests that some leading AI developers now see value in having formal government oversight, rather than relying solely on voluntary commitments. This matters because California is home to many major technology firms, so rules adopted there often influence standards elsewhere. For public-sector bodies, it is a useful example of how governments and industry are negotiating the balance between innovation and safeguards.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 22 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A new study has found that the leading AI companies have published very little about how they would stop or contain an AI system that begins behaving in harmful or unexpected ways. The report describes these as plans for a so-called 'rogue model' — a system that acts outside its intended limits — and notes that most labs have no clear, public strategy for such scenarios. This raises concerns about how prepared the industry is, especially as AI systems grow more capable and occasionally show surprising behaviour. The findings feed into a wider discussion about responsible AI and the need for transparency from developers. For government and public institutions, it underlines why independent oversight and clear safety standards are increasingly important as AI is adopted across sectors.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 22 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Harvard Business School has launched a $699 online training programme called HBS Foundry that uses AI 'avatars' — digital versions of its instructors — to coach participants. During practice sessions, such as pitching a business idea or running a mock board meeting, these AI avatars give feedback to learners as if they were the real instructors. The programme is aimed at aspiring entrepreneurs and shows how respected institutions are experimenting with AI to make education more scalable and affordable. It is a clear example of AI being applied directly to teaching, training and skills development. For those focused on human-capital development, it offers a glimpse of how AI tools might expand access to high-quality learning, while also raising questions about the role of human instructors.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Is it legal to train AI models on copyrighted books? It’s complicated](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article examines the unresolved legal question of whether AI companies can lawfully use copyrighted books to train their models. Many published authors have discovered that their work was used to build AI tools without their knowledge or permission — the same tools that some fear could compete with or reduce demand for human writing. The piece explains that the law is genuinely unclear, with ongoing court cases and no settled answer about whether such use counts as fair or as infringement. This is a significant issue for education and culture, as it touches on how creative and intellectual work is valued and protected. It also highlights a broader policy challenge governments face in updating copyright rules for the age of AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A British AI company called Inherent, founded by former staff of Google's DeepMind lab, has released an AI tool named Faraday that is designed to act as a research 'teammate.' The company says Faraday outperformed similar tools from Anthropic and OpenAI at reproducing the results of existing scientific papers — a task that tests whether an AI can reliably follow and verify complex research methods. Being able to replicate studies accurately is seen as a useful step toward using AI to support and accelerate scientific work. The claim, however, comes from the company itself and would benefit from independent confirmation. For institutions interested in research and innovation, it signals the growing role AI may play in supporting scientific discovery and building specialised skills.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 22 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 24 August 2026\n============================================================\nWelcome to this edition of our AI digest. This week's stories touch on several themes close to our mandate: how governments are shaping AI safety rules, how universities are using AI in education, and the ongoing debates around responsible development and fair use of data. We hope these summaries help you stay informed on developments that matter to our work in education and human-capital development.\n\n1. OpenAI says California should strengthen its AI safety bill\n   https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n   OpenAI, the company behind ChatGPT, has publicly urged the U.S. state of California to make its proposed AI safety law, known as SB 53, stronger — a notable shift given that the company had previously opposed the bill. SB 53 aims to set safety requirements for companies that build advanced AI systems, part of a broader effort by governments to establish clearer rules for the technology. OpenAI's change of position suggests that some leading AI developers now see value in having formal government oversight, rather than relying solely on voluntary commitments. This matters because California is home to many major technology firms, so rules adopted there often influence standards elsewhere. For public-sector bodies, it is a useful example of how governments and industry are negotiating the balance between innovation and safeguards.\n   (TechCrunch — AI · 22 Aug 2026)\n\n2. Frontier AI labs still won’t say how they’d contain a rogue model\n   https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/\n   A new study has found that the leading AI companies have published very little about how they would stop or contain an AI system that begins behaving in harmful or unexpected ways. The report describes these as plans for a so-called 'rogue model' — a system that acts outside its intended limits — and notes that most labs have no clear, public strategy for such scenarios. This raises concerns about how prepared the industry is, especially as AI systems grow more capable and occasionally show surprising behaviour. The findings feed into a wider discussion about responsible AI and the need for transparency from developers. For government and public institutions, it underlines why independent oversight and clear safety standards are increasingly important as AI is adopted across sectors.\n   (TechCrunch — AI · 22 Aug 2026)\n\n3. Harvard’s $699 startup bootcamp offers AI avatars of its instructors\n   https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/\n   Harvard Business School has launched a $699 online training programme called HBS Foundry that uses AI 'avatars' — digital versions of its instructors — to coach participants. During practice sessions, such as pitching a business idea or running a mock board meeting, these AI avatars give feedback to learners as if they were the real instructors. The programme is aimed at aspiring entrepreneurs and shows how respected institutions are experimenting with AI to make education more scalable and affordable. It is a clear example of AI being applied directly to teaching, training and skills development. For those focused on human-capital development, it offers a glimpse of how AI tools might expand access to high-quality learning, while also raising questions about the role of human instructors.\n   (TechCrunch — AI · 23 Aug 2026)\n\n4. Is it legal to train AI models on copyrighted books? It’s complicated\n   https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/\n   This article examines the unresolved legal question of whether AI companies can lawfully use copyrighted books to train their models. Many published authors have discovered that their work was used to build AI tools without their knowledge or permission — the same tools that some fear could compete with or reduce demand for human writing. The piece explains that the law is genuinely unclear, with ongoing court cases and no settled answer about whether such use counts as fair or as infringement. This is a significant issue for education and culture, as it touches on how creative and intellectual work is valued and protected. It also highlights a broader policy challenge governments face in updating copyright rules for the age of AI.\n   (TechCrunch — AI · 23 Aug 2026)\n\n5. Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research\n   https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/\n   A British AI company called Inherent, founded by former staff of Google's DeepMind lab, has released an AI tool named Faraday that is designed to act as a research 'teammate.' The company says Faraday outperformed similar tools from Anthropic and OpenAI at reproducing the results of existing scientific papers — a task that tests whether an AI can reliably follow and verify complex research methods. Being able to replicate studies accurately is seen as a useful step toward using AI to support and accelerate scientific work. The claim, however, comes from the company itself and would benefit from independent confirmation. For institutions interested in research and innovation, it signals the growing role AI may play in supporting scientific discovery and building specialised skills.\n   (TechCrunch — AI · 22 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 24 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week's stories touch on several themes close to our mandate: how governments are shaping AI safety rules, how universities are using AI in education, and the ongoing debates around responsible development and fair use of data. We hope these summaries help you stay informed on developments that matter to our work in education and human-capital development.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. OpenAI says California should strengthen its AI safety bill](https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, has publicly urged the U.S. state of California to make its proposed AI safety law, known as SB 53, stronger — a notable shift given that the company had previously opposed the bill. SB 53 aims to set safety requirements for companies that build advanced AI systems, part of a broader effort by governments to establish clearer rules for the technology. OpenAI's change of position suggests that some leading AI developers now see value in having formal government oversight, rather than relying solely on voluntary commitments. This matters because California is home to many major technology firms, so rules adopted there often influence standards elsewhere. For public-sector bodies, it is a useful example of how governments and industry are negotiating the balance between innovation and safeguards.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 22 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Frontier AI labs still won’t say how they’d contain a rogue model](https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A new study has found that the leading AI companies have published very little about how they would stop or contain an AI system that begins behaving in harmful or unexpected ways. The report describes these as plans for a so-called 'rogue model' — a system that acts outside its intended limits — and notes that most labs have no clear, public strategy for such scenarios. This raises concerns about how prepared the industry is, especially as AI systems grow more capable and occasionally show surprising behaviour. The findings feed into a wider discussion about responsible AI and the need for transparency from developers. For government and public institutions, it underlines why independent oversight and clear safety standards are increasingly important as AI is adopted across sectors.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 22 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Harvard’s $699 startup bootcamp offers AI avatars of its instructors](https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Harvard Business School has launched a $699 online training programme called HBS Foundry that uses AI 'avatars' — digital versions of its instructors — to coach participants. During practice sessions, such as pitching a business idea or running a mock board meeting, these AI avatars give feedback to learners as if they were the real instructors. The programme is aimed at aspiring entrepreneurs and shows how respected institutions are experimenting with AI to make education more scalable and affordable. It is a clear example of AI being applied directly to teaching, training and skills development. For those focused on human-capital development, it offers a glimpse of how AI tools might expand access to high-quality learning, while also raising questions about the role of human instructors.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Is it legal to train AI models on copyrighted books? It’s complicated](https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article examines the unresolved legal question of whether AI companies can lawfully use copyrighted books to train their models. Many published authors have discovered that their work was used to build AI tools without their knowledge or permission — the same tools that some fear could compete with or reduce demand for human writing. The piece explains that the law is genuinely unclear, with ongoing court cases and no settled answer about whether such use counts as fair or as infringement. This is a significant issue for education and culture, as it touches on how creative and intellectual work is valued and protected. It also highlights a broader policy challenge governments face in updating copyright rules for the age of AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research](https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A British AI company called Inherent, founded by former staff of Google's DeepMind lab, has released an AI tool named Faraday that is designed to act as a research 'teammate.' The company says Faraday outperformed similar tools from Anthropic and OpenAI at reproducing the results of existing scientific papers — a task that tests whether an AI can reliably follow and verify complex research methods. Being able to replicate studies accurately is seen as a useful step toward using AI to support and accelerate scientific work. The claim, however, comes from the company itself and would benefit from independent confirmation. For institutions interested in research and innovation, it signals the growing role AI may play in supporting scientific discovery and building specialised skills.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 22 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 24 August 2026\n============================================================\nWelcome to this edition of our AI digest. This week's stories touch on several themes close to our mandate: how governments are shaping AI safety rules, how universities are using AI in education, and the ongoing debates around responsible development and fair use of data. We hope these summaries help you stay informed on developments that matter to our work in education and human-capital development.\n\n1. OpenAI says California should strengthen its AI safety bill\n   https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/\n   OpenAI, the company behind ChatGPT, has publicly urged the U.S. state of California to make its proposed AI safety law, known as SB 53, stronger — a notable shift given that the company had previously opposed the bill. SB 53 aims to set safety requirements for companies that build advanced AI systems, part of a broader effort by governments to establish clearer rules for the technology. OpenAI's change of position suggests that some leading AI developers now see value in having formal government oversight, rather than relying solely on voluntary commitments. This matters because California is home to many major technology firms, so rules adopted there often influence standards elsewhere. For public-sector bodies, it is a useful example of how governments and industry are negotiating the balance between innovation and safeguards.\n   (TechCrunch — AI · 22 Aug 2026)\n\n2. Frontier AI labs still won’t say how they’d contain a rogue model\n   https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/\n   A new study has found that the leading AI companies have published very little about how they would stop or contain an AI system that begins behaving in harmful or unexpected ways. The report describes these as plans for a so-called 'rogue model' — a system that acts outside its intended limits — and notes that most labs have no clear, public strategy for such scenarios. This raises concerns about how prepared the industry is, especially as AI systems grow more capable and occasionally show surprising behaviour. The findings feed into a wider discussion about responsible AI and the need for transparency from developers. For government and public institutions, it underlines why independent oversight and clear safety standards are increasingly important as AI is adopted across sectors.\n   (TechCrunch — AI · 22 Aug 2026)\n\n3. Harvard’s $699 startup bootcamp offers AI avatars of its instructors\n   https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/\n   Harvard Business School has launched a $699 online training programme called HBS Foundry that uses AI 'avatars' — digital versions of its instructors — to coach participants. During practice sessions, such as pitching a business idea or running a mock board meeting, these AI avatars give feedback to learners as if they were the real instructors. The programme is aimed at aspiring entrepreneurs and shows how respected institutions are experimenting with AI to make education more scalable and affordable. It is a clear example of AI being applied directly to teaching, training and skills development. For those focused on human-capital development, it offers a glimpse of how AI tools might expand access to high-quality learning, while also raising questions about the role of human instructors.\n   (TechCrunch — AI · 23 Aug 2026)\n\n4. Is it legal to train AI models on copyrighted books? It’s complicated\n   https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/\n   This article examines the unresolved legal question of whether AI companies can lawfully use copyrighted books to train their models. Many published authors have discovered that their work was used to build AI tools without their knowledge or permission — the same tools that some fear could compete with or reduce demand for human writing. The piece explains that the law is genuinely unclear, with ongoing court cases and no settled answer about whether such use counts as fair or as infringement. This is a significant issue for education and culture, as it touches on how creative and intellectual work is valued and protected. It also highlights a broader policy challenge governments face in updating copyright rules for the age of AI.\n   (TechCrunch — AI · 23 Aug 2026)\n\n5. Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research\n   https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/\n   A British AI company called Inherent, founded by former staff of Google's DeepMind lab, has released an AI tool named Faraday that is designed to act as a research 'teammate.' The company says Faraday outperformed similar tools from Anthropic and OpenAI at reproducing the results of existing scientific papers — a task that tests whether an AI can reliably follow and verify complex research methods. Being able to replicate studies accurately is seen as a useful step toward using AI to support and accelerate scientific work. The claim, however, comes from the company itself and would benefit from independent confirmation. For institutions interested in research and innovation, it signals the growing role AI may play in supporting scientific discovery and building specialised skills.\n   (TechCrunch — AI · 22 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
