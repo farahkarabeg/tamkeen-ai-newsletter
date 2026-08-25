@@ -1,0 +1,478 @@
+{
+  "id": "2026-08-25",
+  "generated_at_iso": "2026-08-25T07:11:03.278461+00:00",
+  "date_range_label": "25 August 2026",
+  "subtitle": "Tuesday, 25 August 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This issue centres on themes close to our mandate: how schools and educators are adapting to AI, what we are still learning about human versus machine learning, and the steady march of AI tools and business deals shaping the wider technology landscape. Our aim, as always, is to keep you informed in plain language so you can consider what these shifts may mean for education, workforce development, and public service.",
+  "items": [
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-08-24T14:20:19+00:00",
+      "summary": "This article from MIT Technology Review examines how schools are trying to guide students toward more thoughtful use of AI chatbots in the classroom. When tools like ChatGPT first appeared a few years ago, many schools were caught off guard, as students suddenly had an app that could answer almost any question instantly. The piece explores the practical policies educators are developing — for example, deciding when AI use is appropriate, how to preserve genuine learning, and how to avoid students simply outsourcing their thinking. For an institution focused on education and human capital, this is a useful reminder that the challenge is not banning AI but teaching people to use it wisely. It highlights that thoughtful classroom guidelines matter as much as the technology itself.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-08-24T09:00:00+00:00",
+      "summary": "This piece reflects on a striking fact: for most of human history, only a human child could learn a language to perfect fluency, but now AI systems have joined that short list. Four years after ChatGPT's release, machines can produce remarkably fluent language, yet researchers still do not fully understand why children learn so much more efficiently. A child masters language from a tiny fraction of the examples an AI model requires, and does so while also learning about the world around them. The article notes that this gap between human and machine learning remains a genuine scientific mystery. It is notable for anyone thinking about education, because it underscores that human learning has strengths that current AI does not replicate, even as the technology advances.",
+      "why_it_matters": "",
+      "relevance": 7
+    },
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-24T12:00:00+00:00",
+      "summary": "OpenAI announced that its GPT-5.6 model is now available within Kiro, a tool used by software developers. According to the company, the update helps developers plan, build, review, and test software with better 'price-performance' — meaning stronger results at a more efficient cost. This is a fairly technical release aimed at professionals who write software rather than the general public. Its broader significance is that AI providers continue to compete on making their tools both more capable and more affordable for the people who build digital systems. For non-technical staff, the key takeaway is that AI is increasingly embedded into the everyday tools professionals rely on, gradually changing how software — including the systems governments use — gets made.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-24T15:00:00+00:00",
+      "summary": "This TechCrunch article looks at OpenAI's push to develop 'AI agents' — software that can carry out multi-step tasks on a person's behalf rather than simply answering questions. The company is working to move these agents beyond specialist users, such as software engineers, toward everyday people. The piece raises an open question: whether the general public will actually adopt and trust these agents for real tasks. This matters because agents represent a shift from AI that responds to prompts toward AI that takes action, which could affect how work is done across many sectors. For public-sector organisations, it is a signal to watch, since such tools may eventually influence how services are delivered and how staff manage routine work.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-24T13:47:26+00:00",
+      "summary": "TechCrunch reports that Hugging Face, a well-known company in the AI field, has reportedly received acquisition offers valuing it at around 13 billion US dollars. Hugging Face is widely used as a platform where developers and researchers share AI models and tools, and it has a strong reputation within the open-source AI community. The article notes uncertainty about whether a sale will actually happen, partly because the company's founders feel a sense of responsibility to that community, which relies on the platform remaining open. The potential deal reflects how much value investors now place on the infrastructure that supports AI development. For a general audience, it illustrates the significant sums and consolidation activity shaping the AI industry, and the tension between commercial pressures and open, community-driven access to technology.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 25 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue centres on themes close to our mandate: how schools and educators are adapting to AI, what we are still learning about human versus machine learning, and the steady march of AI tools and business deals shaping the wider technology landscape. Our aim, as always, is to keep you informed in plain language so you can consider what these shifts may mean for education, workforce development, and public service.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article from MIT Technology Review examines how schools are trying to guide students toward more thoughtful use of AI chatbots in the classroom. When tools like ChatGPT first appeared a few years ago, many schools were caught off guard, as students suddenly had an app that could answer almost any question instantly. The piece explores the practical policies educators are developing — for example, deciding when AI use is appropriate, how to preserve genuine learning, and how to avoid students simply outsourcing their thinking. For an institution focused on education and human capital, this is a useful reminder that the challenge is not banning AI but teaching people to use it wisely. It highlights that thoughtful classroom guidelines matter as much as the technology itself.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Kids outlearn AI—and we still don’t know why](https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This piece reflects on a striking fact: for most of human history, only a human child could learn a language to perfect fluency, but now AI systems have joined that short list. Four years after ChatGPT's release, machines can produce remarkably fluent language, yet researchers still do not fully understand why children learn so much more efficiently. A child masters language from a tiny fraction of the examples an AI model requires, and does so while also learning about the world around them. The article notes that this gap between human and machine learning remains a genuine scientific mystery. It is notable for anyone thinking about education, because it underscores that human learning has strengths that current AI does not replicate, even as the technology advances.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI announced that its GPT-5.6 model is now available within Kiro, a tool used by software developers. According to the company, the update helps developers plan, build, review, and test software with better 'price-performance' — meaning stronger results at a more efficient cost. This is a fairly technical release aimed at professionals who write software rather than the general public. Its broader significance is that AI providers continue to compete on making their tools both more capable and more affordable for the people who build digital systems. For non-technical staff, the key takeaway is that AI is increasingly embedded into the everyday tools professionals rely on, gradually changing how software — including the systems governments use — gets made.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This TechCrunch article looks at OpenAI's push to develop 'AI agents' — software that can carry out multi-step tasks on a person's behalf rather than simply answering questions. The company is working to move these agents beyond specialist users, such as software engineers, toward everyday people. The piece raises an open question: whether the general public will actually adopt and trust these agents for real tasks. This matters because agents represent a shift from AI that responds to prompts toward AI that takes action, which could affect how work is done across many sectors. For public-sector organisations, it is a signal to watch, since such tools may eventually influence how services are delivered and how staff manage routine work.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Hugging Face reportedly in talks to be acquired for $13B](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports that Hugging Face, a well-known company in the AI field, has reportedly received acquisition offers valuing it at around 13 billion US dollars. Hugging Face is widely used as a platform where developers and researchers share AI models and tools, and it has a strong reputation within the open-source AI community. The article notes uncertainty about whether a sale will actually happen, partly because the company's founders feel a sense of responsibility to that community, which relies on the platform remaining open. The potential deal reflects how much value investors now place on the infrastructure that supports AI development. For a general audience, it illustrates the significant sums and consolidation activity shaping the AI industry, and the tension between commercial pressures and open, community-driven access to technology.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 25 August 2026\n============================================================\nWelcome to this edition of our AI digest. This issue centres on themes close to our mandate: how schools and educators are adapting to AI, what we are still learning about human versus machine learning, and the steady march of AI tools and business deals shaping the wider technology landscape. Our aim, as always, is to keep you informed in plain language so you can consider what these shifts may mean for education, workforce development, and public service.\n\n1. How to encourage smarter AI use in the classroom\n   https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/\n   This article from MIT Technology Review examines how schools are trying to guide students toward more thoughtful use of AI chatbots in the classroom. When tools like ChatGPT first appeared a few years ago, many schools were caught off guard, as students suddenly had an app that could answer almost any question instantly. The piece explores the practical policies educators are developing — for example, deciding when AI use is appropriate, how to preserve genuine learning, and how to avoid students simply outsourcing their thinking. For an institution focused on education and human capital, this is a useful reminder that the challenge is not banning AI but teaching people to use it wisely. It highlights that thoughtful classroom guidelines matter as much as the technology itself.\n   (MIT Technology Review — AI · 24 Aug 2026)\n\n2. Kids outlearn AI—and we still don’t know why\n   https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/\n   This piece reflects on a striking fact: for most of human history, only a human child could learn a language to perfect fluency, but now AI systems have joined that short list. Four years after ChatGPT's release, machines can produce remarkably fluent language, yet researchers still do not fully understand why children learn so much more efficiently. A child masters language from a tiny fraction of the examples an AI model requires, and does so while also learning about the world around them. The article notes that this gap between human and machine learning remains a genuine scientific mystery. It is notable for anyone thinking about education, because it underscores that human learning has strengths that current AI does not replicate, even as the technology advances.\n   (MIT Technology Review — AI · 24 Aug 2026)\n\n3. Advancing price-performance for developers with GPT‑5.6 in Kiro\n   https://openai.com/index/gpt-5-6-in-kiro\n   OpenAI announced that its GPT-5.6 model is now available within Kiro, a tool used by software developers. According to the company, the update helps developers plan, build, review, and test software with better 'price-performance' — meaning stronger results at a more efficient cost. This is a fairly technical release aimed at professionals who write software rather than the general public. Its broader significance is that AI providers continue to compete on making their tools both more capable and more affordable for the people who build digital systems. For non-technical staff, the key takeaway is that AI is increasingly embedded into the everyday tools professionals rely on, gradually changing how software — including the systems governments use — gets made.\n   (OpenAI · 24 Aug 2026)\n\n4. OpenAI is building AI agents for everything. Will everyone use them?\n   https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/\n   This TechCrunch article looks at OpenAI's push to develop 'AI agents' — software that can carry out multi-step tasks on a person's behalf rather than simply answering questions. The company is working to move these agents beyond specialist users, such as software engineers, toward everyday people. The piece raises an open question: whether the general public will actually adopt and trust these agents for real tasks. This matters because agents represent a shift from AI that responds to prompts toward AI that takes action, which could affect how work is done across many sectors. For public-sector organisations, it is a signal to watch, since such tools may eventually influence how services are delivered and how staff manage routine work.\n   (TechCrunch — AI · 24 Aug 2026)\n\n5. Hugging Face reportedly in talks to be acquired for $13B\n   https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/\n   TechCrunch reports that Hugging Face, a well-known company in the AI field, has reportedly received acquisition offers valuing it at around 13 billion US dollars. Hugging Face is widely used as a platform where developers and researchers share AI models and tools, and it has a strong reputation within the open-source AI community. The article notes uncertainty about whether a sale will actually happen, partly because the company's founders feel a sense of responsibility to that community, which relies on the platform remaining open. The potential deal reflects how much value investors now place on the infrastructure that supports AI development. For a general audience, it illustrates the significant sums and consolidation activity shaping the AI industry, and the tension between commercial pressures and open, community-driven access to technology.\n   (TechCrunch — AI · 24 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 25 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue centres on themes close to our mandate: how schools and educators are adapting to AI, what we are still learning about human versus machine learning, and the steady march of AI tools and business deals shaping the wider technology landscape. Our aim, as always, is to keep you informed in plain language so you can consider what these shifts may mean for education, workforce development, and public service.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. How to encourage smarter AI use in the classroom](https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article from MIT Technology Review examines how schools are trying to guide students toward more thoughtful use of AI chatbots in the classroom. When tools like ChatGPT first appeared a few years ago, many schools were caught off guard, as students suddenly had an app that could answer almost any question instantly. The piece explores the practical policies educators are developing — for example, deciding when AI use is appropriate, how to preserve genuine learning, and how to avoid students simply outsourcing their thinking. For an institution focused on education and human capital, this is a useful reminder that the challenge is not banning AI but teaching people to use it wisely. It highlights that thoughtful classroom guidelines matter as much as the technology itself.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Kids outlearn AI—and we still don’t know why](https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This piece reflects on a striking fact: for most of human history, only a human child could learn a language to perfect fluency, but now AI systems have joined that short list. Four years after ChatGPT's release, machines can produce remarkably fluent language, yet researchers still do not fully understand why children learn so much more efficiently. A child masters language from a tiny fraction of the examples an AI model requires, and does so while also learning about the world around them. The article notes that this gap between human and machine learning remains a genuine scientific mystery. It is notable for anyone thinking about education, because it underscores that human learning has strengths that current AI does not replicate, even as the technology advances.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Advancing price-performance for developers with GPT‑5.6 in Kiro](https://openai.com/index/gpt-5-6-in-kiro)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI announced that its GPT-5.6 model is now available within Kiro, a tool used by software developers. According to the company, the update helps developers plan, build, review, and test software with better 'price-performance' — meaning stronger results at a more efficient cost. This is a fairly technical release aimed at professionals who write software rather than the general public. Its broader significance is that AI providers continue to compete on making their tools both more capable and more affordable for the people who build digital systems. For non-technical staff, the key takeaway is that AI is increasingly embedded into the everyday tools professionals rely on, gradually changing how software — including the systems governments use — gets made.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. OpenAI is building AI agents for everything. Will everyone use them?](https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This TechCrunch article looks at OpenAI's push to develop 'AI agents' — software that can carry out multi-step tasks on a person's behalf rather than simply answering questions. The company is working to move these agents beyond specialist users, such as software engineers, toward everyday people. The piece raises an open question: whether the general public will actually adopt and trust these agents for real tasks. This matters because agents represent a shift from AI that responds to prompts toward AI that takes action, which could affect how work is done across many sectors. For public-sector organisations, it is a signal to watch, since such tools may eventually influence how services are delivered and how staff manage routine work.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Hugging Face reportedly in talks to be acquired for $13B](https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports that Hugging Face, a well-known company in the AI field, has reportedly received acquisition offers valuing it at around 13 billion US dollars. Hugging Face is widely used as a platform where developers and researchers share AI models and tools, and it has a strong reputation within the open-source AI community. The article notes uncertainty about whether a sale will actually happen, partly because the company's founders feel a sense of responsibility to that community, which relies on the platform remaining open. The potential deal reflects how much value investors now place on the infrastructure that supports AI development. For a general audience, it illustrates the significant sums and consolidation activity shaping the AI industry, and the tension between commercial pressures and open, community-driven access to technology.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 25 August 2026\n============================================================\nWelcome to this edition of our AI digest. This issue centres on themes close to our mandate: how schools and educators are adapting to AI, what we are still learning about human versus machine learning, and the steady march of AI tools and business deals shaping the wider technology landscape. Our aim, as always, is to keep you informed in plain language so you can consider what these shifts may mean for education, workforce development, and public service.\n\n1. How to encourage smarter AI use in the classroom\n   https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/\n   This article from MIT Technology Review examines how schools are trying to guide students toward more thoughtful use of AI chatbots in the classroom. When tools like ChatGPT first appeared a few years ago, many schools were caught off guard, as students suddenly had an app that could answer almost any question instantly. The piece explores the practical policies educators are developing — for example, deciding when AI use is appropriate, how to preserve genuine learning, and how to avoid students simply outsourcing their thinking. For an institution focused on education and human capital, this is a useful reminder that the challenge is not banning AI but teaching people to use it wisely. It highlights that thoughtful classroom guidelines matter as much as the technology itself.\n   (MIT Technology Review — AI · 24 Aug 2026)\n\n2. Kids outlearn AI—and we still don’t know why\n   https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/\n   This piece reflects on a striking fact: for most of human history, only a human child could learn a language to perfect fluency, but now AI systems have joined that short list. Four years after ChatGPT's release, machines can produce remarkably fluent language, yet researchers still do not fully understand why children learn so much more efficiently. A child masters language from a tiny fraction of the examples an AI model requires, and does so while also learning about the world around them. The article notes that this gap between human and machine learning remains a genuine scientific mystery. It is notable for anyone thinking about education, because it underscores that human learning has strengths that current AI does not replicate, even as the technology advances.\n   (MIT Technology Review — AI · 24 Aug 2026)\n\n3. Advancing price-performance for developers with GPT‑5.6 in Kiro\n   https://openai.com/index/gpt-5-6-in-kiro\n   OpenAI announced that its GPT-5.6 model is now available within Kiro, a tool used by software developers. According to the company, the update helps developers plan, build, review, and test software with better 'price-performance' — meaning stronger results at a more efficient cost. This is a fairly technical release aimed at professionals who write software rather than the general public. Its broader significance is that AI providers continue to compete on making their tools both more capable and more affordable for the people who build digital systems. For non-technical staff, the key takeaway is that AI is increasingly embedded into the everyday tools professionals rely on, gradually changing how software — including the systems governments use — gets made.\n   (OpenAI · 24 Aug 2026)\n\n4. OpenAI is building AI agents for everything. Will everyone use them?\n   https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/\n   This TechCrunch article looks at OpenAI's push to develop 'AI agents' — software that can carry out multi-step tasks on a person's behalf rather than simply answering questions. The company is working to move these agents beyond specialist users, such as software engineers, toward everyday people. The piece raises an open question: whether the general public will actually adopt and trust these agents for real tasks. This matters because agents represent a shift from AI that responds to prompts toward AI that takes action, which could affect how work is done across many sectors. For public-sector organisations, it is a signal to watch, since such tools may eventually influence how services are delivered and how staff manage routine work.\n   (TechCrunch — AI · 24 Aug 2026)\n\n5. Hugging Face reportedly in talks to be acquired for $13B\n   https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/\n   TechCrunch reports that Hugging Face, a well-known company in the AI field, has reportedly received acquisition offers valuing it at around 13 billion US dollars. Hugging Face is widely used as a platform where developers and researchers share AI models and tools, and it has a strong reputation within the open-source AI community. The article notes uncertainty about whether a sale will actually happen, partly because the company's founders feel a sense of responsibility to that community, which relies on the platform remaining open. The potential deal reflects how much value investors now place on the infrastructure that supports AI development. For a general audience, it illustrates the significant sums and consolidation activity shaping the AI industry, and the tension between commercial pressures and open, community-driven access to technology.\n   (TechCrunch — AI · 24 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
