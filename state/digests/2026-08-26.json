@@ -1,0 +1,478 @@
+{
+  "id": "2026-08-26",
+  "generated_at_iso": "2026-08-26T07:11:23.763944+00:00",
+  "date_range_label": "26 August 2026",
+  "subtitle": "Wednesday, 26 August 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This time we look at how AI is being misused in online influence campaigns and the steps taken to stop it, alongside a series of updates on the technology that powers AI systems — from custom chips to the economics of scale. We also cover practical new tools for managing AI in the workplace and a look at how modern AI models are actually built, all chosen to help our teams understand developments that touch education, public service, and responsible technology use.",
+  "items": [
+    {
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-25T00:00:00+00:00",
+      "summary": "OpenAI reported that it identified and shut down a network of accounts originating from Russia that were using its AI tools to run a covert influence campaign. The operation created content for a fake think tank presented as being based in Israel, and produced a so-called 'sovereignty' index designed to praise Russia while criticising Western countries. The goal of such campaigns is to shape public opinion by making manufactured views appear credible and independent. This is notable because it shows how AI can be used to generate persuasive but deceptive material at scale and speed. For public-sector organisations, it underlines the importance of verifying sources and being aware that online information may be artificially produced to mislead.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-25T07:05:00+00:00",
+      "summary": "In this piece, OpenAI's Chief Financial Officer, Sarah Friar, explains the different layers of technology that combine to make AI more capable and widely available. She describes how progress in computer chips, computing power, the AI models themselves, and the everyday products people use all build on one another. As each layer improves, the result is intelligence that is more useful, delivered at greater scale, and at lower cost over time. The article is essentially a plain explanation of why AI is becoming cheaper and more powerful. For non-technical readers, it helps clarify that AI advances are not a single breakthrough but the result of many parts improving together, which affects how quickly these tools may reach workplaces and public services.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-25T07:00:00+00:00",
+      "summary": "OpenAI shared early results for Jalapeño, a custom-designed computer chip built specifically for 'AI inference' — the process of running an already-trained AI model to produce answers, rather than training it in the first place. According to the company, the chip delivers industry-leading speed and energy efficiency, handling more requests at once while responding faster. Purpose-built chips like this matter because running AI at large scale consumes significant electricity and computing resources, and greater efficiency can lower costs and reduce energy demand. This reflects a wider trend of technology companies designing their own hardware to support growing AI use. For organisations planning to adopt AI, more efficient infrastructure could eventually mean more affordable and responsive services.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-25T00:00:00+00:00",
+      "summary": "OpenAI introduced a new Admin plugin for its ChatGPT Work and Codex products, aimed at the people responsible for managing these tools within an organisation. The plugin allows administrators to review how their workspace is being used, add or remove members, set permissions, adjust usage limits, and respond to administrative requests. In simple terms, it gives organisations more control and oversight over how staff use AI at work. This is relevant to public-sector bodies because it supports responsible governance, accountability, and appropriate access to AI tools across teams. Features like these are important for institutions that need to manage technology carefully and ensure it is used within agreed policies.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Granite 4.2 LLMs: How They're Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "source_name": "Hugging Face Blog",
+      "published_iso": "2026-08-25T15:14:14+00:00",
+      "summary": "IBM published a technical explanation of how its Granite 4.2 family of large language models is built, shared through the Hugging Face platform, a widely used hub for openly available AI models. The article walks through the design choices and methods behind these models, which are made available for organisations and developers to use and adapt. Openly released models like Granite offer an alternative to closed commercial systems, giving institutions more flexibility and transparency about how the technology works. This matters because access to open, well-documented models can support local innovation, training, and workforce development. For organisations building AI skills, understanding that such options exist is a useful part of the broader picture of available tools.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 26 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This time we look at how AI is being misused in online influence campaigns and the steps taken to stop it, alongside a series of updates on the technology that powers AI systems — from custom chips to the economics of scale. We also cover practical new tools for managing AI in the workplace and a look at how modern AI models are actually built, all chosen to help our teams understand developments that touch education, public service, and responsible technology use.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI reported that it identified and shut down a network of accounts originating from Russia that were using its AI tools to run a covert influence campaign. The operation created content for a fake think tank presented as being based in Israel, and produced a so-called 'sovereignty' index designed to praise Russia while criticising Western countries. The goal of such campaigns is to shape public opinion by making manufactured views appear credible and independent. This is notable because it shows how AI can be used to generate persuasive but deceptive material at scale and speed. For public-sector organisations, it underlines the importance of verifying sources and being aware that online information may be artificially produced to mislead.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In this piece, OpenAI's Chief Financial Officer, Sarah Friar, explains the different layers of technology that combine to make AI more capable and widely available. She describes how progress in computer chips, computing power, the AI models themselves, and the everyday products people use all build on one another. As each layer improves, the result is intelligence that is more useful, delivered at greater scale, and at lower cost over time. The article is essentially a plain explanation of why AI is becoming cheaper and more powerful. For non-technical readers, it helps clarify that AI advances are not a single breakthrough but the result of many parts improving together, which affects how quickly these tools may reach workplaces and public services.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI shared early results for Jalapeño, a custom-designed computer chip built specifically for 'AI inference' — the process of running an already-trained AI model to produce answers, rather than training it in the first place. According to the company, the chip delivers industry-leading speed and energy efficiency, handling more requests at once while responding faster. Purpose-built chips like this matter because running AI at large scale consumes significant electricity and computing resources, and greater efficiency can lower costs and reduce energy demand. This reflects a wider trend of technology companies designing their own hardware to support growing AI use. For organisations planning to adopt AI, more efficient infrastructure could eventually mean more affordable and responsive services.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Introducing the Admin plugin for ChatGPT Work and Codex](https://openai.com/index/introducing-admin-plugin)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI introduced a new Admin plugin for its ChatGPT Work and Codex products, aimed at the people responsible for managing these tools within an organisation. The plugin allows administrators to review how their workspace is being used, add or remove members, set permissions, adjust usage limits, and respond to administrative requests. In simple terms, it gives organisations more control and oversight over how staff use AI at work. This is relevant to public-sector bodies because it supports responsible governance, accountability, and appropriate access to AI tools across teams. Features like these are important for institutions that need to manage technology carefully and ensure it is used within agreed policies.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "IBM published a technical explanation of how its Granite 4.2 family of large language models is built, shared through the Hugging Face platform, a widely used hub for openly available AI models. The article walks through the design choices and methods behind these models, which are made available for organisations and developers to use and adapt. Openly released models like Granite offer an alternative to closed commercial systems, giving institutions more flexibility and transparency about how the technology works. This matters because access to open, well-documented models can support local innovation, training, and workforce development. For organisations building AI skills, understanding that such options exist is a useful part of the broader picture of available tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face Blog · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 26 August 2026\n============================================================\nWelcome to this edition of our AI digest. This time we look at how AI is being misused in online influence campaigns and the steps taken to stop it, alongside a series of updates on the technology that powers AI systems — from custom chips to the economics of scale. We also cover practical new tools for managing AI in the workplace and a look at how modern AI models are actually built, all chosen to help our teams understand developments that touch education, public service, and responsible technology use.\n\n1. Disrupting a new covert influence campaign from Russia\n   https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia\n   OpenAI reported that it identified and shut down a network of accounts originating from Russia that were using its AI tools to run a covert influence campaign. The operation created content for a fake think tank presented as being based in Israel, and produced a so-called 'sovereignty' index designed to praise Russia while criticising Western countries. The goal of such campaigns is to shape public opinion by making manufactured views appear credible and independent. This is notable because it shows how AI can be used to generate persuasive but deceptive material at scale and speed. For public-sector organisations, it underlines the importance of verifying sources and being aware that online information may be artificially produced to mislead.\n   (OpenAI · 25 Aug 2026)\n\n2. The full stack behind abundant intelligence\n   https://openai.com/index/the-full-stack-behind-abundant-intelligence\n   In this piece, OpenAI's Chief Financial Officer, Sarah Friar, explains the different layers of technology that combine to make AI more capable and widely available. She describes how progress in computer chips, computing power, the AI models themselves, and the everyday products people use all build on one another. As each layer improves, the result is intelligence that is more useful, delivered at greater scale, and at lower cost over time. The article is essentially a plain explanation of why AI is becoming cheaper and more powerful. For non-technical readers, it helps clarify that AI advances are not a single breakthrough but the result of many parts improving together, which affects how quickly these tools may reach workplaces and public services.\n   (OpenAI · 25 Aug 2026)\n\n3. Jalapeño’s first results show industry-leading speed and efficiency in AI inference\n   https://openai.com/index/jalapeno-first-results\n   OpenAI shared early results for Jalapeño, a custom-designed computer chip built specifically for 'AI inference' — the process of running an already-trained AI model to produce answers, rather than training it in the first place. According to the company, the chip delivers industry-leading speed and energy efficiency, handling more requests at once while responding faster. Purpose-built chips like this matter because running AI at large scale consumes significant electricity and computing resources, and greater efficiency can lower costs and reduce energy demand. This reflects a wider trend of technology companies designing their own hardware to support growing AI use. For organisations planning to adopt AI, more efficient infrastructure could eventually mean more affordable and responsive services.\n   (OpenAI · 25 Aug 2026)\n\n4. Introducing the Admin plugin for ChatGPT Work and Codex\n   https://openai.com/index/introducing-admin-plugin\n   OpenAI introduced a new Admin plugin for its ChatGPT Work and Codex products, aimed at the people responsible for managing these tools within an organisation. The plugin allows administrators to review how their workspace is being used, add or remove members, set permissions, adjust usage limits, and respond to administrative requests. In simple terms, it gives organisations more control and oversight over how staff use AI at work. This is relevant to public-sector bodies because it supports responsible governance, accountability, and appropriate access to AI tools across teams. Features like these are important for institutions that need to manage technology carefully and ensure it is used within agreed policies.\n   (OpenAI · 25 Aug 2026)\n\n5. Granite 4.2 LLMs: How They're Built\n   https://huggingface.co/blog/ibm-granite/granite-4-2\n   IBM published a technical explanation of how its Granite 4.2 family of large language models is built, shared through the Hugging Face platform, a widely used hub for openly available AI models. The article walks through the design choices and methods behind these models, which are made available for organisations and developers to use and adapt. Openly released models like Granite offer an alternative to closed commercial systems, giving institutions more flexibility and transparency about how the technology works. This matters because access to open, well-documented models can support local innovation, training, and workforce development. For organisations building AI skills, understanding that such options exist is a useful part of the broader picture of available tools.\n   (Hugging Face Blog · 25 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 26 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This time we look at how AI is being misused in online influence campaigns and the steps taken to stop it, alongside a series of updates on the technology that powers AI systems — from custom chips to the economics of scale. We also cover practical new tools for managing AI in the workplace and a look at how modern AI models are actually built, all chosen to help our teams understand developments that touch education, public service, and responsible technology use.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Disrupting a new covert influence campaign from Russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI reported that it identified and shut down a network of accounts originating from Russia that were using its AI tools to run a covert influence campaign. The operation created content for a fake think tank presented as being based in Israel, and produced a so-called 'sovereignty' index designed to praise Russia while criticising Western countries. The goal of such campaigns is to shape public opinion by making manufactured views appear credible and independent. This is notable because it shows how AI can be used to generate persuasive but deceptive material at scale and speed. For public-sector organisations, it underlines the importance of verifying sources and being aware that online information may be artificially produced to mislead.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The full stack behind abundant intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In this piece, OpenAI's Chief Financial Officer, Sarah Friar, explains the different layers of technology that combine to make AI more capable and widely available. She describes how progress in computer chips, computing power, the AI models themselves, and the everyday products people use all build on one another. As each layer improves, the result is intelligence that is more useful, delivered at greater scale, and at lower cost over time. The article is essentially a plain explanation of why AI is becoming cheaper and more powerful. For non-technical readers, it helps clarify that AI advances are not a single breakthrough but the result of many parts improving together, which affects how quickly these tools may reach workplaces and public services.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Jalapeño’s first results show industry-leading speed and efficiency in AI inference](https://openai.com/index/jalapeno-first-results)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI shared early results for Jalapeño, a custom-designed computer chip built specifically for 'AI inference' — the process of running an already-trained AI model to produce answers, rather than training it in the first place. According to the company, the chip delivers industry-leading speed and energy efficiency, handling more requests at once while responding faster. Purpose-built chips like this matter because running AI at large scale consumes significant electricity and computing resources, and greater efficiency can lower costs and reduce energy demand. This reflects a wider trend of technology companies designing their own hardware to support growing AI use. For organisations planning to adopt AI, more efficient infrastructure could eventually mean more affordable and responsive services.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Introducing the Admin plugin for ChatGPT Work and Codex](https://openai.com/index/introducing-admin-plugin)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI introduced a new Admin plugin for its ChatGPT Work and Codex products, aimed at the people responsible for managing these tools within an organisation. The plugin allows administrators to review how their workspace is being used, add or remove members, set permissions, adjust usage limits, and respond to administrative requests. In simple terms, it gives organisations more control and oversight over how staff use AI at work. This is relevant to public-sector bodies because it supports responsible governance, accountability, and appropriate access to AI tools across teams. Features like these are important for institutions that need to manage technology carefully and ensure it is used within agreed policies.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Granite 4.2 LLMs: How They're Built](https://huggingface.co/blog/ibm-granite/granite-4-2)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "IBM published a technical explanation of how its Granite 4.2 family of large language models is built, shared through the Hugging Face platform, a widely used hub for openly available AI models. The article walks through the design choices and methods behind these models, which are made available for organisations and developers to use and adapt. Openly released models like Granite offer an alternative to closed commercial systems, giving institutions more flexibility and transparency about how the technology works. This matters because access to open, well-documented models can support local innovation, training, and workforce development. For organisations building AI skills, understanding that such options exist is a useful part of the broader picture of available tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face Blog · 25 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 26 August 2026\n============================================================\nWelcome to this edition of our AI digest. This time we look at how AI is being misused in online influence campaigns and the steps taken to stop it, alongside a series of updates on the technology that powers AI systems — from custom chips to the economics of scale. We also cover practical new tools for managing AI in the workplace and a look at how modern AI models are actually built, all chosen to help our teams understand developments that touch education, public service, and responsible technology use.\n\n1. Disrupting a new covert influence campaign from Russia\n   https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia\n   OpenAI reported that it identified and shut down a network of accounts originating from Russia that were using its AI tools to run a covert influence campaign. The operation created content for a fake think tank presented as being based in Israel, and produced a so-called 'sovereignty' index designed to praise Russia while criticising Western countries. The goal of such campaigns is to shape public opinion by making manufactured views appear credible and independent. This is notable because it shows how AI can be used to generate persuasive but deceptive material at scale and speed. For public-sector organisations, it underlines the importance of verifying sources and being aware that online information may be artificially produced to mislead.\n   (OpenAI · 25 Aug 2026)\n\n2. The full stack behind abundant intelligence\n   https://openai.com/index/the-full-stack-behind-abundant-intelligence\n   In this piece, OpenAI's Chief Financial Officer, Sarah Friar, explains the different layers of technology that combine to make AI more capable and widely available. She describes how progress in computer chips, computing power, the AI models themselves, and the everyday products people use all build on one another. As each layer improves, the result is intelligence that is more useful, delivered at greater scale, and at lower cost over time. The article is essentially a plain explanation of why AI is becoming cheaper and more powerful. For non-technical readers, it helps clarify that AI advances are not a single breakthrough but the result of many parts improving together, which affects how quickly these tools may reach workplaces and public services.\n   (OpenAI · 25 Aug 2026)\n\n3. Jalapeño’s first results show industry-leading speed and efficiency in AI inference\n   https://openai.com/index/jalapeno-first-results\n   OpenAI shared early results for Jalapeño, a custom-designed computer chip built specifically for 'AI inference' — the process of running an already-trained AI model to produce answers, rather than training it in the first place. According to the company, the chip delivers industry-leading speed and energy efficiency, handling more requests at once while responding faster. Purpose-built chips like this matter because running AI at large scale consumes significant electricity and computing resources, and greater efficiency can lower costs and reduce energy demand. This reflects a wider trend of technology companies designing their own hardware to support growing AI use. For organisations planning to adopt AI, more efficient infrastructure could eventually mean more affordable and responsive services.\n   (OpenAI · 25 Aug 2026)\n\n4. Introducing the Admin plugin for ChatGPT Work and Codex\n   https://openai.com/index/introducing-admin-plugin\n   OpenAI introduced a new Admin plugin for its ChatGPT Work and Codex products, aimed at the people responsible for managing these tools within an organisation. The plugin allows administrators to review how their workspace is being used, add or remove members, set permissions, adjust usage limits, and respond to administrative requests. In simple terms, it gives organisations more control and oversight over how staff use AI at work. This is relevant to public-sector bodies because it supports responsible governance, accountability, and appropriate access to AI tools across teams. Features like these are important for institutions that need to manage technology carefully and ensure it is used within agreed policies.\n   (OpenAI · 25 Aug 2026)\n\n5. Granite 4.2 LLMs: How They're Built\n   https://huggingface.co/blog/ibm-granite/granite-4-2\n   IBM published a technical explanation of how its Granite 4.2 family of large language models is built, shared through the Hugging Face platform, a widely used hub for openly available AI models. The article walks through the design choices and methods behind these models, which are made available for organisations and developers to use and adapt. Openly released models like Granite offer an alternative to closed commercial systems, giving institutions more flexibility and transparency about how the technology works. This matters because access to open, well-documented models can support local innovation, training, and workforce development. For organisations building AI skills, understanding that such options exist is a useful part of the broader picture of available tools.\n   (Hugging Face Blog · 25 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
