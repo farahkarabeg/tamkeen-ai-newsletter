@@ -1,0 +1,478 @@
+{
+  "id": "2026-08-27",
+  "generated_at_iso": "2026-08-27T17:40:59.994406+00:00",
+  "date_range_label": "27 August 2026",
+  "subtitle": "Thursday, 27 August 2026",
+  "editor_note": "This edition centres on a theme close to our mandate: how artificial intelligence is reshaping education, teaching and the future of work. We look at new research and school programmes exploring how AI tools affect student learning and support educators, alongside developments in how AI systems are independently tested and a prominent voice's ideas for protecting jobs. Together these stories offer a grounded view of both the opportunities and the questions AI raises for human-capital development.",
+  "items": [
+    {
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-27T09:00:00+00:00",
+      "summary": "OpenAI has published a randomized study involving more than 1,000 university students that looked at how using ChatGPT, combined with training in critical thinking, affected their performance on a real-world assignment. The research aimed to test a common concern: whether relying on AI tools weakens students' own thinking, or whether it can actually strengthen it. According to the findings, students who received guidance on how to think critically while using ChatGPT produced better and more original work than those who used the tool without such training. This suggests that the benefit comes not from the technology alone, but from teaching people how to use it thoughtfully. For institutions focused on education and skills, the takeaway is that AI literacy and critical-thinking instruction should go hand in hand. It is a useful, evidence-based reference point as schools and training bodies consider how to integrate AI responsibly.",
+      "why_it_matters": "",
+      "relevance": 10
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-26T10:00:00+00:00",
+      "summary": "OpenAI is expanding its 'ChatGPT for Teachers' programme to 55 school systems across the United States, reaching more than 100,000 additional educators and support staff. The initiative provides teachers with secure AI tools designed for classroom use, along with training and ongoing support to help them adopt the technology safely. The emphasis on security and professional development reflects a recognition that simply giving teachers access to AI is not enough; they also need guidance to use it well and to protect student data. This kind of structured rollout offers a possible model for how public education systems elsewhere might introduce AI to teaching staff. For workforce-development bodies, it highlights the importance of upskilling educators themselves as AI enters the classroom. The scale of the expansion signals growing institutional confidence in AI as a support tool for teachers.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-26T10:00:00+00:00",
+      "summary": "A new report from OpenAI examines how students and educators are using ChatGPT to make learning more continuous, extending beyond the boundaries of the traditional classroom. The report describes how learners increasingly turn to AI for support with questions, revision and practice at any time, rather than only during scheduled lessons. This reflects a broader shift toward lifelong and on-demand learning, where education is not confined to fixed hours or physical settings. For institutions concerned with human-capital development, the idea of 'learning that never stops' aligns closely with goals around continuous upskilling and reskilling. The findings suggest AI could help make learning more accessible and personalised, though thoughtful implementation remains important. It is a relevant signal for how flexible, always-available learning support might be designed in future.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-08-27T12:59:16+00:00",
+      "summary": "Google DeepMind has announced a pilot of what it describes as the world's first double-blind evaluations of AI systems. In a double-blind setup, neither the evaluators nor the developers know certain details during testing, which is intended to reduce bias and produce more trustworthy, independent results about how well an AI model actually performs. This approach borrows from rigorous methods used in scientific and medical research, where such controls are standard. The move matters because reliable, credible testing of AI systems is essential for governments, regulators and organisations deciding whether to trust and adopt these tools. As public bodies increasingly weigh AI adoption, better evaluation methods help build confidence that claims about AI capabilities are accurate. It represents a step toward more transparent and accountable AI assessment.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-26T14:37:01+00:00",
+      "summary": "In a recent interview covered by TechCrunch, Bill Gates shared his views on managing the risks AI poses to employment, including some ideas that have not been widely discussed. Among his proposals are a 'robot tax'—a levy on companies that automate jobs, which could help fund support for affected workers—and the notion of 'Human Reserved' jobs, roles deliberately kept for people rather than machines. Gates generally aligns with the 'Responsible AI' viewpoint, favouring careful management of the technology's effects rather than resisting it outright. These suggestions touch directly on concerns about how automation may reshape the workforce and which jobs remain in human hands. While such ideas are still speculative and would face practical and political challenges, they reflect a serious debate about protecting workers during rapid technological change. For those focused on workforce development, they offer food for thought on how policy might cushion AI's impact on jobs.",
+      "why_it_matters": "",
+      "relevance": 6
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 27 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition centres on a theme close to our mandate: how artificial intelligence is reshaping education, teaching and the future of work. We look at new research and school programmes exploring how AI tools affect student learning and support educators, alongside developments in how AI systems are independently tested and a prominent voice's ideas for protecting jobs. Together these stories offer a grounded view of both the opportunities and the questions AI raises for human-capital development.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a randomized study involving more than 1,000 university students that looked at how using ChatGPT, combined with training in critical thinking, affected their performance on a real-world assignment. The research aimed to test a common concern: whether relying on AI tools weakens students' own thinking, or whether it can actually strengthen it. According to the findings, students who received guidance on how to think critically while using ChatGPT produced better and more original work than those who used the tool without such training. This suggests that the benefit comes not from the technology alone, but from teaching people how to use it thoughtfully. For institutions focused on education and skills, the takeaway is that AI literacy and critical-thinking instruction should go hand in hand. It is a useful, evidence-based reference point as schools and training bodies consider how to integrate AI responsibly.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 27 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI is expanding its 'ChatGPT for Teachers' programme to 55 school systems across the United States, reaching more than 100,000 additional educators and support staff. The initiative provides teachers with secure AI tools designed for classroom use, along with training and ongoing support to help them adopt the technology safely. The emphasis on security and professional development reflects a recognition that simply giving teachers access to AI is not enough; they also need guidance to use it well and to protect student data. This kind of structured rollout offers a possible model for how public education systems elsewhere might introduce AI to teaching staff. For workforce-development bodies, it highlights the importance of upskilling educators themselves as AI enters the classroom. The scale of the expansion signals growing institutional confidence in AI as a support tool for teachers.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A new report from OpenAI examines how students and educators are using ChatGPT to make learning more continuous, extending beyond the boundaries of the traditional classroom. The report describes how learners increasingly turn to AI for support with questions, revision and practice at any time, rather than only during scheduled lessons. This reflects a broader shift toward lifelong and on-demand learning, where education is not confined to fixed hours or physical settings. For institutions concerned with human-capital development, the idea of 'learning that never stops' aligns closely with goals around continuous upskilling and reskilling. The findings suggest AI could help make learning more accessible and personalised, though thoughtful implementation remains important. It is a relevant signal for how flexible, always-available learning support might be designed in future.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has announced a pilot of what it describes as the world's first double-blind evaluations of AI systems. In a double-blind setup, neither the evaluators nor the developers know certain details during testing, which is intended to reduce bias and produce more trustworthy, independent results about how well an AI model actually performs. This approach borrows from rigorous methods used in scientific and medical research, where such controls are standard. The move matters because reliable, credible testing of AI systems is essential for governments, regulators and organisations deciding whether to trust and adopt these tools. As public bodies increasingly weigh AI adoption, better evaluation methods help build confidence that claims about AI capabilities are accurate. It represents a step toward more transparent and accountable AI assessment.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 27 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI](https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a recent interview covered by TechCrunch, Bill Gates shared his views on managing the risks AI poses to employment, including some ideas that have not been widely discussed. Among his proposals are a 'robot tax'—a levy on companies that automate jobs, which could help fund support for affected workers—and the notion of 'Human Reserved' jobs, roles deliberately kept for people rather than machines. Gates generally aligns with the 'Responsible AI' viewpoint, favouring careful management of the technology's effects rather than resisting it outright. These suggestions touch directly on concerns about how automation may reshape the workforce and which jobs remain in human hands. While such ideas are still speculative and would face practical and political challenges, they reflect a serious debate about protecting workers during rapid technological change. For those focused on workforce development, they offer food for thought on how policy might cushion AI's impact on jobs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 26 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 27 August 2026\n============================================================\nThis edition centres on a theme close to our mandate: how artificial intelligence is reshaping education, teaching and the future of work. We look at new research and school programmes exploring how AI tools affect student learning and support educators, alongside developments in how AI systems are independently tested and a prominent voice's ideas for protecting jobs. Together these stories offer a grounded view of both the opportunities and the questions AI raises for human-capital development.\n\n1. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training\n   https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training\n   OpenAI has published a randomized study involving more than 1,000 university students that looked at how using ChatGPT, combined with training in critical thinking, affected their performance on a real-world assignment. The research aimed to test a common concern: whether relying on AI tools weakens students' own thinking, or whether it can actually strengthen it. According to the findings, students who received guidance on how to think critically while using ChatGPT produced better and more original work than those who used the tool without such training. This suggests that the benefit comes not from the technology alone, but from teaching people how to use it thoughtfully. For institutions focused on education and skills, the takeaway is that AI literacy and critical-thinking instruction should go hand in hand. It is a useful, evidence-based reference point as schools and training bodies consider how to integrate AI responsibly.\n   (OpenAI · 27 Aug 2026)\n\n2. Bringing ChatGPT for Teachers to more U.S. school districts\n   https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts\n   OpenAI is expanding its 'ChatGPT for Teachers' programme to 55 school systems across the United States, reaching more than 100,000 additional educators and support staff. The initiative provides teachers with secure AI tools designed for classroom use, along with training and ongoing support to help them adopt the technology safely. The emphasis on security and professional development reflects a recognition that simply giving teachers access to AI is not enough; they also need guidance to use it well and to protect student data. This kind of structured rollout offers a possible model for how public education systems elsewhere might introduce AI to teaching staff. For workforce-development bodies, it highlights the importance of upskilling educators themselves as AI enters the classroom. The scale of the expansion signals growing institutional confidence in AI as a support tool for teachers.\n   (OpenAI · 26 Aug 2026)\n\n3. Learning never stops: How AI makes learning continuous\n   https://openai.com/index/learning-never-stops\n   A new report from OpenAI examines how students and educators are using ChatGPT to make learning more continuous, extending beyond the boundaries of the traditional classroom. The report describes how learners increasingly turn to AI for support with questions, revision and practice at any time, rather than only during scheduled lessons. This reflects a broader shift toward lifelong and on-demand learning, where education is not confined to fixed hours or physical settings. For institutions concerned with human-capital development, the idea of 'learning that never stops' aligns closely with goals around continuous upskilling and reskilling. The findings suggest AI could help make learning more accessible and personalised, though thoughtful implementation remains important. It is a relevant signal for how flexible, always-available learning support might be designed in future.\n   (OpenAI · 26 Aug 2026)\n\n4. Piloting the world's first double-blind AI evaluations\n   https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/\n   Google DeepMind has announced a pilot of what it describes as the world's first double-blind evaluations of AI systems. In a double-blind setup, neither the evaluators nor the developers know certain details during testing, which is intended to reduce bias and produce more trustworthy, independent results about how well an AI model actually performs. This approach borrows from rigorous methods used in scientific and medical research, where such controls are standard. The move matters because reliable, credible testing of AI systems is essential for governments, regulators and organisations deciding whether to trust and adopt these tools. As public bodies increasingly weigh AI adoption, better evaluation methods help build confidence that claims about AI capabilities are accurate. It represents a step toward more transparent and accountable AI assessment.\n   (Google DeepMind · 27 Aug 2026)\n\n5. Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI\n   https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/\n   In a recent interview covered by TechCrunch, Bill Gates shared his views on managing the risks AI poses to employment, including some ideas that have not been widely discussed. Among his proposals are a 'robot tax'—a levy on companies that automate jobs, which could help fund support for affected workers—and the notion of 'Human Reserved' jobs, roles deliberately kept for people rather than machines. Gates generally aligns with the 'Responsible AI' viewpoint, favouring careful management of the technology's effects rather than resisting it outright. These suggestions touch directly on concerns about how automation may reshape the workforce and which jobs remain in human hands. While such ideas are still speculative and would face practical and political challenges, they reflect a serious debate about protecting workers during rapid technological change. For those focused on workforce development, they offer food for thought on how policy might cushion AI's impact on jobs.\n   (TechCrunch — AI · 26 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 27 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition centres on a theme close to our mandate: how artificial intelligence is reshaping education, teaching and the future of work. We look at new research and school programmes exploring how AI tools affect student learning and support educators, alongside developments in how AI systems are independently tested and a prominent voice's ideas for protecting jobs. Together these stories offer a grounded view of both the opportunities and the questions AI raises for human-capital development.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training](https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a randomized study involving more than 1,000 university students that looked at how using ChatGPT, combined with training in critical thinking, affected their performance on a real-world assignment. The research aimed to test a common concern: whether relying on AI tools weakens students' own thinking, or whether it can actually strengthen it. According to the findings, students who received guidance on how to think critically while using ChatGPT produced better and more original work than those who used the tool without such training. This suggests that the benefit comes not from the technology alone, but from teaching people how to use it thoughtfully. For institutions focused on education and skills, the takeaway is that AI literacy and critical-thinking instruction should go hand in hand. It is a useful, evidence-based reference point as schools and training bodies consider how to integrate AI responsibly.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 27 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Bringing ChatGPT for Teachers to more U.S. school districts](https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI is expanding its 'ChatGPT for Teachers' programme to 55 school systems across the United States, reaching more than 100,000 additional educators and support staff. The initiative provides teachers with secure AI tools designed for classroom use, along with training and ongoing support to help them adopt the technology safely. The emphasis on security and professional development reflects a recognition that simply giving teachers access to AI is not enough; they also need guidance to use it well and to protect student data. This kind of structured rollout offers a possible model for how public education systems elsewhere might introduce AI to teaching staff. For workforce-development bodies, it highlights the importance of upskilling educators themselves as AI enters the classroom. The scale of the expansion signals growing institutional confidence in AI as a support tool for teachers.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Learning never stops: How AI makes learning continuous](https://openai.com/index/learning-never-stops)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A new report from OpenAI examines how students and educators are using ChatGPT to make learning more continuous, extending beyond the boundaries of the traditional classroom. The report describes how learners increasingly turn to AI for support with questions, revision and practice at any time, rather than only during scheduled lessons. This reflects a broader shift toward lifelong and on-demand learning, where education is not confined to fixed hours or physical settings. For institutions concerned with human-capital development, the idea of 'learning that never stops' aligns closely with goals around continuous upskilling and reskilling. The findings suggest AI could help make learning more accessible and personalised, though thoughtful implementation remains important. It is a relevant signal for how flexible, always-available learning support might be designed in future.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has announced a pilot of what it describes as the world's first double-blind evaluations of AI systems. In a double-blind setup, neither the evaluators nor the developers know certain details during testing, which is intended to reduce bias and produce more trustworthy, independent results about how well an AI model actually performs. This approach borrows from rigorous methods used in scientific and medical research, where such controls are standard. The move matters because reliable, credible testing of AI systems is essential for governments, regulators and organisations deciding whether to trust and adopt these tools. As public bodies increasingly weigh AI adoption, better evaluation methods help build confidence that claims about AI capabilities are accurate. It represents a step toward more transparent and accountable AI assessment.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 27 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI](https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a recent interview covered by TechCrunch, Bill Gates shared his views on managing the risks AI poses to employment, including some ideas that have not been widely discussed. Among his proposals are a 'robot tax'—a levy on companies that automate jobs, which could help fund support for affected workers—and the notion of 'Human Reserved' jobs, roles deliberately kept for people rather than machines. Gates generally aligns with the 'Responsible AI' viewpoint, favouring careful management of the technology's effects rather than resisting it outright. These suggestions touch directly on concerns about how automation may reshape the workforce and which jobs remain in human hands. While such ideas are still speculative and would face practical and political challenges, they reflect a serious debate about protecting workers during rapid technological change. For those focused on workforce development, they offer food for thought on how policy might cushion AI's impact on jobs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 26 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 27 August 2026\n============================================================\nThis edition centres on a theme close to our mandate: how artificial intelligence is reshaping education, teaching and the future of work. We look at new research and school programmes exploring how AI tools affect student learning and support educators, alongside developments in how AI systems are independently tested and a prominent voice's ideas for protecting jobs. Together these stories offer a grounded view of both the opportunities and the questions AI raises for human-capital development.\n\n1. Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training\n   https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training\n   OpenAI has published a randomized study involving more than 1,000 university students that looked at how using ChatGPT, combined with training in critical thinking, affected their performance on a real-world assignment. The research aimed to test a common concern: whether relying on AI tools weakens students' own thinking, or whether it can actually strengthen it. According to the findings, students who received guidance on how to think critically while using ChatGPT produced better and more original work than those who used the tool without such training. This suggests that the benefit comes not from the technology alone, but from teaching people how to use it thoughtfully. For institutions focused on education and skills, the takeaway is that AI literacy and critical-thinking instruction should go hand in hand. It is a useful, evidence-based reference point as schools and training bodies consider how to integrate AI responsibly.\n   (OpenAI · 27 Aug 2026)\n\n2. Bringing ChatGPT for Teachers to more U.S. school districts\n   https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts\n   OpenAI is expanding its 'ChatGPT for Teachers' programme to 55 school systems across the United States, reaching more than 100,000 additional educators and support staff. The initiative provides teachers with secure AI tools designed for classroom use, along with training and ongoing support to help them adopt the technology safely. The emphasis on security and professional development reflects a recognition that simply giving teachers access to AI is not enough; they also need guidance to use it well and to protect student data. This kind of structured rollout offers a possible model for how public education systems elsewhere might introduce AI to teaching staff. For workforce-development bodies, it highlights the importance of upskilling educators themselves as AI enters the classroom. The scale of the expansion signals growing institutional confidence in AI as a support tool for teachers.\n   (OpenAI · 26 Aug 2026)\n\n3. Learning never stops: How AI makes learning continuous\n   https://openai.com/index/learning-never-stops\n   A new report from OpenAI examines how students and educators are using ChatGPT to make learning more continuous, extending beyond the boundaries of the traditional classroom. The report describes how learners increasingly turn to AI for support with questions, revision and practice at any time, rather than only during scheduled lessons. This reflects a broader shift toward lifelong and on-demand learning, where education is not confined to fixed hours or physical settings. For institutions concerned with human-capital development, the idea of 'learning that never stops' aligns closely with goals around continuous upskilling and reskilling. The findings suggest AI could help make learning more accessible and personalised, though thoughtful implementation remains important. It is a relevant signal for how flexible, always-available learning support might be designed in future.\n   (OpenAI · 26 Aug 2026)\n\n4. Piloting the world's first double-blind AI evaluations\n   https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/\n   Google DeepMind has announced a pilot of what it describes as the world's first double-blind evaluations of AI systems. In a double-blind setup, neither the evaluators nor the developers know certain details during testing, which is intended to reduce bias and produce more trustworthy, independent results about how well an AI model actually performs. This approach borrows from rigorous methods used in scientific and medical research, where such controls are standard. The move matters because reliable, credible testing of AI systems is essential for governments, regulators and organisations deciding whether to trust and adopt these tools. As public bodies increasingly weigh AI adoption, better evaluation methods help build confidence that claims about AI capabilities are accurate. It represents a step toward more transparent and accountable AI assessment.\n   (Google DeepMind · 27 Aug 2026)\n\n5. Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI\n   https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/\n   In a recent interview covered by TechCrunch, Bill Gates shared his views on managing the risks AI poses to employment, including some ideas that have not been widely discussed. Among his proposals are a 'robot tax'—a levy on companies that automate jobs, which could help fund support for affected workers—and the notion of 'Human Reserved' jobs, roles deliberately kept for people rather than machines. Gates generally aligns with the 'Responsible AI' viewpoint, favouring careful management of the technology's effects rather than resisting it outright. These suggestions touch directly on concerns about how automation may reshape the workforce and which jobs remain in human hands. While such ideas are still speculative and would face practical and political challenges, they reflect a serious debate about protecting workers during rapid technological change. For those focused on workforce development, they offer food for thought on how policy might cushion AI's impact on jobs.\n   (TechCrunch — AI · 26 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
