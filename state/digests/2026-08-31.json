@@ -1,0 +1,478 @@
+{
+  "id": "2026-08-31",
+  "generated_at_iso": "2026-08-31T13:59:35.837519+00:00",
+  "date_range_label": "31 August 2026",
+  "subtitle": "Monday, 31 August 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week we look at how governments and platforms are tightening the rules around AI — from Europe's stricter oversight of ChatGPT to Instagram's crackdown on fake AI profiles — alongside developments in AI research, business models, and the growing market for freely shared models. Together these stories show a technology maturing under closer public scrutiny, with real implications for how organisations and individuals can safely benefit from it.",
+  "items": [
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-08-31T13:27:36+00:00",
+      "summary": "The European Union will soon apply tougher rules to OpenAI's ChatGPT after classifying it as a 'Very Large Online Search Engine' under the bloc's Digital Services Act, a wide-ranging law that governs major online platforms. This designation means OpenAI must take active steps to reduce risks linked to ChatGPT, including its effects on children, users' mental health, and the spread of illegal content. Companies covered by these rules face stricter transparency and safety obligations, and can be penalised if they fail to comply. The move signals that regulators are increasingly treating powerful AI tools like other large digital services that shape public life. For public-sector bodies, it is a useful example of how governments are building formal accountability into the rollout of AI, rather than relying on companies to self-regulate.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-28T19:30:38+00:00",
+      "summary": "A researcher at the AI company Anthropic shared early findings on 'self-improving AI' — systems that can automatically test and refine their own behaviour. In the experiment, automated tools were given ten benchmarks measuring specific unwanted or 'misaligned' behaviours, and the systems improved their performance on every one of them without harming overall quality. This matters because it suggests AI could help make future AI safer and more reliable, potentially speeding up progress in a field where safety is a major concern. At the same time, systems that improve themselves raise important questions about human oversight and control. For non-technical readers, the key takeaway is that safety research is advancing alongside AI capabilities, and remains an active area of careful study rather than a solved problem.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-31T04:00:00+00:00",
+      "summary": "OpenAI announced that its advertising business, ChatGPT Ads, has reached an annualised revenue run rate of one billion dollars and is expanding to more countries. The company frames advertising as a way to fund free and low-cost access to its AI tools, allowing more people worldwide to use ChatGPT without paying. This reflects a broader shift in how AI services are paid for, moving beyond subscriptions toward advertising-supported models similar to those used by search engines and social media. While wider access can benefit users and organisations with limited budgets, ad-funded models also raise familiar questions about data use, influence, and how commercial interests shape what users see. For institutions focused on human-capital development, affordable access to AI tools could broaden opportunities for training and learning, provided the trade-offs are well understood.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-28T18:19:40+00:00",
+      "summary": "TechCrunch reports that companies building 'open-weight' AI models — systems whose underlying components are shared publicly for others to use and adapt — have become highly sought-after acquisition targets in Silicon Valley. Large amounts of investment are flowing into this space, even though these companies give their models away rather than keeping them fully proprietary. The appeal lies in the talent, technology, and influence that come with leading open model development, which many organisations prefer because it offers more flexibility and control. This trend is significant because open models allow governments, universities, and businesses to run AI on their own terms, rather than depending solely on a few large providers. For a national institution, open-weight AI can support local adaptation, including for languages such as Arabic and region-specific needs.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-08-31T13:00:00+00:00",
+      "summary": "Instagram is introducing new measures to address the growing number of AI-generated accounts that pretend to be real people. Among the changes, it is renaming the 'AI creator' label to 'AI-generated profile' to make it clearer when a profile shows an artificial person rather than a genuine human. The company said users have expressed frustration at being unable to tell whether accounts are real, especially as AI-generated content becomes more convincing and widespread. This step reflects a broader effort across social media platforms to improve transparency and reduce deception as AI-created content floods online spaces. For the public, and for organisations communicating online, clearer labelling helps build trust and makes it easier to distinguish authentic voices from automated ones.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 31 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how governments and platforms are tightening the rules around AI — from Europe's stricter oversight of ChatGPT to Instagram's crackdown on fake AI profiles — alongside developments in AI research, business models, and the growing market for freely shared models. Together these stories show a technology maturing under closer public scrutiny, with real implications for how organisations and individuals can safely benefit from it.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. ChatGPT to face tougher regulation in the EU](https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The European Union will soon apply tougher rules to OpenAI's ChatGPT after classifying it as a 'Very Large Online Search Engine' under the bloc's Digital Services Act, a wide-ranging law that governs major online platforms. This designation means OpenAI must take active steps to reduce risks linked to ChatGPT, including its effects on children, users' mental health, and the spread of illegal content. Companies covered by these rules face stricter transparency and safety obligations, and can be penalised if they fail to comply. The move signals that regulators are increasingly treating powerful AI tools like other large digital services that shape public life. For public-sector bodies, it is a useful example of how governments are building formal accountability into the rollout of AI, rather than relying on companies to self-regulate.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A researcher at the AI company Anthropic shared early findings on 'self-improving AI' — systems that can automatically test and refine their own behaviour. In the experiment, automated tools were given ten benchmarks measuring specific unwanted or 'misaligned' behaviours, and the systems improved their performance on every one of them without harming overall quality. This matters because it suggests AI could help make future AI safer and more reliable, potentially speeding up progress in a field where safety is a major concern. At the same time, systems that improve themselves raise important questions about human oversight and control. For non-technical readers, the key takeaway is that safety research is advancing alongside AI capabilities, and remains an active area of careful study rather than a solved problem.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 28 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI announced that its advertising business, ChatGPT Ads, has reached an annualised revenue run rate of one billion dollars and is expanding to more countries. The company frames advertising as a way to fund free and low-cost access to its AI tools, allowing more people worldwide to use ChatGPT without paying. This reflects a broader shift in how AI services are paid for, moving beyond subscriptions toward advertising-supported models similar to those used by search engines and social media. While wider access can benefit users and organisations with limited budgets, ad-funded models also raise familiar questions about data use, influence, and how commercial interests shape what users see. For institutions focused on human-capital development, affordable access to AI tools could broaden opportunities for training and learning, provided the trade-offs are well understood.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports that companies building 'open-weight' AI models — systems whose underlying components are shared publicly for others to use and adapt — have become highly sought-after acquisition targets in Silicon Valley. Large amounts of investment are flowing into this space, even though these companies give their models away rather than keeping them fully proprietary. The appeal lies in the talent, technology, and influence that come with leading open model development, which many organisations prefer because it offers more flexibility and control. This trend is significant because open models allow governments, universities, and businesses to run AI on their own terms, rather than depending solely on a few large providers. For a national institution, open-weight AI can support local adaptation, including for languages such as Arabic and region-specific needs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 28 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Instagram cracks down on AI accounts pretending to be human](https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Instagram is introducing new measures to address the growing number of AI-generated accounts that pretend to be real people. Among the changes, it is renaming the 'AI creator' label to 'AI-generated profile' to make it clearer when a profile shows an artificial person rather than a genuine human. The company said users have expressed frustration at being unable to tell whether accounts are real, especially as AI-generated content becomes more convincing and widespread. This step reflects a broader effort across social media platforms to improve transparency and reduce deception as AI-created content floods online spaces. For the public, and for organisations communicating online, clearer labelling helps build trust and makes it easier to distinguish authentic voices from automated ones.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 31 August 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how governments and platforms are tightening the rules around AI — from Europe's stricter oversight of ChatGPT to Instagram's crackdown on fake AI profiles — alongside developments in AI research, business models, and the growing market for freely shared models. Together these stories show a technology maturing under closer public scrutiny, with real implications for how organisations and individuals can safely benefit from it.\n\n1. ChatGPT to face tougher regulation in the EU\n   https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa\n   The European Union will soon apply tougher rules to OpenAI's ChatGPT after classifying it as a 'Very Large Online Search Engine' under the bloc's Digital Services Act, a wide-ranging law that governs major online platforms. This designation means OpenAI must take active steps to reduce risks linked to ChatGPT, including its effects on children, users' mental health, and the spread of illegal content. Companies covered by these rules face stricter transparency and safety obligations, and can be penalised if they fail to comply. The move signals that regulators are increasingly treating powerful AI tools like other large digital services that shape public life. For public-sector bodies, it is a useful example of how governments are building formal accountability into the rollout of AI, rather than relying on companies to self-regulate.\n   (The Verge — AI · 31 Aug 2026)\n\n2. An Anthropic researcher just gave us a peek at self-improving AI\n   https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\n   A researcher at the AI company Anthropic shared early findings on 'self-improving AI' — systems that can automatically test and refine their own behaviour. In the experiment, automated tools were given ten benchmarks measuring specific unwanted or 'misaligned' behaviours, and the systems improved their performance on every one of them without harming overall quality. This matters because it suggests AI could help make future AI safer and more reliable, potentially speeding up progress in a field where safety is a major concern. At the same time, systems that improve themselves raise important questions about human oversight and control. For non-technical readers, the key takeaway is that safety research is advancing alongside AI capabilities, and remains an active area of careful study rather than a solved problem.\n   (TechCrunch — AI · 28 Aug 2026)\n\n3. A milestone in expanding access to AI\n   https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads\n   OpenAI announced that its advertising business, ChatGPT Ads, has reached an annualised revenue run rate of one billion dollars and is expanding to more countries. The company frames advertising as a way to fund free and low-cost access to its AI tools, allowing more people worldwide to use ChatGPT without paying. This reflects a broader shift in how AI services are paid for, moving beyond subscriptions toward advertising-supported models similar to those used by search engines and social media. While wider access can benefit users and organisations with limited budgets, ad-funded models also raise familiar questions about data use, influence, and how commercial interests shape what users see. For institutions focused on human-capital development, affordable access to AI tools could broaden opportunities for training and learning, provided the trade-offs are well understood.\n   (OpenAI · 31 Aug 2026)\n\n4. Open-weight AI companies are the Valley’s hottest acquisition targets\n   https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/\n   TechCrunch reports that companies building 'open-weight' AI models — systems whose underlying components are shared publicly for others to use and adapt — have become highly sought-after acquisition targets in Silicon Valley. Large amounts of investment are flowing into this space, even though these companies give their models away rather than keeping them fully proprietary. The appeal lies in the talent, technology, and influence that come with leading open model development, which many organisations prefer because it offers more flexibility and control. This trend is significant because open models allow governments, universities, and businesses to run AI on their own terms, rather than depending solely on a few large providers. For a national institution, open-weight AI can support local adaptation, including for languages such as Arabic and region-specific needs.\n   (TechCrunch — AI · 28 Aug 2026)\n\n5. Instagram cracks down on AI accounts pretending to be human\n   https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop\n   Instagram is introducing new measures to address the growing number of AI-generated accounts that pretend to be real people. Among the changes, it is renaming the 'AI creator' label to 'AI-generated profile' to make it clearer when a profile shows an artificial person rather than a genuine human. The company said users have expressed frustration at being unable to tell whether accounts are real, especially as AI-generated content becomes more convincing and widespread. This step reflects a broader effort across social media platforms to improve transparency and reduce deception as AI-created content floods online spaces. For the public, and for organisations communicating online, clearer labelling helps build trust and makes it easier to distinguish authentic voices from automated ones.\n   (The Verge — AI · 31 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 31 August 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how governments and platforms are tightening the rules around AI — from Europe's stricter oversight of ChatGPT to Instagram's crackdown on fake AI profiles — alongside developments in AI research, business models, and the growing market for freely shared models. Together these stories show a technology maturing under closer public scrutiny, with real implications for how organisations and individuals can safely benefit from it.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. ChatGPT to face tougher regulation in the EU](https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The European Union will soon apply tougher rules to OpenAI's ChatGPT after classifying it as a 'Very Large Online Search Engine' under the bloc's Digital Services Act, a wide-ranging law that governs major online platforms. This designation means OpenAI must take active steps to reduce risks linked to ChatGPT, including its effects on children, users' mental health, and the spread of illegal content. Companies covered by these rules face stricter transparency and safety obligations, and can be penalised if they fail to comply. The move signals that regulators are increasingly treating powerful AI tools like other large digital services that shape public life. For public-sector bodies, it is a useful example of how governments are building formal accountability into the rollout of AI, rather than relying on companies to self-regulate.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. An Anthropic researcher just gave us a peek at self-improving AI](https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A researcher at the AI company Anthropic shared early findings on 'self-improving AI' — systems that can automatically test and refine their own behaviour. In the experiment, automated tools were given ten benchmarks measuring specific unwanted or 'misaligned' behaviours, and the systems improved their performance on every one of them without harming overall quality. This matters because it suggests AI could help make future AI safer and more reliable, potentially speeding up progress in a field where safety is a major concern. At the same time, systems that improve themselves raise important questions about human oversight and control. For non-technical readers, the key takeaway is that safety research is advancing alongside AI capabilities, and remains an active area of careful study rather than a solved problem.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 28 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI announced that its advertising business, ChatGPT Ads, has reached an annualised revenue run rate of one billion dollars and is expanding to more countries. The company frames advertising as a way to fund free and low-cost access to its AI tools, allowing more people worldwide to use ChatGPT without paying. This reflects a broader shift in how AI services are paid for, moving beyond subscriptions toward advertising-supported models similar to those used by search engines and social media. While wider access can benefit users and organisations with limited budgets, ad-funded models also raise familiar questions about data use, influence, and how commercial interests shape what users see. For institutions focused on human-capital development, affordable access to AI tools could broaden opportunities for training and learning, provided the trade-offs are well understood.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Open-weight AI companies are the Valley’s hottest acquisition targets](https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports that companies building 'open-weight' AI models — systems whose underlying components are shared publicly for others to use and adapt — have become highly sought-after acquisition targets in Silicon Valley. Large amounts of investment are flowing into this space, even though these companies give their models away rather than keeping them fully proprietary. The appeal lies in the talent, technology, and influence that come with leading open model development, which many organisations prefer because it offers more flexibility and control. This trend is significant because open models allow governments, universities, and businesses to run AI on their own terms, rather than depending solely on a few large providers. For a national institution, open-weight AI can support local adaptation, including for languages such as Arabic and region-specific needs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 28 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Instagram cracks down on AI accounts pretending to be human](https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Instagram is introducing new measures to address the growing number of AI-generated accounts that pretend to be real people. Among the changes, it is renaming the 'AI creator' label to 'AI-generated profile' to make it clearer when a profile shows an artificial person rather than a genuine human. The company said users have expressed frustration at being unable to tell whether accounts are real, especially as AI-generated content becomes more convincing and widespread. This step reflects a broader effort across social media platforms to improve transparency and reduce deception as AI-created content floods online spaces. For the public, and for organisations communicating online, clearer labelling helps build trust and makes it easier to distinguish authentic voices from automated ones.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 31 August 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how governments and platforms are tightening the rules around AI — from Europe's stricter oversight of ChatGPT to Instagram's crackdown on fake AI profiles — alongside developments in AI research, business models, and the growing market for freely shared models. Together these stories show a technology maturing under closer public scrutiny, with real implications for how organisations and individuals can safely benefit from it.\n\n1. ChatGPT to face tougher regulation in the EU\n   https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa\n   The European Union will soon apply tougher rules to OpenAI's ChatGPT after classifying it as a 'Very Large Online Search Engine' under the bloc's Digital Services Act, a wide-ranging law that governs major online platforms. This designation means OpenAI must take active steps to reduce risks linked to ChatGPT, including its effects on children, users' mental health, and the spread of illegal content. Companies covered by these rules face stricter transparency and safety obligations, and can be penalised if they fail to comply. The move signals that regulators are increasingly treating powerful AI tools like other large digital services that shape public life. For public-sector bodies, it is a useful example of how governments are building formal accountability into the rollout of AI, rather than relying on companies to self-regulate.\n   (The Verge — AI · 31 Aug 2026)\n\n2. An Anthropic researcher just gave us a peek at self-improving AI\n   https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/\n   A researcher at the AI company Anthropic shared early findings on 'self-improving AI' — systems that can automatically test and refine their own behaviour. In the experiment, automated tools were given ten benchmarks measuring specific unwanted or 'misaligned' behaviours, and the systems improved their performance on every one of them without harming overall quality. This matters because it suggests AI could help make future AI safer and more reliable, potentially speeding up progress in a field where safety is a major concern. At the same time, systems that improve themselves raise important questions about human oversight and control. For non-technical readers, the key takeaway is that safety research is advancing alongside AI capabilities, and remains an active area of careful study rather than a solved problem.\n   (TechCrunch — AI · 28 Aug 2026)\n\n3. A milestone in expanding access to AI\n   https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads\n   OpenAI announced that its advertising business, ChatGPT Ads, has reached an annualised revenue run rate of one billion dollars and is expanding to more countries. The company frames advertising as a way to fund free and low-cost access to its AI tools, allowing more people worldwide to use ChatGPT without paying. This reflects a broader shift in how AI services are paid for, moving beyond subscriptions toward advertising-supported models similar to those used by search engines and social media. While wider access can benefit users and organisations with limited budgets, ad-funded models also raise familiar questions about data use, influence, and how commercial interests shape what users see. For institutions focused on human-capital development, affordable access to AI tools could broaden opportunities for training and learning, provided the trade-offs are well understood.\n   (OpenAI · 31 Aug 2026)\n\n4. Open-weight AI companies are the Valley’s hottest acquisition targets\n   https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/\n   TechCrunch reports that companies building 'open-weight' AI models — systems whose underlying components are shared publicly for others to use and adapt — have become highly sought-after acquisition targets in Silicon Valley. Large amounts of investment are flowing into this space, even though these companies give their models away rather than keeping them fully proprietary. The appeal lies in the talent, technology, and influence that come with leading open model development, which many organisations prefer because it offers more flexibility and control. This trend is significant because open models allow governments, universities, and businesses to run AI on their own terms, rather than depending solely on a few large providers. For a national institution, open-weight AI can support local adaptation, including for languages such as Arabic and region-specific needs.\n   (TechCrunch — AI · 28 Aug 2026)\n\n5. Instagram cracks down on AI accounts pretending to be human\n   https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop\n   Instagram is introducing new measures to address the growing number of AI-generated accounts that pretend to be real people. Among the changes, it is renaming the 'AI creator' label to 'AI-generated profile' to make it clearer when a profile shows an artificial person rather than a genuine human. The company said users have expressed frustration at being unable to tell whether accounts are real, especially as AI-generated content becomes more convincing and widespread. This step reflects a broader effort across social media platforms to improve transparency and reduce deception as AI-created content floods online spaces. For the public, and for organisations communicating online, clearer labelling helps build trust and makes it easier to distinguish authentic voices from automated ones.\n   (The Verge — AI · 31 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
