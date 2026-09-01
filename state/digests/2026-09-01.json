@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-01",
+  "generated_at_iso": "2026-09-01T11:44:16.465603+00:00",
+  "date_range_label": "1 September 2026",
+  "subtitle": "Tuesday, 1 September 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This issue looks at how governments and institutions around the world are balancing the opportunities of AI with the need to protect people and stay in control — from safeguarding young learners to modernising public services and setting clear rules for responsible use. These themes connect closely to our own mission of building human capital and supporting a well-governed public sector.",
+  "items": [
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-31T07:00:00+00:00",
+      "summary": "OpenAI has announced its support for a proposed California law, Senate Bill 1119, that aims to introduce age-appropriate safety protections for teenagers who use AI tools. The bill is designed to reduce potential harms to young people while still allowing them to use AI to learn, create, and explore. OpenAI's backing is notable because technology companies do not always publicly support new rules that would regulate their own products. For an education-focused institution, this signals a growing recognition that AI safeguards and educational opportunity can go hand in hand rather than being in conflict. It also reflects a broader trend of governments taking a more active role in shaping how minors interact with AI, which may influence how similar protections are considered in other regions, including the Gulf.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "source_name": "OpenAI",
+      "published_iso": "2026-08-31T07:00:00+00:00",
+      "summary": "Polimill, a Japanese company, is using OpenAI's GPT models and its Codex coding tool to build public AI infrastructure for local governments, known as municipalities. The technology helps government staff search through and make use of large amounts of administrative knowledge and paperwork more quickly, while also speeding up the development of the underlying software. This is a practical example of how AI can improve the everyday work of public servants by making information easier to find and use. For Tamkeen, it illustrates how AI can support public-sector efficiency and better public services without replacing the human decision-makers who remain in charge. It also shows that these tools are being adopted at the local level of government, not only in large national systems.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-31T20:13:45+00:00",
+      "summary": "The United States Department of Defense, known as the Pentagon, is adding tailored versions of OpenAI's ChatGPT and xAI's Grok to its central portal for AI tools, where Google's Gemini is already available. This means military and defence staff will be able to choose between several major AI systems through a single official platform. The move highlights how quickly large government bodies are integrating AI into their operations, even in highly sensitive and security-focused environments. It also shows a preference for offering multiple AI providers rather than relying on a single vendor, which can improve flexibility and reduce dependence on one company. For public-sector observers, it is a clear example of AI adoption moving into the core of national institutions.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-08-31T14:00:00+00:00",
+      "summary": "In a wide-ranging interview, New York Governor Kathy Hochul discussed her views on AI and technology policy, arguing that AI should be made 'less evil' — meaning safer and more accountable to the public. The conversation touched on major issues including data centres, online safety, and how much power large technology companies should hold, set against the backdrop of an election year in the United States. Governor Hochul has taken firm positions on several technology matters, reflecting how AI has become a central topic in political debate. For a non-technical audience, this is a reminder that decisions about AI are increasingly being made by elected officials and policymakers, not only by technology firms. It underscores the importance of clear governance and public accountability as AI becomes more widespread.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-08-29T17:51:10+00:00",
+      "summary": "At TechBBQ, an annual technology conference in the Nordic region, investors, company founders, and business leaders from across Europe gathered to discuss AI, and one question kept resurfacing: who is actually in control of these systems? The discussions focused on how people and organisations can maintain genuine oversight and agency as AI becomes more capable and more deeply embedded in daily life and business. Rather than celebrating the technology uncritically, participants emphasised the need for humans to remain in charge of important decisions. This reflects a growing global conversation about responsible AI and the balance between innovation and control. For institutions like Tamkeen, it reinforces the value of building the skills and governance needed to use AI thoughtfully rather than being led by it.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 1 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue looks at how governments and institutions around the world are balancing the opportunities of AI with the need to protect people and stay in control — from safeguarding young learners to modernising public services and setting clear rules for responsible use. These themes connect closely to our own mission of building human capital and supporting a well-governed public sector.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced its support for a proposed California law, Senate Bill 1119, that aims to introduce age-appropriate safety protections for teenagers who use AI tools. The bill is designed to reduce potential harms to young people while still allowing them to use AI to learn, create, and explore. OpenAI's backing is notable because technology companies do not always publicly support new rules that would regulate their own products. For an education-focused institution, this signals a growing recognition that AI safeguards and educational opportunity can go hand in hand rather than being in conflict. It also reflects a broader trend of governments taking a more active role in shaping how minors interact with AI, which may influence how similar protections are considered in other regions, including the Gulf.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Polimill, a Japanese company, is using OpenAI's GPT models and its Codex coding tool to build public AI infrastructure for local governments, known as municipalities. The technology helps government staff search through and make use of large amounts of administrative knowledge and paperwork more quickly, while also speeding up the development of the underlying software. This is a practical example of how AI can improve the everyday work of public servants by making information easier to find and use. For Tamkeen, it illustrates how AI can support public-sector efficiency and better public services without replacing the human decision-makers who remain in charge. It also shows that these tools are being adopted at the local level of government, not only in large national systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The United States Department of Defense, known as the Pentagon, is adding tailored versions of OpenAI's ChatGPT and xAI's Grok to its central portal for AI tools, where Google's Gemini is already available. This means military and defence staff will be able to choose between several major AI systems through a single official platform. The move highlights how quickly large government bodies are integrating AI into their operations, even in highly sensitive and security-focused environments. It also shows a preference for offering multiple AI providers rather than relying on a single vendor, which can improve flexibility and reduce dependence on one company. For public-sector observers, it is a clear example of AI adoption moving into the core of national institutions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 01 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. New York Governor Kathy Hochul thinks AI should be ‘less evil’](https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a wide-ranging interview, New York Governor Kathy Hochul discussed her views on AI and technology policy, arguing that AI should be made 'less evil' — meaning safer and more accountable to the public. The conversation touched on major issues including data centres, online safety, and how much power large technology companies should hold, set against the backdrop of an election year in the United States. Governor Hochul has taken firm positions on several technology matters, reflecting how AI has become a central topic in political debate. For a non-technical audience, this is a reminder that decisions about AI are increasingly being made by elected officials and policymakers, not only by technology firms. It underscores the importance of clear governance and public accountability as AI becomes more widespread.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "At TechBBQ, an annual technology conference in the Nordic region, investors, company founders, and business leaders from across Europe gathered to discuss AI, and one question kept resurfacing: who is actually in control of these systems? The discussions focused on how people and organisations can maintain genuine oversight and agency as AI becomes more capable and more deeply embedded in daily life and business. Rather than celebrating the technology uncritically, participants emphasised the need for humans to remain in charge of important decisions. This reflects a growing global conversation about responsible AI and the balance between innovation and control. For institutions like Tamkeen, it reinforces the value of building the skills and governance needed to use AI thoughtfully rather than being led by it.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 29 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 1 September 2026\n============================================================\nWelcome to this edition of our AI digest. This issue looks at how governments and institutions around the world are balancing the opportunities of AI with the need to protect people and stay in control — from safeguarding young learners to modernising public services and setting clear rules for responsible use. These themes connect closely to our own mission of building human capital and supporting a well-governed public sector.\n\n1. OpenAI supports California’s bill to advance youth AI safety\n   https://openai.com/index/supporting-california-bill-advance-ai-youth-safety\n   OpenAI has announced its support for a proposed California law, Senate Bill 1119, that aims to introduce age-appropriate safety protections for teenagers who use AI tools. The bill is designed to reduce potential harms to young people while still allowing them to use AI to learn, create, and explore. OpenAI's backing is notable because technology companies do not always publicly support new rules that would regulate their own products. For an education-focused institution, this signals a growing recognition that AI safeguards and educational opportunity can go hand in hand rather than being in conflict. It also reflects a broader trend of governments taking a more active role in shaping how minors interact with AI, which may influence how similar protections are considered in other regions, including the Gulf.\n   (OpenAI · 31 Aug 2026)\n\n2. Polimill builds Japan's next-generation public AI infrastructure\n   https://openai.com/index/polimill\n   Polimill, a Japanese company, is using OpenAI's GPT models and its Codex coding tool to build public AI infrastructure for local governments, known as municipalities. The technology helps government staff search through and make use of large amounts of administrative knowledge and paperwork more quickly, while also speeding up the development of the underlying software. This is a practical example of how AI can improve the everyday work of public servants by making information easier to find and use. For Tamkeen, it illustrates how AI can support public-sector efficiency and better public services without replacing the human decision-makers who remain in charge. It also shows that these tools are being adopted at the local level of government, not only in large national systems.\n   (OpenAI · 31 Aug 2026)\n\n3. The Pentagon now has its own version of ChatGPT and Grok\n   https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\n   The United States Department of Defense, known as the Pentagon, is adding tailored versions of OpenAI's ChatGPT and xAI's Grok to its central portal for AI tools, where Google's Gemini is already available. This means military and defence staff will be able to choose between several major AI systems through a single official platform. The move highlights how quickly large government bodies are integrating AI into their operations, even in highly sensitive and security-focused environments. It also shows a preference for offering multiple AI providers rather than relying on a single vendor, which can improve flexibility and reduce dependence on one company. For public-sector observers, it is a clear example of AI adoption moving into the core of national institutions.\n   (TechCrunch — AI · 01 Sep 2026)\n\n4. New York Governor Kathy Hochul thinks AI should be ‘less evil’\n   https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras\n   In a wide-ranging interview, New York Governor Kathy Hochul discussed her views on AI and technology policy, arguing that AI should be made 'less evil' — meaning safer and more accountable to the public. The conversation touched on major issues including data centres, online safety, and how much power large technology companies should hold, set against the backdrop of an election year in the United States. Governor Hochul has taken firm positions on several technology matters, reflecting how AI has become a central topic in political debate. For a non-technical audience, this is a reminder that decisions about AI are increasingly being made by elected officials and policymakers, not only by technology firms. It underscores the importance of clear governance and public accountability as AI becomes more widespread.\n   (The Verge — AI · 31 Aug 2026)\n\n5. At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?\n   https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/\n   At TechBBQ, an annual technology conference in the Nordic region, investors, company founders, and business leaders from across Europe gathered to discuss AI, and one question kept resurfacing: who is actually in control of these systems? The discussions focused on how people and organisations can maintain genuine oversight and agency as AI becomes more capable and more deeply embedded in daily life and business. Rather than celebrating the technology uncritically, participants emphasised the need for humans to remain in charge of important decisions. This reflects a growing global conversation about responsible AI and the balance between innovation and control. For institutions like Tamkeen, it reinforces the value of building the skills and governance needed to use AI thoughtfully rather than being led by it.\n   (TechCrunch — AI · 29 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 1 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue looks at how governments and institutions around the world are balancing the opportunities of AI with the need to protect people and stay in control — from safeguarding young learners to modernising public services and setting clear rules for responsible use. These themes connect closely to our own mission of building human capital and supporting a well-governed public sector.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced its support for a proposed California law, Senate Bill 1119, that aims to introduce age-appropriate safety protections for teenagers who use AI tools. The bill is designed to reduce potential harms to young people while still allowing them to use AI to learn, create, and explore. OpenAI's backing is notable because technology companies do not always publicly support new rules that would regulate their own products. For an education-focused institution, this signals a growing recognition that AI safeguards and educational opportunity can go hand in hand rather than being in conflict. It also reflects a broader trend of governments taking a more active role in shaping how minors interact with AI, which may influence how similar protections are considered in other regions, including the Gulf.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Polimill, a Japanese company, is using OpenAI's GPT models and its Codex coding tool to build public AI infrastructure for local governments, known as municipalities. The technology helps government staff search through and make use of large amounts of administrative knowledge and paperwork more quickly, while also speeding up the development of the underlying software. This is a practical example of how AI can improve the everyday work of public servants by making information easier to find and use. For Tamkeen, it illustrates how AI can support public-sector efficiency and better public services without replacing the human decision-makers who remain in charge. It also shows that these tools are being adopted at the local level of government, not only in large national systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The United States Department of Defense, known as the Pentagon, is adding tailored versions of OpenAI's ChatGPT and xAI's Grok to its central portal for AI tools, where Google's Gemini is already available. This means military and defence staff will be able to choose between several major AI systems through a single official platform. The move highlights how quickly large government bodies are integrating AI into their operations, even in highly sensitive and security-focused environments. It also shows a preference for offering multiple AI providers rather than relying on a single vendor, which can improve flexibility and reduce dependence on one company. For public-sector observers, it is a clear example of AI adoption moving into the core of national institutions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 01 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. New York Governor Kathy Hochul thinks AI should be ‘less evil’](https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a wide-ranging interview, New York Governor Kathy Hochul discussed her views on AI and technology policy, arguing that AI should be made 'less evil' — meaning safer and more accountable to the public. The conversation touched on major issues including data centres, online safety, and how much power large technology companies should hold, set against the backdrop of an election year in the United States. Governor Hochul has taken firm positions on several technology matters, reflecting how AI has become a central topic in political debate. For a non-technical audience, this is a reminder that decisions about AI are increasingly being made by elected officials and policymakers, not only by technology firms. It underscores the importance of clear governance and public accountability as AI becomes more widespread.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?](https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "At TechBBQ, an annual technology conference in the Nordic region, investors, company founders, and business leaders from across Europe gathered to discuss AI, and one question kept resurfacing: who is actually in control of these systems? The discussions focused on how people and organisations can maintain genuine oversight and agency as AI becomes more capable and more deeply embedded in daily life and business. Rather than celebrating the technology uncritically, participants emphasised the need for humans to remain in charge of important decisions. This reflects a growing global conversation about responsible AI and the balance between innovation and control. For institutions like Tamkeen, it reinforces the value of building the skills and governance needed to use AI thoughtfully rather than being led by it.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 29 Aug 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 1 September 2026\n============================================================\nWelcome to this edition of our AI digest. This issue looks at how governments and institutions around the world are balancing the opportunities of AI with the need to protect people and stay in control — from safeguarding young learners to modernising public services and setting clear rules for responsible use. These themes connect closely to our own mission of building human capital and supporting a well-governed public sector.\n\n1. OpenAI supports California’s bill to advance youth AI safety\n   https://openai.com/index/supporting-california-bill-advance-ai-youth-safety\n   OpenAI has announced its support for a proposed California law, Senate Bill 1119, that aims to introduce age-appropriate safety protections for teenagers who use AI tools. The bill is designed to reduce potential harms to young people while still allowing them to use AI to learn, create, and explore. OpenAI's backing is notable because technology companies do not always publicly support new rules that would regulate their own products. For an education-focused institution, this signals a growing recognition that AI safeguards and educational opportunity can go hand in hand rather than being in conflict. It also reflects a broader trend of governments taking a more active role in shaping how minors interact with AI, which may influence how similar protections are considered in other regions, including the Gulf.\n   (OpenAI · 31 Aug 2026)\n\n2. Polimill builds Japan's next-generation public AI infrastructure\n   https://openai.com/index/polimill\n   Polimill, a Japanese company, is using OpenAI's GPT models and its Codex coding tool to build public AI infrastructure for local governments, known as municipalities. The technology helps government staff search through and make use of large amounts of administrative knowledge and paperwork more quickly, while also speeding up the development of the underlying software. This is a practical example of how AI can improve the everyday work of public servants by making information easier to find and use. For Tamkeen, it illustrates how AI can support public-sector efficiency and better public services without replacing the human decision-makers who remain in charge. It also shows that these tools are being adopted at the local level of government, not only in large national systems.\n   (OpenAI · 31 Aug 2026)\n\n3. The Pentagon now has its own version of ChatGPT and Grok\n   https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/\n   The United States Department of Defense, known as the Pentagon, is adding tailored versions of OpenAI's ChatGPT and xAI's Grok to its central portal for AI tools, where Google's Gemini is already available. This means military and defence staff will be able to choose between several major AI systems through a single official platform. The move highlights how quickly large government bodies are integrating AI into their operations, even in highly sensitive and security-focused environments. It also shows a preference for offering multiple AI providers rather than relying on a single vendor, which can improve flexibility and reduce dependence on one company. For public-sector observers, it is a clear example of AI adoption moving into the core of national institutions.\n   (TechCrunch — AI · 01 Sep 2026)\n\n4. New York Governor Kathy Hochul thinks AI should be ‘less evil’\n   https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras\n   In a wide-ranging interview, New York Governor Kathy Hochul discussed her views on AI and technology policy, arguing that AI should be made 'less evil' — meaning safer and more accountable to the public. The conversation touched on major issues including data centres, online safety, and how much power large technology companies should hold, set against the backdrop of an election year in the United States. Governor Hochul has taken firm positions on several technology matters, reflecting how AI has become a central topic in political debate. For a non-technical audience, this is a reminder that decisions about AI are increasingly being made by elected officials and policymakers, not only by technology firms. It underscores the importance of clear governance and public accountability as AI becomes more widespread.\n   (The Verge — AI · 31 Aug 2026)\n\n5. At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?\n   https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/\n   At TechBBQ, an annual technology conference in the Nordic region, investors, company founders, and business leaders from across Europe gathered to discuss AI, and one question kept resurfacing: who is actually in control of these systems? The discussions focused on how people and organisations can maintain genuine oversight and agency as AI becomes more capable and more deeply embedded in daily life and business. Rather than celebrating the technology uncritically, participants emphasised the need for humans to remain in charge of important decisions. This reflects a growing global conversation about responsible AI and the balance between innovation and control. For institutions like Tamkeen, it reinforces the value of building the skills and governance needed to use AI thoughtfully rather than being led by it.\n   (TechCrunch — AI · 29 Aug 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
