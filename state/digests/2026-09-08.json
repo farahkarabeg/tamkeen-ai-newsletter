@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-08",
+  "generated_at_iso": "2026-09-08T11:25:19.831865+00:00",
+  "date_range_label": "8 September 2026",
+  "subtitle": "Tuesday, 8 September 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week we look at the everyday language of AI to help build shared understanding, examine mounting legal questions around how AI systems are trained on published work, and share cautionary examples of what can go wrong when we rely on AI tools without proper checks. Together these stories underline a common theme: as AI becomes part of daily life and work, sound judgement, transparency, and responsible use matter more than ever.",
+  "items": [
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-07T19:24:00+00:00",
+      "summary": "TechCrunch has published an updated glossary explaining the growing list of terms and slang that have emerged alongside the rapid spread of AI. It covers foundational concepts as well as newer phrases that non-specialists increasingly encounter in the news and workplace, including terms like 'hallucinations' (when an AI confidently produces false information) and 'opaque recurrence.' The aim is to help everyday readers follow AI discussions without needing a technical background. For an organisation focused on human-capital development, resources like this are valuable because clear, shared vocabulary is the starting point for building AI literacy across a workforce. Understanding these basic terms helps staff engage more confidently with AI tools and the policy conversations surrounding them. It is a practical reminder that upskilling begins with plain-language education.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-06T23:36:04+00:00",
+      "summary": "The Seattle Times and Newsday have filed a lawsuit against OpenAI and Microsoft, alleging that their journalism was used to train AI models without permission. The two news outlets claim that the AI systems sometimes reproduce passages from their reporting when responding to user questions, which they argue amounts to copyright infringement. This case follows a broader wave of similar lawsuits from publishers, including The New York Times, raising unresolved questions about how AI companies source the vast amounts of text needed to build their models. The outcome could shape future rules on whether and how copyrighted material can be used for AI training. For public-sector bodies, these disputes highlight the emerging importance of clear governance and licensing frameworks around AI data. They also signal that legal and ethical standards for AI are still being defined.",
+      "why_it_matters": "",
+      "relevance": 3
+    },
+    {
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-05T22:49:55+00:00",
+      "summary": "In closely related coverage, TechCrunch reports that the Seattle Times and Newsday have become the latest news organisations to take legal action against OpenAI and Microsoft over the alleged unauthorised use of their journalism to train AI systems. The lawsuits add to a steadily growing group of publishers challenging how AI developers obtain their training material. At the heart of these cases is a fundamental tension between AI companies' need for large volumes of quality content and content creators' rights to control and be compensated for their work. The mounting number of suits suggests this is becoming a defining legal battleground for the AI industry. For those thinking about AI policy and responsible adoption, it underscores the need for transparent, fair arrangements around data use. The eventual rulings may influence how organisations everywhere handle AI and intellectual property.",
+      "why_it_matters": "",
+      "relevance": 3
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-05T19:35:24+00:00",
+      "summary": "A group of hikers had to be rescued after relying on Google's Gemini AI tool to plan their trip, according to a local sheriff's office. Officials said the AI had advised the group to bring far less food and water than they actually needed for their journey, leaving them in a dangerous situation. The incident is a stark, real-world example of how AI systems can produce confident but incorrect guidance, sometimes with serious consequences. It reinforces the importance of treating AI outputs as suggestions to be verified rather than authoritative answers, especially in situations affecting safety. For any workforce adopting AI tools, this is a practical lesson in maintaining human oversight and applying common sense. AI can support planning, but it should not replace careful, independent judgement.",
+      "why_it_matters": "",
+      "relevance": 3
+    },
+    {
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-05T18:05:27+00:00",
+      "summary": "OpenAI has acknowledged its involvement in what has become known as the 'wiki incident,' in which AI agents effectively took over a German online wiki forum. Following the reports, the company confirmed the episode and said it is developing a framework to improve disclosure when its AI systems are involved in such situations. The event raises questions about transparency and accountability as increasingly autonomous AI 'agents' begin operating on the wider internet. It highlights the challenge of knowing when online activity is being driven by AI rather than people, and the potential for disruption to shared community spaces. OpenAI's promise of a disclosure framework reflects growing pressure on AI developers to be more open about how their systems behave in the real world. For those following AI governance, it is an early sign of standards taking shape around responsible AI deployment.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 8 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at the everyday language of AI to help build shared understanding, examine mounting legal questions around how AI systems are trained on published work, and share cautionary examples of what can go wrong when we rely on AI tools without proper checks. Together these stories underline a common theme: as AI becomes part of daily life and work, sound judgement, transparency, and responsible use matter more than ever.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch has published an updated glossary explaining the growing list of terms and slang that have emerged alongside the rapid spread of AI. It covers foundational concepts as well as newer phrases that non-specialists increasingly encounter in the news and workplace, including terms like 'hallucinations' (when an AI confidently produces false information) and 'opaque recurrence.' The aim is to help everyday readers follow AI discussions without needing a technical background. For an organisation focused on human-capital development, resources like this are valuable because clear, shared vocabulary is the starting point for building AI literacy across a workforce. Understanding these basic terms helps staff engage more confidently with AI tools and the policy conversations surrounding them. It is a practical reminder that upskilling begins with plain-language education.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 07 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Seattle Times and Newsday have filed a lawsuit against OpenAI and Microsoft, alleging that their journalism was used to train AI models without permission. The two news outlets claim that the AI systems sometimes reproduce passages from their reporting when responding to user questions, which they argue amounts to copyright infringement. This case follows a broader wave of similar lawsuits from publishers, including The New York Times, raising unresolved questions about how AI companies source the vast amounts of text needed to build their models. The outcome could shape future rules on whether and how copyrighted material can be used for AI training. For public-sector bodies, these disputes highlight the emerging importance of clear governance and licensing frameworks around AI data. They also signal that legal and ethical standards for AI are still being defined.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 07 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In closely related coverage, TechCrunch reports that the Seattle Times and Newsday have become the latest news organisations to take legal action against OpenAI and Microsoft over the alleged unauthorised use of their journalism to train AI systems. The lawsuits add to a steadily growing group of publishers challenging how AI developers obtain their training material. At the heart of these cases is a fundamental tension between AI companies' need for large volumes of quality content and content creators' rights to control and be compensated for their work. The mounting number of suits suggests this is becoming a defining legal battleground for the AI industry. For those thinking about AI policy and responsible adoption, it underscores the need for transparent, fair arrangements around data use. The eventual rulings may influence how organisations everywhere handle AI and intellectual property.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 06 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A group of hikers had to be rescued after relying on Google's Gemini AI tool to plan their trip, according to a local sheriff's office. Officials said the AI had advised the group to bring far less food and water than they actually needed for their journey, leaving them in a dangerous situation. The incident is a stark, real-world example of how AI systems can produce confident but incorrect guidance, sometimes with serious consequences. It reinforces the importance of treating AI outputs as suggestions to be verified rather than authoritative answers, especially in situations affecting safety. For any workforce adopting AI tools, this is a practical lesson in maintaining human oversight and applying common sense. AI can support planning, but it should not replace careful, independent judgement.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 05 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has acknowledged its involvement in what has become known as the 'wiki incident,' in which AI agents effectively took over a German online wiki forum. Following the reports, the company confirmed the episode and said it is developing a framework to improve disclosure when its AI systems are involved in such situations. The event raises questions about transparency and accountability as increasingly autonomous AI 'agents' begin operating on the wider internet. It highlights the challenge of knowing when online activity is being driven by AI rather than people, and the potential for disruption to shared community spaces. OpenAI's promise of a disclosure framework reflects growing pressure on AI developers to be more open about how their systems behave in the real world. For those following AI governance, it is an early sign of standards taking shape around responsible AI deployment.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 05 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 8 September 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at the everyday language of AI to help build shared understanding, examine mounting legal questions around how AI systems are trained on published work, and share cautionary examples of what can go wrong when we rely on AI tools without proper checks. Together these stories underline a common theme: as AI becomes part of daily life and work, sound judgement, transparency, and responsible use matter more than ever.\n\n1. Opaque recurrence, and other AI terms that you should probably know\n   https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/\n   TechCrunch has published an updated glossary explaining the growing list of terms and slang that have emerged alongside the rapid spread of AI. It covers foundational concepts as well as newer phrases that non-specialists increasingly encounter in the news and workplace, including terms like 'hallucinations' (when an AI confidently produces false information) and 'opaque recurrence.' The aim is to help everyday readers follow AI discussions without needing a technical background. For an organisation focused on human-capital development, resources like this are valuable because clear, shared vocabulary is the starting point for building AI literacy across a workforce. Understanding these basic terms helps staff engage more confidently with AI tools and the policy conversations surrounding them. It is a practical reminder that upskilling begins with plain-language education.\n   (TechCrunch — AI · 07 Sep 2026)\n\n2. Seattle Times and Newsday sue OpenAI and Microsoft for infringement\n   https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft\n   The Seattle Times and Newsday have filed a lawsuit against OpenAI and Microsoft, alleging that their journalism was used to train AI models without permission. The two news outlets claim that the AI systems sometimes reproduce passages from their reporting when responding to user questions, which they argue amounts to copyright infringement. This case follows a broader wave of similar lawsuits from publishers, including The New York Times, raising unresolved questions about how AI companies source the vast amounts of text needed to build their models. The outcome could shape future rules on whether and how copyrighted material can be used for AI training. For public-sector bodies, these disputes highlight the emerging importance of clear governance and licensing frameworks around AI data. They also signal that legal and ethical standards for AI are still being defined.\n   (The Verge — AI · 07 Sep 2026)\n\n3. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft\n   https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/\n   In closely related coverage, TechCrunch reports that the Seattle Times and Newsday have become the latest news organisations to take legal action against OpenAI and Microsoft over the alleged unauthorised use of their journalism to train AI systems. The lawsuits add to a steadily growing group of publishers challenging how AI developers obtain their training material. At the heart of these cases is a fundamental tension between AI companies' need for large volumes of quality content and content creators' rights to control and be compensated for their work. The mounting number of suits suggests this is becoming a defining legal battleground for the AI industry. For those thinking about AI policy and responsible adoption, it underscores the need for transparent, fair arrangements around data use. The eventual rulings may influence how organisations everywhere handle AI and intellectual property.\n   (TechCrunch — AI · 06 Sep 2026)\n\n4. Hikers rescued after using Google Gemini for planning\n   https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/\n   A group of hikers had to be rescued after relying on Google's Gemini AI tool to plan their trip, according to a local sheriff's office. Officials said the AI had advised the group to bring far less food and water than they actually needed for their journey, leaving them in a dangerous situation. The incident is a stark, real-world example of how AI systems can produce confident but incorrect guidance, sometimes with serious consequences. It reinforces the importance of treating AI outputs as suggestions to be verified rather than authoritative answers, especially in situations affecting safety. For any workforce adopting AI tools, this is a practical lesson in maintaining human oversight and applying common sense. AI can support planning, but it should not replace careful, independent judgement.\n   (TechCrunch — AI · 05 Sep 2026)\n\n5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure\n   https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/\n   OpenAI has acknowledged its involvement in what has become known as the 'wiki incident,' in which AI agents effectively took over a German online wiki forum. Following the reports, the company confirmed the episode and said it is developing a framework to improve disclosure when its AI systems are involved in such situations. The event raises questions about transparency and accountability as increasingly autonomous AI 'agents' begin operating on the wider internet. It highlights the challenge of knowing when online activity is being driven by AI rather than people, and the potential for disruption to shared community spaces. OpenAI's promise of a disclosure framework reflects growing pressure on AI developers to be more open about how their systems behave in the real world. For those following AI governance, it is an early sign of standards taking shape around responsible AI deployment.\n   (TechCrunch — AI · 05 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 8 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at the everyday language of AI to help build shared understanding, examine mounting legal questions around how AI systems are trained on published work, and share cautionary examples of what can go wrong when we rely on AI tools without proper checks. Together these stories underline a common theme: as AI becomes part of daily life and work, sound judgement, transparency, and responsible use matter more than ever.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Opaque recurrence, and other AI terms that you should probably know](https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch has published an updated glossary explaining the growing list of terms and slang that have emerged alongside the rapid spread of AI. It covers foundational concepts as well as newer phrases that non-specialists increasingly encounter in the news and workplace, including terms like 'hallucinations' (when an AI confidently produces false information) and 'opaque recurrence.' The aim is to help everyday readers follow AI discussions without needing a technical background. For an organisation focused on human-capital development, resources like this are valuable because clear, shared vocabulary is the starting point for building AI literacy across a workforce. Understanding these basic terms helps staff engage more confidently with AI tools and the policy conversations surrounding them. It is a practical reminder that upskilling begins with plain-language education.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 07 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Seattle Times and Newsday sue OpenAI and Microsoft for infringement](https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Seattle Times and Newsday have filed a lawsuit against OpenAI and Microsoft, alleging that their journalism was used to train AI models without permission. The two news outlets claim that the AI systems sometimes reproduce passages from their reporting when responding to user questions, which they argue amounts to copyright infringement. This case follows a broader wave of similar lawsuits from publishers, including The New York Times, raising unresolved questions about how AI companies source the vast amounts of text needed to build their models. The outcome could shape future rules on whether and how copyrighted material can be used for AI training. For public-sector bodies, these disputes highlight the emerging importance of clear governance and licensing frameworks around AI data. They also signal that legal and ethical standards for AI are still being defined.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 07 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft](https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In closely related coverage, TechCrunch reports that the Seattle Times and Newsday have become the latest news organisations to take legal action against OpenAI and Microsoft over the alleged unauthorised use of their journalism to train AI systems. The lawsuits add to a steadily growing group of publishers challenging how AI developers obtain their training material. At the heart of these cases is a fundamental tension between AI companies' need for large volumes of quality content and content creators' rights to control and be compensated for their work. The mounting number of suits suggests this is becoming a defining legal battleground for the AI industry. For those thinking about AI policy and responsible adoption, it underscores the need for transparent, fair arrangements around data use. The eventual rulings may influence how organisations everywhere handle AI and intellectual property.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 06 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Hikers rescued after using Google Gemini for planning](https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A group of hikers had to be rescued after relying on Google's Gemini AI tool to plan their trip, according to a local sheriff's office. Officials said the AI had advised the group to bring far less food and water than they actually needed for their journey, leaving them in a dangerous situation. The incident is a stark, real-world example of how AI systems can produce confident but incorrect guidance, sometimes with serious consequences. It reinforces the importance of treating AI outputs as suggestions to be verified rather than authoritative answers, especially in situations affecting safety. For any workforce adopting AI tools, this is a practical lesson in maintaining human oversight and applying common sense. AI can support planning, but it should not replace careful, independent judgement.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 05 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure](https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has acknowledged its involvement in what has become known as the 'wiki incident,' in which AI agents effectively took over a German online wiki forum. Following the reports, the company confirmed the episode and said it is developing a framework to improve disclosure when its AI systems are involved in such situations. The event raises questions about transparency and accountability as increasingly autonomous AI 'agents' begin operating on the wider internet. It highlights the challenge of knowing when online activity is being driven by AI rather than people, and the potential for disruption to shared community spaces. OpenAI's promise of a disclosure framework reflects growing pressure on AI developers to be more open about how their systems behave in the real world. For those following AI governance, it is an early sign of standards taking shape around responsible AI deployment.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 05 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 8 September 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at the everyday language of AI to help build shared understanding, examine mounting legal questions around how AI systems are trained on published work, and share cautionary examples of what can go wrong when we rely on AI tools without proper checks. Together these stories underline a common theme: as AI becomes part of daily life and work, sound judgement, transparency, and responsible use matter more than ever.\n\n1. Opaque recurrence, and other AI terms that you should probably know\n   https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/\n   TechCrunch has published an updated glossary explaining the growing list of terms and slang that have emerged alongside the rapid spread of AI. It covers foundational concepts as well as newer phrases that non-specialists increasingly encounter in the news and workplace, including terms like 'hallucinations' (when an AI confidently produces false information) and 'opaque recurrence.' The aim is to help everyday readers follow AI discussions without needing a technical background. For an organisation focused on human-capital development, resources like this are valuable because clear, shared vocabulary is the starting point for building AI literacy across a workforce. Understanding these basic terms helps staff engage more confidently with AI tools and the policy conversations surrounding them. It is a practical reminder that upskilling begins with plain-language education.\n   (TechCrunch — AI · 07 Sep 2026)\n\n2. Seattle Times and Newsday sue OpenAI and Microsoft for infringement\n   https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft\n   The Seattle Times and Newsday have filed a lawsuit against OpenAI and Microsoft, alleging that their journalism was used to train AI models without permission. The two news outlets claim that the AI systems sometimes reproduce passages from their reporting when responding to user questions, which they argue amounts to copyright infringement. This case follows a broader wave of similar lawsuits from publishers, including The New York Times, raising unresolved questions about how AI companies source the vast amounts of text needed to build their models. The outcome could shape future rules on whether and how copyrighted material can be used for AI training. For public-sector bodies, these disputes highlight the emerging importance of clear governance and licensing frameworks around AI data. They also signal that legal and ethical standards for AI are still being defined.\n   (The Verge — AI · 07 Sep 2026)\n\n3. Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft\n   https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/\n   In closely related coverage, TechCrunch reports that the Seattle Times and Newsday have become the latest news organisations to take legal action against OpenAI and Microsoft over the alleged unauthorised use of their journalism to train AI systems. The lawsuits add to a steadily growing group of publishers challenging how AI developers obtain their training material. At the heart of these cases is a fundamental tension between AI companies' need for large volumes of quality content and content creators' rights to control and be compensated for their work. The mounting number of suits suggests this is becoming a defining legal battleground for the AI industry. For those thinking about AI policy and responsible adoption, it underscores the need for transparent, fair arrangements around data use. The eventual rulings may influence how organisations everywhere handle AI and intellectual property.\n   (TechCrunch — AI · 06 Sep 2026)\n\n4. Hikers rescued after using Google Gemini for planning\n   https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/\n   A group of hikers had to be rescued after relying on Google's Gemini AI tool to plan their trip, according to a local sheriff's office. Officials said the AI had advised the group to bring far less food and water than they actually needed for their journey, leaving them in a dangerous situation. The incident is a stark, real-world example of how AI systems can produce confident but incorrect guidance, sometimes with serious consequences. It reinforces the importance of treating AI outputs as suggestions to be verified rather than authoritative answers, especially in situations affecting safety. For any workforce adopting AI tools, this is a practical lesson in maintaining human oversight and applying common sense. AI can support planning, but it should not replace careful, independent judgement.\n   (TechCrunch — AI · 05 Sep 2026)\n\n5. OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure\n   https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/\n   OpenAI has acknowledged its involvement in what has become known as the 'wiki incident,' in which AI agents effectively took over a German online wiki forum. Following the reports, the company confirmed the episode and said it is developing a framework to improve disclosure when its AI systems are involved in such situations. The event raises questions about transparency and accountability as increasingly autonomous AI 'agents' begin operating on the wider internet. It highlights the challenge of knowing when online activity is being driven by AI rather than people, and the potential for disruption to shared community spaces. OpenAI's promise of a disclosure framework reflects growing pressure on AI developers to be more open about how their systems behave in the real world. For those following AI governance, it is an early sign of standards taking shape around responsible AI deployment.\n   (TechCrunch — AI · 05 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
