@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-10",
+  "generated_at_iso": "2026-09-10T11:26:50.516486+00:00",
+  "date_range_label": "10 September 2026",
+  "subtitle": "Thursday, 10 September 2026",
+  "editor_note": "This edition brings together the latest developments shaping how artificial intelligence touches our work, our institutions, and above all our classrooms. We look at a major new AI model built for the workplace, fresh evidence about how students actually learn with AI, and important moves on privacy and safety. Together these stories highlight a recurring theme: capability is advancing quickly, and thoughtful policy and human judgment matter more than ever.",
+  "items": [
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-09T11:00:00+00:00",
+      "summary": "OpenAI has announced GPT-6 Astra, which it describes as its most capable model to date for business and professional use. The company says the model offers stronger reasoning, improved writing and design judgment, and the ability to operate a computer to carry out multi-step tasks on a user's behalf. These features are aimed at workplace applications such as drafting documents, analysing information, and automating routine digital work. For an institution focused on workforce development, releases like this matter because they signal how quickly everyday job tasks may be reshaped by AI tools. It is worth noting that vendor claims about capability should be assessed carefully, and real-world performance in specific settings can vary from what is advertised.",
+      "why_it_matters": "",
+      "relevance": 10
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-09T13:00:00+00:00",
+      "summary": "In a policy essay, OpenAI's Chris Lehane argues that as AI systems become more capable, they should be matched by stronger evidence that they are safe, along with shared industry standards and lasting government policy. He frames the current moment as an open \"policy window\" — a limited period in which meaningful rules and safeguards can still be shaped before technology outpaces oversight. The piece calls for cooperation between companies, governments, and standards bodies rather than leaving safety to individual firms. For public-sector readers, this reflects a broader global conversation about how governments should regulate AI while it is still developing. It is a company perspective, so it should be read alongside the views of regulators and independent experts.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "Students who use AI generally score worse at school",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-09T12:05:01+00:00",
+      "summary": "Data from a global OECD education report suggests that students who use AI to help them study tend to score worse at school than those who do not. The picture is more nuanced than a simple headline, however: certain kinds of AI use can give learners a small advantage, particularly among students who have been taught to think critically about how and when to rely on the technology. This suggests the problem is less about AI itself and more about how it is used — passively leaning on it can undermine learning, while guided, reflective use may help. For education and human-capital work, the finding underlines the importance of teaching AI literacy alongside AI access. It is a reminder that introducing tools into classrooms without supporting skills can backfire.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Microsoft has new AI privacy rules for schools",
+      "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-09T17:07:48+00:00",
+      "summary": "Microsoft has agreed to a set of safety and privacy principles for the use of AI in schools, working with the American Federation of Teachers and its New York City affiliate. The agreement came just a week after two major US school systems announced bans on student-facing AI tools, reflecting growing unease among educators about how children's data is handled. The principles are intended to give teachers and parents clearer assurances about privacy protections and responsible use. This development is notable because it shows technology companies responding to pressure from educators and unions rather than acting alone. For those shaping education policy, it offers a useful example of how safeguards for AI in learning environments can be negotiated.",
+      "why_it_matters": "",
+      "relevance": 7
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-09T17:00:00+00:00",
+      "summary": "OpenAI has appointed Paul Christiano to its Foundation Board and to its Safety and Security Committee. Christiano is known for his work in AI alignment — the field concerned with ensuring AI systems behave in line with human intentions — as well as in safety and standards. His addition signals that the company is placing experienced safety specialists in governance and oversight roles. For readers following AI policy and safety, board-level appointments like this are worth watching because they influence how seriously a company treats risk management. As with all such announcements, the real test will be whether these commitments translate into concrete practices over time.",
+      "why_it_matters": "",
+      "relevance": 6
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 10 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition brings together the latest developments shaping how artificial intelligence touches our work, our institutions, and above all our classrooms. We look at a major new AI model built for the workplace, fresh evidence about how students actually learn with AI, and important moves on privacy and safety. Together these stories highlight a recurring theme: capability is advancing quickly, and thoughtful policy and human judgment matter more than ever.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced GPT-6 Astra, which it describes as its most capable model to date for business and professional use. The company says the model offers stronger reasoning, improved writing and design judgment, and the ability to operate a computer to carry out multi-step tasks on a user's behalf. These features are aimed at workplace applications such as drafting documents, analysing information, and automating routine digital work. For an institution focused on workforce development, releases like this matter because they signal how quickly everyday job tasks may be reshaped by AI tools. It is worth noting that vendor claims about capability should be assessed carefully, and real-world performance in specific settings can vary from what is advertised.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The AI policy window is open. We need to act.](https://openai.com/index/ai-policy-window)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a policy essay, OpenAI's Chris Lehane argues that as AI systems become more capable, they should be matched by stronger evidence that they are safe, along with shared industry standards and lasting government policy. He frames the current moment as an open \"policy window\" — a limited period in which meaningful rules and safeguards can still be shaped before technology outpaces oversight. The piece calls for cooperation between companies, governments, and standards bodies rather than leaving safety to individual firms. For public-sector readers, this reflects a broader global conversation about how governments should regulate AI while it is still developing. It is a company perspective, so it should be read alongside the views of regulators and independent experts.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Students who use AI generally score worse at school](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Data from a global OECD education report suggests that students who use AI to help them study tend to score worse at school than those who do not. The picture is more nuanced than a simple headline, however: certain kinds of AI use can give learners a small advantage, particularly among students who have been taught to think critically about how and when to rely on the technology. This suggests the problem is less about AI itself and more about how it is used — passively leaning on it can undermine learning, while guided, reflective use may help. For education and human-capital work, the finding underlines the importance of teaching AI literacy alongside AI access. It is a reminder that introducing tools into classrooms without supporting skills can backfire.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Microsoft has new AI privacy rules for schools](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft has agreed to a set of safety and privacy principles for the use of AI in schools, working with the American Federation of Teachers and its New York City affiliate. The agreement came just a week after two major US school systems announced bans on student-facing AI tools, reflecting growing unease among educators about how children's data is handled. The principles are intended to give teachers and parents clearer assurances about privacy protections and responsible use. This development is notable because it shows technology companies responding to pressure from educators and unions rather than acting alone. For those shaping education policy, it offers a useful example of how safeguards for AI in learning environments can be negotiated.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has appointed Paul Christiano to its Foundation Board and to its Safety and Security Committee. Christiano is known for his work in AI alignment — the field concerned with ensuring AI systems behave in line with human intentions — as well as in safety and standards. His addition signals that the company is placing experienced safety specialists in governance and oversight roles. For readers following AI policy and safety, board-level appointments like this are worth watching because they influence how seriously a company treats risk management. As with all such announcements, the real test will be whether these commitments translate into concrete practices over time.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 10 September 2026\n============================================================\nThis edition brings together the latest developments shaping how artificial intelligence touches our work, our institutions, and above all our classrooms. We look at a major new AI model built for the workplace, fresh evidence about how students actually learn with AI, and important moves on privacy and safety. Together these stories highlight a recurring theme: capability is advancing quickly, and thoughtful policy and human judgment matter more than ever.\n\n1. GPT-6 Astra: The next generation in intelligence for work\n   https://openai.com/index/gpt-6-astra-next-generation-work\n   OpenAI has announced GPT-6 Astra, which it describes as its most capable model to date for business and professional use. The company says the model offers stronger reasoning, improved writing and design judgment, and the ability to operate a computer to carry out multi-step tasks on a user's behalf. These features are aimed at workplace applications such as drafting documents, analysing information, and automating routine digital work. For an institution focused on workforce development, releases like this matter because they signal how quickly everyday job tasks may be reshaped by AI tools. It is worth noting that vendor claims about capability should be assessed carefully, and real-world performance in specific settings can vary from what is advertised.\n   (OpenAI · 09 Sep 2026)\n\n2. The AI policy window is open. We need to act.\n   https://openai.com/index/ai-policy-window\n   In a policy essay, OpenAI's Chris Lehane argues that as AI systems become more capable, they should be matched by stronger evidence that they are safe, along with shared industry standards and lasting government policy. He frames the current moment as an open \"policy window\" — a limited period in which meaningful rules and safeguards can still be shaped before technology outpaces oversight. The piece calls for cooperation between companies, governments, and standards bodies rather than leaving safety to individual firms. For public-sector readers, this reflects a broader global conversation about how governments should regulate AI while it is still developing. It is a company perspective, so it should be read alongside the views of regulators and independent experts.\n   (OpenAI · 09 Sep 2026)\n\n3. Students who use AI generally score worse at school\n   https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa\n   Data from a global OECD education report suggests that students who use AI to help them study tend to score worse at school than those who do not. The picture is more nuanced than a simple headline, however: certain kinds of AI use can give learners a small advantage, particularly among students who have been taught to think critically about how and when to rely on the technology. This suggests the problem is less about AI itself and more about how it is used — passively leaning on it can undermine learning, while guided, reflective use may help. For education and human-capital work, the finding underlines the importance of teaching AI literacy alongside AI access. It is a reminder that introducing tools into classrooms without supporting skills can backfire.\n   (The Verge — AI · 09 Sep 2026)\n\n4. Microsoft has new AI privacy rules for schools\n   https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy\n   Microsoft has agreed to a set of safety and privacy principles for the use of AI in schools, working with the American Federation of Teachers and its New York City affiliate. The agreement came just a week after two major US school systems announced bans on student-facing AI tools, reflecting growing unease among educators about how children's data is handled. The principles are intended to give teachers and parents clearer assurances about privacy protections and responsible use. This development is notable because it shows technology companies responding to pressure from educators and unions rather than acting alone. For those shaping education policy, it offers a useful example of how safeguards for AI in learning environments can be negotiated.\n   (The Verge — AI · 09 Sep 2026)\n\n5. Paul Christiano joins OpenAI Foundation Board\n   https://openai.com/index/paul-christiano-joins-openai-foundation-board\n   OpenAI has appointed Paul Christiano to its Foundation Board and to its Safety and Security Committee. Christiano is known for his work in AI alignment — the field concerned with ensuring AI systems behave in line with human intentions — as well as in safety and standards. His addition signals that the company is placing experienced safety specialists in governance and oversight roles. For readers following AI policy and safety, board-level appointments like this are worth watching because they influence how seriously a company treats risk management. As with all such announcements, the real test will be whether these commitments translate into concrete practices over time.\n   (OpenAI · 09 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 10 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition brings together the latest developments shaping how artificial intelligence touches our work, our institutions, and above all our classrooms. We look at a major new AI model built for the workplace, fresh evidence about how students actually learn with AI, and important moves on privacy and safety. Together these stories highlight a recurring theme: capability is advancing quickly, and thoughtful policy and human judgment matter more than ever.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. GPT-6 Astra: The next generation in intelligence for work](https://openai.com/index/gpt-6-astra-next-generation-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced GPT-6 Astra, which it describes as its most capable model to date for business and professional use. The company says the model offers stronger reasoning, improved writing and design judgment, and the ability to operate a computer to carry out multi-step tasks on a user's behalf. These features are aimed at workplace applications such as drafting documents, analysing information, and automating routine digital work. For an institution focused on workforce development, releases like this matter because they signal how quickly everyday job tasks may be reshaped by AI tools. It is worth noting that vendor claims about capability should be assessed carefully, and real-world performance in specific settings can vary from what is advertised.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The AI policy window is open. We need to act.](https://openai.com/index/ai-policy-window)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a policy essay, OpenAI's Chris Lehane argues that as AI systems become more capable, they should be matched by stronger evidence that they are safe, along with shared industry standards and lasting government policy. He frames the current moment as an open \"policy window\" — a limited period in which meaningful rules and safeguards can still be shaped before technology outpaces oversight. The piece calls for cooperation between companies, governments, and standards bodies rather than leaving safety to individual firms. For public-sector readers, this reflects a broader global conversation about how governments should regulate AI while it is still developing. It is a company perspective, so it should be read alongside the views of regulators and independent experts.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Students who use AI generally score worse at school](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Data from a global OECD education report suggests that students who use AI to help them study tend to score worse at school than those who do not. The picture is more nuanced than a simple headline, however: certain kinds of AI use can give learners a small advantage, particularly among students who have been taught to think critically about how and when to rely on the technology. This suggests the problem is less about AI itself and more about how it is used — passively leaning on it can undermine learning, while guided, reflective use may help. For education and human-capital work, the finding underlines the importance of teaching AI literacy alongside AI access. It is a reminder that introducing tools into classrooms without supporting skills can backfire.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Microsoft has new AI privacy rules for schools](https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft has agreed to a set of safety and privacy principles for the use of AI in schools, working with the American Federation of Teachers and its New York City affiliate. The agreement came just a week after two major US school systems announced bans on student-facing AI tools, reflecting growing unease among educators about how children's data is handled. The principles are intended to give teachers and parents clearer assurances about privacy protections and responsible use. This development is notable because it shows technology companies responding to pressure from educators and unions rather than acting alone. For those shaping education policy, it offers a useful example of how safeguards for AI in learning environments can be negotiated.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has appointed Paul Christiano to its Foundation Board and to its Safety and Security Committee. Christiano is known for his work in AI alignment — the field concerned with ensuring AI systems behave in line with human intentions — as well as in safety and standards. His addition signals that the company is placing experienced safety specialists in governance and oversight roles. For readers following AI policy and safety, board-level appointments like this are worth watching because they influence how seriously a company treats risk management. As with all such announcements, the real test will be whether these commitments translate into concrete practices over time.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 10 September 2026\n============================================================\nThis edition brings together the latest developments shaping how artificial intelligence touches our work, our institutions, and above all our classrooms. We look at a major new AI model built for the workplace, fresh evidence about how students actually learn with AI, and important moves on privacy and safety. Together these stories highlight a recurring theme: capability is advancing quickly, and thoughtful policy and human judgment matter more than ever.\n\n1. GPT-6 Astra: The next generation in intelligence for work\n   https://openai.com/index/gpt-6-astra-next-generation-work\n   OpenAI has announced GPT-6 Astra, which it describes as its most capable model to date for business and professional use. The company says the model offers stronger reasoning, improved writing and design judgment, and the ability to operate a computer to carry out multi-step tasks on a user's behalf. These features are aimed at workplace applications such as drafting documents, analysing information, and automating routine digital work. For an institution focused on workforce development, releases like this matter because they signal how quickly everyday job tasks may be reshaped by AI tools. It is worth noting that vendor claims about capability should be assessed carefully, and real-world performance in specific settings can vary from what is advertised.\n   (OpenAI · 09 Sep 2026)\n\n2. The AI policy window is open. We need to act.\n   https://openai.com/index/ai-policy-window\n   In a policy essay, OpenAI's Chris Lehane argues that as AI systems become more capable, they should be matched by stronger evidence that they are safe, along with shared industry standards and lasting government policy. He frames the current moment as an open \"policy window\" — a limited period in which meaningful rules and safeguards can still be shaped before technology outpaces oversight. The piece calls for cooperation between companies, governments, and standards bodies rather than leaving safety to individual firms. For public-sector readers, this reflects a broader global conversation about how governments should regulate AI while it is still developing. It is a company perspective, so it should be read alongside the views of regulators and independent experts.\n   (OpenAI · 09 Sep 2026)\n\n3. Students who use AI generally score worse at school\n   https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa\n   Data from a global OECD education report suggests that students who use AI to help them study tend to score worse at school than those who do not. The picture is more nuanced than a simple headline, however: certain kinds of AI use can give learners a small advantage, particularly among students who have been taught to think critically about how and when to rely on the technology. This suggests the problem is less about AI itself and more about how it is used — passively leaning on it can undermine learning, while guided, reflective use may help. For education and human-capital work, the finding underlines the importance of teaching AI literacy alongside AI access. It is a reminder that introducing tools into classrooms without supporting skills can backfire.\n   (The Verge — AI · 09 Sep 2026)\n\n4. Microsoft has new AI privacy rules for schools\n   https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy\n   Microsoft has agreed to a set of safety and privacy principles for the use of AI in schools, working with the American Federation of Teachers and its New York City affiliate. The agreement came just a week after two major US school systems announced bans on student-facing AI tools, reflecting growing unease among educators about how children's data is handled. The principles are intended to give teachers and parents clearer assurances about privacy protections and responsible use. This development is notable because it shows technology companies responding to pressure from educators and unions rather than acting alone. For those shaping education policy, it offers a useful example of how safeguards for AI in learning environments can be negotiated.\n   (The Verge — AI · 09 Sep 2026)\n\n5. Paul Christiano joins OpenAI Foundation Board\n   https://openai.com/index/paul-christiano-joins-openai-foundation-board\n   OpenAI has appointed Paul Christiano to its Foundation Board and to its Safety and Security Committee. Christiano is known for his work in AI alignment — the field concerned with ensuring AI systems behave in line with human intentions — as well as in safety and standards. His addition signals that the company is placing experienced safety specialists in governance and oversight roles. For readers following AI policy and safety, board-level appointments like this are worth watching because they influence how seriously a company treats risk management. As with all such announcements, the real test will be whether these commitments translate into concrete practices over time.\n   (OpenAI · 09 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
