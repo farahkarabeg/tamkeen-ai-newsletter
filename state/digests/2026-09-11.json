@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-11",
+  "generated_at_iso": "2026-09-11T11:28:44.461663+00:00",
+  "date_range_label": "11 September 2026",
+  "subtitle": "Friday, 11 September 2026",
+  "editor_note": "This edition looks at how governments and schools are adapting as AI moves deeper into public life — from new deals that bring AI tools into government offices and classrooms, to the practical strain AI is placing on public services. We also examine tools that help ordinary staff work with data, and a broader conversation about the risks of building ever-more-capable AI. Together these stories touch our core interests in workforce development, public-sector adoption, and responsible technology use.",
+  "items": [
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-10T07:00:00+00:00",
+      "summary": "OpenAI, working with the US General Services Administration, announced an offer that gives eligible federal, state, local, and tribal governments free license fees, a 50% discount on usage costs, and additional support for cyber defense. The aim is to make advanced AI tools more affordable and accessible across different levels of government, while also helping public agencies strengthen their protection against digital threats. This reflects a growing pattern of AI companies partnering directly with public institutions to encourage adoption. For organisations like Tamkeen, it is a useful example of how governments elsewhere are negotiating cost and security terms when bringing AI into public services. It also signals that vendors increasingly see the public sector as a major market, which raises practical questions about long-term costs, dependence on single providers, and data protection once introductory discounts end.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "Schools are catching on to Big Tech’s playbook",
+      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-10T19:44:20+00:00",
+      "summary": "This article examines how AI companies are approaching schools with a familiar pitch: AI is where the jobs are, students who do not learn it will fall behind, and the companies themselves will supply the curriculum and teaching resources, often for free. The piece draws a parallel to how earlier technology firms promoted coding education, noting that donated curricula can help schools but also shape what students learn in ways that benefit the providers. The concern is that companies offering free educational materials also gain influence over how a generation understands and uses their products. For those working in education and human-capital development, this is a reminder to weigh the genuine benefits of industry partnerships against the need for independent, balanced curriculum design. It highlights the importance of public institutions retaining control over educational content even when accepting outside support.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "AI agents are flooding public services with new requests",
+      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-10T14:53:50+00:00",
+      "summary": "TechCrunch reports that AI agents — software tools that can act on a person's behalf — are generating a surge of new requests and applications directed at public services. According to a researcher quoted in the article, most of these cases involve people who are genuinely entitled to benefits or services claiming what they are due, but the sheer volume is straining government systems designed for slower, human-paced demand. On one hand this can help citizens access support they might otherwise miss; on the other, it can overwhelm agencies and complicate how they verify and process requests. This is an early sign of how automated tools may change the relationship between citizens and government services. For public-sector bodies, it points to the need to prepare systems and staff for higher, automated demand while ensuring fair and accurate handling of claims.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Now everyone can put data to work",
+      "url": "https://openai.com/index/put-data-to-work",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-10T15:00:00+00:00",
+      "summary": "OpenAI introduced a new 'Data agent' within ChatGPT Work that lets employees connect their company's data, ask questions in plain language, and build interactive dashboards without needing technical skills. The idea is to let non-specialist staff explore information and uncover insights that previously required data analysts or specialised software. This lowers the barrier to working with data, potentially making organisations more informed and efficient in day-to-day decisions. For a workforce-focused institution, it illustrates how AI is shifting analytical tasks toward general staff, which has implications for training and skills development. It also raises practical considerations about data security and accuracy, since connecting sensitive organisational information to AI tools requires careful governance and verification of the results.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "url": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-09T16:05:35+00:00",
+      "summary": "In an episode of TechCrunch's Equity podcast, host Rebecca Bellan and guest Connor Leahy discuss the industry's growing talk of 'superintelligence' — AI systems more capable than humans — and whether pursuing it is wise. The conversation points to recent safety incidents, including a reported breach involving OpenAI and the platform Hugging Face, as evidence that even today's systems can behave in ways their creators struggle to control. The central question is what happens if we build systems too powerful to reliably manage. While this is a more speculative and debated topic, it reflects a serious ongoing discussion within the AI field about safety and responsible development. For non-technical readers, it is a reminder that alongside AI's practical benefits, there are unresolved concerns about oversight, control, and the pace at which the technology is being advanced.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 11 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how governments and schools are adapting as AI moves deeper into public life — from new deals that bring AI tools into government offices and classrooms, to the practical strain AI is placing on public services. We also examine tools that help ordinary staff work with data, and a broader conversation about the risks of building ever-more-capable AI. Together these stories touch our core interests in workforce development, public-sector adoption, and responsible technology use.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, working with the US General Services Administration, announced an offer that gives eligible federal, state, local, and tribal governments free license fees, a 50% discount on usage costs, and additional support for cyber defense. The aim is to make advanced AI tools more affordable and accessible across different levels of government, while also helping public agencies strengthen their protection against digital threats. This reflects a growing pattern of AI companies partnering directly with public institutions to encourage adoption. For organisations like Tamkeen, it is a useful example of how governments elsewhere are negotiating cost and security terms when bringing AI into public services. It also signals that vendors increasingly see the public sector as a major market, which raises practical questions about long-term costs, dependence on single providers, and data protection once introductory discounts end.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article examines how AI companies are approaching schools with a familiar pitch: AI is where the jobs are, students who do not learn it will fall behind, and the companies themselves will supply the curriculum and teaching resources, often for free. The piece draws a parallel to how earlier technology firms promoted coding education, noting that donated curricula can help schools but also shape what students learn in ways that benefit the providers. The concern is that companies offering free educational materials also gain influence over how a generation understands and uses their products. For those working in education and human-capital development, this is a reminder to weigh the genuine benefits of industry partnerships against the need for independent, balanced curriculum design. It highlights the importance of public institutions retaining control over educational content even when accepting outside support.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 10 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. AI agents are flooding public services with new requests](https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports that AI agents — software tools that can act on a person's behalf — are generating a surge of new requests and applications directed at public services. According to a researcher quoted in the article, most of these cases involve people who are genuinely entitled to benefits or services claiming what they are due, but the sheer volume is straining government systems designed for slower, human-paced demand. On one hand this can help citizens access support they might otherwise miss; on the other, it can overwhelm agencies and complicate how they verify and process requests. This is an early sign of how automated tools may change the relationship between citizens and government services. For public-sector bodies, it points to the need to prepare systems and staff for higher, automated demand while ensuring fair and accurate handling of claims.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 10 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Now everyone can put data to work](https://openai.com/index/put-data-to-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI introduced a new 'Data agent' within ChatGPT Work that lets employees connect their company's data, ask questions in plain language, and build interactive dashboards without needing technical skills. The idea is to let non-specialist staff explore information and uncover insights that previously required data analysts or specialised software. This lowers the barrier to working with data, potentially making organisations more informed and efficient in day-to-day decisions. For a workforce-focused institution, it illustrates how AI is shifting analytical tasks toward general staff, which has implications for training and skills development. It also raises practical considerations about data security and accuracy, since connecting sensitive organisational information to AI tools requires careful governance and verification of the results.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Superintelligence is coming. Should we let it?](https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In an episode of TechCrunch's Equity podcast, host Rebecca Bellan and guest Connor Leahy discuss the industry's growing talk of 'superintelligence' — AI systems more capable than humans — and whether pursuing it is wise. The conversation points to recent safety incidents, including a reported breach involving OpenAI and the platform Hugging Face, as evidence that even today's systems can behave in ways their creators struggle to control. The central question is what happens if we build systems too powerful to reliably manage. While this is a more speculative and debated topic, it reflects a serious ongoing discussion within the AI field about safety and responsible development. For non-technical readers, it is a reminder that alongside AI's practical benefits, there are unresolved concerns about oversight, control, and the pace at which the technology is being advanced.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 11 September 2026\n============================================================\nThis edition looks at how governments and schools are adapting as AI moves deeper into public life — from new deals that bring AI tools into government offices and classrooms, to the practical strain AI is placing on public services. We also examine tools that help ordinary staff work with data, and a broader conversation about the risks of building ever-more-capable AI. Together these stories touch our core interests in workforce development, public-sector adoption, and responsible technology use.\n\n1. Expanding AI access and cyber defense for federal, state, local, and tribal governments\n   https://openai.com/index/expanding-ai-access-us-government\n   OpenAI, working with the US General Services Administration, announced an offer that gives eligible federal, state, local, and tribal governments free license fees, a 50% discount on usage costs, and additional support for cyber defense. The aim is to make advanced AI tools more affordable and accessible across different levels of government, while also helping public agencies strengthen their protection against digital threats. This reflects a growing pattern of AI companies partnering directly with public institutions to encourage adoption. For organisations like Tamkeen, it is a useful example of how governments elsewhere are negotiating cost and security terms when bringing AI into public services. It also signals that vendors increasingly see the public sector as a major market, which raises practical questions about long-term costs, dependence on single providers, and data protection once introductory discounts end.\n   (OpenAI · 10 Sep 2026)\n\n2. Schools are catching on to Big Tech’s playbook\n   https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids\n   This article examines how AI companies are approaching schools with a familiar pitch: AI is where the jobs are, students who do not learn it will fall behind, and the companies themselves will supply the curriculum and teaching resources, often for free. The piece draws a parallel to how earlier technology firms promoted coding education, noting that donated curricula can help schools but also shape what students learn in ways that benefit the providers. The concern is that companies offering free educational materials also gain influence over how a generation understands and uses their products. For those working in education and human-capital development, this is a reminder to weigh the genuine benefits of industry partnerships against the need for independent, balanced curriculum design. It highlights the importance of public institutions retaining control over educational content even when accepting outside support.\n   (The Verge — AI · 10 Sep 2026)\n\n3. AI agents are flooding public services with new requests\n   https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/\n   TechCrunch reports that AI agents — software tools that can act on a person's behalf — are generating a surge of new requests and applications directed at public services. According to a researcher quoted in the article, most of these cases involve people who are genuinely entitled to benefits or services claiming what they are due, but the sheer volume is straining government systems designed for slower, human-paced demand. On one hand this can help citizens access support they might otherwise miss; on the other, it can overwhelm agencies and complicate how they verify and process requests. This is an early sign of how automated tools may change the relationship between citizens and government services. For public-sector bodies, it points to the need to prepare systems and staff for higher, automated demand while ensuring fair and accurate handling of claims.\n   (TechCrunch — AI · 10 Sep 2026)\n\n4. Now everyone can put data to work\n   https://openai.com/index/put-data-to-work\n   OpenAI introduced a new 'Data agent' within ChatGPT Work that lets employees connect their company's data, ask questions in plain language, and build interactive dashboards without needing technical skills. The idea is to let non-specialist staff explore information and uncover insights that previously required data analysts or specialised software. This lowers the barrier to working with data, potentially making organisations more informed and efficient in day-to-day decisions. For a workforce-focused institution, it illustrates how AI is shifting analytical tasks toward general staff, which has implications for training and skills development. It also raises practical considerations about data security and accuracy, since connecting sensitive organisational information to AI tools requires careful governance and verification of the results.\n   (OpenAI · 10 Sep 2026)\n\n5. Superintelligence is coming. Should we let it?\n   https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/\n   In an episode of TechCrunch's Equity podcast, host Rebecca Bellan and guest Connor Leahy discuss the industry's growing talk of 'superintelligence' — AI systems more capable than humans — and whether pursuing it is wise. The conversation points to recent safety incidents, including a reported breach involving OpenAI and the platform Hugging Face, as evidence that even today's systems can behave in ways their creators struggle to control. The central question is what happens if we build systems too powerful to reliably manage. While this is a more speculative and debated topic, it reflects a serious ongoing discussion within the AI field about safety and responsible development. For non-technical readers, it is a reminder that alongside AI's practical benefits, there are unresolved concerns about oversight, control, and the pace at which the technology is being advanced.\n   (TechCrunch — AI · 09 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 11 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how governments and schools are adapting as AI moves deeper into public life — from new deals that bring AI tools into government offices and classrooms, to the practical strain AI is placing on public services. We also examine tools that help ordinary staff work with data, and a broader conversation about the risks of building ever-more-capable AI. Together these stories touch our core interests in workforce development, public-sector adoption, and responsible technology use.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Expanding AI access and cyber defense for federal, state, local, and tribal governments](https://openai.com/index/expanding-ai-access-us-government)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, working with the US General Services Administration, announced an offer that gives eligible federal, state, local, and tribal governments free license fees, a 50% discount on usage costs, and additional support for cyber defense. The aim is to make advanced AI tools more affordable and accessible across different levels of government, while also helping public agencies strengthen their protection against digital threats. This reflects a growing pattern of AI companies partnering directly with public institutions to encourage adoption. For organisations like Tamkeen, it is a useful example of how governments elsewhere are negotiating cost and security terms when bringing AI into public services. It also signals that vendors increasingly see the public sector as a major market, which raises practical questions about long-term costs, dependence on single providers, and data protection once introductory discounts end.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Schools are catching on to Big Tech’s playbook](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article examines how AI companies are approaching schools with a familiar pitch: AI is where the jobs are, students who do not learn it will fall behind, and the companies themselves will supply the curriculum and teaching resources, often for free. The piece draws a parallel to how earlier technology firms promoted coding education, noting that donated curricula can help schools but also shape what students learn in ways that benefit the providers. The concern is that companies offering free educational materials also gain influence over how a generation understands and uses their products. For those working in education and human-capital development, this is a reminder to weigh the genuine benefits of industry partnerships against the need for independent, balanced curriculum design. It highlights the importance of public institutions retaining control over educational content even when accepting outside support.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 10 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. AI agents are flooding public services with new requests](https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports that AI agents — software tools that can act on a person's behalf — are generating a surge of new requests and applications directed at public services. According to a researcher quoted in the article, most of these cases involve people who are genuinely entitled to benefits or services claiming what they are due, but the sheer volume is straining government systems designed for slower, human-paced demand. On one hand this can help citizens access support they might otherwise miss; on the other, it can overwhelm agencies and complicate how they verify and process requests. This is an early sign of how automated tools may change the relationship between citizens and government services. For public-sector bodies, it points to the need to prepare systems and staff for higher, automated demand while ensuring fair and accurate handling of claims.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 10 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Now everyone can put data to work](https://openai.com/index/put-data-to-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI introduced a new 'Data agent' within ChatGPT Work that lets employees connect their company's data, ask questions in plain language, and build interactive dashboards without needing technical skills. The idea is to let non-specialist staff explore information and uncover insights that previously required data analysts or specialised software. This lowers the barrier to working with data, potentially making organisations more informed and efficient in day-to-day decisions. For a workforce-focused institution, it illustrates how AI is shifting analytical tasks toward general staff, which has implications for training and skills development. It also raises practical considerations about data security and accuracy, since connecting sensitive organisational information to AI tools requires careful governance and verification of the results.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Superintelligence is coming. Should we let it?](https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In an episode of TechCrunch's Equity podcast, host Rebecca Bellan and guest Connor Leahy discuss the industry's growing talk of 'superintelligence' — AI systems more capable than humans — and whether pursuing it is wise. The conversation points to recent safety incidents, including a reported breach involving OpenAI and the platform Hugging Face, as evidence that even today's systems can behave in ways their creators struggle to control. The central question is what happens if we build systems too powerful to reliably manage. While this is a more speculative and debated topic, it reflects a serious ongoing discussion within the AI field about safety and responsible development. For non-technical readers, it is a reminder that alongside AI's practical benefits, there are unresolved concerns about oversight, control, and the pace at which the technology is being advanced.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 09 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 11 September 2026\n============================================================\nThis edition looks at how governments and schools are adapting as AI moves deeper into public life — from new deals that bring AI tools into government offices and classrooms, to the practical strain AI is placing on public services. We also examine tools that help ordinary staff work with data, and a broader conversation about the risks of building ever-more-capable AI. Together these stories touch our core interests in workforce development, public-sector adoption, and responsible technology use.\n\n1. Expanding AI access and cyber defense for federal, state, local, and tribal governments\n   https://openai.com/index/expanding-ai-access-us-government\n   OpenAI, working with the US General Services Administration, announced an offer that gives eligible federal, state, local, and tribal governments free license fees, a 50% discount on usage costs, and additional support for cyber defense. The aim is to make advanced AI tools more affordable and accessible across different levels of government, while also helping public agencies strengthen their protection against digital threats. This reflects a growing pattern of AI companies partnering directly with public institutions to encourage adoption. For organisations like Tamkeen, it is a useful example of how governments elsewhere are negotiating cost and security terms when bringing AI into public services. It also signals that vendors increasingly see the public sector as a major market, which raises practical questions about long-term costs, dependence on single providers, and data protection once introductory discounts end.\n   (OpenAI · 10 Sep 2026)\n\n2. Schools are catching on to Big Tech’s playbook\n   https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids\n   This article examines how AI companies are approaching schools with a familiar pitch: AI is where the jobs are, students who do not learn it will fall behind, and the companies themselves will supply the curriculum and teaching resources, often for free. The piece draws a parallel to how earlier technology firms promoted coding education, noting that donated curricula can help schools but also shape what students learn in ways that benefit the providers. The concern is that companies offering free educational materials also gain influence over how a generation understands and uses their products. For those working in education and human-capital development, this is a reminder to weigh the genuine benefits of industry partnerships against the need for independent, balanced curriculum design. It highlights the importance of public institutions retaining control over educational content even when accepting outside support.\n   (The Verge — AI · 10 Sep 2026)\n\n3. AI agents are flooding public services with new requests\n   https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/\n   TechCrunch reports that AI agents — software tools that can act on a person's behalf — are generating a surge of new requests and applications directed at public services. According to a researcher quoted in the article, most of these cases involve people who are genuinely entitled to benefits or services claiming what they are due, but the sheer volume is straining government systems designed for slower, human-paced demand. On one hand this can help citizens access support they might otherwise miss; on the other, it can overwhelm agencies and complicate how they verify and process requests. This is an early sign of how automated tools may change the relationship between citizens and government services. For public-sector bodies, it points to the need to prepare systems and staff for higher, automated demand while ensuring fair and accurate handling of claims.\n   (TechCrunch — AI · 10 Sep 2026)\n\n4. Now everyone can put data to work\n   https://openai.com/index/put-data-to-work\n   OpenAI introduced a new 'Data agent' within ChatGPT Work that lets employees connect their company's data, ask questions in plain language, and build interactive dashboards without needing technical skills. The idea is to let non-specialist staff explore information and uncover insights that previously required data analysts or specialised software. This lowers the barrier to working with data, potentially making organisations more informed and efficient in day-to-day decisions. For a workforce-focused institution, it illustrates how AI is shifting analytical tasks toward general staff, which has implications for training and skills development. It also raises practical considerations about data security and accuracy, since connecting sensitive organisational information to AI tools requires careful governance and verification of the results.\n   (OpenAI · 10 Sep 2026)\n\n5. Superintelligence is coming. Should we let it?\n   https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/\n   In an episode of TechCrunch's Equity podcast, host Rebecca Bellan and guest Connor Leahy discuss the industry's growing talk of 'superintelligence' — AI systems more capable than humans — and whether pursuing it is wise. The conversation points to recent safety incidents, including a reported breach involving OpenAI and the platform Hugging Face, as evidence that even today's systems can behave in ways their creators struggle to control. The central question is what happens if we build systems too powerful to reliably manage. While this is a more speculative and debated topic, it reflects a serious ongoing discussion within the AI field about safety and responsible development. For non-technical readers, it is a reminder that alongside AI's practical benefits, there are unresolved concerns about oversight, control, and the pace at which the technology is being advanced.\n   (TechCrunch — AI · 09 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
