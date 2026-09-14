@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-14",
+  "generated_at_iso": "2026-09-14T12:56:42.783726+00:00",
+  "date_range_label": "14 September 2026",
+  "subtitle": "Monday, 14 September 2026",
+  "editor_note": "This edition centres on a growing debate among AI leaders and policymakers about whether the pace of AI development should be deliberately slowed to allow safety and oversight to catch up. You will read differing views from industry executives, political figures, and investors — a reminder that decisions about how fast AI advances are as much about policy and governance as about technology. For an organisation focused on workforce and human-capital development, these conversations shape the environment in which future skills and public services will evolve.",
+  "items": [
+    {
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-12T16:23:40+00:00",
+      "summary": "Dario Amodei, the chief executive of AI company Anthropic, published a lengthy essay arguing that the time has come to slow the pace of AI development. He proposed a three-step plan to what he called 'pace the frontier' — in plain terms, to advance AI more cautiously rather than racing ahead. As part of this, Anthropic said it would give independent third-party evaluators, such as the research group METR, access to its models to check that the company is following its stated safety practices and commitments. This is notable because it comes from the leader of a major AI developer, not an outside critic, signalling that some in the industry believe self-imposed limits and external oversight are needed. For institutions planning around AI, it suggests that responsible development and independent checks are becoming part of mainstream industry thinking.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-13T16:30:00+00:00",
+      "summary": "Former US President Barack Obama urged members of the Democratic Party to make artificial intelligence one of their 'central agendas' and to develop a 'very clear plan' for managing its risks. He highlighted two main areas of concern: the economic impact of AI, including its effect on jobs, and questions of safety. His comments reflect how AI has moved from a niche technical topic into a mainstream political priority in the United States. For a workforce-focused organisation, the emphasis on economic and employment effects is particularly relevant, as it underscores the widespread expectation that AI will reshape jobs and require deliberate policy responses. It also shows that governments are increasingly being pushed to prepare structured strategies rather than react after the fact.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-12T19:34:44+00:00",
+      "summary": "This report examines what it would actually mean to 'pace the frontier' — the phrase used by Anthropic's Dario Amodei and echoed by OpenAI's Sam Altman to describe slowing the rush toward ever more powerful AI systems. The two executives, who lead rival companies, appear to broadly agree that some coordination or restraint may be needed, though the practical details remain unclear. The piece explores the difficulty of achieving this in a competitive industry where slowing down could mean falling behind rivals, including those in other countries. It is notable because agreement among leading competitors on the principle of caution is unusual, but turning that principle into concrete, enforceable action is far harder. For non-specialists, it illustrates the gap that often exists between broad statements of intent and real-world policy change.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-13T19:41:48+00:00",
+      "summary": "After Anthropic's Dario Amodei called for slowing AI development, several major industry figures — including OpenAI's Sam Altman, Elon Musk, and Alphabet's Demis Hassabis — publicly voiced varying degrees of support. However, US President Donald Trump and House Speaker Mike Johnson pushed back, suggesting the AI industry is overreacting and that such caution is unnecessary. This disagreement highlights a widening divide between parts of the technology industry, which are urging restraint, and political leaders who favour rapid progress and fewer constraints. The clash matters because it shows that the future direction of AI will be shaped by a contest of views between business, government, and politics. For observers worldwide, it demonstrates how differently AI risks and priorities can be interpreted even within a single country.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-11T20:59:47+00:00",
+      "summary": "Garry Tan, head of the influential startup investor Y Combinator, argued that smaller American 'open-weight' AI labs should use advanced training techniques — including a method called 'distillation,' which transfers capabilities from larger models into smaller ones — to build stronger publicly available AI options. Open-weight models are those whose underlying components are shared openly, allowing others to study, adapt, and build on them. Tan's aim is to ensure the United States has a robust set of open alternatives rather than relying on Chinese-developed open models. This reflects a broader geopolitical dimension to AI, where access to openly available technology is seen as a matter of national competitiveness. For organisations building AI capacity, it is a reminder that open models are an increasingly important part of the global AI landscape and are shaped by national and strategic considerations.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 14 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition centres on a growing debate among AI leaders and policymakers about whether the pace of AI development should be deliberately slowed to allow safety and oversight to catch up. You will read differing views from industry executives, political figures, and investors — a reminder that decisions about how fast AI advances are as much about policy and governance as about technology. For an organisation focused on workforce and human-capital development, these conversations shape the environment in which future skills and public services will evolve.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Dario Amodei, the chief executive of AI company Anthropic, published a lengthy essay arguing that the time has come to slow the pace of AI development. He proposed a three-step plan to what he called 'pace the frontier' — in plain terms, to advance AI more cautiously rather than racing ahead. As part of this, Anthropic said it would give independent third-party evaluators, such as the research group METR, access to its models to check that the company is following its stated safety practices and commitments. This is notable because it comes from the leader of a major AI developer, not an outside critic, signalling that some in the industry believe self-imposed limits and external oversight are needed. For institutions planning around AI, it suggests that responsible development and independent checks are becoming part of mainstream industry thinking.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 12 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Former US President Barack Obama urged members of the Democratic Party to make artificial intelligence one of their 'central agendas' and to develop a 'very clear plan' for managing its risks. He highlighted two main areas of concern: the economic impact of AI, including its effect on jobs, and questions of safety. His comments reflect how AI has moved from a niche technical topic into a mainstream political priority in the United States. For a workforce-focused organisation, the emphasis on economic and employment effects is particularly relevant, as it underscores the widespread expectation that AI will reshape jobs and require deliberate policy responses. It also shows that governments are increasingly being pushed to prepare structured strategies rather than react after the fact.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 13 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This report examines what it would actually mean to 'pace the frontier' — the phrase used by Anthropic's Dario Amodei and echoed by OpenAI's Sam Altman to describe slowing the rush toward ever more powerful AI systems. The two executives, who lead rival companies, appear to broadly agree that some coordination or restraint may be needed, though the practical details remain unclear. The piece explores the difficulty of achieving this in a competitive industry where slowing down could mean falling behind rivals, including those in other countries. It is notable because agreement among leading competitors on the principle of caution is unusual, but turning that principle into concrete, enforceable action is far harder. For non-specialists, it illustrates the gap that often exists between broad statements of intent and real-world policy change.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 12 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "After Anthropic's Dario Amodei called for slowing AI development, several major industry figures — including OpenAI's Sam Altman, Elon Musk, and Alphabet's Demis Hassabis — publicly voiced varying degrees of support. However, US President Donald Trump and House Speaker Mike Johnson pushed back, suggesting the AI industry is overreacting and that such caution is unnecessary. This disagreement highlights a widening divide between parts of the technology industry, which are urging restraint, and political leaders who favour rapid progress and fewer constraints. The clash matters because it shows that the future direction of AI will be shaped by a contest of views between business, government, and politics. For observers worldwide, it demonstrates how differently AI risks and priorities can be interpreted even within a single country.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 13 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Garry Tan, head of the influential startup investor Y Combinator, argued that smaller American 'open-weight' AI labs should use advanced training techniques — including a method called 'distillation,' which transfers capabilities from larger models into smaller ones — to build stronger publicly available AI options. Open-weight models are those whose underlying components are shared openly, allowing others to study, adapt, and build on them. Tan's aim is to ensure the United States has a robust set of open alternatives rather than relying on Chinese-developed open models. This reflects a broader geopolitical dimension to AI, where access to openly available technology is seen as a matter of national competitiveness. For organisations building AI capacity, it is a reminder that open models are an increasingly important part of the global AI landscape and are shaped by national and strategic considerations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 12 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 14 September 2026\n============================================================\nThis edition centres on a growing debate among AI leaders and policymakers about whether the pace of AI development should be deliberately slowed to allow safety and oversight to catch up. You will read differing views from industry executives, political figures, and investors — a reminder that decisions about how fast AI advances are as much about policy and governance as about technology. For an organisation focused on workforce and human-capital development, these conversations shape the environment in which future skills and public services will evolve.\n\n1. Anthropic CEO says it’s time to pump the brakes on AI\n   https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development\n   Dario Amodei, the chief executive of AI company Anthropic, published a lengthy essay arguing that the time has come to slow the pace of AI development. He proposed a three-step plan to what he called 'pace the frontier' — in plain terms, to advance AI more cautiously rather than racing ahead. As part of this, Anthropic said it would give independent third-party evaluators, such as the research group METR, access to its models to check that the company is following its stated safety practices and commitments. This is notable because it comes from the leader of a major AI developer, not an outside critic, signalling that some in the industry believe self-imposed limits and external oversight are needed. For institutions planning around AI, it suggests that responsible development and independent checks are becoming part of mainstream industry thinking.\n   (The Verge — AI · 12 Sep 2026)\n\n2. Obama urges Democrats to have a ‘clear plan’ for AI safeguards\n   https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/\n   Former US President Barack Obama urged members of the Democratic Party to make artificial intelligence one of their 'central agendas' and to develop a 'very clear plan' for managing its risks. He highlighted two main areas of concern: the economic impact of AI, including its effect on jobs, and questions of safety. His comments reflect how AI has moved from a niche technical topic into a mainstream political priority in the United States. For a workforce-focused organisation, the emphasis on economic and employment effects is particularly relevant, as it underscores the widespread expectation that AI will reshape jobs and require deliberate policy responses. It also shows that governments are increasingly being pushed to prepare structured strategies rather than react after the fact.\n   (TechCrunch — AI · 13 Sep 2026)\n\n3. Anthropic CEO outlines plan to slow AI development\n   https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/\n   This report examines what it would actually mean to 'pace the frontier' — the phrase used by Anthropic's Dario Amodei and echoed by OpenAI's Sam Altman to describe slowing the rush toward ever more powerful AI systems. The two executives, who lead rival companies, appear to broadly agree that some coordination or restraint may be needed, though the practical details remain unclear. The piece explores the difficulty of achieving this in a competitive industry where slowing down could mean falling behind rivals, including those in other countries. It is notable because agreement among leading competitors on the principle of caution is unusual, but turning that principle into concrete, enforceable action is far harder. For non-specialists, it illustrates the gap that often exists between broad statements of intent and real-world policy change.\n   (TechCrunch — AI · 12 Sep 2026)\n\n4. Trump and Mike Johnson think the AI industry is overreacting\n   https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting\n   After Anthropic's Dario Amodei called for slowing AI development, several major industry figures — including OpenAI's Sam Altman, Elon Musk, and Alphabet's Demis Hassabis — publicly voiced varying degrees of support. However, US President Donald Trump and House Speaker Mike Johnson pushed back, suggesting the AI industry is overreacting and that such caution is unnecessary. This disagreement highlights a widening divide between parts of the technology industry, which are urging restraint, and political leaders who favour rapid progress and fewer constraints. The clash matters because it shows that the future direction of AI will be shaped by a contest of views between business, government, and politics. For observers worldwide, it demonstrates how differently AI risks and priorities can be interpreted even within a single country.\n   (The Verge — AI · 13 Sep 2026)\n\n5. Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too\n   https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/\n   Garry Tan, head of the influential startup investor Y Combinator, argued that smaller American 'open-weight' AI labs should use advanced training techniques — including a method called 'distillation,' which transfers capabilities from larger models into smaller ones — to build stronger publicly available AI options. Open-weight models are those whose underlying components are shared openly, allowing others to study, adapt, and build on them. Tan's aim is to ensure the United States has a robust set of open alternatives rather than relying on Chinese-developed open models. This reflects a broader geopolitical dimension to AI, where access to openly available technology is seen as a matter of national competitiveness. For organisations building AI capacity, it is a reminder that open models are an increasingly important part of the global AI landscape and are shaped by national and strategic considerations.\n   (TechCrunch — AI · 12 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 14 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition centres on a growing debate among AI leaders and policymakers about whether the pace of AI development should be deliberately slowed to allow safety and oversight to catch up. You will read differing views from industry executives, political figures, and investors — a reminder that decisions about how fast AI advances are as much about policy and governance as about technology. For an organisation focused on workforce and human-capital development, these conversations shape the environment in which future skills and public services will evolve.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Anthropic CEO says it’s time to pump the brakes on AI](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Dario Amodei, the chief executive of AI company Anthropic, published a lengthy essay arguing that the time has come to slow the pace of AI development. He proposed a three-step plan to what he called 'pace the frontier' — in plain terms, to advance AI more cautiously rather than racing ahead. As part of this, Anthropic said it would give independent third-party evaluators, such as the research group METR, access to its models to check that the company is following its stated safety practices and commitments. This is notable because it comes from the leader of a major AI developer, not an outside critic, signalling that some in the industry believe self-imposed limits and external oversight are needed. For institutions planning around AI, it suggests that responsible development and independent checks are becoming part of mainstream industry thinking.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 12 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Obama urges Democrats to have a ‘clear plan’ for AI safeguards](https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Former US President Barack Obama urged members of the Democratic Party to make artificial intelligence one of their 'central agendas' and to develop a 'very clear plan' for managing its risks. He highlighted two main areas of concern: the economic impact of AI, including its effect on jobs, and questions of safety. His comments reflect how AI has moved from a niche technical topic into a mainstream political priority in the United States. For a workforce-focused organisation, the emphasis on economic and employment effects is particularly relevant, as it underscores the widespread expectation that AI will reshape jobs and require deliberate policy responses. It also shows that governments are increasingly being pushed to prepare structured strategies rather than react after the fact.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 13 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Anthropic CEO outlines plan to slow AI development](https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This report examines what it would actually mean to 'pace the frontier' — the phrase used by Anthropic's Dario Amodei and echoed by OpenAI's Sam Altman to describe slowing the rush toward ever more powerful AI systems. The two executives, who lead rival companies, appear to broadly agree that some coordination or restraint may be needed, though the practical details remain unclear. The piece explores the difficulty of achieving this in a competitive industry where slowing down could mean falling behind rivals, including those in other countries. It is notable because agreement among leading competitors on the principle of caution is unusual, but turning that principle into concrete, enforceable action is far harder. For non-specialists, it illustrates the gap that often exists between broad statements of intent and real-world policy change.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 12 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Trump and Mike Johnson think the AI industry is overreacting](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "After Anthropic's Dario Amodei called for slowing AI development, several major industry figures — including OpenAI's Sam Altman, Elon Musk, and Alphabet's Demis Hassabis — publicly voiced varying degrees of support. However, US President Donald Trump and House Speaker Mike Johnson pushed back, suggesting the AI industry is overreacting and that such caution is unnecessary. This disagreement highlights a widening divide between parts of the technology industry, which are urging restraint, and political leaders who favour rapid progress and fewer constraints. The clash matters because it shows that the future direction of AI will be shaped by a contest of views between business, government, and politics. For observers worldwide, it demonstrates how differently AI risks and priorities can be interpreted even within a single country.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 13 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too](https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Garry Tan, head of the influential startup investor Y Combinator, argued that smaller American 'open-weight' AI labs should use advanced training techniques — including a method called 'distillation,' which transfers capabilities from larger models into smaller ones — to build stronger publicly available AI options. Open-weight models are those whose underlying components are shared openly, allowing others to study, adapt, and build on them. Tan's aim is to ensure the United States has a robust set of open alternatives rather than relying on Chinese-developed open models. This reflects a broader geopolitical dimension to AI, where access to openly available technology is seen as a matter of national competitiveness. For organisations building AI capacity, it is a reminder that open models are an increasingly important part of the global AI landscape and are shaped by national and strategic considerations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 12 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 14 September 2026\n============================================================\nThis edition centres on a growing debate among AI leaders and policymakers about whether the pace of AI development should be deliberately slowed to allow safety and oversight to catch up. You will read differing views from industry executives, political figures, and investors — a reminder that decisions about how fast AI advances are as much about policy and governance as about technology. For an organisation focused on workforce and human-capital development, these conversations shape the environment in which future skills and public services will evolve.\n\n1. Anthropic CEO says it’s time to pump the brakes on AI\n   https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development\n   Dario Amodei, the chief executive of AI company Anthropic, published a lengthy essay arguing that the time has come to slow the pace of AI development. He proposed a three-step plan to what he called 'pace the frontier' — in plain terms, to advance AI more cautiously rather than racing ahead. As part of this, Anthropic said it would give independent third-party evaluators, such as the research group METR, access to its models to check that the company is following its stated safety practices and commitments. This is notable because it comes from the leader of a major AI developer, not an outside critic, signalling that some in the industry believe self-imposed limits and external oversight are needed. For institutions planning around AI, it suggests that responsible development and independent checks are becoming part of mainstream industry thinking.\n   (The Verge — AI · 12 Sep 2026)\n\n2. Obama urges Democrats to have a ‘clear plan’ for AI safeguards\n   https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/\n   Former US President Barack Obama urged members of the Democratic Party to make artificial intelligence one of their 'central agendas' and to develop a 'very clear plan' for managing its risks. He highlighted two main areas of concern: the economic impact of AI, including its effect on jobs, and questions of safety. His comments reflect how AI has moved from a niche technical topic into a mainstream political priority in the United States. For a workforce-focused organisation, the emphasis on economic and employment effects is particularly relevant, as it underscores the widespread expectation that AI will reshape jobs and require deliberate policy responses. It also shows that governments are increasingly being pushed to prepare structured strategies rather than react after the fact.\n   (TechCrunch — AI · 13 Sep 2026)\n\n3. Anthropic CEO outlines plan to slow AI development\n   https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/\n   This report examines what it would actually mean to 'pace the frontier' — the phrase used by Anthropic's Dario Amodei and echoed by OpenAI's Sam Altman to describe slowing the rush toward ever more powerful AI systems. The two executives, who lead rival companies, appear to broadly agree that some coordination or restraint may be needed, though the practical details remain unclear. The piece explores the difficulty of achieving this in a competitive industry where slowing down could mean falling behind rivals, including those in other countries. It is notable because agreement among leading competitors on the principle of caution is unusual, but turning that principle into concrete, enforceable action is far harder. For non-specialists, it illustrates the gap that often exists between broad statements of intent and real-world policy change.\n   (TechCrunch — AI · 12 Sep 2026)\n\n4. Trump and Mike Johnson think the AI industry is overreacting\n   https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting\n   After Anthropic's Dario Amodei called for slowing AI development, several major industry figures — including OpenAI's Sam Altman, Elon Musk, and Alphabet's Demis Hassabis — publicly voiced varying degrees of support. However, US President Donald Trump and House Speaker Mike Johnson pushed back, suggesting the AI industry is overreacting and that such caution is unnecessary. This disagreement highlights a widening divide between parts of the technology industry, which are urging restraint, and political leaders who favour rapid progress and fewer constraints. The clash matters because it shows that the future direction of AI will be shaped by a contest of views between business, government, and politics. For observers worldwide, it demonstrates how differently AI risks and priorities can be interpreted even within a single country.\n   (The Verge — AI · 13 Sep 2026)\n\n5. Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too\n   https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/\n   Garry Tan, head of the influential startup investor Y Combinator, argued that smaller American 'open-weight' AI labs should use advanced training techniques — including a method called 'distillation,' which transfers capabilities from larger models into smaller ones — to build stronger publicly available AI options. Open-weight models are those whose underlying components are shared openly, allowing others to study, adapt, and build on them. Tan's aim is to ensure the United States has a robust set of open alternatives rather than relying on Chinese-developed open models. This reflects a broader geopolitical dimension to AI, where access to openly available technology is seen as a matter of national competitiveness. For organisations building AI capacity, it is a reminder that open models are an increasingly important part of the global AI landscape and are shaped by national and strategic considerations.\n   (TechCrunch — AI · 12 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
