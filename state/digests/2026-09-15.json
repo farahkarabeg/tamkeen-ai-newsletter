@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-15",
+  "generated_at_iso": "2026-09-15T11:50:56.261447+00:00",
+  "date_range_label": "15 September 2026",
+  "subtitle": "Tuesday, 15 September 2026",
+  "editor_note": "This week's digest centres on a significant shift in how the AI industry is talking about its own future, as several leading figures publicly called for a more measured pace of development. We look at the debate this has sparked among executives and policymakers, the questions it raises about competition and governance, and Microsoft's new guidelines for how its AI systems should behave. Together these stories highlight important questions about safety, responsibility and trust that are relevant to any organisation planning to use AI.",
+  "items": [
+    {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-14T21:21:42+00:00",
+      "summary": "Dario Amodei, chief executive of the AI company Anthropic, published a lengthy essay titled \"We Must Pace the Frontier\" arguing that the development of advanced AI should be deliberately slowed to allow safety measures to catch up with the technology's rapid progress. His essay triggered a wave of public responses from other AI company leaders and from politicians, some agreeing with his concerns and others pushing back. The Verge compiled these reactions to show the range of views now circulating at the top of the industry and in government. This is notable because it marks a rare moment when senior figures who usually compete fiercely are openly debating whether the pace of AI development is safe. For non-technical readers, it signals that even the people building these systems are uncertain about how fast they should move, which has direct implications for how governments and institutions plan their own AI adoption.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-14T13:00:00+00:00",
+      "summary": "Microsoft released a 37-page document it calls a \"humanist AI code of conduct,\" setting out principles for how its AI systems should be designed and used. The publication comes amid rising concern that AI capabilities may be advancing faster than our ability to deploy them safely, and shortly after Anthropic's Dario Amodei called for a coordinated slowdown. The central message of Microsoft's code is captured in its framing that \"people matter more than AI,\" emphasising that the technology should support rather than replace human beings. This is significant because Microsoft is one of the world's largest technology companies and a major provider of AI tools used by governments and businesses. For public-sector organisations, such codes of conduct offer a reference point for what responsible AI use should look like and may influence future standards and expectations.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-09-14T17:54:22+00:00",
+      "summary": "MIT Technology Review examines what it describes as a \"doomer turn\" in the AI industry, prompted by Dario Amodei's weekend essay calling for a brake on the development of large language models, the technology behind tools like ChatGPT. Amodei points to a range of dangers he believes the technology could pose if it continues advancing unchecked. The article steps back to ask what this shift in tone actually means in practice and whether calls for caution will lead to real changes in how companies operate. It notes that mood and rhetoric within the industry have moved from optimism toward greater worry about risks. This matters because the way industry leaders frame AI's risks influences public trust, government policy, and the decisions institutions make about whether and how to adopt these tools.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-14T22:59:41+00:00",
+      "summary": "The Verge raises a pointed question about the recent calls to slow AI development: are they a genuine safety agreement or a form of anti-competitive collusion? Over the weekend, the leaders of several major players — including OpenAI's Sam Altman, Anthropic's Dario Amodei, Google DeepMind's Demis Hassabis and Elon Musk — loosely agreed to \"pace the frontier\" of AI development. Sceptics quickly noted that an agreement among dominant companies to hold back could also serve to protect their market positions and block newer competitors, behaviour that regulators typically scrutinise as a possible cartel. The article explores this tension between legitimate safety cooperation and the risk of stifling competition. This is important for policymakers and public institutions because it shows that even well-intentioned industry coordination can raise governance and fairness concerns that may require regulatory attention.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-14T16:27:53+00:00",
+      "summary": "TechCrunch reports on the specific contents of Microsoft's new AI code of conduct, which sets out both broad principles and concrete rules for how its AI models should behave. Among the general principles are commitments that AI should support humans rather than replace them and should contribute to human wellbeing. The code also includes specific safety constraints, such as instructing models not to hack into systems or deceive the people using them. These rules are intended to translate high-level values into practical limits on what the technology is allowed to do. This is notable because it offers a clear, tangible example of how a major company is attempting to build safeguards directly into its AI, which can help organisations understand what responsible design looks like when they evaluate AI tools for their own use.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 15 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This week's digest centres on a significant shift in how the AI industry is talking about its own future, as several leading figures publicly called for a more measured pace of development. We look at the debate this has sparked among executives and policymakers, the questions it raises about competition and governance, and Microsoft's new guidelines for how its AI systems should behave. Together these stories highlight important questions about safety, responsibility and trust that are relevant to any organisation planning to use AI.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Dario Amodei, chief executive of the AI company Anthropic, published a lengthy essay titled \"We Must Pace the Frontier\" arguing that the development of advanced AI should be deliberately slowed to allow safety measures to catch up with the technology's rapid progress. His essay triggered a wave of public responses from other AI company leaders and from politicians, some agreeing with his concerns and others pushing back. The Verge compiled these reactions to show the range of views now circulating at the top of the industry and in government. This is notable because it marks a rare moment when senior figures who usually compete fiercely are openly debating whether the pace of AI development is safe. For non-technical readers, it signals that even the people building these systems are uncertain about how fast they should move, which has direct implications for how governments and institutions plan their own AI adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Microsoft says ‘people matter more than AI’ following safety concerns](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft released a 37-page document it calls a \"humanist AI code of conduct,\" setting out principles for how its AI systems should be designed and used. The publication comes amid rising concern that AI capabilities may be advancing faster than our ability to deploy them safely, and shortly after Anthropic's Dario Amodei called for a coordinated slowdown. The central message of Microsoft's code is captured in its framing that \"people matter more than AI,\" emphasising that the technology should support rather than replace human beings. This is significant because Microsoft is one of the world's largest technology companies and a major provider of AI tools used by governments and businesses. For public-sector organisations, such codes of conduct offer a reference point for what responsible AI use should look like and may influence future standards and expectations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 14 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review examines what it describes as a \"doomer turn\" in the AI industry, prompted by Dario Amodei's weekend essay calling for a brake on the development of large language models, the technology behind tools like ChatGPT. Amodei points to a range of dangers he believes the technology could pose if it continues advancing unchecked. The article steps back to ask what this shift in tone actually means in practice and whether calls for caution will lead to real changes in how companies operate. It notes that mood and rhetoric within the industry have moved from optimism toward greater worry about risks. This matters because the way industry leaders frame AI's risks influences public trust, government policy, and the decisions institutions make about whether and how to adopt these tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 14 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge raises a pointed question about the recent calls to slow AI development: are they a genuine safety agreement or a form of anti-competitive collusion? Over the weekend, the leaders of several major players — including OpenAI's Sam Altman, Anthropic's Dario Amodei, Google DeepMind's Demis Hassabis and Elon Musk — loosely agreed to \"pace the frontier\" of AI development. Sceptics quickly noted that an agreement among dominant companies to hold back could also serve to protect their market positions and block newer competitors, behaviour that regulators typically scrutinise as a possible cartel. The article explores this tension between legitimate safety cooperation and the risk of stifling competition. This is important for policymakers and public institutions because it shows that even well-intentioned industry coordination can raise governance and fairness concerns that may require regulatory attention.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports on the specific contents of Microsoft's new AI code of conduct, which sets out both broad principles and concrete rules for how its AI models should behave. Among the general principles are commitments that AI should support humans rather than replace them and should contribute to human wellbeing. The code also includes specific safety constraints, such as instructing models not to hack into systems or deceive the people using them. These rules are intended to translate high-level values into practical limits on what the technology is allowed to do. This is notable because it offers a clear, tangible example of how a major company is attempting to build safeguards directly into its AI, which can help organisations understand what responsible design looks like when they evaluate AI tools for their own use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 14 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 15 September 2026\n============================================================\nThis week's digest centres on a significant shift in how the AI industry is talking about its own future, as several leading figures publicly called for a more measured pace of development. We look at the debate this has sparked among executives and policymakers, the questions it raises about competition and governance, and Microsoft's new guidelines for how its AI systems should behave. Together these stories highlight important questions about safety, responsibility and trust that are relevant to any organisation planning to use AI.\n\n1. What execs and politicians are saying about slowing down AI development\n   https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei\n   Dario Amodei, chief executive of the AI company Anthropic, published a lengthy essay titled \"We Must Pace the Frontier\" arguing that the development of advanced AI should be deliberately slowed to allow safety measures to catch up with the technology's rapid progress. His essay triggered a wave of public responses from other AI company leaders and from politicians, some agreeing with his concerns and others pushing back. The Verge compiled these reactions to show the range of views now circulating at the top of the industry and in government. This is notable because it marks a rare moment when senior figures who usually compete fiercely are openly debating whether the pace of AI development is safe. For non-technical readers, it signals that even the people building these systems are uncertain about how fast they should move, which has direct implications for how governments and institutions plan their own AI adoption.\n   (The Verge — AI · 15 Sep 2026)\n\n2. Microsoft says ‘people matter more than AI’ following safety concerns\n   https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct\n   Microsoft released a 37-page document it calls a \"humanist AI code of conduct,\" setting out principles for how its AI systems should be designed and used. The publication comes amid rising concern that AI capabilities may be advancing faster than our ability to deploy them safely, and shortly after Anthropic's Dario Amodei called for a coordinated slowdown. The central message of Microsoft's code is captured in its framing that \"people matter more than AI,\" emphasising that the technology should support rather than replace human beings. This is significant because Microsoft is one of the world's largest technology companies and a major provider of AI tools used by governments and businesses. For public-sector organisations, such codes of conduct offer a reference point for what responsible AI use should look like and may influence future standards and expectations.\n   (The Verge — AI · 14 Sep 2026)\n\n3. The AI industry has taken a doomer turn. What now?\n   https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/\n   MIT Technology Review examines what it describes as a \"doomer turn\" in the AI industry, prompted by Dario Amodei's weekend essay calling for a brake on the development of large language models, the technology behind tools like ChatGPT. Amodei points to a range of dangers he believes the technology could pose if it continues advancing unchecked. The article steps back to ask what this shift in tone actually means in practice and whether calls for caution will lead to real changes in how companies operate. It notes that mood and rhetoric within the industry have moved from optimism toward greater worry about risks. This matters because the way industry leaders frame AI's risks influences public trust, government policy, and the decisions institutions make about whether and how to adopt these tools.\n   (MIT Technology Review — AI · 14 Sep 2026)\n\n4. Is Big Tech’s AI slowdown a safety pact or a cartel?\n   https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel\n   The Verge raises a pointed question about the recent calls to slow AI development: are they a genuine safety agreement or a form of anti-competitive collusion? Over the weekend, the leaders of several major players — including OpenAI's Sam Altman, Anthropic's Dario Amodei, Google DeepMind's Demis Hassabis and Elon Musk — loosely agreed to \"pace the frontier\" of AI development. Sceptics quickly noted that an agreement among dominant companies to hold back could also serve to protect their market positions and block newer competitors, behaviour that regulators typically scrutinise as a possible cartel. The article explores this tension between legitimate safety cooperation and the risk of stifling competition. This is important for policymakers and public institutions because it shows that even well-intentioned industry coordination can raise governance and fairness concerns that may require regulatory attention.\n   (The Verge — AI · 15 Sep 2026)\n\n5. Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans\n   https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/\n   TechCrunch reports on the specific contents of Microsoft's new AI code of conduct, which sets out both broad principles and concrete rules for how its AI models should behave. Among the general principles are commitments that AI should support humans rather than replace them and should contribute to human wellbeing. The code also includes specific safety constraints, such as instructing models not to hack into systems or deceive the people using them. These rules are intended to translate high-level values into practical limits on what the technology is allowed to do. This is notable because it offers a clear, tangible example of how a major company is attempting to build safeguards directly into its AI, which can help organisations understand what responsible design looks like when they evaluate AI tools for their own use.\n   (TechCrunch — AI · 14 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 15 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This week's digest centres on a significant shift in how the AI industry is talking about its own future, as several leading figures publicly called for a more measured pace of development. We look at the debate this has sparked among executives and policymakers, the questions it raises about competition and governance, and Microsoft's new guidelines for how its AI systems should behave. Together these stories highlight important questions about safety, responsibility and trust that are relevant to any organisation planning to use AI.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. What execs and politicians are saying about slowing down AI development](https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Dario Amodei, chief executive of the AI company Anthropic, published a lengthy essay titled \"We Must Pace the Frontier\" arguing that the development of advanced AI should be deliberately slowed to allow safety measures to catch up with the technology's rapid progress. His essay triggered a wave of public responses from other AI company leaders and from politicians, some agreeing with his concerns and others pushing back. The Verge compiled these reactions to show the range of views now circulating at the top of the industry and in government. This is notable because it marks a rare moment when senior figures who usually compete fiercely are openly debating whether the pace of AI development is safe. For non-technical readers, it signals that even the people building these systems are uncertain about how fast they should move, which has direct implications for how governments and institutions plan their own AI adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Microsoft says ‘people matter more than AI’ following safety concerns](https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft released a 37-page document it calls a \"humanist AI code of conduct,\" setting out principles for how its AI systems should be designed and used. The publication comes amid rising concern that AI capabilities may be advancing faster than our ability to deploy them safely, and shortly after Anthropic's Dario Amodei called for a coordinated slowdown. The central message of Microsoft's code is captured in its framing that \"people matter more than AI,\" emphasising that the technology should support rather than replace human beings. This is significant because Microsoft is one of the world's largest technology companies and a major provider of AI tools used by governments and businesses. For public-sector organisations, such codes of conduct offer a reference point for what responsible AI use should look like and may influence future standards and expectations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 14 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. The AI industry has taken a doomer turn. What now?](https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review examines what it describes as a \"doomer turn\" in the AI industry, prompted by Dario Amodei's weekend essay calling for a brake on the development of large language models, the technology behind tools like ChatGPT. Amodei points to a range of dangers he believes the technology could pose if it continues advancing unchecked. The article steps back to ask what this shift in tone actually means in practice and whether calls for caution will lead to real changes in how companies operate. It notes that mood and rhetoric within the industry have moved from optimism toward greater worry about risks. This matters because the way industry leaders frame AI's risks influences public trust, government policy, and the decisions institutions make about whether and how to adopt these tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 14 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Is Big Tech’s AI slowdown a safety pact or a cartel?](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge raises a pointed question about the recent calls to slow AI development: are they a genuine safety agreement or a form of anti-competitive collusion? Over the weekend, the leaders of several major players — including OpenAI's Sam Altman, Anthropic's Dario Amodei, Google DeepMind's Demis Hassabis and Elon Musk — loosely agreed to \"pace the frontier\" of AI development. Sceptics quickly noted that an agreement among dominant companies to hold back could also serve to protect their market positions and block newer competitors, behaviour that regulators typically scrutinise as a possible cartel. The article explores this tension between legitimate safety cooperation and the risk of stifling competition. This is important for policymakers and public institutions because it shows that even well-intentioned industry coordination can raise governance and fairness concerns that may require regulatory attention.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans](https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports on the specific contents of Microsoft's new AI code of conduct, which sets out both broad principles and concrete rules for how its AI models should behave. Among the general principles are commitments that AI should support humans rather than replace them and should contribute to human wellbeing. The code also includes specific safety constraints, such as instructing models not to hack into systems or deceive the people using them. These rules are intended to translate high-level values into practical limits on what the technology is allowed to do. This is notable because it offers a clear, tangible example of how a major company is attempting to build safeguards directly into its AI, which can help organisations understand what responsible design looks like when they evaluate AI tools for their own use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 14 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 15 September 2026\n============================================================\nThis week's digest centres on a significant shift in how the AI industry is talking about its own future, as several leading figures publicly called for a more measured pace of development. We look at the debate this has sparked among executives and policymakers, the questions it raises about competition and governance, and Microsoft's new guidelines for how its AI systems should behave. Together these stories highlight important questions about safety, responsibility and trust that are relevant to any organisation planning to use AI.\n\n1. What execs and politicians are saying about slowing down AI development\n   https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei\n   Dario Amodei, chief executive of the AI company Anthropic, published a lengthy essay titled \"We Must Pace the Frontier\" arguing that the development of advanced AI should be deliberately slowed to allow safety measures to catch up with the technology's rapid progress. His essay triggered a wave of public responses from other AI company leaders and from politicians, some agreeing with his concerns and others pushing back. The Verge compiled these reactions to show the range of views now circulating at the top of the industry and in government. This is notable because it marks a rare moment when senior figures who usually compete fiercely are openly debating whether the pace of AI development is safe. For non-technical readers, it signals that even the people building these systems are uncertain about how fast they should move, which has direct implications for how governments and institutions plan their own AI adoption.\n   (The Verge — AI · 15 Sep 2026)\n\n2. Microsoft says ‘people matter more than AI’ following safety concerns\n   https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct\n   Microsoft released a 37-page document it calls a \"humanist AI code of conduct,\" setting out principles for how its AI systems should be designed and used. The publication comes amid rising concern that AI capabilities may be advancing faster than our ability to deploy them safely, and shortly after Anthropic's Dario Amodei called for a coordinated slowdown. The central message of Microsoft's code is captured in its framing that \"people matter more than AI,\" emphasising that the technology should support rather than replace human beings. This is significant because Microsoft is one of the world's largest technology companies and a major provider of AI tools used by governments and businesses. For public-sector organisations, such codes of conduct offer a reference point for what responsible AI use should look like and may influence future standards and expectations.\n   (The Verge — AI · 14 Sep 2026)\n\n3. The AI industry has taken a doomer turn. What now?\n   https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/\n   MIT Technology Review examines what it describes as a \"doomer turn\" in the AI industry, prompted by Dario Amodei's weekend essay calling for a brake on the development of large language models, the technology behind tools like ChatGPT. Amodei points to a range of dangers he believes the technology could pose if it continues advancing unchecked. The article steps back to ask what this shift in tone actually means in practice and whether calls for caution will lead to real changes in how companies operate. It notes that mood and rhetoric within the industry have moved from optimism toward greater worry about risks. This matters because the way industry leaders frame AI's risks influences public trust, government policy, and the decisions institutions make about whether and how to adopt these tools.\n   (MIT Technology Review — AI · 14 Sep 2026)\n\n4. Is Big Tech’s AI slowdown a safety pact or a cartel?\n   https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel\n   The Verge raises a pointed question about the recent calls to slow AI development: are they a genuine safety agreement or a form of anti-competitive collusion? Over the weekend, the leaders of several major players — including OpenAI's Sam Altman, Anthropic's Dario Amodei, Google DeepMind's Demis Hassabis and Elon Musk — loosely agreed to \"pace the frontier\" of AI development. Sceptics quickly noted that an agreement among dominant companies to hold back could also serve to protect their market positions and block newer competitors, behaviour that regulators typically scrutinise as a possible cartel. The article explores this tension between legitimate safety cooperation and the risk of stifling competition. This is important for policymakers and public institutions because it shows that even well-intentioned industry coordination can raise governance and fairness concerns that may require regulatory attention.\n   (The Verge — AI · 15 Sep 2026)\n\n5. Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans\n   https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/\n   TechCrunch reports on the specific contents of Microsoft's new AI code of conduct, which sets out both broad principles and concrete rules for how its AI models should behave. Among the general principles are commitments that AI should support humans rather than replace them and should contribute to human wellbeing. The code also includes specific safety constraints, such as instructing models not to hack into systems or deceive the people using them. These rules are intended to translate high-level values into practical limits on what the technology is allowed to do. This is notable because it offers a clear, tangible example of how a major company is attempting to build safeguards directly into its AI, which can help organisations understand what responsible design looks like when they evaluate AI tools for their own use.\n   (TechCrunch — AI · 14 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
