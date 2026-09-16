@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-16",
+  "generated_at_iso": "2026-09-16T11:43:30.420938+00:00",
+  "date_range_label": "16 September 2026",
+  "subtitle": "Wednesday, 16 September 2026",
+  "editor_note": "Welcome to this edition, where we track how the world's leading AI developers are advancing their tools while wrestling with big questions about safety and public trust. The stories below highlight new model capabilities, ongoing debates over how AI should be governed, and growing signs of public unease — all developments that shape the environment in which we plan our workforce and public-service priorities.",
+  "items": [
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-09-15T17:05:57+00:00",
+      "summary": "Google DeepMind has announced two new versions of its Gemini AI system, called Gemini 3.8 Live and 3.8 Live Extended Thinking. The 'Live' feature is designed to respond in real time, for example holding a spoken conversation or reacting to what a user is doing as it happens, while the 'Extended Thinking' version is built to work through more complex problems by taking additional time to reason before answering. These updates continue the fast pace of competition among major AI developers, each releasing more capable models every few months. For non-technical readers, the practical takeaway is that AI tools are becoming faster, more interactive, and better at handling detailed tasks. Such capabilities could eventually support education and training applications, though organisations should evaluate any new tool carefully before adopting it.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-15T15:47:03+00:00",
+      "summary": "OpenAI has confirmed that it has spent several weeks in discussions with rival firms Anthropic and Google DeepMind about AI safety, according to TechCrunch. These talks suggest that even competing companies see value in coordinating on how to reduce risks from increasingly powerful AI systems. At the same time, the report notes that officials in the Trump administration have played down safety concerns, arguing that the priority should be keeping pace with China in AI development. This tension — between caution and the desire to move quickly for competitive reasons — is a recurring theme in current AI policy debates. For public-sector bodies, it is a reminder that international rules and norms around AI are still being negotiated and remain unsettled.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-16T00:20:39+00:00",
+      "summary": "Jensen Huang, chief executive of chipmaker Nvidia, has argued publicly that formal AI regulation is unnecessary and that safety can be handled by the companies building AI products themselves. He rejected the idea that AI is a mysterious 'alien mind,' describing it instead as ordinary hardware and software that engineers can make safe by design. His comments place him firmly on the side of those who favour lighter oversight, in contrast to voices calling for stronger government rules. Because Nvidia supplies much of the hardware that powers today's AI, Huang's views carry significant weight in the industry. The debate matters for governments and institutions deciding how much to rely on self-regulation versus formal standards and safeguards.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-14T00:00:00+00:00",
+      "summary": "OpenAI has published an example of how the search company Perplexity is using its advanced model, referred to as GPT-6 Astra, to run parts of its operations with less human oversight. According to the account, Perplexity uses the model to draft communications, make changes to software, and monitor live systems, and reports needing to check its work far less often than with earlier models. This illustrates a broader trend toward AI systems taking on more complete tasks with greater autonomy, sometimes called 'agentic' use. While this can improve efficiency, it also raises important questions about accountability and the level of human supervision that should remain in place. For workforce planning, it signals that some routine technical and administrative tasks may increasingly be automated, changing the skills employees need.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-15T23:34:25+00:00",
+      "summary": "A new poll from The New York Times and Siena University suggests that AI and the large data centres that power it are deeply unpopular with the American public. Among the roughly 1,500 likely voters surveyed, 61 percent said they opposed building new data centres to support AI technology. Data centres are the large facilities full of computers that run AI systems, and they consume significant amounts of electricity, water, and land, which contributes to local concerns. The findings indicate that public sentiment toward rapid AI expansion is often sceptical, and that politicians are beginning to respond to this unease. For institutions promoting AI adoption, the poll is a useful reminder that public trust and clear communication about benefits and costs are essential to gaining support.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 16 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we track how the world's leading AI developers are advancing their tools while wrestling with big questions about safety and public trust. The stories below highlight new model capabilities, ongoing debates over how AI should be governed, and growing signs of public unease — all developments that shape the environment in which we plan our workforce and public-service priorities.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has announced two new versions of its Gemini AI system, called Gemini 3.8 Live and 3.8 Live Extended Thinking. The 'Live' feature is designed to respond in real time, for example holding a spoken conversation or reacting to what a user is doing as it happens, while the 'Extended Thinking' version is built to work through more complex problems by taking additional time to reason before answering. These updates continue the fast pace of competition among major AI developers, each releasing more capable models every few months. For non-technical readers, the practical takeaway is that AI tools are becoming faster, more interactive, and better at handling detailed tasks. Such capabilities could eventually support education and training applications, though organisations should evaluate any new tool carefully before adopting it.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 15 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. OpenAI, Anthropic, Google have been in talks on AI safety for weeks](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has confirmed that it has spent several weeks in discussions with rival firms Anthropic and Google DeepMind about AI safety, according to TechCrunch. These talks suggest that even competing companies see value in coordinating on how to reduce risks from increasingly powerful AI systems. At the same time, the report notes that officials in the Trump administration have played down safety concerns, arguing that the priority should be keeping pace with China in AI development. This tension — between caution and the desire to move quickly for competitive reasons — is a recurring theme in current AI policy debates. For public-sector bodies, it is a reminder that international rules and norms around AI are still being negotiated and remain unsettled.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 15 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Jensen Huang, chief executive of chipmaker Nvidia, has argued publicly that formal AI regulation is unnecessary and that safety can be handled by the companies building AI products themselves. He rejected the idea that AI is a mysterious 'alien mind,' describing it instead as ordinary hardware and software that engineers can make safe by design. His comments place him firmly on the side of those who favour lighter oversight, in contrast to voices calling for stronger government rules. Because Nvidia supplies much of the hardware that powers today's AI, Huang's views carry significant weight in the industry. The debate matters for governments and institutions deciding how much to rely on self-regulation versus formal standards and safeguards.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published an example of how the search company Perplexity is using its advanced model, referred to as GPT-6 Astra, to run parts of its operations with less human oversight. According to the account, Perplexity uses the model to draft communications, make changes to software, and monitor live systems, and reports needing to check its work far less often than with earlier models. This illustrates a broader trend toward AI systems taking on more complete tasks with greater autonomy, sometimes called 'agentic' use. While this can improve efficiency, it also raises important questions about accountability and the level of human supervision that should remain in place. For workforce planning, it signals that some routine technical and administrative tasks may increasingly be automated, changing the skills employees need.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 14 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A new poll from The New York Times and Siena University suggests that AI and the large data centres that power it are deeply unpopular with the American public. Among the roughly 1,500 likely voters surveyed, 61 percent said they opposed building new data centres to support AI technology. Data centres are the large facilities full of computers that run AI systems, and they consume significant amounts of electricity, water, and land, which contributes to local concerns. The findings indicate that public sentiment toward rapid AI expansion is often sceptical, and that politicians are beginning to respond to this unease. For institutions promoting AI adoption, the poll is a useful reminder that public trust and clear communication about benefits and costs are essential to gaining support.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 16 September 2026\n============================================================\nWelcome to this edition, where we track how the world's leading AI developers are advancing their tools while wrestling with big questions about safety and public trust. The stories below highlight new model capabilities, ongoing debates over how AI should be governed, and growing signs of public unease — all developments that shape the environment in which we plan our workforce and public-service priorities.\n\n1. Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\n   https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/\n   Google DeepMind has announced two new versions of its Gemini AI system, called Gemini 3.8 Live and 3.8 Live Extended Thinking. The 'Live' feature is designed to respond in real time, for example holding a spoken conversation or reacting to what a user is doing as it happens, while the 'Extended Thinking' version is built to work through more complex problems by taking additional time to reason before answering. These updates continue the fast pace of competition among major AI developers, each releasing more capable models every few months. For non-technical readers, the practical takeaway is that AI tools are becoming faster, more interactive, and better at handling detailed tasks. Such capabilities could eventually support education and training applications, though organisations should evaluate any new tool carefully before adopting it.\n   (Google DeepMind · 15 Sep 2026)\n\n2. OpenAI, Anthropic, Google have been in talks on AI safety for weeks\n   https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/\n   OpenAI has confirmed that it has spent several weeks in discussions with rival firms Anthropic and Google DeepMind about AI safety, according to TechCrunch. These talks suggest that even competing companies see value in coordinating on how to reduce risks from increasingly powerful AI systems. At the same time, the report notes that officials in the Trump administration have played down safety concerns, arguing that the priority should be keeping pace with China in AI development. This tension — between caution and the desire to move quickly for competitive reasons — is a recurring theme in current AI policy debates. For public-sector bodies, it is a reminder that international rules and norms around AI are still being negotiated and remain unsettled.\n   (TechCrunch — AI · 15 Sep 2026)\n\n3. We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says\n   https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/\n   Jensen Huang, chief executive of chipmaker Nvidia, has argued publicly that formal AI regulation is unnecessary and that safety can be handled by the companies building AI products themselves. He rejected the idea that AI is a mysterious 'alien mind,' describing it instead as ordinary hardware and software that engineers can make safe by design. His comments place him firmly on the side of those who favour lighter oversight, in contrast to voices calling for stronger government rules. Because Nvidia supplies much of the hardware that powers today's AI, Huang's views carry significant weight in the industry. The debate matters for governments and institutions deciding how much to rely on self-regulation versus formal standards and safeguards.\n   (TechCrunch — AI · 16 Sep 2026)\n\n4. Perplexity trusts GPT-6 Astra with end-to-end systems\n   https://openai.com/index/perplexity-improving-accuracy-with-astra\n   OpenAI has published an example of how the search company Perplexity is using its advanced model, referred to as GPT-6 Astra, to run parts of its operations with less human oversight. According to the account, Perplexity uses the model to draft communications, make changes to software, and monitor live systems, and reports needing to check its work far less often than with earlier models. This illustrates a broader trend toward AI systems taking on more complete tasks with greater autonomy, sometimes called 'agentic' use. While this can improve efficiency, it also raises important questions about accountability and the level of human supervision that should remain in place. For workforce planning, it signals that some routine technical and administrative tasks may increasingly be automated, changing the skills employees need.\n   (OpenAI · 14 Sep 2026)\n\n5. AI and data centers are incredibly unpopular in every poll\n   https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september\n   A new poll from The New York Times and Siena University suggests that AI and the large data centres that power it are deeply unpopular with the American public. Among the roughly 1,500 likely voters surveyed, 61 percent said they opposed building new data centres to support AI technology. Data centres are the large facilities full of computers that run AI systems, and they consume significant amounts of electricity, water, and land, which contributes to local concerns. The findings indicate that public sentiment toward rapid AI expansion is often sceptical, and that politicians are beginning to respond to this unease. For institutions promoting AI adoption, the poll is a useful reminder that public trust and clear communication about benefits and costs are essential to gaining support.\n   (The Verge — AI · 16 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 16 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we track how the world's leading AI developers are advancing their tools while wrestling with big questions about safety and public trust. The stories below highlight new model capabilities, ongoing debates over how AI should be governed, and growing signs of public unease — all developments that shape the environment in which we plan our workforce and public-service priorities.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has announced two new versions of its Gemini AI system, called Gemini 3.8 Live and 3.8 Live Extended Thinking. The 'Live' feature is designed to respond in real time, for example holding a spoken conversation or reacting to what a user is doing as it happens, while the 'Extended Thinking' version is built to work through more complex problems by taking additional time to reason before answering. These updates continue the fast pace of competition among major AI developers, each releasing more capable models every few months. For non-technical readers, the practical takeaway is that AI tools are becoming faster, more interactive, and better at handling detailed tasks. Such capabilities could eventually support education and training applications, though organisations should evaluate any new tool carefully before adopting it.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 15 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. OpenAI, Anthropic, Google have been in talks on AI safety for weeks](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has confirmed that it has spent several weeks in discussions with rival firms Anthropic and Google DeepMind about AI safety, according to TechCrunch. These talks suggest that even competing companies see value in coordinating on how to reduce risks from increasingly powerful AI systems. At the same time, the report notes that officials in the Trump administration have played down safety concerns, arguing that the priority should be keeping pace with China in AI development. This tension — between caution and the desire to move quickly for competitive reasons — is a recurring theme in current AI policy debates. For public-sector bodies, it is a reminder that international rules and norms around AI are still being negotiated and remain unsettled.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 15 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says](https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Jensen Huang, chief executive of chipmaker Nvidia, has argued publicly that formal AI regulation is unnecessary and that safety can be handled by the companies building AI products themselves. He rejected the idea that AI is a mysterious 'alien mind,' describing it instead as ordinary hardware and software that engineers can make safe by design. His comments place him firmly on the side of those who favour lighter oversight, in contrast to voices calling for stronger government rules. Because Nvidia supplies much of the hardware that powers today's AI, Huang's views carry significant weight in the industry. The debate matters for governments and institutions deciding how much to rely on self-regulation versus formal standards and safeguards.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Perplexity trusts GPT-6 Astra with end-to-end systems](https://openai.com/index/perplexity-improving-accuracy-with-astra)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published an example of how the search company Perplexity is using its advanced model, referred to as GPT-6 Astra, to run parts of its operations with less human oversight. According to the account, Perplexity uses the model to draft communications, make changes to software, and monitor live systems, and reports needing to check its work far less often than with earlier models. This illustrates a broader trend toward AI systems taking on more complete tasks with greater autonomy, sometimes called 'agentic' use. While this can improve efficiency, it also raises important questions about accountability and the level of human supervision that should remain in place. For workforce planning, it signals that some routine technical and administrative tasks may increasingly be automated, changing the skills employees need.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 14 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. AI and data centers are incredibly unpopular in every poll](https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A new poll from The New York Times and Siena University suggests that AI and the large data centres that power it are deeply unpopular with the American public. Among the roughly 1,500 likely voters surveyed, 61 percent said they opposed building new data centres to support AI technology. Data centres are the large facilities full of computers that run AI systems, and they consume significant amounts of electricity, water, and land, which contributes to local concerns. The findings indicate that public sentiment toward rapid AI expansion is often sceptical, and that politicians are beginning to respond to this unease. For institutions promoting AI adoption, the poll is a useful reminder that public trust and clear communication about benefits and costs are essential to gaining support.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 16 September 2026\n============================================================\nWelcome to this edition, where we track how the world's leading AI developers are advancing their tools while wrestling with big questions about safety and public trust. The stories below highlight new model capabilities, ongoing debates over how AI should be governed, and growing signs of public unease — all developments that shape the environment in which we plan our workforce and public-service priorities.\n\n1. Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking\n   https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/\n   Google DeepMind has announced two new versions of its Gemini AI system, called Gemini 3.8 Live and 3.8 Live Extended Thinking. The 'Live' feature is designed to respond in real time, for example holding a spoken conversation or reacting to what a user is doing as it happens, while the 'Extended Thinking' version is built to work through more complex problems by taking additional time to reason before answering. These updates continue the fast pace of competition among major AI developers, each releasing more capable models every few months. For non-technical readers, the practical takeaway is that AI tools are becoming faster, more interactive, and better at handling detailed tasks. Such capabilities could eventually support education and training applications, though organisations should evaluate any new tool carefully before adopting it.\n   (Google DeepMind · 15 Sep 2026)\n\n2. OpenAI, Anthropic, Google have been in talks on AI safety for weeks\n   https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/\n   OpenAI has confirmed that it has spent several weeks in discussions with rival firms Anthropic and Google DeepMind about AI safety, according to TechCrunch. These talks suggest that even competing companies see value in coordinating on how to reduce risks from increasingly powerful AI systems. At the same time, the report notes that officials in the Trump administration have played down safety concerns, arguing that the priority should be keeping pace with China in AI development. This tension — between caution and the desire to move quickly for competitive reasons — is a recurring theme in current AI policy debates. For public-sector bodies, it is a reminder that international rules and norms around AI are still being negotiated and remain unsettled.\n   (TechCrunch — AI · 15 Sep 2026)\n\n3. We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says\n   https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/\n   Jensen Huang, chief executive of chipmaker Nvidia, has argued publicly that formal AI regulation is unnecessary and that safety can be handled by the companies building AI products themselves. He rejected the idea that AI is a mysterious 'alien mind,' describing it instead as ordinary hardware and software that engineers can make safe by design. His comments place him firmly on the side of those who favour lighter oversight, in contrast to voices calling for stronger government rules. Because Nvidia supplies much of the hardware that powers today's AI, Huang's views carry significant weight in the industry. The debate matters for governments and institutions deciding how much to rely on self-regulation versus formal standards and safeguards.\n   (TechCrunch — AI · 16 Sep 2026)\n\n4. Perplexity trusts GPT-6 Astra with end-to-end systems\n   https://openai.com/index/perplexity-improving-accuracy-with-astra\n   OpenAI has published an example of how the search company Perplexity is using its advanced model, referred to as GPT-6 Astra, to run parts of its operations with less human oversight. According to the account, Perplexity uses the model to draft communications, make changes to software, and monitor live systems, and reports needing to check its work far less often than with earlier models. This illustrates a broader trend toward AI systems taking on more complete tasks with greater autonomy, sometimes called 'agentic' use. While this can improve efficiency, it also raises important questions about accountability and the level of human supervision that should remain in place. For workforce planning, it signals that some routine technical and administrative tasks may increasingly be automated, changing the skills employees need.\n   (OpenAI · 14 Sep 2026)\n\n5. AI and data centers are incredibly unpopular in every poll\n   https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september\n   A new poll from The New York Times and Siena University suggests that AI and the large data centres that power it are deeply unpopular with the American public. Among the roughly 1,500 likely voters surveyed, 61 percent said they opposed building new data centres to support AI technology. Data centres are the large facilities full of computers that run AI systems, and they consume significant amounts of electricity, water, and land, which contributes to local concerns. The findings indicate that public sentiment toward rapid AI expansion is often sceptical, and that politicians are beginning to respond to this unease. For institutions promoting AI adoption, the poll is a useful reminder that public trust and clear communication about benefits and costs are essential to gaining support.\n   (The Verge — AI · 16 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
