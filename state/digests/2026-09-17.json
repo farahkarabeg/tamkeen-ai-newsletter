@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-17",
+  "generated_at_iso": "2026-09-17T11:48:26.328358+00:00",
+  "date_range_label": "17 September 2026",
+  "subtitle": "Thursday, 17 September 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This issue focuses on how people are actually putting AI to work in their daily jobs, how organisations can measure whether that use delivers real value, and the growing efforts to keep AI systems safe and accountable. We also highlight a practical example of building AI skills across all ages — a reminder that workforce development and digital inclusion go hand in hand.",
+  "items": [
+    {
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-16T09:00:00+00:00",
+      "summary": "OpenAI has published new economic research examining how employees are using AI tools in ways that go beyond their original job descriptions. The findings suggest that many workers begin experimenting with AI for occasional tasks, and over time certain activities — such as drafting documents, analysing information, or planning projects — become a regular part of how they work. This matters because it shows AI adoption is often driven from the ground up by staff themselves, rather than only through top-down mandates. For an organisation focused on human-capital development, the research offers useful insight into how skills and working habits evolve when new tools become available. It also points to the importance of supporting employees as they discover practical, recurring uses that improve their productivity.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-16T12:00:00+00:00",
+      "summary": "In a companion piece, OpenAI explains how organisations can link their use of AI tools to actual business outcomes. New analytics features in ChatGPT for work settings and its coding assistant, Codex, allow teams to see how much AI is being used, where spending is going, and which departments are adopting it most actively. This data can help managers identify where staff need more training and understand whether the investment is producing results. The guidance is aimed at helping leaders move beyond simply providing access to AI, toward measuring its real impact. For public-sector bodies considering AI adoption, this kind of measurement is valuable for demonstrating accountability and justifying resources.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-16T17:00:00+00:00",
+      "summary": "OpenAI has introduced a framework for identifying, investigating, and publicly reporting cases where its AI models behave in unexpected or concerning ways — a problem the company refers to as 'misalignment.' Alongside the framework, it released six real examples of such behaviour, offering rare transparency into the kinds of mistakes AI systems can make. The aim is to establish a more structured and honest approach to disclosing problems, similar to how other industries report safety incidents. This is notable because it signals a shift toward treating AI safety as an ongoing, documented process rather than something addressed only behind closed doors. For institutions weighing how to use AI responsibly, such reporting practices help build trust and set expectations for accountability.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-16T21:07:24+00:00",
+      "summary": "According to TechCrunch, two leading AI companies, Anthropic and OpenAI, want to allow independent safety evaluators to work inside their laboratories to assess how their systems are built and behave. Researchers have welcomed this unprecedented level of access, which could improve outside scrutiny of powerful AI models. However, they caution that genuine oversight depends on the evaluators being truly independent, having freedom to publish their findings, and ultimately being backed by formal regulation. Without these safeguards, there is a risk that such arrangements become symbolic rather than meaningful. The story reflects a broader global debate about how to hold AI developers accountable, an issue directly relevant to governments shaping their own AI governance and policy frameworks.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-16T16:00:00+00:00",
+      "summary": "OpenAI has partnered with AARP, a large US organisation serving older adults, to offer free, hands-on ChatGPT workshops to 1,000 people across ten American cities. The sessions are designed to teach practical, everyday uses of AI — such as writing, organising information, or answering questions — while helping participants stay safe online. The initiative highlights that AI skills are relevant to people of all ages, not only younger or technically trained workers. For an organisation focused on education and human-capital development, this is a useful example of inclusive, community-based training that reduces the digital divide. It also demonstrates how structured, supportive learning can help newcomers build confidence with new technology.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 17 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue focuses on how people are actually putting AI to work in their daily jobs, how organisations can measure whether that use delivers real value, and the growing efforts to keep AI systems safe and accountable. We also highlight a practical example of building AI skills across all ages — a reminder that workforce development and digital inclusion go hand in hand.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. How workers are unlocking new ways of working](https://openai.com/index/unlocking-new-ways-of-working)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published new economic research examining how employees are using AI tools in ways that go beyond their original job descriptions. The findings suggest that many workers begin experimenting with AI for occasional tasks, and over time certain activities — such as drafting documents, analysing information, or planning projects — become a regular part of how they work. This matters because it shows AI adoption is often driven from the ground up by staff themselves, rather than only through top-down mandates. For an organisation focused on human-capital development, the research offers useful insight into how skills and working habits evolve when new tools become available. It also points to the importance of supporting employees as they discover practical, recurring uses that improve their productivity.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a companion piece, OpenAI explains how organisations can link their use of AI tools to actual business outcomes. New analytics features in ChatGPT for work settings and its coding assistant, Codex, allow teams to see how much AI is being used, where spending is going, and which departments are adopting it most actively. This data can help managers identify where staff need more training and understand whether the investment is producing results. The guidance is aimed at helping leaders move beyond simply providing access to AI, toward measuring its real impact. For public-sector bodies considering AI adoption, this kind of measurement is valuable for demonstrating accountability and justifying resources.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has introduced a framework for identifying, investigating, and publicly reporting cases where its AI models behave in unexpected or concerning ways — a problem the company refers to as 'misalignment.' Alongside the framework, it released six real examples of such behaviour, offering rare transparency into the kinds of mistakes AI systems can make. The aim is to establish a more structured and honest approach to disclosing problems, similar to how other industries report safety incidents. This is notable because it signals a shift toward treating AI safety as an ongoing, documented process rather than something addressed only behind closed doors. For institutions weighing how to use AI responsibly, such reporting practices help build trust and set expectations for accountability.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "According to TechCrunch, two leading AI companies, Anthropic and OpenAI, want to allow independent safety evaluators to work inside their laboratories to assess how their systems are built and behave. Researchers have welcomed this unprecedented level of access, which could improve outside scrutiny of powerful AI models. However, they caution that genuine oversight depends on the evaluators being truly independent, having freedom to publish their findings, and ultimately being backed by formal regulation. Without these safeguards, there is a risk that such arrangements become symbolic rather than meaningful. The story reflects a broader global debate about how to hold AI developers accountable, an issue directly relevant to governments shaping their own AI governance and policy frameworks.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has partnered with AARP, a large US organisation serving older adults, to offer free, hands-on ChatGPT workshops to 1,000 people across ten American cities. The sessions are designed to teach practical, everyday uses of AI — such as writing, organising information, or answering questions — while helping participants stay safe online. The initiative highlights that AI skills are relevant to people of all ages, not only younger or technically trained workers. For an organisation focused on education and human-capital development, this is a useful example of inclusive, community-based training that reduces the digital divide. It also demonstrates how structured, supportive learning can help newcomers build confidence with new technology.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 17 September 2026\n============================================================\nWelcome to this edition of our AI digest. This issue focuses on how people are actually putting AI to work in their daily jobs, how organisations can measure whether that use delivers real value, and the growing efforts to keep AI systems safe and accountable. We also highlight a practical example of building AI skills across all ages — a reminder that workforce development and digital inclusion go hand in hand.\n\n1. How workers are unlocking new ways of working\n   https://openai.com/index/unlocking-new-ways-of-working\n   OpenAI has published new economic research examining how employees are using AI tools in ways that go beyond their original job descriptions. The findings suggest that many workers begin experimenting with AI for occasional tasks, and over time certain activities — such as drafting documents, analysing information, or planning projects — become a regular part of how they work. This matters because it shows AI adoption is often driven from the ground up by staff themselves, rather than only through top-down mandates. For an organisation focused on human-capital development, the research offers useful insight into how skills and working habits evolve when new tools become available. It also points to the importance of supporting employees as they discover practical, recurring uses that improve their productivity.\n   (OpenAI · 16 Sep 2026)\n\n2. How to connect AI usage to business value\n   https://openai.com/index/how-to-connect-ai-usage-to-business-value\n   In a companion piece, OpenAI explains how organisations can link their use of AI tools to actual business outcomes. New analytics features in ChatGPT for work settings and its coding assistant, Codex, allow teams to see how much AI is being used, where spending is going, and which departments are adopting it most actively. This data can help managers identify where staff need more training and understand whether the investment is producing results. The guidance is aimed at helping leaders move beyond simply providing access to AI, toward measuring its real impact. For public-sector bodies considering AI adoption, this kind of measurement is valuable for demonstrating accountability and justifying resources.\n   (OpenAI · 16 Sep 2026)\n\n3. Our framework for reporting model misalignment\n   https://openai.com/index/model-misalignment-reporting-framework\n   OpenAI has introduced a framework for identifying, investigating, and publicly reporting cases where its AI models behave in unexpected or concerning ways — a problem the company refers to as 'misalignment.' Alongside the framework, it released six real examples of such behaviour, offering rare transparency into the kinds of mistakes AI systems can make. The aim is to establish a more structured and honest approach to disclosing problems, similar to how other industries report safety incidents. This is notable because it signals a shift toward treating AI safety as an ongoing, documented process rather than something addressed only behind closed doors. For institutions weighing how to use AI responsibly, such reporting practices help build trust and set expectations for accountability.\n   (OpenAI · 16 Sep 2026)\n\n4. Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?\n   https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/\n   According to TechCrunch, two leading AI companies, Anthropic and OpenAI, want to allow independent safety evaluators to work inside their laboratories to assess how their systems are built and behave. Researchers have welcomed this unprecedented level of access, which could improve outside scrutiny of powerful AI models. However, they caution that genuine oversight depends on the evaluators being truly independent, having freedom to publish their findings, and ultimately being backed by formal regulation. Without these safeguards, there is a risk that such arrangements become symbolic rather than meaningful. The story reflects a broader global debate about how to hold AI developers accountable, an issue directly relevant to governments shaping their own AI governance and policy frameworks.\n   (TechCrunch — AI · 17 Sep 2026)\n\n5. Helping older adults use AI in everyday life\n   https://openai.com/index/helping-older-adults-use-ai-in-everyday-life\n   OpenAI has partnered with AARP, a large US organisation serving older adults, to offer free, hands-on ChatGPT workshops to 1,000 people across ten American cities. The sessions are designed to teach practical, everyday uses of AI — such as writing, organising information, or answering questions — while helping participants stay safe online. The initiative highlights that AI skills are relevant to people of all ages, not only younger or technically trained workers. For an organisation focused on education and human-capital development, this is a useful example of inclusive, community-based training that reduces the digital divide. It also demonstrates how structured, supportive learning can help newcomers build confidence with new technology.\n   (OpenAI · 16 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 17 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue focuses on how people are actually putting AI to work in their daily jobs, how organisations can measure whether that use delivers real value, and the growing efforts to keep AI systems safe and accountable. We also highlight a practical example of building AI skills across all ages — a reminder that workforce development and digital inclusion go hand in hand.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. How workers are unlocking new ways of working](https://openai.com/index/unlocking-new-ways-of-working)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published new economic research examining how employees are using AI tools in ways that go beyond their original job descriptions. The findings suggest that many workers begin experimenting with AI for occasional tasks, and over time certain activities — such as drafting documents, analysing information, or planning projects — become a regular part of how they work. This matters because it shows AI adoption is often driven from the ground up by staff themselves, rather than only through top-down mandates. For an organisation focused on human-capital development, the research offers useful insight into how skills and working habits evolve when new tools become available. It also points to the importance of supporting employees as they discover practical, recurring uses that improve their productivity.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. How to connect AI usage to business value](https://openai.com/index/how-to-connect-ai-usage-to-business-value)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a companion piece, OpenAI explains how organisations can link their use of AI tools to actual business outcomes. New analytics features in ChatGPT for work settings and its coding assistant, Codex, allow teams to see how much AI is being used, where spending is going, and which departments are adopting it most actively. This data can help managers identify where staff need more training and understand whether the investment is producing results. The guidance is aimed at helping leaders move beyond simply providing access to AI, toward measuring its real impact. For public-sector bodies considering AI adoption, this kind of measurement is valuable for demonstrating accountability and justifying resources.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Our framework for reporting model misalignment](https://openai.com/index/model-misalignment-reporting-framework)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has introduced a framework for identifying, investigating, and publicly reporting cases where its AI models behave in unexpected or concerning ways — a problem the company refers to as 'misalignment.' Alongside the framework, it released six real examples of such behaviour, offering rare transparency into the kinds of mistakes AI systems can make. The aim is to establish a more structured and honest approach to disclosing problems, similar to how other industries report safety incidents. This is notable because it signals a shift toward treating AI safety as an ongoing, documented process rather than something addressed only behind closed doors. For institutions weighing how to use AI responsibly, such reporting practices help build trust and set expectations for accountability.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?](https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "According to TechCrunch, two leading AI companies, Anthropic and OpenAI, want to allow independent safety evaluators to work inside their laboratories to assess how their systems are built and behave. Researchers have welcomed this unprecedented level of access, which could improve outside scrutiny of powerful AI models. However, they caution that genuine oversight depends on the evaluators being truly independent, having freedom to publish their findings, and ultimately being backed by formal regulation. Without these safeguards, there is a risk that such arrangements become symbolic rather than meaningful. The story reflects a broader global debate about how to hold AI developers accountable, an issue directly relevant to governments shaping their own AI governance and policy frameworks.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has partnered with AARP, a large US organisation serving older adults, to offer free, hands-on ChatGPT workshops to 1,000 people across ten American cities. The sessions are designed to teach practical, everyday uses of AI — such as writing, organising information, or answering questions — while helping participants stay safe online. The initiative highlights that AI skills are relevant to people of all ages, not only younger or technically trained workers. For an organisation focused on education and human-capital development, this is a useful example of inclusive, community-based training that reduces the digital divide. It also demonstrates how structured, supportive learning can help newcomers build confidence with new technology.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 17 September 2026\n============================================================\nWelcome to this edition of our AI digest. This issue focuses on how people are actually putting AI to work in their daily jobs, how organisations can measure whether that use delivers real value, and the growing efforts to keep AI systems safe and accountable. We also highlight a practical example of building AI skills across all ages — a reminder that workforce development and digital inclusion go hand in hand.\n\n1. How workers are unlocking new ways of working\n   https://openai.com/index/unlocking-new-ways-of-working\n   OpenAI has published new economic research examining how employees are using AI tools in ways that go beyond their original job descriptions. The findings suggest that many workers begin experimenting with AI for occasional tasks, and over time certain activities — such as drafting documents, analysing information, or planning projects — become a regular part of how they work. This matters because it shows AI adoption is often driven from the ground up by staff themselves, rather than only through top-down mandates. For an organisation focused on human-capital development, the research offers useful insight into how skills and working habits evolve when new tools become available. It also points to the importance of supporting employees as they discover practical, recurring uses that improve their productivity.\n   (OpenAI · 16 Sep 2026)\n\n2. How to connect AI usage to business value\n   https://openai.com/index/how-to-connect-ai-usage-to-business-value\n   In a companion piece, OpenAI explains how organisations can link their use of AI tools to actual business outcomes. New analytics features in ChatGPT for work settings and its coding assistant, Codex, allow teams to see how much AI is being used, where spending is going, and which departments are adopting it most actively. This data can help managers identify where staff need more training and understand whether the investment is producing results. The guidance is aimed at helping leaders move beyond simply providing access to AI, toward measuring its real impact. For public-sector bodies considering AI adoption, this kind of measurement is valuable for demonstrating accountability and justifying resources.\n   (OpenAI · 16 Sep 2026)\n\n3. Our framework for reporting model misalignment\n   https://openai.com/index/model-misalignment-reporting-framework\n   OpenAI has introduced a framework for identifying, investigating, and publicly reporting cases where its AI models behave in unexpected or concerning ways — a problem the company refers to as 'misalignment.' Alongside the framework, it released six real examples of such behaviour, offering rare transparency into the kinds of mistakes AI systems can make. The aim is to establish a more structured and honest approach to disclosing problems, similar to how other industries report safety incidents. This is notable because it signals a shift toward treating AI safety as an ongoing, documented process rather than something addressed only behind closed doors. For institutions weighing how to use AI responsibly, such reporting practices help build trust and set expectations for accountability.\n   (OpenAI · 16 Sep 2026)\n\n4. Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?\n   https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/\n   According to TechCrunch, two leading AI companies, Anthropic and OpenAI, want to allow independent safety evaluators to work inside their laboratories to assess how their systems are built and behave. Researchers have welcomed this unprecedented level of access, which could improve outside scrutiny of powerful AI models. However, they caution that genuine oversight depends on the evaluators being truly independent, having freedom to publish their findings, and ultimately being backed by formal regulation. Without these safeguards, there is a risk that such arrangements become symbolic rather than meaningful. The story reflects a broader global debate about how to hold AI developers accountable, an issue directly relevant to governments shaping their own AI governance and policy frameworks.\n   (TechCrunch — AI · 17 Sep 2026)\n\n5. Helping older adults use AI in everyday life\n   https://openai.com/index/helping-older-adults-use-ai-in-everyday-life\n   OpenAI has partnered with AARP, a large US organisation serving older adults, to offer free, hands-on ChatGPT workshops to 1,000 people across ten American cities. The sessions are designed to teach practical, everyday uses of AI — such as writing, organising information, or answering questions — while helping participants stay safe online. The initiative highlights that AI skills are relevant to people of all ages, not only younger or technically trained workers. For an organisation focused on education and human-capital development, this is a useful example of inclusive, community-based training that reduces the digital divide. It also demonstrates how structured, supportive learning can help newcomers build confidence with new technology.\n   (OpenAI · 16 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
