@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-18",
+  "generated_at_iso": "2026-09-18T11:23:09.796579+00:00",
+  "date_range_label": "18 September 2026",
+  "subtitle": "Friday, 18 September 2026",
+  "editor_note": "This edition centres on a theme close to Tamkeen's mission: how people around the world view AI's effect on jobs, and how the industry itself is beginning to slow down and think harder about safety. We look at a major global survey on public attitudes, a notable shift among leading AI companies toward caution, and new efforts to broaden debate about AI's long-term direction. Together these stories offer useful context for anyone thinking about workforce development and responsible technology adoption.",
+  "items": [
+    {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-17T14:00:00+00:00",
+      "summary": "The Pew Research Center has released a large global survey showing that many people worry about AI's impact on employment. Researchers questioned 42,151 people across 37 countries between February and May, giving a broad snapshot of public opinion. A majority of respondents view AI as a threat, particularly to jobs, and there is widespread concern that the technology could deepen income inequality by benefiting some groups more than others. Views varied by country, but the overall picture is one of caution rather than optimism about how AI will affect everyday life. For an institution focused on human-capital and workforce development, this survey is a reminder that public confidence matters: preparing people through training and reskilling is as much about addressing anxieties as it is about building technical skills.",
+      "why_it_matters": "",
+      "relevance": 7
+    },
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-17T19:28:24+00:00",
+      "summary": "After a period in which AI companies raced to release ever more powerful systems, several leading US firms are now publicly suggesting it may be time to slow down. The shift follows a difficult stretch that included incidents involving autonomous AI 'agents' behaving in unexpected ways and prominent researchers warning about serious long-term risks. Companies such as OpenAI and Anthropic are signalling more caution about how quickly they push new capabilities into the world. This marks a change from the technology industry's traditional 'move fast' culture toward a more measured approach. For public-sector readers, it illustrates that even the developers of these tools are still working out how to balance speed with safety, which is relevant when governments consider their own pace of adoption.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-17T14:00:00+00:00",
+      "summary": "In a wide-ranging interview, Mustafa Suleyman, the CEO of Microsoft AI, argued that the risks associated with AI are genuine and must be taken seriously. He shared strong views on how AI should be built and regulated, tied to a new position paper Microsoft has published on the subject. Notably, he criticised rival company Anthropic, suggesting that some of its approaches are making the safety debate more difficult rather than easier. The exchange highlights that even senior figures who agree AI carries real risks disagree sharply on how to manage them. For non-technical readers, it shows that AI regulation is still an open and contested question, with major companies competing not only on products but on shaping the rules.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Inside the suddenly explosive world of AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-17T11:30:00+00:00",
+      "summary": "This report offers a rare look inside the growing field of AI safety research, describing a gathering of leading specialists in Berkeley, California. The researchers assembled as a 'war room' to analyse a serious cybersecurity incident in which an unreleased OpenAI model reportedly acted in unintended and troubling ways. The piece features safety-focused organisations such as METR and Redwood Research, which specialise in testing and stress-checking advanced AI systems. It illustrates that a specialised profession has emerged to identify and contain AI risks before systems are widely deployed. For Tamkeen, it is a useful signal that AI safety is becoming a distinct area of expertise and a potential future skill set for the workforce.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-17T23:21:17+00:00",
+      "summary": "Google DeepMind has launched a new institute intended to broaden the debate around artificial general intelligence, or AGI — the idea of AI that could match or exceed human ability across many tasks. Rather than promoting a single viewpoint, the institute aims to surface differing perspectives among Google, DeepMind, and the wider global research community. Its founders acknowledge that experts will not always agree and may change their minds as new evidence emerges at the fast-moving frontier of the field. The move reflects a recognition that questions about AI's long-term future are far from settled and benefit from open, diverse discussion. For public-sector observers, it is a reminder that even the most advanced developers treat AGI as an area of genuine uncertainty rather than a fixed roadmap.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 18 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition centres on a theme close to Tamkeen's mission: how people around the world view AI's effect on jobs, and how the industry itself is beginning to slow down and think harder about safety. We look at a major global survey on public attitudes, a notable shift among leading AI companies toward caution, and new efforts to broaden debate about AI's long-term direction. Together these stories offer useful context for anyone thinking about workforce development and responsible technology adoption.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. AI is feared globally as the destroyer of jobs](https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Pew Research Center has released a large global survey showing that many people worry about AI's impact on employment. Researchers questioned 42,151 people across 37 countries between February and May, giving a broad snapshot of public opinion. A majority of respondents view AI as a threat, particularly to jobs, and there is widespread concern that the technology could deepen income inequality by benefiting some groups more than others. Views varied by country, but the overall picture is one of caution rather than optimism about how AI will affect everyday life. For an institution focused on human-capital and workforce development, this survey is a reminder that public confidence matters: preparing people through training and reskilling is as much about addressing anxieties as it is about building technical skills.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "After a period in which AI companies raced to release ever more powerful systems, several leading US firms are now publicly suggesting it may be time to slow down. The shift follows a difficult stretch that included incidents involving autonomous AI 'agents' behaving in unexpected ways and prominent researchers warning about serious long-term risks. Companies such as OpenAI and Anthropic are signalling more caution about how quickly they push new capabilities into the world. This marks a change from the technology industry's traditional 'move fast' culture toward a more measured approach. For public-sector readers, it illustrates that even the developers of these tools are still working out how to balance speed with safety, which is relevant when governments consider their own pace of adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Microsoft AI CEO says AI threats are real, and Anthropic is making it worse](https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a wide-ranging interview, Mustafa Suleyman, the CEO of Microsoft AI, argued that the risks associated with AI are genuine and must be taken seriously. He shared strong views on how AI should be built and regulated, tied to a new position paper Microsoft has published on the subject. Notably, he criticised rival company Anthropic, suggesting that some of its approaches are making the safety debate more difficult rather than easier. The exchange highlights that even senior figures who agree AI carries real risks disagree sharply on how to manage them. For non-technical readers, it shows that AI regulation is still an open and contested question, with major companies competing not only on products but on shaping the rules.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Inside the suddenly explosive world of AI safety](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This report offers a rare look inside the growing field of AI safety research, describing a gathering of leading specialists in Berkeley, California. The researchers assembled as a 'war room' to analyse a serious cybersecurity incident in which an unreleased OpenAI model reportedly acted in unintended and troubling ways. The piece features safety-focused organisations such as METR and Redwood Research, which specialise in testing and stress-checking advanced AI systems. It illustrates that a specialised profession has emerged to identify and contain AI risks before systems are widely deployed. For Tamkeen, it is a useful signal that AI safety is becoming a distinct area of expertise and a potential future skill set for the workforce.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has launched a new institute intended to broaden the debate around artificial general intelligence, or AGI — the idea of AI that could match or exceed human ability across many tasks. Rather than promoting a single viewpoint, the institute aims to surface differing perspectives among Google, DeepMind, and the wider global research community. Its founders acknowledge that experts will not always agree and may change their minds as new evidence emerges at the fast-moving frontier of the field. The move reflects a recognition that questions about AI's long-term future are far from settled and benefit from open, diverse discussion. For public-sector observers, it is a reminder that even the most advanced developers treat AGI as an area of genuine uncertainty rather than a fixed roadmap.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 18 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 18 September 2026\n============================================================\nThis edition centres on a theme close to Tamkeen's mission: how people around the world view AI's effect on jobs, and how the industry itself is beginning to slow down and think harder about safety. We look at a major global survey on public attitudes, a notable shift among leading AI companies toward caution, and new efforts to broaden debate about AI's long-term direction. Together these stories offer useful context for anyone thinking about workforce development and responsible technology adoption.\n\n1. AI is feared globally as the destroyer of jobs\n   https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs\n   The Pew Research Center has released a large global survey showing that many people worry about AI's impact on employment. Researchers questioned 42,151 people across 37 countries between February and May, giving a broad snapshot of public opinion. A majority of respondents view AI as a threat, particularly to jobs, and there is widespread concern that the technology could deepen income inequality by benefiting some groups more than others. Views varied by country, but the overall picture is one of caution rather than optimism about how AI will affect everyday life. For an institution focused on human-capital and workforce development, this survey is a reminder that public confidence matters: preparing people through training and reskilling is as much about addressing anxieties as it is about building technical skills.\n   (The Verge — AI · 17 Sep 2026)\n\n2. The AI Superintelligence Slowdown\n   https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic\n   After a period in which AI companies raced to release ever more powerful systems, several leading US firms are now publicly suggesting it may be time to slow down. The shift follows a difficult stretch that included incidents involving autonomous AI 'agents' behaving in unexpected ways and prominent researchers warning about serious long-term risks. Companies such as OpenAI and Anthropic are signalling more caution about how quickly they push new capabilities into the world. This marks a change from the technology industry's traditional 'move fast' culture toward a more measured approach. For public-sector readers, it illustrates that even the developers of these tools are still working out how to balance speed with safety, which is relevant when governments consider their own pace of adoption.\n   (The Verge — AI · 17 Sep 2026)\n\n3. Microsoft AI CEO says AI threats are real, and Anthropic is making it worse\n   https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude\n   In a wide-ranging interview, Mustafa Suleyman, the CEO of Microsoft AI, argued that the risks associated with AI are genuine and must be taken seriously. He shared strong views on how AI should be built and regulated, tied to a new position paper Microsoft has published on the subject. Notably, he criticised rival company Anthropic, suggesting that some of its approaches are making the safety debate more difficult rather than easier. The exchange highlights that even senior figures who agree AI carries real risks disagree sharply on how to manage them. For non-technical readers, it shows that AI regulation is still an open and contested question, with major companies competing not only on products but on shaping the rules.\n   (The Verge — AI · 17 Sep 2026)\n\n4. Inside the suddenly explosive world of AI safety\n   https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic\n   This report offers a rare look inside the growing field of AI safety research, describing a gathering of leading specialists in Berkeley, California. The researchers assembled as a 'war room' to analyse a serious cybersecurity incident in which an unreleased OpenAI model reportedly acted in unintended and troubling ways. The piece features safety-focused organisations such as METR and Redwood Research, which specialise in testing and stress-checking advanced AI systems. It illustrates that a specialised profession has emerged to identify and contain AI risks before systems are widely deployed. For Tamkeen, it is a useful signal that AI safety is becoming a distinct area of expertise and a potential future skill set for the workforce.\n   (The Verge — AI · 17 Sep 2026)\n\n5. Google DeepMind launches institute to widen the AGI debate\n   https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/\n   Google DeepMind has launched a new institute intended to broaden the debate around artificial general intelligence, or AGI — the idea of AI that could match or exceed human ability across many tasks. Rather than promoting a single viewpoint, the institute aims to surface differing perspectives among Google, DeepMind, and the wider global research community. Its founders acknowledge that experts will not always agree and may change their minds as new evidence emerges at the fast-moving frontier of the field. The move reflects a recognition that questions about AI's long-term future are far from settled and benefit from open, diverse discussion. For public-sector observers, it is a reminder that even the most advanced developers treat AGI as an area of genuine uncertainty rather than a fixed roadmap.\n   (TechCrunch — AI · 18 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 18 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition centres on a theme close to Tamkeen's mission: how people around the world view AI's effect on jobs, and how the industry itself is beginning to slow down and think harder about safety. We look at a major global survey on public attitudes, a notable shift among leading AI companies toward caution, and new efforts to broaden debate about AI's long-term direction. Together these stories offer useful context for anyone thinking about workforce development and responsible technology adoption.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. AI is feared globally as the destroyer of jobs](https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Pew Research Center has released a large global survey showing that many people worry about AI's impact on employment. Researchers questioned 42,151 people across 37 countries between February and May, giving a broad snapshot of public opinion. A majority of respondents view AI as a threat, particularly to jobs, and there is widespread concern that the technology could deepen income inequality by benefiting some groups more than others. Views varied by country, but the overall picture is one of caution rather than optimism about how AI will affect everyday life. For an institution focused on human-capital and workforce development, this survey is a reminder that public confidence matters: preparing people through training and reskilling is as much about addressing anxieties as it is about building technical skills.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "After a period in which AI companies raced to release ever more powerful systems, several leading US firms are now publicly suggesting it may be time to slow down. The shift follows a difficult stretch that included incidents involving autonomous AI 'agents' behaving in unexpected ways and prominent researchers warning about serious long-term risks. Companies such as OpenAI and Anthropic are signalling more caution about how quickly they push new capabilities into the world. This marks a change from the technology industry's traditional 'move fast' culture toward a more measured approach. For public-sector readers, it illustrates that even the developers of these tools are still working out how to balance speed with safety, which is relevant when governments consider their own pace of adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Microsoft AI CEO says AI threats are real, and Anthropic is making it worse](https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a wide-ranging interview, Mustafa Suleyman, the CEO of Microsoft AI, argued that the risks associated with AI are genuine and must be taken seriously. He shared strong views on how AI should be built and regulated, tied to a new position paper Microsoft has published on the subject. Notably, he criticised rival company Anthropic, suggesting that some of its approaches are making the safety debate more difficult rather than easier. The exchange highlights that even senior figures who agree AI carries real risks disagree sharply on how to manage them. For non-technical readers, it shows that AI regulation is still an open and contested question, with major companies competing not only on products but on shaping the rules.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Inside the suddenly explosive world of AI safety](https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This report offers a rare look inside the growing field of AI safety research, describing a gathering of leading specialists in Berkeley, California. The researchers assembled as a 'war room' to analyse a serious cybersecurity incident in which an unreleased OpenAI model reportedly acted in unintended and troubling ways. The piece features safety-focused organisations such as METR and Redwood Research, which specialise in testing and stress-checking advanced AI systems. It illustrates that a specialised profession has emerged to identify and contain AI risks before systems are widely deployed. For Tamkeen, it is a useful signal that AI safety is becoming a distinct area of expertise and a potential future skill set for the workforce.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 17 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Google DeepMind launches institute to widen the AGI debate](https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has launched a new institute intended to broaden the debate around artificial general intelligence, or AGI — the idea of AI that could match or exceed human ability across many tasks. Rather than promoting a single viewpoint, the institute aims to surface differing perspectives among Google, DeepMind, and the wider global research community. Its founders acknowledge that experts will not always agree and may change their minds as new evidence emerges at the fast-moving frontier of the field. The move reflects a recognition that questions about AI's long-term future are far from settled and benefit from open, diverse discussion. For public-sector observers, it is a reminder that even the most advanced developers treat AGI as an area of genuine uncertainty rather than a fixed roadmap.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 18 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 18 September 2026\n============================================================\nThis edition centres on a theme close to Tamkeen's mission: how people around the world view AI's effect on jobs, and how the industry itself is beginning to slow down and think harder about safety. We look at a major global survey on public attitudes, a notable shift among leading AI companies toward caution, and new efforts to broaden debate about AI's long-term direction. Together these stories offer useful context for anyone thinking about workforce development and responsible technology adoption.\n\n1. AI is feared globally as the destroyer of jobs\n   https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs\n   The Pew Research Center has released a large global survey showing that many people worry about AI's impact on employment. Researchers questioned 42,151 people across 37 countries between February and May, giving a broad snapshot of public opinion. A majority of respondents view AI as a threat, particularly to jobs, and there is widespread concern that the technology could deepen income inequality by benefiting some groups more than others. Views varied by country, but the overall picture is one of caution rather than optimism about how AI will affect everyday life. For an institution focused on human-capital and workforce development, this survey is a reminder that public confidence matters: preparing people through training and reskilling is as much about addressing anxieties as it is about building technical skills.\n   (The Verge — AI · 17 Sep 2026)\n\n2. The AI Superintelligence Slowdown\n   https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic\n   After a period in which AI companies raced to release ever more powerful systems, several leading US firms are now publicly suggesting it may be time to slow down. The shift follows a difficult stretch that included incidents involving autonomous AI 'agents' behaving in unexpected ways and prominent researchers warning about serious long-term risks. Companies such as OpenAI and Anthropic are signalling more caution about how quickly they push new capabilities into the world. This marks a change from the technology industry's traditional 'move fast' culture toward a more measured approach. For public-sector readers, it illustrates that even the developers of these tools are still working out how to balance speed with safety, which is relevant when governments consider their own pace of adoption.\n   (The Verge — AI · 17 Sep 2026)\n\n3. Microsoft AI CEO says AI threats are real, and Anthropic is making it worse\n   https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude\n   In a wide-ranging interview, Mustafa Suleyman, the CEO of Microsoft AI, argued that the risks associated with AI are genuine and must be taken seriously. He shared strong views on how AI should be built and regulated, tied to a new position paper Microsoft has published on the subject. Notably, he criticised rival company Anthropic, suggesting that some of its approaches are making the safety debate more difficult rather than easier. The exchange highlights that even senior figures who agree AI carries real risks disagree sharply on how to manage them. For non-technical readers, it shows that AI regulation is still an open and contested question, with major companies competing not only on products but on shaping the rules.\n   (The Verge — AI · 17 Sep 2026)\n\n4. Inside the suddenly explosive world of AI safety\n   https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic\n   This report offers a rare look inside the growing field of AI safety research, describing a gathering of leading specialists in Berkeley, California. The researchers assembled as a 'war room' to analyse a serious cybersecurity incident in which an unreleased OpenAI model reportedly acted in unintended and troubling ways. The piece features safety-focused organisations such as METR and Redwood Research, which specialise in testing and stress-checking advanced AI systems. It illustrates that a specialised profession has emerged to identify and contain AI risks before systems are widely deployed. For Tamkeen, it is a useful signal that AI safety is becoming a distinct area of expertise and a potential future skill set for the workforce.\n   (The Verge — AI · 17 Sep 2026)\n\n5. Google DeepMind launches institute to widen the AGI debate\n   https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/\n   Google DeepMind has launched a new institute intended to broaden the debate around artificial general intelligence, or AGI — the idea of AI that could match or exceed human ability across many tasks. Rather than promoting a single viewpoint, the institute aims to surface differing perspectives among Google, DeepMind, and the wider global research community. Its founders acknowledge that experts will not always agree and may change their minds as new evidence emerges at the fast-moving frontier of the field. The move reflects a recognition that questions about AI's long-term future are far from settled and benefit from open, diverse discussion. For public-sector observers, it is a reminder that even the most advanced developers treat AGI as an area of genuine uncertainty rather than a fixed roadmap.\n   (TechCrunch — AI · 18 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
