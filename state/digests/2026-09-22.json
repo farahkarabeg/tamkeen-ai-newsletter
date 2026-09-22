@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-22",
+  "generated_at_iso": "2026-09-22T11:45:49.977159+00:00",
+  "date_range_label": "22 September 2026",
+  "subtitle": "Tuesday, 22 September 2026",
+  "editor_note": "Welcome to this edition of our AI digest, where we focus on developments most relevant to Tamkeen's mission of building skills and advancing our national workforce. This issue highlights new opportunities for practical AI learning, alongside emerging global conversations about how AI should be governed, regulated, and responsibly integrated into public life. We hope these summaries help you stay informed and confident as AI continues to shape education, government, and daily work.",
+  "items": [
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-21T07:00:00+00:00",
+      "summary": "OpenAI has expanded its free learning platform, OpenAI Academy, by adding new structured 'learning paths' tailored to different groups of people. The updated programme offers separate tracks for employees, developers, business leaders, educators, and students, so each audience can build AI skills relevant to their own role. Learners can now work toward demonstrating practical, applied knowledge rather than just watching general lessons. For an institution like Tamkeen, focused on education and workforce development, this is notable because it represents a growing set of accessible, no-cost resources that could support upskilling and reskilling efforts. It also reflects a wider trend of major technology companies investing in AI literacy for the general workforce, not only specialists.",
+      "why_it_matters": "",
+      "relevance": 10
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-21T10:00:00+00:00",
+      "summary": "OpenAI has published a proposal calling for shared global standards to guide the next stage of AI development. The company argues that as AI systems become more capable, countries and organisations should coordinate on how these systems are tested, evaluated, reported on, and governed. The aim is to improve safety and build public trust by ensuring that different developers follow comparable rules and disclose risks in consistent ways. This matters for public-sector bodies because governments will increasingly need clear frameworks to assess and adopt AI responsibly. While this is a proposal rather than binding regulation, it signals momentum toward international cooperation on AI governance, an area closely tied to national strategy and policy.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "California tightens rules on AI data center energy and water use",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-21T20:29:45+00:00",
+      "summary": "California's governor has signed seven new laws aimed at controlling the energy and water costs created by large AI data centres. These facilities, which power AI systems, consume significant amounts of electricity and water, and the concern was that ordinary residents might end up paying higher utility bills as a result. The new rules require California's utility regulator to create a separate rate category specifically for data centres and to ensure these companies pay for the infrastructure upgrades they require. This is an early example of a government stepping in to manage the real-world costs and resource demands of AI growth. It is relevant for public-sector planners everywhere, as the expansion of AI infrastructure raises similar questions about sustainability, fairness, and who bears the costs.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-21T12:00:00+00:00",
+      "summary": "OpenAI has announced it is working with an independent Advisory Group on Mathematics and Artificial Intelligence. The group's role is to help review and clearly communicate new AI results in the field of mathematics, where AI systems are increasingly being tested against complex problems. Bringing in independent experts is intended to ensure that claims about AI's capabilities are accurate, verified, and explained responsibly rather than overstated. This is notable because it reflects a broader effort to add external oversight and credibility to how AI progress is measured and reported. For non-specialists, it is a reminder that responsible AI development includes careful checking of what these systems can and cannot actually do.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-20T15:39:22+00:00",
+      "summary": "US President Donald Trump has said on his Truth Social platform that he wants to appoint an 'AI czar' to lead a new government 'AI force.' The announcement came amid growing debate, from both political figures and some in the technology industry, about whether AI development is moving too quickly and needs more caution. The president indicated his administration would not slow down AI progress, positioning the move as one focused on advancing rather than restraining the technology. Details remain limited, and it is unclear exactly what such a role or body would do. Still, it signals that AI leadership and coordination are becoming a visible priority at the highest levels of government, an issue that other nations, including those in the Gulf, are also actively considering.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 22 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest, where we focus on developments most relevant to Tamkeen's mission of building skills and advancing our national workforce. This issue highlights new opportunities for practical AI learning, alongside emerging global conversations about how AI should be governed, regulated, and responsibly integrated into public life. We hope these summaries help you stay informed and confident as AI continues to shape education, government, and daily work.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Expanding OpenAI Academy with new learning paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has expanded its free learning platform, OpenAI Academy, by adding new structured 'learning paths' tailored to different groups of people. The updated programme offers separate tracks for employees, developers, business leaders, educators, and students, so each audience can build AI skills relevant to their own role. Learners can now work toward demonstrating practical, applied knowledge rather than just watching general lessons. For an institution like Tamkeen, focused on education and workforce development, this is notable because it represents a growing set of accessible, no-cost resources that could support upskilling and reskilling efforts. It also reflects a wider trend of major technology companies investing in AI literacy for the general workforce, not only specialists.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 21 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a proposal calling for shared global standards to guide the next stage of AI development. The company argues that as AI systems become more capable, countries and organisations should coordinate on how these systems are tested, evaluated, reported on, and governed. The aim is to improve safety and build public trust by ensuring that different developers follow comparable rules and disclose risks in consistent ways. This matters for public-sector bodies because governments will increasingly need clear frameworks to assess and adopt AI responsibly. While this is a proposal rather than binding regulation, it signals momentum toward international cooperation on AI governance, an area closely tied to national strategy and policy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 21 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "California's governor has signed seven new laws aimed at controlling the energy and water costs created by large AI data centres. These facilities, which power AI systems, consume significant amounts of electricity and water, and the concern was that ordinary residents might end up paying higher utility bills as a result. The new rules require California's utility regulator to create a separate rate category specifically for data centres and to ensure these companies pay for the infrastructure upgrades they require. This is an early example of a government stepping in to manage the real-world costs and resource demands of AI growth. It is relevant for public-sector planners everywhere, as the expansion of AI infrastructure raises similar questions about sustainability, fairness, and who bears the costs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced it is working with an independent Advisory Group on Mathematics and Artificial Intelligence. The group's role is to help review and clearly communicate new AI results in the field of mathematics, where AI systems are increasingly being tested against complex problems. Bringing in independent experts is intended to ensure that claims about AI's capabilities are accurate, verified, and explained responsibly rather than overstated. This is notable because it reflects a broader effort to add external oversight and credibility to how AI progress is measured and reported. For non-specialists, it is a reminder that responsible AI development includes careful checking of what these systems can and cannot actually do.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 21 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "US President Donald Trump has said on his Truth Social platform that he wants to appoint an 'AI czar' to lead a new government 'AI force.' The announcement came amid growing debate, from both political figures and some in the technology industry, about whether AI development is moving too quickly and needs more caution. The president indicated his administration would not slow down AI progress, positioning the move as one focused on advancing rather than restraining the technology. Details remain limited, and it is unclear exactly what such a role or body would do. Still, it signals that AI leadership and coordination are becoming a visible priority at the highest levels of government, an issue that other nations, including those in the Gulf, are also actively considering.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 20 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 22 September 2026\n============================================================\nWelcome to this edition of our AI digest, where we focus on developments most relevant to Tamkeen's mission of building skills and advancing our national workforce. This issue highlights new opportunities for practical AI learning, alongside emerging global conversations about how AI should be governed, regulated, and responsibly integrated into public life. We hope these summaries help you stay informed and confident as AI continues to shape education, government, and daily work.\n\n1. Expanding OpenAI Academy with new learning paths\n   https://openai.com/index/expanding-openai-academy-with-new-learning-paths\n   OpenAI has expanded its free learning platform, OpenAI Academy, by adding new structured 'learning paths' tailored to different groups of people. The updated programme offers separate tracks for employees, developers, business leaders, educators, and students, so each audience can build AI skills relevant to their own role. Learners can now work toward demonstrating practical, applied knowledge rather than just watching general lessons. For an institution like Tamkeen, focused on education and workforce development, this is notable because it represents a growing set of accessible, no-cost resources that could support upskilling and reskilling efforts. It also reflects a wider trend of major technology companies investing in AI literacy for the general workforce, not only specialists.\n   (OpenAI · 21 Sep 2026)\n\n2. Building standards for the next phase of AI\n   https://openai.com/index/building-standards-next-phase-ai\n   OpenAI has published a proposal calling for shared global standards to guide the next stage of AI development. The company argues that as AI systems become more capable, countries and organisations should coordinate on how these systems are tested, evaluated, reported on, and governed. The aim is to improve safety and build public trust by ensuring that different developers follow comparable rules and disclose risks in consistent ways. This matters for public-sector bodies because governments will increasingly need clear frameworks to assess and adopt AI responsibly. While this is a proposal rather than binding regulation, it signals momentum toward international cooperation on AI governance, an area closely tied to national strategy and policy.\n   (OpenAI · 21 Sep 2026)\n\n3. California tightens rules on AI data center energy and water use\n   https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills\n   California's governor has signed seven new laws aimed at controlling the energy and water costs created by large AI data centres. These facilities, which power AI systems, consume significant amounts of electricity and water, and the concern was that ordinary residents might end up paying higher utility bills as a result. The new rules require California's utility regulator to create a separate rate category specifically for data centres and to ensure these companies pay for the infrastructure upgrades they require. This is an early example of a government stepping in to manage the real-world costs and resource demands of AI growth. It is relevant for public-sector planners everywhere, as the expansion of AI infrastructure raises similar questions about sustainability, fairness, and who bears the costs.\n   (The Verge — AI · 22 Sep 2026)\n\n4. Advisory Group on Mathematics and Artificial Intelligence\n   https://openai.com/index/advisory-group-on-mathematics-and-ai\n   OpenAI has announced it is working with an independent Advisory Group on Mathematics and Artificial Intelligence. The group's role is to help review and clearly communicate new AI results in the field of mathematics, where AI systems are increasingly being tested against complex problems. Bringing in independent experts is intended to ensure that claims about AI's capabilities are accurate, verified, and explained responsibly rather than overstated. This is notable because it reflects a broader effort to add external oversight and credibility to how AI progress is measured and reported. For non-specialists, it is a reminder that responsible AI development includes careful checking of what these systems can and cannot actually do.\n   (OpenAI · 21 Sep 2026)\n\n5. Trump now says he wants to form an ‘AI Force’\n   https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar\n   US President Donald Trump has said on his Truth Social platform that he wants to appoint an 'AI czar' to lead a new government 'AI force.' The announcement came amid growing debate, from both political figures and some in the technology industry, about whether AI development is moving too quickly and needs more caution. The president indicated his administration would not slow down AI progress, positioning the move as one focused on advancing rather than restraining the technology. Details remain limited, and it is unclear exactly what such a role or body would do. Still, it signals that AI leadership and coordination are becoming a visible priority at the highest levels of government, an issue that other nations, including those in the Gulf, are also actively considering.\n   (The Verge — AI · 20 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 22 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest, where we focus on developments most relevant to Tamkeen's mission of building skills and advancing our national workforce. This issue highlights new opportunities for practical AI learning, alongside emerging global conversations about how AI should be governed, regulated, and responsibly integrated into public life. We hope these summaries help you stay informed and confident as AI continues to shape education, government, and daily work.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Expanding OpenAI Academy with new learning paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has expanded its free learning platform, OpenAI Academy, by adding new structured 'learning paths' tailored to different groups of people. The updated programme offers separate tracks for employees, developers, business leaders, educators, and students, so each audience can build AI skills relevant to their own role. Learners can now work toward demonstrating practical, applied knowledge rather than just watching general lessons. For an institution like Tamkeen, focused on education and workforce development, this is notable because it represents a growing set of accessible, no-cost resources that could support upskilling and reskilling efforts. It also reflects a wider trend of major technology companies investing in AI literacy for the general workforce, not only specialists.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 21 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Building standards for the next phase of AI](https://openai.com/index/building-standards-next-phase-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a proposal calling for shared global standards to guide the next stage of AI development. The company argues that as AI systems become more capable, countries and organisations should coordinate on how these systems are tested, evaluated, reported on, and governed. The aim is to improve safety and build public trust by ensuring that different developers follow comparable rules and disclose risks in consistent ways. This matters for public-sector bodies because governments will increasingly need clear frameworks to assess and adopt AI responsibly. While this is a proposal rather than binding regulation, it signals momentum toward international cooperation on AI governance, an area closely tied to national strategy and policy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 21 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. California tightens rules on AI data center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "California's governor has signed seven new laws aimed at controlling the energy and water costs created by large AI data centres. These facilities, which power AI systems, consume significant amounts of electricity and water, and the concern was that ordinary residents might end up paying higher utility bills as a result. The new rules require California's utility regulator to create a separate rate category specifically for data centres and to ensure these companies pay for the infrastructure upgrades they require. This is an early example of a government stepping in to manage the real-world costs and resource demands of AI growth. It is relevant for public-sector planners everywhere, as the expansion of AI infrastructure raises similar questions about sustainability, fairness, and who bears the costs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Advisory Group on Mathematics and Artificial Intelligence](https://openai.com/index/advisory-group-on-mathematics-and-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced it is working with an independent Advisory Group on Mathematics and Artificial Intelligence. The group's role is to help review and clearly communicate new AI results in the field of mathematics, where AI systems are increasingly being tested against complex problems. Bringing in independent experts is intended to ensure that claims about AI's capabilities are accurate, verified, and explained responsibly rather than overstated. This is notable because it reflects a broader effort to add external oversight and credibility to how AI progress is measured and reported. For non-specialists, it is a reminder that responsible AI development includes careful checking of what these systems can and cannot actually do.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 21 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Trump now says he wants to form an ‘AI Force’](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "US President Donald Trump has said on his Truth Social platform that he wants to appoint an 'AI czar' to lead a new government 'AI force.' The announcement came amid growing debate, from both political figures and some in the technology industry, about whether AI development is moving too quickly and needs more caution. The president indicated his administration would not slow down AI progress, positioning the move as one focused on advancing rather than restraining the technology. Details remain limited, and it is unclear exactly what such a role or body would do. Still, it signals that AI leadership and coordination are becoming a visible priority at the highest levels of government, an issue that other nations, including those in the Gulf, are also actively considering.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 20 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 22 September 2026\n============================================================\nWelcome to this edition of our AI digest, where we focus on developments most relevant to Tamkeen's mission of building skills and advancing our national workforce. This issue highlights new opportunities for practical AI learning, alongside emerging global conversations about how AI should be governed, regulated, and responsibly integrated into public life. We hope these summaries help you stay informed and confident as AI continues to shape education, government, and daily work.\n\n1. Expanding OpenAI Academy with new learning paths\n   https://openai.com/index/expanding-openai-academy-with-new-learning-paths\n   OpenAI has expanded its free learning platform, OpenAI Academy, by adding new structured 'learning paths' tailored to different groups of people. The updated programme offers separate tracks for employees, developers, business leaders, educators, and students, so each audience can build AI skills relevant to their own role. Learners can now work toward demonstrating practical, applied knowledge rather than just watching general lessons. For an institution like Tamkeen, focused on education and workforce development, this is notable because it represents a growing set of accessible, no-cost resources that could support upskilling and reskilling efforts. It also reflects a wider trend of major technology companies investing in AI literacy for the general workforce, not only specialists.\n   (OpenAI · 21 Sep 2026)\n\n2. Building standards for the next phase of AI\n   https://openai.com/index/building-standards-next-phase-ai\n   OpenAI has published a proposal calling for shared global standards to guide the next stage of AI development. The company argues that as AI systems become more capable, countries and organisations should coordinate on how these systems are tested, evaluated, reported on, and governed. The aim is to improve safety and build public trust by ensuring that different developers follow comparable rules and disclose risks in consistent ways. This matters for public-sector bodies because governments will increasingly need clear frameworks to assess and adopt AI responsibly. While this is a proposal rather than binding regulation, it signals momentum toward international cooperation on AI governance, an area closely tied to national strategy and policy.\n   (OpenAI · 21 Sep 2026)\n\n3. California tightens rules on AI data center energy and water use\n   https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills\n   California's governor has signed seven new laws aimed at controlling the energy and water costs created by large AI data centres. These facilities, which power AI systems, consume significant amounts of electricity and water, and the concern was that ordinary residents might end up paying higher utility bills as a result. The new rules require California's utility regulator to create a separate rate category specifically for data centres and to ensure these companies pay for the infrastructure upgrades they require. This is an early example of a government stepping in to manage the real-world costs and resource demands of AI growth. It is relevant for public-sector planners everywhere, as the expansion of AI infrastructure raises similar questions about sustainability, fairness, and who bears the costs.\n   (The Verge — AI · 22 Sep 2026)\n\n4. Advisory Group on Mathematics and Artificial Intelligence\n   https://openai.com/index/advisory-group-on-mathematics-and-ai\n   OpenAI has announced it is working with an independent Advisory Group on Mathematics and Artificial Intelligence. The group's role is to help review and clearly communicate new AI results in the field of mathematics, where AI systems are increasingly being tested against complex problems. Bringing in independent experts is intended to ensure that claims about AI's capabilities are accurate, verified, and explained responsibly rather than overstated. This is notable because it reflects a broader effort to add external oversight and credibility to how AI progress is measured and reported. For non-specialists, it is a reminder that responsible AI development includes careful checking of what these systems can and cannot actually do.\n   (OpenAI · 21 Sep 2026)\n\n5. Trump now says he wants to form an ‘AI Force’\n   https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar\n   US President Donald Trump has said on his Truth Social platform that he wants to appoint an 'AI czar' to lead a new government 'AI force.' The announcement came amid growing debate, from both political figures and some in the technology industry, about whether AI development is moving too quickly and needs more caution. The president indicated his administration would not slow down AI progress, positioning the move as one focused on advancing rather than restraining the technology. Details remain limited, and it is unclear exactly what such a role or body would do. Still, it signals that AI leadership and coordination are becoming a visible priority at the highest levels of government, an issue that other nations, including those in the Gulf, are also actively considering.\n   (The Verge — AI · 20 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
