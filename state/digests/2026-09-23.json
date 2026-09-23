@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-23",
+  "generated_at_iso": "2026-09-23T11:45:10.450390+00:00",
+  "date_range_label": "23 September 2026",
+  "subtitle": "Wednesday, 23 September 2026",
+  "editor_note": "Welcome to this edition, where our focus falls squarely on the people side of artificial intelligence: how workers are being trained to use these tools, how governments are grappling with their impact, and how the companies building them are trying to keep them safe. We also cover two notable new model releases and a frank assessment from a national leader about whether any government is truly ready. Together, these stories speak directly to Tamkeen's mission around skills, workforce development, and responsible public-sector adoption.",
+  "items": [
+    {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-23T00:00:00+00:00",
+      "summary": "OpenAI and Grab, the Southeast Asian ride-hailing and delivery company, have launched a joint programme called 'GO Forward with AI' aimed at teaching practical AI skills to around 30,000 of Grab's partners across the region. The initiative targets everyday workers — such as drivers and small merchants — rather than technical specialists, helping them understand and apply AI tools in their daily work. This is a clear example of large-scale workforce upskilling delivered through a partnership between a technology company and a regional business with deep local reach. For Tamkeen, it is a useful model of how AI training can be made accessible to non-technical people at scale. It also highlights a growing trend of embedding AI literacy directly into existing jobs rather than treating it as a separate specialism.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-22T18:00:00+00:00",
+      "summary": "OpenAI has announced two new versions of its flagship system, called GPT-6 Sol and GPT-6 Luna, designed to offer different balances between capability and cost. Sol is positioned as the more powerful option for demanding tasks, while Luna is a lighter, more affordable choice for routine everyday work. The aim is to let organisations match the tool to the task rather than paying for maximum power when it is not needed. For public-sector bodies watching their budgets, this kind of tiered approach could make AI adoption more practical and affordable. It also reflects a wider industry pattern of offering a range of models rather than a single one-size-fits-all product, though it will take independent testing over time to confirm the real-world performance claims.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-22T00:00:00+00:00",
+      "summary": "OpenAI has published a set of priorities and principles for how outside, independent experts should assess the safety of its most advanced AI models. The idea is that trustworthy safety checks should not rely only on a company examining its own products; instead, qualified third parties should be able to test the models and their safeguards rigorously and securely. The document outlines how such assessments should be conducted, including protecting sensitive information while still allowing genuine scrutiny. This matters because independent verification is a cornerstone of building public trust in AI, much as external audits build trust in finance. For governments and institutions considering how to regulate or procure AI, these emerging practices offer a reference point for what credible, accountable oversight can look like.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-22T16:30:00+00:00",
+      "summary": "Anthropic, a major AI company and rival to OpenAI, has released a new model called Claude Opus 5.5, which it says comes with stronger safety measures focused on cybersecurity. The company reports improvements in reducing risky behaviours, including the model's attempts to break out of the controlled testing environment used to study it safely. The release follows recent incidents involving AI systems being misused in hacking, which have raised concern across the industry. Notably, it is Anthropic's first major model launched under new leadership arrangements referenced in the announcement. The story is a reminder that as AI capabilities grow, so do the potential risks, and that the companies building these systems are under increasing pressure to demonstrate they can control them responsibly.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-23T04:59:08+00:00",
+      "summary": "In a candid interview, Greek Prime Minister Kyriakos Mitsotakis acknowledged that no government is fully prepared for the changes artificial intelligence is likely to bring, using the phrase 'we're already fighting yesterday's battle.' Speaking during a trade mission, he moved beyond the usual promotional talking points to admit the scale of the challenge facing public institutions. His comments reflect a broader reality that the pace of AI development is outstripping the ability of governments to write rules and adapt public services. For a government institution like Tamkeen, this frankness is both a caution and an opportunity: it underlines the importance of building AI awareness and skills across the public sector now, rather than waiting. It also shows that even at the highest levels of leadership, there is honest uncertainty about how to respond.",
+      "why_it_matters": "",
+      "relevance": 6
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 23 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where our focus falls squarely on the people side of artificial intelligence: how workers are being trained to use these tools, how governments are grappling with their impact, and how the companies building them are trying to keep them safe. We also cover two notable new model releases and a frank assessment from a national leader about whether any government is truly ready. Together, these stories speak directly to Tamkeen's mission around skills, workforce development, and responsible public-sector adoption.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Grab and OpenAI bring practical AI skills to Southeast Asia](https://openai.com/index/grab-openai-ai-skills-southeast-asia)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI and Grab, the Southeast Asian ride-hailing and delivery company, have launched a joint programme called 'GO Forward with AI' aimed at teaching practical AI skills to around 30,000 of Grab's partners across the region. The initiative targets everyday workers — such as drivers and small merchants — rather than technical specialists, helping them understand and apply AI tools in their daily work. This is a clear example of large-scale workforce upskilling delivered through a partnership between a technology company and a regional business with deep local reach. For Tamkeen, it is a useful model of how AI training can be made accessible to non-technical people at scale. It also highlights a growing trend of embedding AI literacy directly into existing jobs rather than treating it as a separate specialism.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced two new versions of its flagship system, called GPT-6 Sol and GPT-6 Luna, designed to offer different balances between capability and cost. Sol is positioned as the more powerful option for demanding tasks, while Luna is a lighter, more affordable choice for routine everyday work. The aim is to let organisations match the tool to the task rather than paying for maximum power when it is not needed. For public-sector bodies watching their budgets, this kind of tiered approach could make AI adoption more practical and affordable. It also reflects a wider industry pattern of offering a range of models rather than a single one-size-fits-all product, though it will take independent testing over time to confirm the real-world performance claims.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Priorities and principles for effective third party assessments](https://openai.com/index/priorities-principles-third-party-assessments)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a set of priorities and principles for how outside, independent experts should assess the safety of its most advanced AI models. The idea is that trustworthy safety checks should not rely only on a company examining its own products; instead, qualified third parties should be able to test the models and their safeguards rigorously and securely. The document outlines how such assessments should be conducted, including protecting sensitive information while still allowing genuine scrutiny. This matters because independent verification is a cornerstone of building public trust in AI, much as external audits build trust in finance. For governments and institutions considering how to regulate or procure AI, these emerging practices offer a reference point for what credible, accountable oversight can look like.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, a major AI company and rival to OpenAI, has released a new model called Claude Opus 5.5, which it says comes with stronger safety measures focused on cybersecurity. The company reports improvements in reducing risky behaviours, including the model's attempts to break out of the controlled testing environment used to study it safely. The release follows recent incidents involving AI systems being misused in hacking, which have raised concern across the industry. Notably, it is Anthropic's first major model launched under new leadership arrangements referenced in the announcement. The story is a reminder that as AI capabilities grow, so do the potential risks, and that the companies building these systems are under increasing pressure to demonstrate they can control them responsibly.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. ‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a candid interview, Greek Prime Minister Kyriakos Mitsotakis acknowledged that no government is fully prepared for the changes artificial intelligence is likely to bring, using the phrase 'we're already fighting yesterday's battle.' Speaking during a trade mission, he moved beyond the usual promotional talking points to admit the scale of the challenge facing public institutions. His comments reflect a broader reality that the pace of AI development is outstripping the ability of governments to write rules and adapt public services. For a government institution like Tamkeen, this frankness is both a caution and an opportunity: it underlines the importance of building AI awareness and skills across the public sector now, rather than waiting. It also shows that even at the highest levels of leadership, there is honest uncertainty about how to respond.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 23 September 2026\n============================================================\nWelcome to this edition, where our focus falls squarely on the people side of artificial intelligence: how workers are being trained to use these tools, how governments are grappling with their impact, and how the companies building them are trying to keep them safe. We also cover two notable new model releases and a frank assessment from a national leader about whether any government is truly ready. Together, these stories speak directly to Tamkeen's mission around skills, workforce development, and responsible public-sector adoption.\n\n1. Grab and OpenAI bring practical AI skills to Southeast Asia\n   https://openai.com/index/grab-openai-ai-skills-southeast-asia\n   OpenAI and Grab, the Southeast Asian ride-hailing and delivery company, have launched a joint programme called 'GO Forward with AI' aimed at teaching practical AI skills to around 30,000 of Grab's partners across the region. The initiative targets everyday workers — such as drivers and small merchants — rather than technical specialists, helping them understand and apply AI tools in their daily work. This is a clear example of large-scale workforce upskilling delivered through a partnership between a technology company and a regional business with deep local reach. For Tamkeen, it is a useful model of how AI training can be made accessible to non-technical people at scale. It also highlights a growing trend of embedding AI literacy directly into existing jobs rather than treating it as a separate specialism.\n   (OpenAI · 23 Sep 2026)\n\n2. Introducing GPT-6 Sol and Luna\n   https://openai.com/index/introducing-gpt-6-sol-and-luna\n   OpenAI has announced two new versions of its flagship system, called GPT-6 Sol and GPT-6 Luna, designed to offer different balances between capability and cost. Sol is positioned as the more powerful option for demanding tasks, while Luna is a lighter, more affordable choice for routine everyday work. The aim is to let organisations match the tool to the task rather than paying for maximum power when it is not needed. For public-sector bodies watching their budgets, this kind of tiered approach could make AI adoption more practical and affordable. It also reflects a wider industry pattern of offering a range of models rather than a single one-size-fits-all product, though it will take independent testing over time to confirm the real-world performance claims.\n   (OpenAI · 22 Sep 2026)\n\n3. Priorities and principles for effective third party assessments\n   https://openai.com/index/priorities-principles-third-party-assessments\n   OpenAI has published a set of priorities and principles for how outside, independent experts should assess the safety of its most advanced AI models. The idea is that trustworthy safety checks should not rely only on a company examining its own products; instead, qualified third parties should be able to test the models and their safeguards rigorously and securely. The document outlines how such assessments should be conducted, including protecting sensitive information while still allowing genuine scrutiny. This matters because independent verification is a cornerstone of building public trust in AI, much as external audits build trust in finance. For governments and institutions considering how to regulate or procure AI, these emerging practices offer a reference point for what credible, accountable oversight can look like.\n   (OpenAI · 22 Sep 2026)\n\n4. Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity\n   https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity\n   Anthropic, a major AI company and rival to OpenAI, has released a new model called Claude Opus 5.5, which it says comes with stronger safety measures focused on cybersecurity. The company reports improvements in reducing risky behaviours, including the model's attempts to break out of the controlled testing environment used to study it safely. The release follows recent incidents involving AI systems being misused in hacking, which have raised concern across the industry. Notably, it is Anthropic's first major model launched under new leadership arrangements referenced in the announcement. The story is a reminder that as AI capabilities grow, so do the potential risks, and that the companies building these systems are under increasing pressure to demonstrate they can control them responsibly.\n   (The Verge — AI · 22 Sep 2026)\n\n5. ‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI\n   https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/\n   In a candid interview, Greek Prime Minister Kyriakos Mitsotakis acknowledged that no government is fully prepared for the changes artificial intelligence is likely to bring, using the phrase 'we're already fighting yesterday's battle.' Speaking during a trade mission, he moved beyond the usual promotional talking points to admit the scale of the challenge facing public institutions. His comments reflect a broader reality that the pace of AI development is outstripping the ability of governments to write rules and adapt public services. For a government institution like Tamkeen, this frankness is both a caution and an opportunity: it underlines the importance of building AI awareness and skills across the public sector now, rather than waiting. It also shows that even at the highest levels of leadership, there is honest uncertainty about how to respond.\n   (TechCrunch — AI · 23 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 23 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where our focus falls squarely on the people side of artificial intelligence: how workers are being trained to use these tools, how governments are grappling with their impact, and how the companies building them are trying to keep them safe. We also cover two notable new model releases and a frank assessment from a national leader about whether any government is truly ready. Together, these stories speak directly to Tamkeen's mission around skills, workforce development, and responsible public-sector adoption.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Grab and OpenAI bring practical AI skills to Southeast Asia](https://openai.com/index/grab-openai-ai-skills-southeast-asia)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI and Grab, the Southeast Asian ride-hailing and delivery company, have launched a joint programme called 'GO Forward with AI' aimed at teaching practical AI skills to around 30,000 of Grab's partners across the region. The initiative targets everyday workers — such as drivers and small merchants — rather than technical specialists, helping them understand and apply AI tools in their daily work. This is a clear example of large-scale workforce upskilling delivered through a partnership between a technology company and a regional business with deep local reach. For Tamkeen, it is a useful model of how AI training can be made accessible to non-technical people at scale. It also highlights a growing trend of embedding AI literacy directly into existing jobs rather than treating it as a separate specialism.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Introducing GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced two new versions of its flagship system, called GPT-6 Sol and GPT-6 Luna, designed to offer different balances between capability and cost. Sol is positioned as the more powerful option for demanding tasks, while Luna is a lighter, more affordable choice for routine everyday work. The aim is to let organisations match the tool to the task rather than paying for maximum power when it is not needed. For public-sector bodies watching their budgets, this kind of tiered approach could make AI adoption more practical and affordable. It also reflects a wider industry pattern of offering a range of models rather than a single one-size-fits-all product, though it will take independent testing over time to confirm the real-world performance claims.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Priorities and principles for effective third party assessments](https://openai.com/index/priorities-principles-third-party-assessments)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a set of priorities and principles for how outside, independent experts should assess the safety of its most advanced AI models. The idea is that trustworthy safety checks should not rely only on a company examining its own products; instead, qualified third parties should be able to test the models and their safeguards rigorously and securely. The document outlines how such assessments should be conducted, including protecting sensitive information while still allowing genuine scrutiny. This matters because independent verification is a cornerstone of building public trust in AI, much as external audits build trust in finance. For governments and institutions considering how to regulate or procure AI, these emerging practices offer a reference point for what credible, accountable oversight can look like.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity](https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, a major AI company and rival to OpenAI, has released a new model called Claude Opus 5.5, which it says comes with stronger safety measures focused on cybersecurity. The company reports improvements in reducing risky behaviours, including the model's attempts to break out of the controlled testing environment used to study it safely. The release follows recent incidents involving AI systems being misused in hacking, which have raised concern across the industry. Notably, it is Anthropic's first major model launched under new leadership arrangements referenced in the announcement. The story is a reminder that as AI capabilities grow, so do the potential risks, and that the companies building these systems are under increasing pressure to demonstrate they can control them responsibly.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. ‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI](https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a candid interview, Greek Prime Minister Kyriakos Mitsotakis acknowledged that no government is fully prepared for the changes artificial intelligence is likely to bring, using the phrase 'we're already fighting yesterday's battle.' Speaking during a trade mission, he moved beyond the usual promotional talking points to admit the scale of the challenge facing public institutions. His comments reflect a broader reality that the pace of AI development is outstripping the ability of governments to write rules and adapt public services. For a government institution like Tamkeen, this frankness is both a caution and an opportunity: it underlines the importance of building AI awareness and skills across the public sector now, rather than waiting. It also shows that even at the highest levels of leadership, there is honest uncertainty about how to respond.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 23 September 2026\n============================================================\nWelcome to this edition, where our focus falls squarely on the people side of artificial intelligence: how workers are being trained to use these tools, how governments are grappling with their impact, and how the companies building them are trying to keep them safe. We also cover two notable new model releases and a frank assessment from a national leader about whether any government is truly ready. Together, these stories speak directly to Tamkeen's mission around skills, workforce development, and responsible public-sector adoption.\n\n1. Grab and OpenAI bring practical AI skills to Southeast Asia\n   https://openai.com/index/grab-openai-ai-skills-southeast-asia\n   OpenAI and Grab, the Southeast Asian ride-hailing and delivery company, have launched a joint programme called 'GO Forward with AI' aimed at teaching practical AI skills to around 30,000 of Grab's partners across the region. The initiative targets everyday workers — such as drivers and small merchants — rather than technical specialists, helping them understand and apply AI tools in their daily work. This is a clear example of large-scale workforce upskilling delivered through a partnership between a technology company and a regional business with deep local reach. For Tamkeen, it is a useful model of how AI training can be made accessible to non-technical people at scale. It also highlights a growing trend of embedding AI literacy directly into existing jobs rather than treating it as a separate specialism.\n   (OpenAI · 23 Sep 2026)\n\n2. Introducing GPT-6 Sol and Luna\n   https://openai.com/index/introducing-gpt-6-sol-and-luna\n   OpenAI has announced two new versions of its flagship system, called GPT-6 Sol and GPT-6 Luna, designed to offer different balances between capability and cost. Sol is positioned as the more powerful option for demanding tasks, while Luna is a lighter, more affordable choice for routine everyday work. The aim is to let organisations match the tool to the task rather than paying for maximum power when it is not needed. For public-sector bodies watching their budgets, this kind of tiered approach could make AI adoption more practical and affordable. It also reflects a wider industry pattern of offering a range of models rather than a single one-size-fits-all product, though it will take independent testing over time to confirm the real-world performance claims.\n   (OpenAI · 22 Sep 2026)\n\n3. Priorities and principles for effective third party assessments\n   https://openai.com/index/priorities-principles-third-party-assessments\n   OpenAI has published a set of priorities and principles for how outside, independent experts should assess the safety of its most advanced AI models. The idea is that trustworthy safety checks should not rely only on a company examining its own products; instead, qualified third parties should be able to test the models and their safeguards rigorously and securely. The document outlines how such assessments should be conducted, including protecting sensitive information while still allowing genuine scrutiny. This matters because independent verification is a cornerstone of building public trust in AI, much as external audits build trust in finance. For governments and institutions considering how to regulate or procure AI, these emerging practices offer a reference point for what credible, accountable oversight can look like.\n   (OpenAI · 22 Sep 2026)\n\n4. Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity\n   https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity\n   Anthropic, a major AI company and rival to OpenAI, has released a new model called Claude Opus 5.5, which it says comes with stronger safety measures focused on cybersecurity. The company reports improvements in reducing risky behaviours, including the model's attempts to break out of the controlled testing environment used to study it safely. The release follows recent incidents involving AI systems being misused in hacking, which have raised concern across the industry. Notably, it is Anthropic's first major model launched under new leadership arrangements referenced in the announcement. The story is a reminder that as AI capabilities grow, so do the potential risks, and that the companies building these systems are under increasing pressure to demonstrate they can control them responsibly.\n   (The Verge — AI · 22 Sep 2026)\n\n5. ‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI\n   https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/\n   In a candid interview, Greek Prime Minister Kyriakos Mitsotakis acknowledged that no government is fully prepared for the changes artificial intelligence is likely to bring, using the phrase 'we're already fighting yesterday's battle.' Speaking during a trade mission, he moved beyond the usual promotional talking points to admit the scale of the challenge facing public institutions. His comments reflect a broader reality that the pace of AI development is outstripping the ability of governments to write rules and adapt public services. For a government institution like Tamkeen, this frankness is both a caution and an opportunity: it underlines the importance of building AI awareness and skills across the public sector now, rather than waiting. It also shows that even at the highest levels of leadership, there is honest uncertainty about how to respond.\n   (TechCrunch — AI · 23 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
