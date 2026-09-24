@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-24",
+  "generated_at_iso": "2026-09-24T11:53:58.130568+00:00",
+  "date_range_label": "24 September 2026",
+  "subtitle": "Thursday, 24 September 2026",
+  "editor_note": "Welcome to this edition, where we look at how AI skills are reaching more communities, how governments and international bodies are grappling with oversight, and why public confidence in AI remains cautious even as adoption grows. Several stories touch directly on our mandate: workforce development, responsible public-sector adoption, and the ongoing gap between AI's promise and its proven results. We close with a look at the next wave of major model releases and what shifting public sentiment means for policy.",
+  "items": [
+    {
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-23T16:00:00+00:00",
+      "summary": "OpenAI marked the second anniversary of OpenAI Academy, its free programme designed to teach practical AI skills to people from a wide range of backgrounds. The initiative offers courses, workshops, and learning materials aimed at helping students, workers, educators, and community groups understand and use AI tools, regardless of their prior technical experience. Over two years the programme has expanded its reach into more regions and communities, positioning itself as part of a broader effort to widen access to AI literacy. For an institution focused on human-capital development, this reflects a growing trend of major technology companies investing directly in skills training and workforce readiness. It is a reminder that structured, accessible learning pathways are becoming central to how societies prepare people for an AI-influenced economy.",
+      "why_it_matters": "",
+      "relevance": 10
+    },
+    {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-23T12:00:00+00:00",
+      "summary": "OpenAI CEO Sam Altman addressed the United Nations Security Council, focusing on AI safety, the importance of keeping humans in control of powerful systems, and the need for international cooperation. His remarks placed AI oversight firmly in the arena of global governance, treating it as a matter of international peace and security rather than purely a commercial or technical issue. Altman emphasised that no single company or country can manage the risks and benefits of advanced AI alone, arguing for shared standards and coordinated action. The setting itself is notable: the Security Council rarely engages directly with technology executives, signalling how seriously governments are beginning to treat AI's global implications. For public-sector staff, it underscores that AI policy is increasingly being discussed at the highest levels of international diplomacy.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-09-22T11:04:51+00:00",
+      "summary": "MIT Technology Review published a cautionary piece urging readers not to take recent AI claims at face value after a busy season of headline-grabbing announcements. It points to companies asserting that their models can outperform human experts at tasks such as finding software security flaws, alongside a series of disclosed incidents involving AI systems being used in hacking-related activities. The article argues that much of the coverage has been driven by hype rather than independently verified results, and that bold marketing claims often outpace what the technology can reliably do. This matters because organisations and governments make real decisions based on how capable AI is believed to be. The takeaway for non-specialists is to treat dramatic claims with healthy scepticism and look for evidence and independent testing before drawing conclusions.",
+      "why_it_matters": "",
+      "relevance": 7
+    },
+    {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-24T09:04:18+00:00",
+      "summary": "Google is reportedly close to releasing Gemini 4, the next version of its flagship AI model, after falling behind some competitors on major releases. In his first media appearance as head of Google's DeepMind division, Koray Kavukcuoglu said the model is in a refinement stage, meaning final testing and adjustments before public availability. The comments signal Google's intent to remain competitive with rivals such as OpenAI and Anthropic in the race to build the most capable general-purpose AI systems. New flagship models typically bring improvements in reasoning, handling of text and images, and overall reliability. For non-technical readers, the practical relevance is that these frequent releases shape the tools that will eventually appear in workplace software, public services, and everyday applications.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Even Americans who use AI every day are worried about it",
+      "url": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-23T16:49:58+00:00",
+      "summary": "A new report highlighted by TechCrunch finds that even Americans who use AI daily remain worried about the technology, suggesting that familiarity does not automatically ease public concern. The findings indicate that regular exposure to AI tools does not reduce unease, nor does it weaken public support for regulation and oversight. This challenges a common assumption that people will grow more comfortable with AI simply as they use it more. Instead, frequent users appear to develop informed concerns about issues such as reliability, trust, and broader societal impact. For governments and institutions, the message is that building public confidence will require thoughtful safeguards and clear communication, not just wider adoption of the tools.",
+      "why_it_matters": "",
+      "relevance": 6
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 24 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we look at how AI skills are reaching more communities, how governments and international bodies are grappling with oversight, and why public confidence in AI remains cautious even as adoption grows. Several stories touch directly on our mandate: workforce development, responsible public-sector adoption, and the ongoing gap between AI's promise and its proven results. We close with a look at the next wave of major model releases and what shifting public sentiment means for policy.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI marked the second anniversary of OpenAI Academy, its free programme designed to teach practical AI skills to people from a wide range of backgrounds. The initiative offers courses, workshops, and learning materials aimed at helping students, workers, educators, and community groups understand and use AI tools, regardless of their prior technical experience. Over two years the programme has expanded its reach into more regions and communities, positioning itself as part of a broader effort to widen access to AI literacy. For an institution focused on human-capital development, this reflects a growing trend of major technology companies investing directly in skills training and workforce readiness. It is a reminder that structured, accessible learning pathways are becoming central to how societies prepare people for an AI-influenced economy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Sam Altman’s remarks at the United Nations Security Council](https://openai.com/index/sam-altman-un-security-council-remarks)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI CEO Sam Altman addressed the United Nations Security Council, focusing on AI safety, the importance of keeping humans in control of powerful systems, and the need for international cooperation. His remarks placed AI oversight firmly in the arena of global governance, treating it as a matter of international peace and security rather than purely a commercial or technical issue. Altman emphasised that no single company or country can manage the risks and benefits of advanced AI alone, arguing for shared standards and coordinated action. The setting itself is notable: the Security Council rarely engages directly with technology executives, signalling how seriously governments are beginning to treat AI's global implications. For public-sector staff, it underscores that AI policy is increasingly being discussed at the highest levels of international diplomacy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review published a cautionary piece urging readers not to take recent AI claims at face value after a busy season of headline-grabbing announcements. It points to companies asserting that their models can outperform human experts at tasks such as finding software security flaws, alongside a series of disclosed incidents involving AI systems being used in hacking-related activities. The article argues that much of the coverage has been driven by hype rather than independently verified results, and that bold marketing claims often outpace what the technology can reliably do. This matters because organisations and governments make real decisions based on how capable AI is believed to be. The takeaway for non-specialists is to treat dramatic claims with healthy scepticism and look for evidence and independent testing before drawing conclusions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Gemini 4 is almost ready, says new Google DeepMind chief](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google is reportedly close to releasing Gemini 4, the next version of its flagship AI model, after falling behind some competitors on major releases. In his first media appearance as head of Google's DeepMind division, Koray Kavukcuoglu said the model is in a refinement stage, meaning final testing and adjustments before public availability. The comments signal Google's intent to remain competitive with rivals such as OpenAI and Anthropic in the race to build the most capable general-purpose AI systems. New flagship models typically bring improvements in reasoning, handling of text and images, and overall reliability. For non-technical readers, the practical relevance is that these frequent releases shape the tools that will eventually appear in workplace software, public services, and everyday applications.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A new report highlighted by TechCrunch finds that even Americans who use AI daily remain worried about the technology, suggesting that familiarity does not automatically ease public concern. The findings indicate that regular exposure to AI tools does not reduce unease, nor does it weaken public support for regulation and oversight. This challenges a common assumption that people will grow more comfortable with AI simply as they use it more. Instead, frequent users appear to develop informed concerns about issues such as reliability, trust, and broader societal impact. For governments and institutions, the message is that building public confidence will require thoughtful safeguards and clear communication, not just wider adoption of the tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 24 September 2026\n============================================================\nWelcome to this edition, where we look at how AI skills are reaching more communities, how governments and international bodies are grappling with oversight, and why public confidence in AI remains cautious even as adoption grows. Several stories touch directly on our mandate: workforce development, responsible public-sector adoption, and the ongoing gap between AI's promise and its proven results. We close with a look at the next wave of major model releases and what shifting public sentiment means for policy.\n\n1. Two years of OpenAI Academy\n   https://openai.com/index/two-years-of-openai-academy\n   OpenAI marked the second anniversary of OpenAI Academy, its free programme designed to teach practical AI skills to people from a wide range of backgrounds. The initiative offers courses, workshops, and learning materials aimed at helping students, workers, educators, and community groups understand and use AI tools, regardless of their prior technical experience. Over two years the programme has expanded its reach into more regions and communities, positioning itself as part of a broader effort to widen access to AI literacy. For an institution focused on human-capital development, this reflects a growing trend of major technology companies investing directly in skills training and workforce readiness. It is a reminder that structured, accessible learning pathways are becoming central to how societies prepare people for an AI-influenced economy.\n   (OpenAI · 23 Sep 2026)\n\n2. Sam Altman’s remarks at the United Nations Security Council\n   https://openai.com/index/sam-altman-un-security-council-remarks\n   OpenAI CEO Sam Altman addressed the United Nations Security Council, focusing on AI safety, the importance of keeping humans in control of powerful systems, and the need for international cooperation. His remarks placed AI oversight firmly in the arena of global governance, treating it as a matter of international peace and security rather than purely a commercial or technical issue. Altman emphasised that no single company or country can manage the risks and benefits of advanced AI alone, arguing for shared standards and coordinated action. The setting itself is notable: the Security Council rarely engages directly with technology executives, signalling how seriously governments are beginning to treat AI's global implications. For public-sector staff, it underscores that AI policy is increasingly being discussed at the highest levels of international diplomacy.\n   (OpenAI · 23 Sep 2026)\n\n3. Don’t be fooled by this summer of AI hype\n   https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/\n   MIT Technology Review published a cautionary piece urging readers not to take recent AI claims at face value after a busy season of headline-grabbing announcements. It points to companies asserting that their models can outperform human experts at tasks such as finding software security flaws, alongside a series of disclosed incidents involving AI systems being used in hacking-related activities. The article argues that much of the coverage has been driven by hype rather than independently verified results, and that bold marketing claims often outpace what the technology can reliably do. This matters because organisations and governments make real decisions based on how capable AI is believed to be. The takeaway for non-specialists is to treat dramatic claims with healthy scepticism and look for evidence and independent testing before drawing conclusions.\n   (MIT Technology Review — AI · 22 Sep 2026)\n\n4. Gemini 4 is almost ready, says new Google DeepMind chief\n   https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu\n   Google is reportedly close to releasing Gemini 4, the next version of its flagship AI model, after falling behind some competitors on major releases. In his first media appearance as head of Google's DeepMind division, Koray Kavukcuoglu said the model is in a refinement stage, meaning final testing and adjustments before public availability. The comments signal Google's intent to remain competitive with rivals such as OpenAI and Anthropic in the race to build the most capable general-purpose AI systems. New flagship models typically bring improvements in reasoning, handling of text and images, and overall reliability. For non-technical readers, the practical relevance is that these frequent releases shape the tools that will eventually appear in workplace software, public services, and everyday applications.\n   (The Verge — AI · 24 Sep 2026)\n\n5. Even Americans who use AI every day are worried about it\n   https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/\n   A new report highlighted by TechCrunch finds that even Americans who use AI daily remain worried about the technology, suggesting that familiarity does not automatically ease public concern. The findings indicate that regular exposure to AI tools does not reduce unease, nor does it weaken public support for regulation and oversight. This challenges a common assumption that people will grow more comfortable with AI simply as they use it more. Instead, frequent users appear to develop informed concerns about issues such as reliability, trust, and broader societal impact. For governments and institutions, the message is that building public confidence will require thoughtful safeguards and clear communication, not just wider adoption of the tools.\n   (TechCrunch — AI · 23 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 24 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we look at how AI skills are reaching more communities, how governments and international bodies are grappling with oversight, and why public confidence in AI remains cautious even as adoption grows. Several stories touch directly on our mandate: workforce development, responsible public-sector adoption, and the ongoing gap between AI's promise and its proven results. We close with a look at the next wave of major model releases and what shifting public sentiment means for policy.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Two years of OpenAI Academy](https://openai.com/index/two-years-of-openai-academy)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI marked the second anniversary of OpenAI Academy, its free programme designed to teach practical AI skills to people from a wide range of backgrounds. The initiative offers courses, workshops, and learning materials aimed at helping students, workers, educators, and community groups understand and use AI tools, regardless of their prior technical experience. Over two years the programme has expanded its reach into more regions and communities, positioning itself as part of a broader effort to widen access to AI literacy. For an institution focused on human-capital development, this reflects a growing trend of major technology companies investing directly in skills training and workforce readiness. It is a reminder that structured, accessible learning pathways are becoming central to how societies prepare people for an AI-influenced economy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Sam Altman’s remarks at the United Nations Security Council](https://openai.com/index/sam-altman-un-security-council-remarks)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI CEO Sam Altman addressed the United Nations Security Council, focusing on AI safety, the importance of keeping humans in control of powerful systems, and the need for international cooperation. His remarks placed AI oversight firmly in the arena of global governance, treating it as a matter of international peace and security rather than purely a commercial or technical issue. Altman emphasised that no single company or country can manage the risks and benefits of advanced AI alone, arguing for shared standards and coordinated action. The setting itself is notable: the Security Council rarely engages directly with technology executives, signalling how seriously governments are beginning to treat AI's global implications. For public-sector staff, it underscores that AI policy is increasingly being discussed at the highest levels of international diplomacy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Don’t be fooled by this summer of AI hype](https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review published a cautionary piece urging readers not to take recent AI claims at face value after a busy season of headline-grabbing announcements. It points to companies asserting that their models can outperform human experts at tasks such as finding software security flaws, alongside a series of disclosed incidents involving AI systems being used in hacking-related activities. The article argues that much of the coverage has been driven by hype rather than independently verified results, and that bold marketing claims often outpace what the technology can reliably do. This matters because organisations and governments make real decisions based on how capable AI is believed to be. The takeaway for non-specialists is to treat dramatic claims with healthy scepticism and look for evidence and independent testing before drawing conclusions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 22 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Gemini 4 is almost ready, says new Google DeepMind chief](https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google is reportedly close to releasing Gemini 4, the next version of its flagship AI model, after falling behind some competitors on major releases. In his first media appearance as head of Google's DeepMind division, Koray Kavukcuoglu said the model is in a refinement stage, meaning final testing and adjustments before public availability. The comments signal Google's intent to remain competitive with rivals such as OpenAI and Anthropic in the race to build the most capable general-purpose AI systems. New flagship models typically bring improvements in reasoning, handling of text and images, and overall reliability. For non-technical readers, the practical relevance is that these frequent releases shape the tools that will eventually appear in workplace software, public services, and everyday applications.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Even Americans who use AI every day are worried about it](https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A new report highlighted by TechCrunch finds that even Americans who use AI daily remain worried about the technology, suggesting that familiarity does not automatically ease public concern. The findings indicate that regular exposure to AI tools does not reduce unease, nor does it weaken public support for regulation and oversight. This challenges a common assumption that people will grow more comfortable with AI simply as they use it more. Instead, frequent users appear to develop informed concerns about issues such as reliability, trust, and broader societal impact. For governments and institutions, the message is that building public confidence will require thoughtful safeguards and clear communication, not just wider adoption of the tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 24 September 2026\n============================================================\nWelcome to this edition, where we look at how AI skills are reaching more communities, how governments and international bodies are grappling with oversight, and why public confidence in AI remains cautious even as adoption grows. Several stories touch directly on our mandate: workforce development, responsible public-sector adoption, and the ongoing gap between AI's promise and its proven results. We close with a look at the next wave of major model releases and what shifting public sentiment means for policy.\n\n1. Two years of OpenAI Academy\n   https://openai.com/index/two-years-of-openai-academy\n   OpenAI marked the second anniversary of OpenAI Academy, its free programme designed to teach practical AI skills to people from a wide range of backgrounds. The initiative offers courses, workshops, and learning materials aimed at helping students, workers, educators, and community groups understand and use AI tools, regardless of their prior technical experience. Over two years the programme has expanded its reach into more regions and communities, positioning itself as part of a broader effort to widen access to AI literacy. For an institution focused on human-capital development, this reflects a growing trend of major technology companies investing directly in skills training and workforce readiness. It is a reminder that structured, accessible learning pathways are becoming central to how societies prepare people for an AI-influenced economy.\n   (OpenAI · 23 Sep 2026)\n\n2. Sam Altman’s remarks at the United Nations Security Council\n   https://openai.com/index/sam-altman-un-security-council-remarks\n   OpenAI CEO Sam Altman addressed the United Nations Security Council, focusing on AI safety, the importance of keeping humans in control of powerful systems, and the need for international cooperation. His remarks placed AI oversight firmly in the arena of global governance, treating it as a matter of international peace and security rather than purely a commercial or technical issue. Altman emphasised that no single company or country can manage the risks and benefits of advanced AI alone, arguing for shared standards and coordinated action. The setting itself is notable: the Security Council rarely engages directly with technology executives, signalling how seriously governments are beginning to treat AI's global implications. For public-sector staff, it underscores that AI policy is increasingly being discussed at the highest levels of international diplomacy.\n   (OpenAI · 23 Sep 2026)\n\n3. Don’t be fooled by this summer of AI hype\n   https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/\n   MIT Technology Review published a cautionary piece urging readers not to take recent AI claims at face value after a busy season of headline-grabbing announcements. It points to companies asserting that their models can outperform human experts at tasks such as finding software security flaws, alongside a series of disclosed incidents involving AI systems being used in hacking-related activities. The article argues that much of the coverage has been driven by hype rather than independently verified results, and that bold marketing claims often outpace what the technology can reliably do. This matters because organisations and governments make real decisions based on how capable AI is believed to be. The takeaway for non-specialists is to treat dramatic claims with healthy scepticism and look for evidence and independent testing before drawing conclusions.\n   (MIT Technology Review — AI · 22 Sep 2026)\n\n4. Gemini 4 is almost ready, says new Google DeepMind chief\n   https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu\n   Google is reportedly close to releasing Gemini 4, the next version of its flagship AI model, after falling behind some competitors on major releases. In his first media appearance as head of Google's DeepMind division, Koray Kavukcuoglu said the model is in a refinement stage, meaning final testing and adjustments before public availability. The comments signal Google's intent to remain competitive with rivals such as OpenAI and Anthropic in the race to build the most capable general-purpose AI systems. New flagship models typically bring improvements in reasoning, handling of text and images, and overall reliability. For non-technical readers, the practical relevance is that these frequent releases shape the tools that will eventually appear in workplace software, public services, and everyday applications.\n   (The Verge — AI · 24 Sep 2026)\n\n5. Even Americans who use AI every day are worried about it\n   https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/\n   A new report highlighted by TechCrunch finds that even Americans who use AI daily remain worried about the technology, suggesting that familiarity does not automatically ease public concern. The findings indicate that regular exposure to AI tools does not reduce unease, nor does it weaken public support for regulation and oversight. This challenges a common assumption that people will grow more comfortable with AI simply as they use it more. Instead, frequent users appear to develop informed concerns about issues such as reliability, trust, and broader societal impact. For governments and institutions, the message is that building public confidence will require thoughtful safeguards and clear communication, not just wider adoption of the tools.\n   (TechCrunch — AI · 23 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
