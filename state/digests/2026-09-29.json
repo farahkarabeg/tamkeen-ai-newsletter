@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-29",
+  "generated_at_iso": "2026-09-29T13:00:40.720809+00:00",
+  "date_range_label": "29 September 2026",
+  "subtitle": "Tuesday, 29 September 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week we look at how leading AI developers are strengthening their safety practices, a new lower-cost model aimed at everyday work, and fresh questions about AI's role in scientific research and international cooperation. Together these stories highlight a recurring theme relevant to our mandate: how organisations and governments are working to make AI both more useful and more trustworthy.",
+  "items": [
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI has published early guidelines for what it calls 'safety cases' — structured arguments that a powerful AI system has been developed and trained responsibly before it is released. The guidance covers three main areas: technical safeguards built into the models, operational practices within the company, and clear procedures for investigating incidents where an AI behaves in unintended or harmful ways. The aim is to make safety a documented, checkable process rather than an assumption. For public-sector readers, this reflects a broader trend of AI developers trying to demonstrate accountability in ways that regulators and institutions can review. As governments consider how to oversee advanced AI, frameworks like this may influence future standards and procurement requirements.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-28T18:00:00+00:00",
+      "summary": "Anthropic, one of the major AI companies, has released an updated version of its mid-tier model called Sonnet 5.5. The company describes it as faster and significantly cheaper to run than previous versions, using fewer computing resources for each task. The focus is on practical, everyday work rather than cutting-edge experiments — the kind of drafting, summarising, and analysis many office staff might use. Lower running costs matter because they make AI tools more affordable for organisations to deploy at scale, including in the public sector. For workforce and training planning, releases like this signal that capable AI assistants are becoming cheaper and more accessible, which affects how roles and skills may evolve.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "When can we say AI made a scientific discovery?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-09-28T17:03:16+00:00",
+      "summary": "This article explores a growing question: at what point can we say an AI system, rather than a human, made a scientific discovery? It follows Anthropic's announcement that it quietly launched a molecular biology lab where its Claude AI agents read research, propose ideas about difficult biology problems, and human scientists then run the actual experiments. This blurs the line between tool and collaborator, raising issues about credit, verification, and how discoveries are validated. The piece notes that genuine scientific breakthroughs still depend heavily on human judgement and physical experimentation. For an institution focused on education and human capital, it is a useful reminder that AI is beginning to reshape how research and knowledge work are done, and that new norms will be needed.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-28T19:00:00+00:00",
+      "summary": "OpenAI has issued a public apology to Australia following incidents involving Australian government websites, and has outlined steps it will take to prevent similar problems in the future. The company committed to stronger safeguards and pledged support to help strengthen Australia's national cyber defences. While specific details are limited, the response shows an AI provider taking public responsibility and working directly with a government to address concerns. This is notable for public-sector bodies everywhere, as it highlights both the risks of relying on external AI services and the importance of clear accountability when things go wrong. It also illustrates how governments can push AI companies to improve their practices and protections.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-29T12:00:00+00:00",
+      "summary": "US Congressman Ro Khanna is calling for a formal treaty between the United States and China to reduce the risks posed by rapidly advancing AI, arguing that the two countries should cooperate to prevent serious global harm. His appeal comes as US political and tech leaders prepare for high-level meetings in Washington. The article notes that achieving such cooperation would be difficult, given competition and mistrust between the two powers. This story matters because it shows AI safety is increasingly becoming a matter of international diplomacy, not just company policy. For governments and institutions worldwide, the outcome of these debates could shape the rules and expectations that eventually apply to AI use everywhere.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 29 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how leading AI developers are strengthening their safety practices, a new lower-cost model aimed at everyday work, and fresh questions about AI's role in scientific research and international cooperation. Together these stories highlight a recurring theme relevant to our mandate: how organisations and governments are working to make AI both more useful and more trustworthy.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Towards safety cases for frontier AI training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published early guidelines for what it calls 'safety cases' — structured arguments that a powerful AI system has been developed and trained responsibly before it is released. The guidance covers three main areas: technical safeguards built into the models, operational practices within the company, and clear procedures for investigating incidents where an AI behaves in unintended or harmful ways. The aim is to make safety a documented, checkable process rather than an assumption. For public-sector readers, this reflects a broader trend of AI developers trying to demonstrate accountability in ways that regulators and institutions can review. As governments consider how to oversee advanced AI, frameworks like this may influence future standards and procurement requirements.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 28 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, one of the major AI companies, has released an updated version of its mid-tier model called Sonnet 5.5. The company describes it as faster and significantly cheaper to run than previous versions, using fewer computing resources for each task. The focus is on practical, everyday work rather than cutting-edge experiments — the kind of drafting, summarising, and analysis many office staff might use. Lower running costs matter because they make AI tools more affordable for organisations to deploy at scale, including in the public sector. For workforce and training planning, releases like this signal that capable AI assistants are becoming cheaper and more accessible, which affects how roles and skills may evolve.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 28 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article explores a growing question: at what point can we say an AI system, rather than a human, made a scientific discovery? It follows Anthropic's announcement that it quietly launched a molecular biology lab where its Claude AI agents read research, propose ideas about difficult biology problems, and human scientists then run the actual experiments. This blurs the line between tool and collaborator, raising issues about credit, verification, and how discoveries are validated. The piece notes that genuine scientific breakthroughs still depend heavily on human judgement and physical experimentation. For an institution focused on education and human capital, it is a useful reminder that AI is beginning to reshape how research and knowledge work are done, and that new norms will be needed.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 28 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has issued a public apology to Australia following incidents involving Australian government websites, and has outlined steps it will take to prevent similar problems in the future. The company committed to stronger safeguards and pledged support to help strengthen Australia's national cyber defences. While specific details are limited, the response shows an AI provider taking public responsibility and working directly with a government to address concerns. This is notable for public-sector bodies everywhere, as it highlights both the risks of relying on external AI services and the importance of clear accountability when things go wrong. It also illustrates how governments can push AI companies to improve their practices and protections.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 28 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Will Chinese AI companies slow down? A top House Democrat wants answers](https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "US Congressman Ro Khanna is calling for a formal treaty between the United States and China to reduce the risks posed by rapidly advancing AI, arguing that the two countries should cooperate to prevent serious global harm. His appeal comes as US political and tech leaders prepare for high-level meetings in Washington. The article notes that achieving such cooperation would be difficult, given competition and mistrust between the two powers. This story matters because it shows AI safety is increasingly becoming a matter of international diplomacy, not just company policy. For governments and institutions worldwide, the outcome of these debates could shape the rules and expectations that eventually apply to AI use everywhere.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 29 September 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how leading AI developers are strengthening their safety practices, a new lower-cost model aimed at everyday work, and fresh questions about AI's role in scientific research and international cooperation. Together these stories highlight a recurring theme relevant to our mandate: how organisations and governments are working to make AI both more useful and more trustworthy.\n\n1. Towards safety cases for frontier AI training\n   https://openai.com/index/towards-safety-cases-for-frontier-ai-training\n   OpenAI has published early guidelines for what it calls 'safety cases' — structured arguments that a powerful AI system has been developed and trained responsibly before it is released. The guidance covers three main areas: technical safeguards built into the models, operational practices within the company, and clear procedures for investigating incidents where an AI behaves in unintended or harmful ways. The aim is to make safety a documented, checkable process rather than an assumption. For public-sector readers, this reflects a broader trend of AI developers trying to demonstrate accountability in ways that regulators and institutions can review. As governments consider how to oversee advanced AI, frameworks like this may influence future standards and procurement requirements.\n   (OpenAI · 28 Sep 2026)\n\n2. Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner\n   https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/\n   Anthropic, one of the major AI companies, has released an updated version of its mid-tier model called Sonnet 5.5. The company describes it as faster and significantly cheaper to run than previous versions, using fewer computing resources for each task. The focus is on practical, everyday work rather than cutting-edge experiments — the kind of drafting, summarising, and analysis many office staff might use. Lower running costs matter because they make AI tools more affordable for organisations to deploy at scale, including in the public sector. For workforce and training planning, releases like this signal that capable AI assistants are becoming cheaper and more accessible, which affects how roles and skills may evolve.\n   (TechCrunch — AI · 28 Sep 2026)\n\n3. When can we say AI made a scientific discovery?\n   https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/\n   This article explores a growing question: at what point can we say an AI system, rather than a human, made a scientific discovery? It follows Anthropic's announcement that it quietly launched a molecular biology lab where its Claude AI agents read research, propose ideas about difficult biology problems, and human scientists then run the actual experiments. This blurs the line between tool and collaborator, raising issues about credit, verification, and how discoveries are validated. The piece notes that genuine scientific breakthroughs still depend heavily on human judgement and physical experimentation. For an institution focused on education and human capital, it is a useful reminder that AI is beginning to reshape how research and knowledge work are done, and that new norms will be needed.\n   (MIT Technology Review — AI · 28 Sep 2026)\n\n4. How we will do better for Australia\n   https://openai.com/index/how-we-will-do-better-for-australia\n   OpenAI has issued a public apology to Australia following incidents involving Australian government websites, and has outlined steps it will take to prevent similar problems in the future. The company committed to stronger safeguards and pledged support to help strengthen Australia's national cyber defences. While specific details are limited, the response shows an AI provider taking public responsibility and working directly with a government to address concerns. This is notable for public-sector bodies everywhere, as it highlights both the risks of relying on external AI services and the importance of clear accountability when things go wrong. It also illustrates how governments can push AI companies to improve their practices and protections.\n   (OpenAI · 28 Sep 2026)\n\n5. Will Chinese AI companies slow down? A top House Democrat wants answers\n   https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty\n   US Congressman Ro Khanna is calling for a formal treaty between the United States and China to reduce the risks posed by rapidly advancing AI, arguing that the two countries should cooperate to prevent serious global harm. His appeal comes as US political and tech leaders prepare for high-level meetings in Washington. The article notes that achieving such cooperation would be difficult, given competition and mistrust between the two powers. This story matters because it shows AI safety is increasingly becoming a matter of international diplomacy, not just company policy. For governments and institutions worldwide, the outcome of these debates could shape the rules and expectations that eventually apply to AI use everywhere.\n   (The Verge — AI · 29 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 29 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how leading AI developers are strengthening their safety practices, a new lower-cost model aimed at everyday work, and fresh questions about AI's role in scientific research and international cooperation. Together these stories highlight a recurring theme relevant to our mandate: how organisations and governments are working to make AI both more useful and more trustworthy.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Towards safety cases for frontier AI training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published early guidelines for what it calls 'safety cases' — structured arguments that a powerful AI system has been developed and trained responsibly before it is released. The guidance covers three main areas: technical safeguards built into the models, operational practices within the company, and clear procedures for investigating incidents where an AI behaves in unintended or harmful ways. The aim is to make safety a documented, checkable process rather than an assumption. For public-sector readers, this reflects a broader trend of AI developers trying to demonstrate accountability in ways that regulators and institutions can review. As governments consider how to oversee advanced AI, frameworks like this may influence future standards and procurement requirements.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 28 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner](https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, one of the major AI companies, has released an updated version of its mid-tier model called Sonnet 5.5. The company describes it as faster and significantly cheaper to run than previous versions, using fewer computing resources for each task. The focus is on practical, everyday work rather than cutting-edge experiments — the kind of drafting, summarising, and analysis many office staff might use. Lower running costs matter because they make AI tools more affordable for organisations to deploy at scale, including in the public sector. For workforce and training planning, releases like this signal that capable AI assistants are becoming cheaper and more accessible, which affects how roles and skills may evolve.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 28 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. When can we say AI made a scientific discovery?](https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article explores a growing question: at what point can we say an AI system, rather than a human, made a scientific discovery? It follows Anthropic's announcement that it quietly launched a molecular biology lab where its Claude AI agents read research, propose ideas about difficult biology problems, and human scientists then run the actual experiments. This blurs the line between tool and collaborator, raising issues about credit, verification, and how discoveries are validated. The piece notes that genuine scientific breakthroughs still depend heavily on human judgement and physical experimentation. For an institution focused on education and human capital, it is a useful reminder that AI is beginning to reshape how research and knowledge work are done, and that new norms will be needed.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 28 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. How we will do better for Australia](https://openai.com/index/how-we-will-do-better-for-australia)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has issued a public apology to Australia following incidents involving Australian government websites, and has outlined steps it will take to prevent similar problems in the future. The company committed to stronger safeguards and pledged support to help strengthen Australia's national cyber defences. While specific details are limited, the response shows an AI provider taking public responsibility and working directly with a government to address concerns. This is notable for public-sector bodies everywhere, as it highlights both the risks of relying on external AI services and the importance of clear accountability when things go wrong. It also illustrates how governments can push AI companies to improve their practices and protections.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 28 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Will Chinese AI companies slow down? A top House Democrat wants answers](https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "US Congressman Ro Khanna is calling for a formal treaty between the United States and China to reduce the risks posed by rapidly advancing AI, arguing that the two countries should cooperate to prevent serious global harm. His appeal comes as US political and tech leaders prepare for high-level meetings in Washington. The article notes that achieving such cooperation would be difficult, given competition and mistrust between the two powers. This story matters because it shows AI safety is increasingly becoming a matter of international diplomacy, not just company policy. For governments and institutions worldwide, the outcome of these debates could shape the rules and expectations that eventually apply to AI use everywhere.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 29 September 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how leading AI developers are strengthening their safety practices, a new lower-cost model aimed at everyday work, and fresh questions about AI's role in scientific research and international cooperation. Together these stories highlight a recurring theme relevant to our mandate: how organisations and governments are working to make AI both more useful and more trustworthy.\n\n1. Towards safety cases for frontier AI training\n   https://openai.com/index/towards-safety-cases-for-frontier-ai-training\n   OpenAI has published early guidelines for what it calls 'safety cases' — structured arguments that a powerful AI system has been developed and trained responsibly before it is released. The guidance covers three main areas: technical safeguards built into the models, operational practices within the company, and clear procedures for investigating incidents where an AI behaves in unintended or harmful ways. The aim is to make safety a documented, checkable process rather than an assumption. For public-sector readers, this reflects a broader trend of AI developers trying to demonstrate accountability in ways that regulators and institutions can review. As governments consider how to oversee advanced AI, frameworks like this may influence future standards and procurement requirements.\n   (OpenAI · 28 Sep 2026)\n\n2. Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner\n   https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/\n   Anthropic, one of the major AI companies, has released an updated version of its mid-tier model called Sonnet 5.5. The company describes it as faster and significantly cheaper to run than previous versions, using fewer computing resources for each task. The focus is on practical, everyday work rather than cutting-edge experiments — the kind of drafting, summarising, and analysis many office staff might use. Lower running costs matter because they make AI tools more affordable for organisations to deploy at scale, including in the public sector. For workforce and training planning, releases like this signal that capable AI assistants are becoming cheaper and more accessible, which affects how roles and skills may evolve.\n   (TechCrunch — AI · 28 Sep 2026)\n\n3. When can we say AI made a scientific discovery?\n   https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/\n   This article explores a growing question: at what point can we say an AI system, rather than a human, made a scientific discovery? It follows Anthropic's announcement that it quietly launched a molecular biology lab where its Claude AI agents read research, propose ideas about difficult biology problems, and human scientists then run the actual experiments. This blurs the line between tool and collaborator, raising issues about credit, verification, and how discoveries are validated. The piece notes that genuine scientific breakthroughs still depend heavily on human judgement and physical experimentation. For an institution focused on education and human capital, it is a useful reminder that AI is beginning to reshape how research and knowledge work are done, and that new norms will be needed.\n   (MIT Technology Review — AI · 28 Sep 2026)\n\n4. How we will do better for Australia\n   https://openai.com/index/how-we-will-do-better-for-australia\n   OpenAI has issued a public apology to Australia following incidents involving Australian government websites, and has outlined steps it will take to prevent similar problems in the future. The company committed to stronger safeguards and pledged support to help strengthen Australia's national cyber defences. While specific details are limited, the response shows an AI provider taking public responsibility and working directly with a government to address concerns. This is notable for public-sector bodies everywhere, as it highlights both the risks of relying on external AI services and the importance of clear accountability when things go wrong. It also illustrates how governments can push AI companies to improve their practices and protections.\n   (OpenAI · 28 Sep 2026)\n\n5. Will Chinese AI companies slow down? A top House Democrat wants answers\n   https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty\n   US Congressman Ro Khanna is calling for a formal treaty between the United States and China to reduce the risks posed by rapidly advancing AI, arguing that the two countries should cooperate to prevent serious global harm. His appeal comes as US political and tech leaders prepare for high-level meetings in Washington. The article notes that achieving such cooperation would be difficult, given competition and mistrust between the two powers. This story matters because it shows AI safety is increasingly becoming a matter of international diplomacy, not just company policy. For governments and institutions worldwide, the outcome of these debates could shape the rules and expectations that eventually apply to AI use everywhere.\n   (The Verge — AI · 29 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
