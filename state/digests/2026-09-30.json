@@ -1,0 +1,478 @@
+{
+  "id": "2026-09-30",
+  "generated_at_iso": "2026-09-30T12:42:40.419590+00:00",
+  "date_range_label": "30 September 2026",
+  "subtitle": "Wednesday, 30 September 2026",
+  "editor_note": "This edition focuses on two developments shaping how AI is built and governed: a wave of new, more affordable AI models from OpenAI, and fresh moves on AI oversight and public-sector use in the United States. For Tamkeen, these stories offer useful signals about where the cost of AI tools is heading, how governments are approaching AI safety, and what happens when AI is applied directly to public services. We have kept the language plain and practical throughout.",
+  "items": [
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-29T10:00:00+00:00",
+      "summary": "OpenAI has released a new AI model called GPT-6.1 Sol, positioning it as a strong performer for practical tasks such as writing computer code, operating software, and handling professional office work. The company says it delivers intelligence close to that of its most advanced model, Astra, but at roughly one-fifth of Astra's price for processing text. Pricing is measured in 'tokens', which are the small units of text an AI reads and produces; a lower price per token means organisations pay much less to run the same volume of work. The main significance here is cost: as capable models become dramatically cheaper, using AI for everyday professional and administrative tasks becomes more affordable for institutions and businesses. For workforce-focused bodies, this trend matters because it lowers the barrier to deploying AI tools across teams and training programmes.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-09-30T12:24:32+00:00",
+      "summary": "The Verge reported the full details of a voluntary AI safety agreement announced by US President Trump, in which leading technology executives committed to regulating their own AI systems rather than being bound by new government rules. The accord, titled the Joint Commitment On Frontier Responsibilities, was shared publicly by tech founder and presidential advisor David Sacks and signed by several major companies. It is described as 'morally binding', meaning it relies on companies keeping their word rather than on legal enforcement. This reflects a broader US approach that favours industry self-regulation over formal legislation, a notable contrast to regions such as the European Union that have passed binding AI laws. For public-sector observers, the deal illustrates the different governance models emerging globally and the ongoing debate over how strictly frontier AI should be overseen.",
+      "why_it_matters": "",
+      "relevance": 7
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "source_name": "OpenAI",
+      "published_iso": "2026-09-29T10:00:00+00:00",
+      "summary": "OpenAI published a recap of its DevDay 2026 event, an annual gathering aimed at software developers and organisations that build products using its technology. The company shared more than 20 announcements, including its flagship GPT-6 Astra model, updates to ChatGPT, its coding assistant Codex, and various tools, security features, and programming interfaces for developers. These 'APIs' are the technical connections that let other companies plug OpenAI's models into their own apps and services. The volume of announcements signals how quickly the AI industry is expanding its offerings and competing to attract developers. For non-technical readers, the key takeaway is that AI capabilities are being packaged into an ever-wider set of ready-to-use tools, which will steadily shape the software and services people use at work.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-29T17:15:00+00:00",
+      "summary": "TechCrunch covered the launch of GPT-6.1 Sol, reporting OpenAI's claim that the new model nearly matches its top-tier Astra model while costing significantly less to use. According to the company, it offers meaningful improvements over the earlier GPT-6 Sol version on complex professional tasks, including writing and fixing computer code, understanding documents, and carrying out multi-step business processes. This coverage complements OpenAI's own announcement by providing independent framing and highlighting the practical business uses the model is aimed at. The recurring theme is that AI providers are competing on both capability and price, pushing high-quality tools within reach of more users. For organisations planning training and workflow improvements, cheaper and more capable models could expand what is realistically achievable with limited budgets.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-09-29T16:55:56+00:00",
+      "summary": "TechCrunch reported that the US White House is preparing to launch America.gov, a chatbot designed to help citizens navigate government bureaucracy and find the services they need. The goal is to simplify a system many people find confusing, by letting users ask questions in plain language rather than searching through complex official websites. However, the article cautions that the large language models behind such tools remain imperfect and are prone to 'hallucinations', a term for when AI confidently produces information that is incorrect. In a government context, wrong answers about official procedures or entitlements could cause real problems for citizens. This story is directly relevant to public-sector bodies exploring AI for public services, as it highlights both the promise of easier access and the importance of accuracy, testing, and human oversight.",
+      "why_it_matters": "",
+      "relevance": 6
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 30 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition focuses on two developments shaping how AI is built and governed: a wave of new, more affordable AI models from OpenAI, and fresh moves on AI oversight and public-sector use in the United States. For Tamkeen, these stories offer useful signals about where the cost of AI tools is heading, how governments are approaching AI safety, and what happens when AI is applied directly to public services. We have kept the language plain and practical throughout.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has released a new AI model called GPT-6.1 Sol, positioning it as a strong performer for practical tasks such as writing computer code, operating software, and handling professional office work. The company says it delivers intelligence close to that of its most advanced model, Astra, but at roughly one-fifth of Astra's price for processing text. Pricing is measured in 'tokens', which are the small units of text an AI reads and produces; a lower price per token means organisations pay much less to run the same volume of work. The main significance here is cost: as capable models become dramatically cheaper, using AI for everyday professional and administrative tasks becomes more affordable for institutions and businesses. For workforce-focused bodies, this trend matters because it lowers the barrier to deploying AI tools across teams and training programmes.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Here’s how tech leaders will self-police AI safety under Trump’s deal](https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reported the full details of a voluntary AI safety agreement announced by US President Trump, in which leading technology executives committed to regulating their own AI systems rather than being bound by new government rules. The accord, titled the Joint Commitment On Frontier Responsibilities, was shared publicly by tech founder and presidential advisor David Sacks and signed by several major companies. It is described as 'morally binding', meaning it relies on companies keeping their word rather than on legal enforcement. This reflects a broader US approach that favours industry self-regulation over formal legislation, a notable contrast to regions such as the European Union that have passed binding AI laws. For public-sector observers, the deal illustrates the different governance models emerging globally and the ongoing debate over how strictly frontier AI should be overseen.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 30 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI published a recap of its DevDay 2026 event, an annual gathering aimed at software developers and organisations that build products using its technology. The company shared more than 20 announcements, including its flagship GPT-6 Astra model, updates to ChatGPT, its coding assistant Codex, and various tools, security features, and programming interfaces for developers. These 'APIs' are the technical connections that let other companies plug OpenAI's models into their own apps and services. The volume of announcements signals how quickly the AI industry is expanding its offerings and competing to attract developers. For non-technical readers, the key takeaway is that AI capabilities are being packaged into an ever-wider set of ready-to-use tools, which will steadily shape the software and services people use at work.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less](https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch covered the launch of GPT-6.1 Sol, reporting OpenAI's claim that the new model nearly matches its top-tier Astra model while costing significantly less to use. According to the company, it offers meaningful improvements over the earlier GPT-6 Sol version on complex professional tasks, including writing and fixing computer code, understanding documents, and carrying out multi-step business processes. This coverage complements OpenAI's own announcement by providing independent framing and highlighting the practical business uses the model is aimed at. The recurring theme is that AI providers are competing on both capability and price, pushing high-quality tools within reach of more users. For organisations planning training and workflow improvements, cheaper and more capable models could expand what is realistically achievable with limited budgets.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reported that the US White House is preparing to launch America.gov, a chatbot designed to help citizens navigate government bureaucracy and find the services they need. The goal is to simplify a system many people find confusing, by letting users ask questions in plain language rather than searching through complex official websites. However, the article cautions that the large language models behind such tools remain imperfect and are prone to 'hallucinations', a term for when AI confidently produces information that is incorrect. In a government context, wrong answers about official procedures or entitlements could cause real problems for citizens. This story is directly relevant to public-sector bodies exploring AI for public services, as it highlights both the promise of easier access and the importance of accuracy, testing, and human oversight.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 30 September 2026\n============================================================\nThis edition focuses on two developments shaping how AI is built and governed: a wave of new, more affordable AI models from OpenAI, and fresh moves on AI oversight and public-sector use in the United States. For Tamkeen, these stories offer useful signals about where the cost of AI tools is heading, how governments are approaching AI safety, and what happens when AI is applied directly to public services. We have kept the language plain and practical throughout.\n\n1. Introducing GPT-6.1 Sol\n   https://openai.com/index/introducing-gpt-6-1-sol\n   OpenAI has released a new AI model called GPT-6.1 Sol, positioning it as a strong performer for practical tasks such as writing computer code, operating software, and handling professional office work. The company says it delivers intelligence close to that of its most advanced model, Astra, but at roughly one-fifth of Astra's price for processing text. Pricing is measured in 'tokens', which are the small units of text an AI reads and produces; a lower price per token means organisations pay much less to run the same volume of work. The main significance here is cost: as capable models become dramatically cheaper, using AI for everyday professional and administrative tasks becomes more affordable for institutions and businesses. For workforce-focused bodies, this trend matters because it lowers the barrier to deploying AI tools across teams and training programmes.\n   (OpenAI · 29 Sep 2026)\n\n2. Here’s how tech leaders will self-police AI safety under Trump’s deal\n   https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs\n   The Verge reported the full details of a voluntary AI safety agreement announced by US President Trump, in which leading technology executives committed to regulating their own AI systems rather than being bound by new government rules. The accord, titled the Joint Commitment On Frontier Responsibilities, was shared publicly by tech founder and presidential advisor David Sacks and signed by several major companies. It is described as 'morally binding', meaning it relies on companies keeping their word rather than on legal enforcement. This reflects a broader US approach that favours industry self-regulation over formal legislation, a notable contrast to regions such as the European Union that have passed binding AI laws. For public-sector observers, the deal illustrates the different governance models emerging globally and the ongoing debate over how strictly frontier AI should be overseen.\n   (The Verge — AI · 30 Sep 2026)\n\n3. DevDay 2026 Recap\n   https://openai.com/index/devday-2026-recap\n   OpenAI published a recap of its DevDay 2026 event, an annual gathering aimed at software developers and organisations that build products using its technology. The company shared more than 20 announcements, including its flagship GPT-6 Astra model, updates to ChatGPT, its coding assistant Codex, and various tools, security features, and programming interfaces for developers. These 'APIs' are the technical connections that let other companies plug OpenAI's models into their own apps and services. The volume of announcements signals how quickly the AI industry is expanding its offerings and competing to attract developers. For non-technical readers, the key takeaway is that AI capabilities are being packaged into an ever-wider set of ready-to-use tools, which will steadily shape the software and services people use at work.\n   (OpenAI · 29 Sep 2026)\n\n4. OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less\n   https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/\n   TechCrunch covered the launch of GPT-6.1 Sol, reporting OpenAI's claim that the new model nearly matches its top-tier Astra model while costing significantly less to use. According to the company, it offers meaningful improvements over the earlier GPT-6 Sol version on complex professional tasks, including writing and fixing computer code, understanding documents, and carrying out multi-step business processes. This coverage complements OpenAI's own announcement by providing independent framing and highlighting the practical business uses the model is aimed at. The recurring theme is that AI providers are competing on both capability and price, pushing high-quality tools within reach of more users. For organisations planning training and workflow improvements, cheaper and more capable models could expand what is realistically achievable with limited budgets.\n   (TechCrunch — AI · 29 Sep 2026)\n\n5. Can a chatbot fix the government maze? The White House is about to find out\n   https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/\n   TechCrunch reported that the US White House is preparing to launch America.gov, a chatbot designed to help citizens navigate government bureaucracy and find the services they need. The goal is to simplify a system many people find confusing, by letting users ask questions in plain language rather than searching through complex official websites. However, the article cautions that the large language models behind such tools remain imperfect and are prone to 'hallucinations', a term for when AI confidently produces information that is incorrect. In a government context, wrong answers about official procedures or entitlements could cause real problems for citizens. This story is directly relevant to public-sector bodies exploring AI for public services, as it highlights both the promise of easier access and the importance of accuracy, testing, and human oversight.\n   (TechCrunch — AI · 29 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 30 September 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition focuses on two developments shaping how AI is built and governed: a wave of new, more affordable AI models from OpenAI, and fresh moves on AI oversight and public-sector use in the United States. For Tamkeen, these stories offer useful signals about where the cost of AI tools is heading, how governments are approaching AI safety, and what happens when AI is applied directly to public services. We have kept the language plain and practical throughout.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has released a new AI model called GPT-6.1 Sol, positioning it as a strong performer for practical tasks such as writing computer code, operating software, and handling professional office work. The company says it delivers intelligence close to that of its most advanced model, Astra, but at roughly one-fifth of Astra's price for processing text. Pricing is measured in 'tokens', which are the small units of text an AI reads and produces; a lower price per token means organisations pay much less to run the same volume of work. The main significance here is cost: as capable models become dramatically cheaper, using AI for everyday professional and administrative tasks becomes more affordable for institutions and businesses. For workforce-focused bodies, this trend matters because it lowers the barrier to deploying AI tools across teams and training programmes.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Here’s how tech leaders will self-police AI safety under Trump’s deal](https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reported the full details of a voluntary AI safety agreement announced by US President Trump, in which leading technology executives committed to regulating their own AI systems rather than being bound by new government rules. The accord, titled the Joint Commitment On Frontier Responsibilities, was shared publicly by tech founder and presidential advisor David Sacks and signed by several major companies. It is described as 'morally binding', meaning it relies on companies keeping their word rather than on legal enforcement. This reflects a broader US approach that favours industry self-regulation over formal legislation, a notable contrast to regions such as the European Union that have passed binding AI laws. For public-sector observers, the deal illustrates the different governance models emerging globally and the ongoing debate over how strictly frontier AI should be overseen.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 30 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI published a recap of its DevDay 2026 event, an annual gathering aimed at software developers and organisations that build products using its technology. The company shared more than 20 announcements, including its flagship GPT-6 Astra model, updates to ChatGPT, its coding assistant Codex, and various tools, security features, and programming interfaces for developers. These 'APIs' are the technical connections that let other companies plug OpenAI's models into their own apps and services. The volume of announcements signals how quickly the AI industry is expanding its offerings and competing to attract developers. For non-technical readers, the key takeaway is that AI capabilities are being packaged into an ever-wider set of ready-to-use tools, which will steadily shape the software and services people use at work.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less](https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch covered the launch of GPT-6.1 Sol, reporting OpenAI's claim that the new model nearly matches its top-tier Astra model while costing significantly less to use. According to the company, it offers meaningful improvements over the earlier GPT-6 Sol version on complex professional tasks, including writing and fixing computer code, understanding documents, and carrying out multi-step business processes. This coverage complements OpenAI's own announcement by providing independent framing and highlighting the practical business uses the model is aimed at. The recurring theme is that AI providers are competing on both capability and price, pushing high-quality tools within reach of more users. For organisations planning training and workflow improvements, cheaper and more capable models could expand what is realistically achievable with limited budgets.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Can a chatbot fix the government maze? The White House is about to find out](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reported that the US White House is preparing to launch America.gov, a chatbot designed to help citizens navigate government bureaucracy and find the services they need. The goal is to simplify a system many people find confusing, by letting users ask questions in plain language rather than searching through complex official websites. However, the article cautions that the large language models behind such tools remain imperfect and are prone to 'hallucinations', a term for when AI confidently produces information that is incorrect. In a government context, wrong answers about official procedures or entitlements could cause real problems for citizens. This story is directly relevant to public-sector bodies exploring AI for public services, as it highlights both the promise of easier access and the importance of accuracy, testing, and human oversight.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 29 Sep 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 30 September 2026\n============================================================\nThis edition focuses on two developments shaping how AI is built and governed: a wave of new, more affordable AI models from OpenAI, and fresh moves on AI oversight and public-sector use in the United States. For Tamkeen, these stories offer useful signals about where the cost of AI tools is heading, how governments are approaching AI safety, and what happens when AI is applied directly to public services. We have kept the language plain and practical throughout.\n\n1. Introducing GPT-6.1 Sol\n   https://openai.com/index/introducing-gpt-6-1-sol\n   OpenAI has released a new AI model called GPT-6.1 Sol, positioning it as a strong performer for practical tasks such as writing computer code, operating software, and handling professional office work. The company says it delivers intelligence close to that of its most advanced model, Astra, but at roughly one-fifth of Astra's price for processing text. Pricing is measured in 'tokens', which are the small units of text an AI reads and produces; a lower price per token means organisations pay much less to run the same volume of work. The main significance here is cost: as capable models become dramatically cheaper, using AI for everyday professional and administrative tasks becomes more affordable for institutions and businesses. For workforce-focused bodies, this trend matters because it lowers the barrier to deploying AI tools across teams and training programmes.\n   (OpenAI · 29 Sep 2026)\n\n2. Here’s how tech leaders will self-police AI safety under Trump’s deal\n   https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs\n   The Verge reported the full details of a voluntary AI safety agreement announced by US President Trump, in which leading technology executives committed to regulating their own AI systems rather than being bound by new government rules. The accord, titled the Joint Commitment On Frontier Responsibilities, was shared publicly by tech founder and presidential advisor David Sacks and signed by several major companies. It is described as 'morally binding', meaning it relies on companies keeping their word rather than on legal enforcement. This reflects a broader US approach that favours industry self-regulation over formal legislation, a notable contrast to regions such as the European Union that have passed binding AI laws. For public-sector observers, the deal illustrates the different governance models emerging globally and the ongoing debate over how strictly frontier AI should be overseen.\n   (The Verge — AI · 30 Sep 2026)\n\n3. DevDay 2026 Recap\n   https://openai.com/index/devday-2026-recap\n   OpenAI published a recap of its DevDay 2026 event, an annual gathering aimed at software developers and organisations that build products using its technology. The company shared more than 20 announcements, including its flagship GPT-6 Astra model, updates to ChatGPT, its coding assistant Codex, and various tools, security features, and programming interfaces for developers. These 'APIs' are the technical connections that let other companies plug OpenAI's models into their own apps and services. The volume of announcements signals how quickly the AI industry is expanding its offerings and competing to attract developers. For non-technical readers, the key takeaway is that AI capabilities are being packaged into an ever-wider set of ready-to-use tools, which will steadily shape the software and services people use at work.\n   (OpenAI · 29 Sep 2026)\n\n4. OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less\n   https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/\n   TechCrunch covered the launch of GPT-6.1 Sol, reporting OpenAI's claim that the new model nearly matches its top-tier Astra model while costing significantly less to use. According to the company, it offers meaningful improvements over the earlier GPT-6 Sol version on complex professional tasks, including writing and fixing computer code, understanding documents, and carrying out multi-step business processes. This coverage complements OpenAI's own announcement by providing independent framing and highlighting the practical business uses the model is aimed at. The recurring theme is that AI providers are competing on both capability and price, pushing high-quality tools within reach of more users. For organisations planning training and workflow improvements, cheaper and more capable models could expand what is realistically achievable with limited budgets.\n   (TechCrunch — AI · 29 Sep 2026)\n\n5. Can a chatbot fix the government maze? The White House is about to find out\n   https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/\n   TechCrunch reported that the US White House is preparing to launch America.gov, a chatbot designed to help citizens navigate government bureaucracy and find the services they need. The goal is to simplify a system many people find confusing, by letting users ask questions in plain language rather than searching through complex official websites. However, the article cautions that the large language models behind such tools remain imperfect and are prone to 'hallucinations', a term for when AI confidently produces information that is incorrect. In a government context, wrong answers about official procedures or entitlements could cause real problems for citizens. This story is directly relevant to public-sector bodies exploring AI for public services, as it highlights both the promise of easier access and the importance of accuracy, testing, and human oversight.\n   (TechCrunch — AI · 29 Sep 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
