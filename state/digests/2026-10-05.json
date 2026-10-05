@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-05",
+  "generated_at_iso": "2026-10-05T14:50:17.749744+00:00",
+  "date_range_label": "5 October 2026",
+  "subtitle": "Monday, 5 October 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week we look at a practical guide for building with OpenAI's latest GPT-6 models, alongside several developments in how governments and the people who work on AI safety are approaching the technology's risks. Together these stories highlight the ongoing balance between adopting powerful new tools and ensuring they are governed responsibly — themes directly relevant to our work in education, workforce development, and public service.",
+  "items": [
+    {
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-02T16:15:00+00:00",
+      "summary": "OpenAI has published a practical guide to help organisations build with its newest GPT-6 family of models. The guide explains how to choose the right model for a given task, adjust how much 'reasoning effort' a model applies, write clearer instructions (known as prompts), and combine AI with other software tools to automate workflows. It is aimed primarily at startups and technical teams preparing AI systems for real-world use, rather than casual users. For a non-technical reader, the key takeaway is that newer AI models now come with more options to be tuned and customised, which makes them more flexible but also requires more planning to use well. Understanding these capabilities matters for any institution considering how AI could support training, service delivery, or everyday operations.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-04T15:15:10+00:00",
+      "summary": "The Trump administration has announced a new government task force it calls the 'Super Intelligence Force,' presented as its latest response to ongoing debate over AI safety. The initiative appears designed to signal that the administration is actively engaged with questions about how to manage advanced AI, though the details of its powers and mandate remain limited. The announcement reflects how AI governance has become a prominent political issue in the United States, with governments under pressure to show they are addressing both the opportunities and the risks. For public-sector readers, it is a reminder that national AI strategies are evolving quickly and that the framing of these efforts — including branding and messaging — is itself part of the policy conversation.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+      "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-05T14:30:00+00:00",
+      "summary": "In a podcast interview, US Senator Adam Schiff, a Democrat from California, discussed the challenges of regulating the technology industry, including artificial intelligence. Schiff sits on several committees with oversight of areas such as intellectual property, antitrust, privacy, and technology, giving him a broad view of the policy debates. The conversation touched on how lawmakers might approach AI regulation at a time of political division, as well as related questions about free speech and government accountability. The discussion illustrates the difficulty legislators face in crafting rules for a fast-moving industry where technical complexity meets competing political interests. For those following AI policy, it offers insight into how regulation is being debated at the highest levels of government.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "An OpenAI safety employee has quit and is sounding the alarm",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-03T14:31:56+00:00",
+      "summary": "David Robinson, a safety employee at OpenAI who previously wrote the safety reports accompanying the company's major model releases, has resigned and is now speaking publicly about his concerns in an editorial published in The Atlantic. His departure adds to a pattern of safety-focused staff leaving leading AI companies and voicing worries about how risks are being managed internally. The report acknowledges that some readers may feel sceptical, given how many people have recently come forward with similar warnings. Nonetheless, when someone directly responsible for assessing a company's safety practices chooses to leave and raise the alarm, it carries particular weight. The episode underscores the ongoing tension inside AI firms between moving quickly to release products and ensuring those products are thoroughly vetted for safety.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-04T20:08:34+00:00",
+      "summary": "An episode of TechCrunch's Equity podcast examined the Trump administration's recent efforts to reshape public perception of AI, including the rollout of its 'Super Intelligence' task force and a non-binding safety agreement. The hosts questioned whether such measures can genuinely address AI's reputation problems or whether they amount largely to rebranding. A non-binding pact means participants are not legally required to follow its commitments, which raises doubts about how much practical impact it will have. The discussion highlights a recurring theme in AI policy: the gap between high-profile announcements and enforceable rules. For readers tracking government approaches to AI, it is a useful reminder to look closely at whether new initiatives carry real obligations or are mainly symbolic.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 5 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at a practical guide for building with OpenAI's latest GPT-6 models, alongside several developments in how governments and the people who work on AI safety are approaching the technology's risks. Together these stories highlight the ongoing balance between adopting powerful new tools and ensuring they are governed responsibly — themes directly relevant to our work in education, workforce development, and public service.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a practical guide to help organisations build with its newest GPT-6 family of models. The guide explains how to choose the right model for a given task, adjust how much 'reasoning effort' a model applies, write clearer instructions (known as prompts), and combine AI with other software tools to automate workflows. It is aimed primarily at startups and technical teams preparing AI systems for real-world use, rather than casual users. For a non-technical reader, the key takeaway is that newer AI models now come with more options to be tuned and customised, which makes them more flexible but also requires more planning to use well. Understanding these capabilities matters for any institution considering how AI could support training, service delivery, or everyday operations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 02 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Trump unveils his new Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Trump administration has announced a new government task force it calls the 'Super Intelligence Force,' presented as its latest response to ongoing debate over AI safety. The initiative appears designed to signal that the administration is actively engaged with questions about how to manage advanced AI, though the details of its powers and mandate remain limited. The announcement reflects how AI governance has become a prominent political issue in the United States, with governments under pressure to show they are addressing both the opportunities and the risks. For public-sector readers, it is a reminder that national AI strategies are evolving quickly and that the framing of these efforts — including branding and messaging — is itself part of the policy conversation.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 04 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time](https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a podcast interview, US Senator Adam Schiff, a Democrat from California, discussed the challenges of regulating the technology industry, including artificial intelligence. Schiff sits on several committees with oversight of areas such as intellectual property, antitrust, privacy, and technology, giving him a broad view of the policy debates. The conversation touched on how lawmakers might approach AI regulation at a time of political division, as well as related questions about free speech and government accountability. The discussion illustrates the difficulty legislators face in crafting rules for a fast-moving industry where technical complexity meets competing political interests. For those following AI policy, it offers insight into how regulation is being debated at the highest levels of government.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 05 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "David Robinson, a safety employee at OpenAI who previously wrote the safety reports accompanying the company's major model releases, has resigned and is now speaking publicly about his concerns in an editorial published in The Atlantic. His departure adds to a pattern of safety-focused staff leaving leading AI companies and voicing worries about how risks are being managed internally. The report acknowledges that some readers may feel sceptical, given how many people have recently come forward with similar warnings. Nonetheless, when someone directly responsible for assessing a company's safety practices chooses to leave and raise the alarm, it carries particular weight. The episode underscores the ongoing tension inside AI firms between moving quickly to release products and ensuring those products are thoroughly vetted for safety.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 03 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "An episode of TechCrunch's Equity podcast examined the Trump administration's recent efforts to reshape public perception of AI, including the rollout of its 'Super Intelligence' task force and a non-binding safety agreement. The hosts questioned whether such measures can genuinely address AI's reputation problems or whether they amount largely to rebranding. A non-binding pact means participants are not legally required to follow its commitments, which raises doubts about how much practical impact it will have. The discussion highlights a recurring theme in AI policy: the gap between high-profile announcements and enforceable rules. For readers tracking government approaches to AI, it is a useful reminder to look closely at whether new initiatives carry real obligations or are mainly symbolic.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 05 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 5 October 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at a practical guide for building with OpenAI's latest GPT-6 models, alongside several developments in how governments and the people who work on AI safety are approaching the technology's risks. Together these stories highlight the ongoing balance between adopting powerful new tools and ensuring they are governed responsibly — themes directly relevant to our work in education, workforce development, and public service.\n\n1. A model guide for the GPT-6 family\n   https://openai.com/index/practical-guide-building-gpt-6\n   OpenAI has published a practical guide to help organisations build with its newest GPT-6 family of models. The guide explains how to choose the right model for a given task, adjust how much 'reasoning effort' a model applies, write clearer instructions (known as prompts), and combine AI with other software tools to automate workflows. It is aimed primarily at startups and technical teams preparing AI systems for real-world use, rather than casual users. For a non-technical reader, the key takeaway is that newer AI models now come with more options to be tuned and customised, which makes them more flexible but also requires more planning to use well. Understanding these capabilities matters for any institution considering how AI could support training, service delivery, or everyday operations.\n   (OpenAI · 02 Oct 2026)\n\n2. Trump unveils his new Super Intelligence Force\n   https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/\n   The Trump administration has announced a new government task force it calls the 'Super Intelligence Force,' presented as its latest response to ongoing debate over AI safety. The initiative appears designed to signal that the administration is actively engaged with questions about how to manage advanced AI, though the details of its powers and mandate remain limited. The announcement reflects how AI governance has become a prominent political issue in the United States, with governments under pressure to show they are addressing both the opportunities and the risks. For public-sector readers, it is a reminder that national AI strategies are evolving quickly and that the framing of these efforts — including branding and messaging — is itself part of the policy conversation.\n   (TechCrunch — AI · 04 Oct 2026)\n\n3. Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time\n   https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption\n   In a podcast interview, US Senator Adam Schiff, a Democrat from California, discussed the challenges of regulating the technology industry, including artificial intelligence. Schiff sits on several committees with oversight of areas such as intellectual property, antitrust, privacy, and technology, giving him a broad view of the policy debates. The conversation touched on how lawmakers might approach AI regulation at a time of political division, as well as related questions about free speech and government accountability. The discussion illustrates the difficulty legislators face in crafting rules for a fast-moving industry where technical complexity meets competing political interests. For those following AI policy, it offers insight into how regulation is being debated at the highest levels of government.\n   (The Verge — AI · 05 Oct 2026)\n\n4. An OpenAI safety employee has quit and is sounding the alarm\n   https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm\n   David Robinson, a safety employee at OpenAI who previously wrote the safety reports accompanying the company's major model releases, has resigned and is now speaking publicly about his concerns in an editorial published in The Atlantic. His departure adds to a pattern of safety-focused staff leaving leading AI companies and voicing worries about how risks are being managed internally. The report acknowledges that some readers may feel sceptical, given how many people have recently come forward with similar warnings. Nonetheless, when someone directly responsible for assessing a company's safety practices chooses to leave and raise the alarm, it carries particular weight. The episode underscores the ongoing tension inside AI firms between moving quickly to release products and ensuring those products are thoroughly vetted for safety.\n   (The Verge — AI · 03 Oct 2026)\n\n5. Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?\n   https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/\n   An episode of TechCrunch's Equity podcast examined the Trump administration's recent efforts to reshape public perception of AI, including the rollout of its 'Super Intelligence' task force and a non-binding safety agreement. The hosts questioned whether such measures can genuinely address AI's reputation problems or whether they amount largely to rebranding. A non-binding pact means participants are not legally required to follow its commitments, which raises doubts about how much practical impact it will have. The discussion highlights a recurring theme in AI policy: the gap between high-profile announcements and enforceable rules. For readers tracking government approaches to AI, it is a useful reminder to look closely at whether new initiatives carry real obligations or are mainly symbolic.\n   (TechCrunch — AI · 05 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 5 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at a practical guide for building with OpenAI's latest GPT-6 models, alongside several developments in how governments and the people who work on AI safety are approaching the technology's risks. Together these stories highlight the ongoing balance between adopting powerful new tools and ensuring they are governed responsibly — themes directly relevant to our work in education, workforce development, and public service.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a practical guide to help organisations build with its newest GPT-6 family of models. The guide explains how to choose the right model for a given task, adjust how much 'reasoning effort' a model applies, write clearer instructions (known as prompts), and combine AI with other software tools to automate workflows. It is aimed primarily at startups and technical teams preparing AI systems for real-world use, rather than casual users. For a non-technical reader, the key takeaway is that newer AI models now come with more options to be tuned and customised, which makes them more flexible but also requires more planning to use well. Understanding these capabilities matters for any institution considering how AI could support training, service delivery, or everyday operations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 02 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Trump unveils his new Super Intelligence Force](https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Trump administration has announced a new government task force it calls the 'Super Intelligence Force,' presented as its latest response to ongoing debate over AI safety. The initiative appears designed to signal that the administration is actively engaged with questions about how to manage advanced AI, though the details of its powers and mandate remain limited. The announcement reflects how AI governance has become a prominent political issue in the United States, with governments under pressure to show they are addressing both the opportunities and the risks. For public-sector readers, it is a reminder that national AI strategies are evolving quickly and that the framing of these efforts — including branding and messaging — is itself part of the policy conversation.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 04 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time](https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a podcast interview, US Senator Adam Schiff, a Democrat from California, discussed the challenges of regulating the technology industry, including artificial intelligence. Schiff sits on several committees with oversight of areas such as intellectual property, antitrust, privacy, and technology, giving him a broad view of the policy debates. The conversation touched on how lawmakers might approach AI regulation at a time of political division, as well as related questions about free speech and government accountability. The discussion illustrates the difficulty legislators face in crafting rules for a fast-moving industry where technical complexity meets competing political interests. For those following AI policy, it offers insight into how regulation is being debated at the highest levels of government.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 05 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. An OpenAI safety employee has quit and is sounding the alarm](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "David Robinson, a safety employee at OpenAI who previously wrote the safety reports accompanying the company's major model releases, has resigned and is now speaking publicly about his concerns in an editorial published in The Atlantic. His departure adds to a pattern of safety-focused staff leaving leading AI companies and voicing worries about how risks are being managed internally. The report acknowledges that some readers may feel sceptical, given how many people have recently come forward with similar warnings. Nonetheless, when someone directly responsible for assessing a company's safety practices chooses to leave and raise the alarm, it carries particular weight. The episode underscores the ongoing tension inside AI firms between moving quickly to release products and ensuring those products are thoroughly vetted for safety.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 03 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?](https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "An episode of TechCrunch's Equity podcast examined the Trump administration's recent efforts to reshape public perception of AI, including the rollout of its 'Super Intelligence' task force and a non-binding safety agreement. The hosts questioned whether such measures can genuinely address AI's reputation problems or whether they amount largely to rebranding. A non-binding pact means participants are not legally required to follow its commitments, which raises doubts about how much practical impact it will have. The discussion highlights a recurring theme in AI policy: the gap between high-profile announcements and enforceable rules. For readers tracking government approaches to AI, it is a useful reminder to look closely at whether new initiatives carry real obligations or are mainly symbolic.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 05 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 5 October 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at a practical guide for building with OpenAI's latest GPT-6 models, alongside several developments in how governments and the people who work on AI safety are approaching the technology's risks. Together these stories highlight the ongoing balance between adopting powerful new tools and ensuring they are governed responsibly — themes directly relevant to our work in education, workforce development, and public service.\n\n1. A model guide for the GPT-6 family\n   https://openai.com/index/practical-guide-building-gpt-6\n   OpenAI has published a practical guide to help organisations build with its newest GPT-6 family of models. The guide explains how to choose the right model for a given task, adjust how much 'reasoning effort' a model applies, write clearer instructions (known as prompts), and combine AI with other software tools to automate workflows. It is aimed primarily at startups and technical teams preparing AI systems for real-world use, rather than casual users. For a non-technical reader, the key takeaway is that newer AI models now come with more options to be tuned and customised, which makes them more flexible but also requires more planning to use well. Understanding these capabilities matters for any institution considering how AI could support training, service delivery, or everyday operations.\n   (OpenAI · 02 Oct 2026)\n\n2. Trump unveils his new Super Intelligence Force\n   https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/\n   The Trump administration has announced a new government task force it calls the 'Super Intelligence Force,' presented as its latest response to ongoing debate over AI safety. The initiative appears designed to signal that the administration is actively engaged with questions about how to manage advanced AI, though the details of its powers and mandate remain limited. The announcement reflects how AI governance has become a prominent political issue in the United States, with governments under pressure to show they are addressing both the opportunities and the risks. For public-sector readers, it is a reminder that national AI strategies are evolving quickly and that the framing of these efforts — including branding and messaging — is itself part of the policy conversation.\n   (TechCrunch — AI · 04 Oct 2026)\n\n3. Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time\n   https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption\n   In a podcast interview, US Senator Adam Schiff, a Democrat from California, discussed the challenges of regulating the technology industry, including artificial intelligence. Schiff sits on several committees with oversight of areas such as intellectual property, antitrust, privacy, and technology, giving him a broad view of the policy debates. The conversation touched on how lawmakers might approach AI regulation at a time of political division, as well as related questions about free speech and government accountability. The discussion illustrates the difficulty legislators face in crafting rules for a fast-moving industry where technical complexity meets competing political interests. For those following AI policy, it offers insight into how regulation is being debated at the highest levels of government.\n   (The Verge — AI · 05 Oct 2026)\n\n4. An OpenAI safety employee has quit and is sounding the alarm\n   https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm\n   David Robinson, a safety employee at OpenAI who previously wrote the safety reports accompanying the company's major model releases, has resigned and is now speaking publicly about his concerns in an editorial published in The Atlantic. His departure adds to a pattern of safety-focused staff leaving leading AI companies and voicing worries about how risks are being managed internally. The report acknowledges that some readers may feel sceptical, given how many people have recently come forward with similar warnings. Nonetheless, when someone directly responsible for assessing a company's safety practices chooses to leave and raise the alarm, it carries particular weight. The episode underscores the ongoing tension inside AI firms between moving quickly to release products and ensuring those products are thoroughly vetted for safety.\n   (The Verge — AI · 03 Oct 2026)\n\n5. Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?\n   https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/\n   An episode of TechCrunch's Equity podcast examined the Trump administration's recent efforts to reshape public perception of AI, including the rollout of its 'Super Intelligence' task force and a non-binding safety agreement. The hosts questioned whether such measures can genuinely address AI's reputation problems or whether they amount largely to rebranding. A non-binding pact means participants are not legally required to follow its commitments, which raises doubts about how much practical impact it will have. The discussion highlights a recurring theme in AI policy: the gap between high-profile announcements and enforceable rules. For readers tracking government approaches to AI, it is a useful reminder to look closely at whether new initiatives carry real obligations or are mainly symbolic.\n   (TechCrunch — AI · 05 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
