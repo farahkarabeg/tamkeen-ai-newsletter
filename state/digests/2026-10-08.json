@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-08",
+  "generated_at_iso": "2026-10-08T13:38:20.502090+00:00",
+  "date_range_label": "8 October 2026",
+  "subtitle": "Thursday, 8 October 2026",
+  "editor_note": "Welcome to this edition, which centres on developments in education technology and the next generation of AI tools reaching everyday users. We look at new features designed to support students through major life decisions, alongside a significant model release and advances in how AI presents information. Together these stories highlight how AI is becoming more capable, more visual, and more tailored to specific audiences — including young people.",
+  "items": [
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-07T12:00:00+00:00",
+      "summary": "OpenAI has announced new education features for ChatGPT for Teens, a version of its chatbot designed with additional safeguards for younger users. The centrepiece is College Planner, a tool that helps students organise their college applications by bringing together requirements, deadlines, tasks, and financial-aid steps for the schools on their list. Alongside this, the company is adding study aids such as flashcards and quizzes, and has created a teen AI council to gather input from young people on how these tools are developed. For an institution focused on education and human-capital development, this signals how AI is increasingly being aimed at supporting students through key academic milestones. It also raises useful questions about the balance between helpful guidance and appropriate oversight when minors use AI tools.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-07T00:00:00+00:00",
+      "summary": "OpenAI has begun a global rollout of GPT-6, the latest version of the model that powers ChatGPT, making it available to users worldwide. The company says the new version delivers faster responses and introduces a feature called Intelligent UI, which lets the assistant reply with visuals and interactive elements rather than text alone. This means users can explore and act on answers directly within the chat, rather than reading long written responses. Frontier model releases like this one typically set the pace for what AI tools across the market can do, and often influence the features that other providers adopt. For non-technical staff, the practical takeaway is that the everyday experience of using AI assistants is becoming quicker and more interactive.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "ChatGPT is getting college planning tools",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-07T16:00:00+00:00",
+      "summary": "This report from The Verge provides additional detail on OpenAI's new college planning tools within ChatGPT for Teens, the teen-focused mode introduced in August with built-in safeguards and break reminders. According to OpenAI, the College Planner feature consolidates application requirements, deadlines, tasks, and financial-aid steps for a student's chosen schools into a single organised plan. This is particularly useful for students applying to several institutions at once, who otherwise have to track many separate processes manually. The coverage underscores a wider trend of embedding AI directly into the practical, administrative side of education. It also highlights how companies are positioning AI as a planning and productivity aid for students, not just a source of answers.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-10-06T19:57:04+00:00",
+      "summary": "Google DeepMind has released EmbeddingGemma 2, an open and lightweight model designed to handle multiple types of content, including text and images. Embedding models are a behind-the-scenes technology that converts information into a numerical form computers can compare and search efficiently; they power features such as search, recommendations, and the retrieval systems that help AI assistants find relevant information. Because this model is described as open and lightweight, it can be used and adapted freely and run on more modest computing resources, lowering the cost and barrier to building AI-powered tools. This matters for organisations and developers who want to create their own applications without relying solely on large commercial systems. For Tamkeen, it reflects a broader movement toward more accessible AI building blocks that could support local and public-sector innovation.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-07T19:10:42+00:00",
+      "summary": "OpenAI is launching a feature called Intelligent UI in ChatGPT, rolling out to all users alongside GPT-6. The update allows the chatbot to combine written answers with interactive visuals such as diagrams, charts, forms, and tappable buttons, rather than relying on text alone. This changes how people receive information from the assistant, making responses easier to scan and act upon, especially for tasks involving data, comparisons, or step-by-step processes. The shift reflects a broader effort across the industry to make AI tools feel less like a text conversation and more like a practical, interactive application. For non-technical users, this could make AI assistants more approachable and useful in everyday work, though it may also take some adjustment to navigate the new format.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 8 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, which centres on developments in education technology and the next generation of AI tools reaching everyday users. We look at new features designed to support students through major life decisions, alongside a significant model release and advances in how AI presents information. Together these stories highlight how AI is becoming more capable, more visual, and more tailored to specific audiences — including young people.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Helping teens learn, plan, and shape the future of AI](https://openai.com/index/teens-learn-and-plan)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced new education features for ChatGPT for Teens, a version of its chatbot designed with additional safeguards for younger users. The centrepiece is College Planner, a tool that helps students organise their college applications by bringing together requirements, deadlines, tasks, and financial-aid steps for the schools on their list. Alongside this, the company is adding study aids such as flashcards and quizzes, and has created a teen AI council to gather input from young people on how these tools are developed. For an institution focused on education and human-capital development, this signals how AI is increasingly being aimed at supporting students through key academic milestones. It also raises useful questions about the balance between helpful guidance and appropriate oversight when minors use AI tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 07 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has begun a global rollout of GPT-6, the latest version of the model that powers ChatGPT, making it available to users worldwide. The company says the new version delivers faster responses and introduces a feature called Intelligent UI, which lets the assistant reply with visuals and interactive elements rather than text alone. This means users can explore and act on answers directly within the chat, rather than reading long written responses. Frontier model releases like this one typically set the pace for what AI tools across the market can do, and often influence the features that other providers adopt. For non-technical staff, the practical takeaway is that the everyday experience of using AI assistants is becoming quicker and more interactive.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 07 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This report from The Verge provides additional detail on OpenAI's new college planning tools within ChatGPT for Teens, the teen-focused mode introduced in August with built-in safeguards and break reminders. According to OpenAI, the College Planner feature consolidates application requirements, deadlines, tasks, and financial-aid steps for a student's chosen schools into a single organised plan. This is particularly useful for students applying to several institutions at once, who otherwise have to track many separate processes manually. The coverage underscores a wider trend of embedding AI directly into the practical, administrative side of education. It also highlights how companies are positioning AI as a planning and productivity aid for students, not just a source of answers.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 07 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has released EmbeddingGemma 2, an open and lightweight model designed to handle multiple types of content, including text and images. Embedding models are a behind-the-scenes technology that converts information into a numerical form computers can compare and search efficiently; they power features such as search, recommendations, and the retrieval systems that help AI assistants find relevant information. Because this model is described as open and lightweight, it can be used and adapted freely and run on more modest computing resources, lowering the cost and barrier to building AI-powered tools. This matters for organisations and developers who want to create their own applications without relying solely on large commercial systems. For Tamkeen, it reflects a broader movement toward more accessible AI building blocks that could support local and public-sector innovation.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 06 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI is launching a feature called Intelligent UI in ChatGPT, rolling out to all users alongside GPT-6. The update allows the chatbot to combine written answers with interactive visuals such as diagrams, charts, forms, and tappable buttons, rather than relying on text alone. This changes how people receive information from the assistant, making responses easier to scan and act upon, especially for tasks involving data, comparisons, or step-by-step processes. The shift reflects a broader effort across the industry to make AI tools feel less like a text conversation and more like a practical, interactive application. For non-technical users, this could make AI assistants more approachable and useful in everyday work, though it may also take some adjustment to navigate the new format.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 07 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 8 October 2026\n============================================================\nWelcome to this edition, which centres on developments in education technology and the next generation of AI tools reaching everyday users. We look at new features designed to support students through major life decisions, alongside a significant model release and advances in how AI presents information. Together these stories highlight how AI is becoming more capable, more visual, and more tailored to specific audiences — including young people.\n\n1. Helping teens learn, plan, and shape the future of AI\n   https://openai.com/index/teens-learn-and-plan\n   OpenAI has announced new education features for ChatGPT for Teens, a version of its chatbot designed with additional safeguards for younger users. The centrepiece is College Planner, a tool that helps students organise their college applications by bringing together requirements, deadlines, tasks, and financial-aid steps for the schools on their list. Alongside this, the company is adding study aids such as flashcards and quizzes, and has created a teen AI council to gather input from young people on how these tools are developed. For an institution focused on education and human-capital development, this signals how AI is increasingly being aimed at supporting students through key academic milestones. It also raises useful questions about the balance between helpful guidance and appropriate oversight when minors use AI tools.\n   (OpenAI · 07 Oct 2026)\n\n2. GPT-6 and Intelligent UI for everyone\n   https://openai.com/index/gpt-6-for-everyone\n   OpenAI has begun a global rollout of GPT-6, the latest version of the model that powers ChatGPT, making it available to users worldwide. The company says the new version delivers faster responses and introduces a feature called Intelligent UI, which lets the assistant reply with visuals and interactive elements rather than text alone. This means users can explore and act on answers directly within the chat, rather than reading long written responses. Frontier model releases like this one typically set the pace for what AI tools across the market can do, and often influence the features that other providers adopt. For non-technical staff, the practical takeaway is that the everyday experience of using AI assistants is becoming quicker and more interactive.\n   (OpenAI · 07 Oct 2026)\n\n3. ChatGPT is getting college planning tools\n   https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards\n   This report from The Verge provides additional detail on OpenAI's new college planning tools within ChatGPT for Teens, the teen-focused mode introduced in August with built-in safeguards and break reminders. According to OpenAI, the College Planner feature consolidates application requirements, deadlines, tasks, and financial-aid steps for a student's chosen schools into a single organised plan. This is particularly useful for students applying to several institutions at once, who otherwise have to track many separate processes manually. The coverage underscores a wider trend of embedding AI directly into the practical, administrative side of education. It also highlights how companies are positioning AI as a planning and productivity aid for students, not just a source of answers.\n   (The Verge — AI · 07 Oct 2026)\n\n4. EmbeddingGemma 2: an open, lightweight multimodal embedding model\n   https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/\n   Google DeepMind has released EmbeddingGemma 2, an open and lightweight model designed to handle multiple types of content, including text and images. Embedding models are a behind-the-scenes technology that converts information into a numerical form computers can compare and search efficiently; they power features such as search, recommendations, and the retrieval systems that help AI assistants find relevant information. Because this model is described as open and lightweight, it can be used and adapted freely and run on more modest computing resources, lowering the cost and barrier to building AI-powered tools. This matters for organisations and developers who want to create their own applications without relying solely on large commercial systems. For Tamkeen, it reflects a broader movement toward more accessible AI building blocks that could support local and public-sector innovation.\n   (Google DeepMind · 06 Oct 2026)\n\n5. ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons\n   https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6\n   OpenAI is launching a feature called Intelligent UI in ChatGPT, rolling out to all users alongside GPT-6. The update allows the chatbot to combine written answers with interactive visuals such as diagrams, charts, forms, and tappable buttons, rather than relying on text alone. This changes how people receive information from the assistant, making responses easier to scan and act upon, especially for tasks involving data, comparisons, or step-by-step processes. The shift reflects a broader effort across the industry to make AI tools feel less like a text conversation and more like a practical, interactive application. For non-technical users, this could make AI assistants more approachable and useful in everyday work, though it may also take some adjustment to navigate the new format.\n   (The Verge — AI · 07 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 8 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, which centres on developments in education technology and the next generation of AI tools reaching everyday users. We look at new features designed to support students through major life decisions, alongside a significant model release and advances in how AI presents information. Together these stories highlight how AI is becoming more capable, more visual, and more tailored to specific audiences — including young people.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Helping teens learn, plan, and shape the future of AI](https://openai.com/index/teens-learn-and-plan)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced new education features for ChatGPT for Teens, a version of its chatbot designed with additional safeguards for younger users. The centrepiece is College Planner, a tool that helps students organise their college applications by bringing together requirements, deadlines, tasks, and financial-aid steps for the schools on their list. Alongside this, the company is adding study aids such as flashcards and quizzes, and has created a teen AI council to gather input from young people on how these tools are developed. For an institution focused on education and human-capital development, this signals how AI is increasingly being aimed at supporting students through key academic milestones. It also raises useful questions about the balance between helpful guidance and appropriate oversight when minors use AI tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 07 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has begun a global rollout of GPT-6, the latest version of the model that powers ChatGPT, making it available to users worldwide. The company says the new version delivers faster responses and introduces a feature called Intelligent UI, which lets the assistant reply with visuals and interactive elements rather than text alone. This means users can explore and act on answers directly within the chat, rather than reading long written responses. Frontier model releases like this one typically set the pace for what AI tools across the market can do, and often influence the features that other providers adopt. For non-technical staff, the practical takeaway is that the everyday experience of using AI assistants is becoming quicker and more interactive.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 07 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. ChatGPT is getting college planning tools](https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This report from The Verge provides additional detail on OpenAI's new college planning tools within ChatGPT for Teens, the teen-focused mode introduced in August with built-in safeguards and break reminders. According to OpenAI, the College Planner feature consolidates application requirements, deadlines, tasks, and financial-aid steps for a student's chosen schools into a single organised plan. This is particularly useful for students applying to several institutions at once, who otherwise have to track many separate processes manually. The coverage underscores a wider trend of embedding AI directly into the practical, administrative side of education. It also highlights how companies are positioning AI as a planning and productivity aid for students, not just a source of answers.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 07 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. EmbeddingGemma 2: an open, lightweight multimodal embedding model](https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has released EmbeddingGemma 2, an open and lightweight model designed to handle multiple types of content, including text and images. Embedding models are a behind-the-scenes technology that converts information into a numerical form computers can compare and search efficiently; they power features such as search, recommendations, and the retrieval systems that help AI assistants find relevant information. Because this model is described as open and lightweight, it can be used and adapted freely and run on more modest computing resources, lowering the cost and barrier to building AI-powered tools. This matters for organisations and developers who want to create their own applications without relying solely on large commercial systems. For Tamkeen, it reflects a broader movement toward more accessible AI building blocks that could support local and public-sector innovation.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 06 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons](https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI is launching a feature called Intelligent UI in ChatGPT, rolling out to all users alongside GPT-6. The update allows the chatbot to combine written answers with interactive visuals such as diagrams, charts, forms, and tappable buttons, rather than relying on text alone. This changes how people receive information from the assistant, making responses easier to scan and act upon, especially for tasks involving data, comparisons, or step-by-step processes. The shift reflects a broader effort across the industry to make AI tools feel less like a text conversation and more like a practical, interactive application. For non-technical users, this could make AI assistants more approachable and useful in everyday work, though it may also take some adjustment to navigate the new format.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 07 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 8 October 2026\n============================================================\nWelcome to this edition, which centres on developments in education technology and the next generation of AI tools reaching everyday users. We look at new features designed to support students through major life decisions, alongside a significant model release and advances in how AI presents information. Together these stories highlight how AI is becoming more capable, more visual, and more tailored to specific audiences — including young people.\n\n1. Helping teens learn, plan, and shape the future of AI\n   https://openai.com/index/teens-learn-and-plan\n   OpenAI has announced new education features for ChatGPT for Teens, a version of its chatbot designed with additional safeguards for younger users. The centrepiece is College Planner, a tool that helps students organise their college applications by bringing together requirements, deadlines, tasks, and financial-aid steps for the schools on their list. Alongside this, the company is adding study aids such as flashcards and quizzes, and has created a teen AI council to gather input from young people on how these tools are developed. For an institution focused on education and human-capital development, this signals how AI is increasingly being aimed at supporting students through key academic milestones. It also raises useful questions about the balance between helpful guidance and appropriate oversight when minors use AI tools.\n   (OpenAI · 07 Oct 2026)\n\n2. GPT-6 and Intelligent UI for everyone\n   https://openai.com/index/gpt-6-for-everyone\n   OpenAI has begun a global rollout of GPT-6, the latest version of the model that powers ChatGPT, making it available to users worldwide. The company says the new version delivers faster responses and introduces a feature called Intelligent UI, which lets the assistant reply with visuals and interactive elements rather than text alone. This means users can explore and act on answers directly within the chat, rather than reading long written responses. Frontier model releases like this one typically set the pace for what AI tools across the market can do, and often influence the features that other providers adopt. For non-technical staff, the practical takeaway is that the everyday experience of using AI assistants is becoming quicker and more interactive.\n   (OpenAI · 07 Oct 2026)\n\n3. ChatGPT is getting college planning tools\n   https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards\n   This report from The Verge provides additional detail on OpenAI's new college planning tools within ChatGPT for Teens, the teen-focused mode introduced in August with built-in safeguards and break reminders. According to OpenAI, the College Planner feature consolidates application requirements, deadlines, tasks, and financial-aid steps for a student's chosen schools into a single organised plan. This is particularly useful for students applying to several institutions at once, who otherwise have to track many separate processes manually. The coverage underscores a wider trend of embedding AI directly into the practical, administrative side of education. It also highlights how companies are positioning AI as a planning and productivity aid for students, not just a source of answers.\n   (The Verge — AI · 07 Oct 2026)\n\n4. EmbeddingGemma 2: an open, lightweight multimodal embedding model\n   https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/\n   Google DeepMind has released EmbeddingGemma 2, an open and lightweight model designed to handle multiple types of content, including text and images. Embedding models are a behind-the-scenes technology that converts information into a numerical form computers can compare and search efficiently; they power features such as search, recommendations, and the retrieval systems that help AI assistants find relevant information. Because this model is described as open and lightweight, it can be used and adapted freely and run on more modest computing resources, lowering the cost and barrier to building AI-powered tools. This matters for organisations and developers who want to create their own applications without relying solely on large commercial systems. For Tamkeen, it reflects a broader movement toward more accessible AI building blocks that could support local and public-sector innovation.\n   (Google DeepMind · 06 Oct 2026)\n\n5. ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons\n   https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6\n   OpenAI is launching a feature called Intelligent UI in ChatGPT, rolling out to all users alongside GPT-6. The update allows the chatbot to combine written answers with interactive visuals such as diagrams, charts, forms, and tappable buttons, rather than relying on text alone. This changes how people receive information from the assistant, making responses easier to scan and act upon, especially for tasks involving data, comparisons, or step-by-step processes. The shift reflects a broader effort across the industry to make AI tools feel less like a text conversation and more like a practical, interactive application. For non-technical users, this could make AI assistants more approachable and useful in everyday work, though it may also take some adjustment to navigate the new format.\n   (The Verge — AI · 07 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
