@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-09",
+  "generated_at_iso": "2026-10-09T13:24:16.002656+00:00",
+  "date_range_label": "9 October 2026",
+  "subtitle": "Friday, 9 October 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week's stories highlight how AI companies are tightening the rules around responsible use and defending against misuse, while also rolling out new 'agent' tools designed to take on routine work tasks in business settings. For a workforce-focused institution like ours, these developments matter both for how we might use AI and for the policy and safety questions that shape trust in it.",
+  "items": [
+    {
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-08T00:00:00+00:00",
+      "summary": "OpenAI, the company behind ChatGPT, reported that it had identified and shut down two covert influence operations that were using its AI tools to spread politically motivated messaging. These campaigns relied on fake personas, including bogus journalists and a fabricated think tank, to make their content appear credible and independent. OpenAI said the AI was used to help generate and polish the material being circulated across online channels. The case is a reminder that AI can be misused to manufacture convincing but false information at scale, which poses risks to public trust and informed decision-making. For public-sector staff, it underscores why verifying the source of online content is becoming increasingly important as AI-generated material grows more sophisticated.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-08T17:00:00+00:00",
+      "summary": "Anthropic, the maker of the Claude AI assistant, updated its usage policy for the first time in more than a year to address new and higher-risk types of misuse. The revised rules place clearer restrictions on using the tool for election interference, weapons development, surveillance, and sensitive health and financial applications. One notably unusual change prohibits 'sustained and needless abusive or cruel behavior' directed at Claude itself. While an AI system does not have feelings, the provision reflects a broader industry conversation about setting norms for how people interact with increasingly human-like tools. For organisations adopting AI, these evolving usage policies signal where providers draw the line on acceptable and responsible use.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-08T14:28:03+00:00",
+      "summary": "Google announced a new 'universal' Gemini AI agent designed to carry out work tasks across different apps and devices on a user's behalf. Introduced at Google's 'Gemini at Work' event, the tool sits within the Gemini Enterprise app and lets employees chat with the agent and assign it tasks from a single interface. The idea is to move beyond simply answering questions toward actually completing multi-step work in the background. This reflects a wider shift toward so-called 'agentic' AI, where software takes independent action rather than just responding to prompts. For workforce and human-capital planning, such tools raise practical questions about how roles, workflows, and required skills may change as routine tasks become automated.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-08T20:04:26+00:00",
+      "summary": "Three safety researchers who were dismissed from OpenAI have publicly challenged the company's claims that they mishandled sensitive information. In an open letter, they dispute the allegations and warn that their firings could discourage colleagues from raising concerns, creating what they describe as a 'chilling effect' on the company's internal safety culture. The dispute highlights ongoing tensions within leading AI firms over how openly employees can voice worries about the risks of powerful AI systems. Safety culture — the willingness of staff to flag problems without fear of reprisal — is widely seen as important for developing trustworthy technology. The episode is notable because it touches on transparency and accountability questions that governments and regulators are increasingly watching.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-08T18:18:00+00:00",
+      "summary": "Google is expanding Gemini into a fully 'agentic' AI that can plan and execute tasks and operate across a range of business applications and systems, beginning with corporate customers. According to the announcement, the agent can break work into smaller pieces and delegate them to 'subagents,' draw on multiple AI models, and even be given its own workplace identity with an email address. This represents a significant step toward AI acting more like a digital colleague than a simple assistant. While the capabilities could boost productivity, they also raise important governance considerations around oversight, accountability, and data security when software is empowered to act autonomously. For institutions considering AI adoption, such tools will require clear rules on supervision and responsibility before being put to use.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 9 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week's stories highlight how AI companies are tightening the rules around responsible use and defending against misuse, while also rolling out new 'agent' tools designed to take on routine work tasks in business settings. For a workforce-focused institution like ours, these developments matter both for how we might use AI and for the policy and safety questions that shape trust in it.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Disrupting AI-enabled “false front” operations](https://openai.com/index/disrupting-ai-enabled-false-front-operations)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, reported that it had identified and shut down two covert influence operations that were using its AI tools to spread politically motivated messaging. These campaigns relied on fake personas, including bogus journalists and a fabricated think tank, to make their content appear credible and independent. OpenAI said the AI was used to help generate and polish the material being circulated across online channels. The case is a reminder that AI can be misused to manufacture convincing but false information at scale, which poses risks to public trust and informed decision-making. For public-sector staff, it underscores why verifying the source of online content is becoming increasingly important as AI-generated material grows more sophisticated.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 08 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Anthropic bans ‘abusive or cruel behavior’ toward Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, the maker of the Claude AI assistant, updated its usage policy for the first time in more than a year to address new and higher-risk types of misuse. The revised rules place clearer restrictions on using the tool for election interference, weapons development, surveillance, and sensitive health and financial applications. One notably unusual change prohibits 'sustained and needless abusive or cruel behavior' directed at Claude itself. While an AI system does not have feelings, the provision reflects a broader industry conversation about setting norms for how people interact with increasingly human-like tools. For organisations adopting AI, these evolving usage policies signal where providers draw the line on acceptable and responsible use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 08 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Google is launching a one-stop Gemini agent for your work tasks](https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google announced a new 'universal' Gemini AI agent designed to carry out work tasks across different apps and devices on a user's behalf. Introduced at Google's 'Gemini at Work' event, the tool sits within the Gemini Enterprise app and lets employees chat with the agent and assign it tasks from a single interface. The idea is to move beyond simply answering questions toward actually completing multi-step work in the background. This reflects a wider shift toward so-called 'agentic' AI, where software takes independent action rather than just responding to prompts. For workforce and human-capital planning, such tools raise practical questions about how roles, workflows, and required skills may change as routine tasks become automated.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 08 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Three safety researchers who were dismissed from OpenAI have publicly challenged the company's claims that they mishandled sensitive information. In an open letter, they dispute the allegations and warn that their firings could discourage colleagues from raising concerns, creating what they describe as a 'chilling effect' on the company's internal safety culture. The dispute highlights ongoing tensions within leading AI firms over how openly employees can voice worries about the risks of powerful AI systems. Safety culture — the willingness of staff to flag problems without fear of reprisal — is widely seen as important for developing trustworthy technology. The episode is notable because it touches on transparency and accountability questions that governments and regulators are increasingly watching.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 09 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Google brings agentic AI to Gemini, starting with businesses](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google is expanding Gemini into a fully 'agentic' AI that can plan and execute tasks and operate across a range of business applications and systems, beginning with corporate customers. According to the announcement, the agent can break work into smaller pieces and delegate them to 'subagents,' draw on multiple AI models, and even be given its own workplace identity with an email address. This represents a significant step toward AI acting more like a digital colleague than a simple assistant. While the capabilities could boost productivity, they also raise important governance considerations around oversight, accountability, and data security when software is empowered to act autonomously. For institutions considering AI adoption, such tools will require clear rules on supervision and responsibility before being put to use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 08 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 9 October 2026\n============================================================\nWelcome to this edition of our AI digest. This week's stories highlight how AI companies are tightening the rules around responsible use and defending against misuse, while also rolling out new 'agent' tools designed to take on routine work tasks in business settings. For a workforce-focused institution like ours, these developments matter both for how we might use AI and for the policy and safety questions that shape trust in it.\n\n1. Disrupting AI-enabled “false front” operations\n   https://openai.com/index/disrupting-ai-enabled-false-front-operations\n   OpenAI, the company behind ChatGPT, reported that it had identified and shut down two covert influence operations that were using its AI tools to spread politically motivated messaging. These campaigns relied on fake personas, including bogus journalists and a fabricated think tank, to make their content appear credible and independent. OpenAI said the AI was used to help generate and polish the material being circulated across online channels. The case is a reminder that AI can be misused to manufacture convincing but false information at scale, which poses risks to public trust and informed decision-making. For public-sector staff, it underscores why verifying the source of online content is becoming increasingly important as AI-generated material grows more sophisticated.\n   (OpenAI · 08 Oct 2026)\n\n2. Anthropic bans ‘abusive or cruel behavior’ toward Claude\n   https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude\n   Anthropic, the maker of the Claude AI assistant, updated its usage policy for the first time in more than a year to address new and higher-risk types of misuse. The revised rules place clearer restrictions on using the tool for election interference, weapons development, surveillance, and sensitive health and financial applications. One notably unusual change prohibits 'sustained and needless abusive or cruel behavior' directed at Claude itself. While an AI system does not have feelings, the provision reflects a broader industry conversation about setting norms for how people interact with increasingly human-like tools. For organisations adopting AI, these evolving usage policies signal where providers draw the line on acceptable and responsible use.\n   (The Verge — AI · 08 Oct 2026)\n\n3. Google is launching a one-stop Gemini agent for your work tasks\n   https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise\n   Google announced a new 'universal' Gemini AI agent designed to carry out work tasks across different apps and devices on a user's behalf. Introduced at Google's 'Gemini at Work' event, the tool sits within the Gemini Enterprise app and lets employees chat with the agent and assign it tasks from a single interface. The idea is to move beyond simply answering questions toward actually completing multi-step work in the background. This reflects a wider shift toward so-called 'agentic' AI, where software takes independent action rather than just responding to prompts. For workforce and human-capital planning, such tools raise practical questions about how roles, workflows, and required skills may change as routine tasks become automated.\n   (The Verge — AI · 08 Oct 2026)\n\n4. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect\n   https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/\n   Three safety researchers who were dismissed from OpenAI have publicly challenged the company's claims that they mishandled sensitive information. In an open letter, they dispute the allegations and warn that their firings could discourage colleagues from raising concerns, creating what they describe as a 'chilling effect' on the company's internal safety culture. The dispute highlights ongoing tensions within leading AI firms over how openly employees can voice worries about the risks of powerful AI systems. Safety culture — the willingness of staff to flag problems without fear of reprisal — is widely seen as important for developing trustworthy technology. The episode is notable because it touches on transparency and accountability questions that governments and regulators are increasingly watching.\n   (TechCrunch — AI · 09 Oct 2026)\n\n5. Google brings agentic AI to Gemini, starting with businesses\n   https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/\n   Google is expanding Gemini into a fully 'agentic' AI that can plan and execute tasks and operate across a range of business applications and systems, beginning with corporate customers. According to the announcement, the agent can break work into smaller pieces and delegate them to 'subagents,' draw on multiple AI models, and even be given its own workplace identity with an email address. This represents a significant step toward AI acting more like a digital colleague than a simple assistant. While the capabilities could boost productivity, they also raise important governance considerations around oversight, accountability, and data security when software is empowered to act autonomously. For institutions considering AI adoption, such tools will require clear rules on supervision and responsibility before being put to use.\n   (TechCrunch — AI · 08 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 9 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week's stories highlight how AI companies are tightening the rules around responsible use and defending against misuse, while also rolling out new 'agent' tools designed to take on routine work tasks in business settings. For a workforce-focused institution like ours, these developments matter both for how we might use AI and for the policy and safety questions that shape trust in it.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Disrupting AI-enabled “false front” operations](https://openai.com/index/disrupting-ai-enabled-false-front-operations)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, reported that it had identified and shut down two covert influence operations that were using its AI tools to spread politically motivated messaging. These campaigns relied on fake personas, including bogus journalists and a fabricated think tank, to make their content appear credible and independent. OpenAI said the AI was used to help generate and polish the material being circulated across online channels. The case is a reminder that AI can be misused to manufacture convincing but false information at scale, which poses risks to public trust and informed decision-making. For public-sector staff, it underscores why verifying the source of online content is becoming increasingly important as AI-generated material grows more sophisticated.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 08 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Anthropic bans ‘abusive or cruel behavior’ toward Claude](https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, the maker of the Claude AI assistant, updated its usage policy for the first time in more than a year to address new and higher-risk types of misuse. The revised rules place clearer restrictions on using the tool for election interference, weapons development, surveillance, and sensitive health and financial applications. One notably unusual change prohibits 'sustained and needless abusive or cruel behavior' directed at Claude itself. While an AI system does not have feelings, the provision reflects a broader industry conversation about setting norms for how people interact with increasingly human-like tools. For organisations adopting AI, these evolving usage policies signal where providers draw the line on acceptable and responsible use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 08 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Google is launching a one-stop Gemini agent for your work tasks](https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google announced a new 'universal' Gemini AI agent designed to carry out work tasks across different apps and devices on a user's behalf. Introduced at Google's 'Gemini at Work' event, the tool sits within the Gemini Enterprise app and lets employees chat with the agent and assign it tasks from a single interface. The idea is to move beyond simply answering questions toward actually completing multi-step work in the background. This reflects a wider shift toward so-called 'agentic' AI, where software takes independent action rather than just responding to prompts. For workforce and human-capital planning, such tools raise practical questions about how roles, workflows, and required skills may change as routine tasks become automated.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 08 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect](https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Three safety researchers who were dismissed from OpenAI have publicly challenged the company's claims that they mishandled sensitive information. In an open letter, they dispute the allegations and warn that their firings could discourage colleagues from raising concerns, creating what they describe as a 'chilling effect' on the company's internal safety culture. The dispute highlights ongoing tensions within leading AI firms over how openly employees can voice worries about the risks of powerful AI systems. Safety culture — the willingness of staff to flag problems without fear of reprisal — is widely seen as important for developing trustworthy technology. The episode is notable because it touches on transparency and accountability questions that governments and regulators are increasingly watching.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 09 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Google brings agentic AI to Gemini, starting with businesses](https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google is expanding Gemini into a fully 'agentic' AI that can plan and execute tasks and operate across a range of business applications and systems, beginning with corporate customers. According to the announcement, the agent can break work into smaller pieces and delegate them to 'subagents,' draw on multiple AI models, and even be given its own workplace identity with an email address. This represents a significant step toward AI acting more like a digital colleague than a simple assistant. While the capabilities could boost productivity, they also raise important governance considerations around oversight, accountability, and data security when software is empowered to act autonomously. For institutions considering AI adoption, such tools will require clear rules on supervision and responsibility before being put to use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 08 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 9 October 2026\n============================================================\nWelcome to this edition of our AI digest. This week's stories highlight how AI companies are tightening the rules around responsible use and defending against misuse, while also rolling out new 'agent' tools designed to take on routine work tasks in business settings. For a workforce-focused institution like ours, these developments matter both for how we might use AI and for the policy and safety questions that shape trust in it.\n\n1. Disrupting AI-enabled “false front” operations\n   https://openai.com/index/disrupting-ai-enabled-false-front-operations\n   OpenAI, the company behind ChatGPT, reported that it had identified and shut down two covert influence operations that were using its AI tools to spread politically motivated messaging. These campaigns relied on fake personas, including bogus journalists and a fabricated think tank, to make their content appear credible and independent. OpenAI said the AI was used to help generate and polish the material being circulated across online channels. The case is a reminder that AI can be misused to manufacture convincing but false information at scale, which poses risks to public trust and informed decision-making. For public-sector staff, it underscores why verifying the source of online content is becoming increasingly important as AI-generated material grows more sophisticated.\n   (OpenAI · 08 Oct 2026)\n\n2. Anthropic bans ‘abusive or cruel behavior’ toward Claude\n   https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude\n   Anthropic, the maker of the Claude AI assistant, updated its usage policy for the first time in more than a year to address new and higher-risk types of misuse. The revised rules place clearer restrictions on using the tool for election interference, weapons development, surveillance, and sensitive health and financial applications. One notably unusual change prohibits 'sustained and needless abusive or cruel behavior' directed at Claude itself. While an AI system does not have feelings, the provision reflects a broader industry conversation about setting norms for how people interact with increasingly human-like tools. For organisations adopting AI, these evolving usage policies signal where providers draw the line on acceptable and responsible use.\n   (The Verge — AI · 08 Oct 2026)\n\n3. Google is launching a one-stop Gemini agent for your work tasks\n   https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise\n   Google announced a new 'universal' Gemini AI agent designed to carry out work tasks across different apps and devices on a user's behalf. Introduced at Google's 'Gemini at Work' event, the tool sits within the Gemini Enterprise app and lets employees chat with the agent and assign it tasks from a single interface. The idea is to move beyond simply answering questions toward actually completing multi-step work in the background. This reflects a wider shift toward so-called 'agentic' AI, where software takes independent action rather than just responding to prompts. For workforce and human-capital planning, such tools raise practical questions about how roles, workflows, and required skills may change as routine tasks become automated.\n   (The Verge — AI · 08 Oct 2026)\n\n4. Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect\n   https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/\n   Three safety researchers who were dismissed from OpenAI have publicly challenged the company's claims that they mishandled sensitive information. In an open letter, they dispute the allegations and warn that their firings could discourage colleagues from raising concerns, creating what they describe as a 'chilling effect' on the company's internal safety culture. The dispute highlights ongoing tensions within leading AI firms over how openly employees can voice worries about the risks of powerful AI systems. Safety culture — the willingness of staff to flag problems without fear of reprisal — is widely seen as important for developing trustworthy technology. The episode is notable because it touches on transparency and accountability questions that governments and regulators are increasingly watching.\n   (TechCrunch — AI · 09 Oct 2026)\n\n5. Google brings agentic AI to Gemini, starting with businesses\n   https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/\n   Google is expanding Gemini into a fully 'agentic' AI that can plan and execute tasks and operate across a range of business applications and systems, beginning with corporate customers. According to the announcement, the agent can break work into smaller pieces and delegate them to 'subagents,' draw on multiple AI models, and even be given its own workplace identity with an email address. This represents a significant step toward AI acting more like a digital colleague than a simple assistant. While the capabilities could boost productivity, they also raise important governance considerations around oversight, accountability, and data security when software is empowered to act autonomously. For institutions considering AI adoption, such tools will require clear rules on supervision and responsibility before being put to use.\n   (TechCrunch — AI · 08 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
