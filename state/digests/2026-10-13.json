@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-13",
+  "generated_at_iso": "2026-10-13T14:18:59.691485+00:00",
+  "date_range_label": "13 October 2026",
+  "subtitle": "Tuesday, 13 October 2026",
+  "editor_note": "This edition looks at the ongoing debate over how openly AI models should be shared, alongside a wave of new 'frontier' model releases from major technology companies. We also cover a notable shift in the hardware that powers AI systems. Together these stories highlight how quickly the tools, rules, and infrastructure behind AI continue to evolve — developments that shape the skills and policies relevant to our mandate.",
+  "items": [
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-10-13T10:00:00+00:00",
+      "summary": "MIT Technology Review examines the trade-offs of 'open' AI models — systems whose underlying components are made freely available for anyone to download, study, and build upon. The article is prompted by a recent report from AI company Anthropic, which warned that one open model, GLM-5.3, could meaningfully increase the risk of cyberattacks by making powerful capabilities widely accessible. Supporters of open models argue they boost transparency, lower costs, and allow researchers, smaller organisations, and governments to innovate without depending on a few large companies. Critics counter that once a capable model is released openly, it cannot be recalled and may be misused by malicious actors. For public-sector bodies weighing which AI tools to adopt, the piece underscores a central tension between accessibility and security that increasingly shapes national AI policy and procurement decisions.",
+      "why_it_matters": "",
+      "relevance": 7
+    },
+    {
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-12T17:56:56+00:00",
+      "summary": "TechCrunch reports that Meta has released Muse Wonder, described as its first 'frontier' model — meaning a model intended to compete with the most advanced systems on the market. Unlike the company's earlier Muse Spark, which was a lightweight model designed for speed and low cost, the Wonder models are larger and said to be more capable, scoring higher on industry benchmarks and performing better on complex tasks such as writing computer code. The release signals Meta's intent to catch up with rivals like OpenAI, Google, and Anthropic. For non-technical readers, the key point is that competition among major technology firms continues to accelerate, expanding the range of AI tools organisations may eventually use for workforce and productivity purposes.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
+      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+      "source_name": "Meta (Newsroom)",
+      "published_iso": "2026-10-12T17:08:05+00:00",
+      "summary": "In its own announcement, Meta introduced two models — Muse Wonder and Muse Wonder Full — describing them as its most capable to date and built specifically for 'agentic' tasks. Agentic AI refers to systems that can carry out multi-step actions on a person's behalf, such as completing a sequence of work tasks rather than simply answering a single question. Meta says the models are designed to support both personal and professional uses and claims state-of-the-art performance. This reflects a broader industry trend toward AI that acts more autonomously. For institutions focused on human capital, the shift toward AI agents raises practical questions about how workflows, training, and job roles may adapt as these tools take on more complex responsibilities.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-12T17:00:00+00:00",
+      "summary": "The Verge frames Meta's Muse Wonder launch as part of the company's effort to make up ground in a highly competitive AI race. The two new models follow earlier releases from Meta's rebranded Superintelligence Labs division, including the lighter Muse Spark model and an AI assistant called Muse. Meta claims the new systems can compete directly with the best models from leading rivals, and they are being made available to users and developers. The coverage highlights how rapidly the AI landscape is shifting, with several major firms now offering comparable high-end tools. For readers, the takeaway is that no single company dominates, which may give organisations more choice but also makes it harder to keep track of which tools are most suitable and trustworthy.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-12T13:00:00+00:00",
+      "summary": "The Verge reports that Microsoft has unveiled its third-generation in-house AI chip, called Maia 300, intended to become the primary system for running AI across Microsoft's products and services. The significance is that Microsoft has historically relied heavily on chips from Nvidia, the dominant supplier of AI hardware; designing its own chips reduces that dependence and can lower the cost and improve the efficiency of running AI at scale. The new chip is also built to handle the latest 'reasoning' models and agentic tasks that require more computing power. While this is a technical and infrastructure story, it matters because the availability, cost, and control of AI hardware influence how affordable and widely accessible AI services become — a factor relevant to governments and large institutions planning long-term AI adoption.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 13 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at the ongoing debate over how openly AI models should be shared, alongside a wave of new 'frontier' model releases from major technology companies. We also cover a notable shift in the hardware that powers AI systems. Together these stories highlight how quickly the tools, rules, and infrastructure behind AI continue to evolve — developments that shape the skills and policies relevant to our mandate.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review examines the trade-offs of 'open' AI models — systems whose underlying components are made freely available for anyone to download, study, and build upon. The article is prompted by a recent report from AI company Anthropic, which warned that one open model, GLM-5.3, could meaningfully increase the risk of cyberattacks by making powerful capabilities widely accessible. Supporters of open models argue they boost transparency, lower costs, and allow researchers, smaller organisations, and governments to innovate without depending on a few large companies. Critics counter that once a capable model is released openly, it cannot be recalled and may be misused by malicious actors. For public-sector bodies weighing which AI tools to adopt, the piece underscores a central tension between accessibility and security that increasingly shapes national AI policy and procurement decisions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 13 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports that Meta has released Muse Wonder, described as its first 'frontier' model — meaning a model intended to compete with the most advanced systems on the market. Unlike the company's earlier Muse Spark, which was a lightweight model designed for speed and low cost, the Wonder models are larger and said to be more capable, scoring higher on industry benchmarks and performing better on complex tasks such as writing computer code. The release signals Meta's intent to catch up with rivals like OpenAI, Google, and Anthropic. For non-technical readers, the key point is that competition among major technology firms continues to accelerate, expanding the range of AI tools organisations may eventually use for workforce and productivity purposes.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 12 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents](https://about.fb.com/news/2026/10/introducing-muse-wonder-models/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In its own announcement, Meta introduced two models — Muse Wonder and Muse Wonder Full — describing them as its most capable to date and built specifically for 'agentic' tasks. Agentic AI refers to systems that can carry out multi-step actions on a person's behalf, such as completing a sequence of work tasks rather than simply answering a single question. Meta says the models are designed to support both personal and professional uses and claims state-of-the-art performance. This reflects a broader industry trend toward AI that acts more autonomously. For institutions focused on human capital, the shift toward AI agents raises practical questions about how workflows, training, and job roles may adapt as these tools take on more complex responsibilities.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 12 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Meta has some Wonder Full new AI models](https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge frames Meta's Muse Wonder launch as part of the company's effort to make up ground in a highly competitive AI race. The two new models follow earlier releases from Meta's rebranded Superintelligence Labs division, including the lighter Muse Spark model and an AI assistant called Muse. Meta claims the new systems can compete directly with the best models from leading rivals, and they are being made available to users and developers. The coverage highlights how rapidly the AI landscape is shifting, with several major firms now offering comparable high-end tools. For readers, the takeaway is that no single company dominates, which may give organisations more choice but also makes it harder to keep track of which tools are most suitable and trustworthy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 12 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reports that Microsoft has unveiled its third-generation in-house AI chip, called Maia 300, intended to become the primary system for running AI across Microsoft's products and services. The significance is that Microsoft has historically relied heavily on chips from Nvidia, the dominant supplier of AI hardware; designing its own chips reduces that dependence and can lower the cost and improve the efficiency of running AI at scale. The new chip is also built to handle the latest 'reasoning' models and agentic tasks that require more computing power. While this is a technical and infrastructure story, it matters because the availability, cost, and control of AI hardware influence how affordable and widely accessible AI services become — a factor relevant to governments and large institutions planning long-term AI adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 12 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 13 October 2026\n============================================================\nThis edition looks at the ongoing debate over how openly AI models should be shared, alongside a wave of new 'frontier' model releases from major technology companies. We also cover a notable shift in the hardware that powers AI systems. Together these stories highlight how quickly the tools, rules, and infrastructure behind AI continue to evolve — developments that shape the skills and policies relevant to our mandate.\n\n1. Open models have real benefits. Do they outweigh the risks?\n   https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/\n   MIT Technology Review examines the trade-offs of 'open' AI models — systems whose underlying components are made freely available for anyone to download, study, and build upon. The article is prompted by a recent report from AI company Anthropic, which warned that one open model, GLM-5.3, could meaningfully increase the risk of cyberattacks by making powerful capabilities widely accessible. Supporters of open models argue they boost transparency, lower costs, and allow researchers, smaller organisations, and governments to innovate without depending on a few large companies. Critics counter that once a capable model is released openly, it cannot be recalled and may be misused by malicious actors. For public-sector bodies weighing which AI tools to adopt, the piece underscores a central tension between accessibility and security that increasingly shapes national AI policy and procurement decisions.\n   (MIT Technology Review — AI · 13 Oct 2026)\n\n2. Meta releases its first frontier model, Muse Wonder\n   https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/\n   TechCrunch reports that Meta has released Muse Wonder, described as its first 'frontier' model — meaning a model intended to compete with the most advanced systems on the market. Unlike the company's earlier Muse Spark, which was a lightweight model designed for speed and low cost, the Wonder models are larger and said to be more capable, scoring higher on industry benchmarks and performing better on complex tasks such as writing computer code. The release signals Meta's intent to catch up with rivals like OpenAI, Google, and Anthropic. For non-technical readers, the key point is that competition among major technology firms continues to accelerate, expanding the range of AI tools organisations may eventually use for workforce and productivity purposes.\n   (TechCrunch — AI · 12 Oct 2026)\n\n3. Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents\n   https://about.fb.com/news/2026/10/introducing-muse-wonder-models/\n   In its own announcement, Meta introduced two models — Muse Wonder and Muse Wonder Full — describing them as its most capable to date and built specifically for 'agentic' tasks. Agentic AI refers to systems that can carry out multi-step actions on a person's behalf, such as completing a sequence of work tasks rather than simply answering a single question. Meta says the models are designed to support both personal and professional uses and claims state-of-the-art performance. This reflects a broader industry trend toward AI that acts more autonomously. For institutions focused on human capital, the shift toward AI agents raises practical questions about how workflows, training, and job roles may adapt as these tools take on more complex responsibilities.\n   (Meta (Newsroom) · 12 Oct 2026)\n\n4. Meta has some Wonder Full new AI models\n   https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model\n   The Verge frames Meta's Muse Wonder launch as part of the company's effort to make up ground in a highly competitive AI race. The two new models follow earlier releases from Meta's rebranded Superintelligence Labs division, including the lighter Muse Spark model and an AI assistant called Muse. Meta claims the new systems can compete directly with the best models from leading rivals, and they are being made available to users and developers. The coverage highlights how rapidly the AI landscape is shifting, with several major firms now offering comparable high-end tools. For readers, the takeaway is that no single company dominates, which may give organisations more choice but also makes it harder to keep track of which tools are most suitable and trustworthy.\n   (The Verge — AI · 12 Oct 2026)\n\n5. Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs\n   https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout\n   The Verge reports that Microsoft has unveiled its third-generation in-house AI chip, called Maia 300, intended to become the primary system for running AI across Microsoft's products and services. The significance is that Microsoft has historically relied heavily on chips from Nvidia, the dominant supplier of AI hardware; designing its own chips reduces that dependence and can lower the cost and improve the efficiency of running AI at scale. The new chip is also built to handle the latest 'reasoning' models and agentic tasks that require more computing power. While this is a technical and infrastructure story, it matters because the availability, cost, and control of AI hardware influence how affordable and widely accessible AI services become — a factor relevant to governments and large institutions planning long-term AI adoption.\n   (The Verge — AI · 12 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 13 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at the ongoing debate over how openly AI models should be shared, alongside a wave of new 'frontier' model releases from major technology companies. We also cover a notable shift in the hardware that powers AI systems. Together these stories highlight how quickly the tools, rules, and infrastructure behind AI continue to evolve — developments that shape the skills and policies relevant to our mandate.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Open models have real benefits. Do they outweigh the risks?](https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review examines the trade-offs of 'open' AI models — systems whose underlying components are made freely available for anyone to download, study, and build upon. The article is prompted by a recent report from AI company Anthropic, which warned that one open model, GLM-5.3, could meaningfully increase the risk of cyberattacks by making powerful capabilities widely accessible. Supporters of open models argue they boost transparency, lower costs, and allow researchers, smaller organisations, and governments to innovate without depending on a few large companies. Critics counter that once a capable model is released openly, it cannot be recalled and may be misused by malicious actors. For public-sector bodies weighing which AI tools to adopt, the piece underscores a central tension between accessibility and security that increasingly shapes national AI policy and procurement decisions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 13 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reports that Meta has released Muse Wonder, described as its first 'frontier' model — meaning a model intended to compete with the most advanced systems on the market. Unlike the company's earlier Muse Spark, which was a lightweight model designed for speed and low cost, the Wonder models are larger and said to be more capable, scoring higher on industry benchmarks and performing better on complex tasks such as writing computer code. The release signals Meta's intent to catch up with rivals like OpenAI, Google, and Anthropic. For non-technical readers, the key point is that competition among major technology firms continues to accelerate, expanding the range of AI tools organisations may eventually use for workforce and productivity purposes.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 12 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents](https://about.fb.com/news/2026/10/introducing-muse-wonder-models/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In its own announcement, Meta introduced two models — Muse Wonder and Muse Wonder Full — describing them as its most capable to date and built specifically for 'agentic' tasks. Agentic AI refers to systems that can carry out multi-step actions on a person's behalf, such as completing a sequence of work tasks rather than simply answering a single question. Meta says the models are designed to support both personal and professional uses and claims state-of-the-art performance. This reflects a broader industry trend toward AI that acts more autonomously. For institutions focused on human capital, the shift toward AI agents raises practical questions about how workflows, training, and job roles may adapt as these tools take on more complex responsibilities.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 12 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Meta has some Wonder Full new AI models](https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge frames Meta's Muse Wonder launch as part of the company's effort to make up ground in a highly competitive AI race. The two new models follow earlier releases from Meta's rebranded Superintelligence Labs division, including the lighter Muse Spark model and an AI assistant called Muse. Meta claims the new systems can compete directly with the best models from leading rivals, and they are being made available to users and developers. The coverage highlights how rapidly the AI landscape is shifting, with several major firms now offering comparable high-end tools. For readers, the takeaway is that no single company dominates, which may give organisations more choice but also makes it harder to keep track of which tools are most suitable and trustworthy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 12 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs](https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reports that Microsoft has unveiled its third-generation in-house AI chip, called Maia 300, intended to become the primary system for running AI across Microsoft's products and services. The significance is that Microsoft has historically relied heavily on chips from Nvidia, the dominant supplier of AI hardware; designing its own chips reduces that dependence and can lower the cost and improve the efficiency of running AI at scale. The new chip is also built to handle the latest 'reasoning' models and agentic tasks that require more computing power. While this is a technical and infrastructure story, it matters because the availability, cost, and control of AI hardware influence how affordable and widely accessible AI services become — a factor relevant to governments and large institutions planning long-term AI adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 12 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 13 October 2026\n============================================================\nThis edition looks at the ongoing debate over how openly AI models should be shared, alongside a wave of new 'frontier' model releases from major technology companies. We also cover a notable shift in the hardware that powers AI systems. Together these stories highlight how quickly the tools, rules, and infrastructure behind AI continue to evolve — developments that shape the skills and policies relevant to our mandate.\n\n1. Open models have real benefits. Do they outweigh the risks?\n   https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/\n   MIT Technology Review examines the trade-offs of 'open' AI models — systems whose underlying components are made freely available for anyone to download, study, and build upon. The article is prompted by a recent report from AI company Anthropic, which warned that one open model, GLM-5.3, could meaningfully increase the risk of cyberattacks by making powerful capabilities widely accessible. Supporters of open models argue they boost transparency, lower costs, and allow researchers, smaller organisations, and governments to innovate without depending on a few large companies. Critics counter that once a capable model is released openly, it cannot be recalled and may be misused by malicious actors. For public-sector bodies weighing which AI tools to adopt, the piece underscores a central tension between accessibility and security that increasingly shapes national AI policy and procurement decisions.\n   (MIT Technology Review — AI · 13 Oct 2026)\n\n2. Meta releases its first frontier model, Muse Wonder\n   https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/\n   TechCrunch reports that Meta has released Muse Wonder, described as its first 'frontier' model — meaning a model intended to compete with the most advanced systems on the market. Unlike the company's earlier Muse Spark, which was a lightweight model designed for speed and low cost, the Wonder models are larger and said to be more capable, scoring higher on industry benchmarks and performing better on complex tasks such as writing computer code. The release signals Meta's intent to catch up with rivals like OpenAI, Google, and Anthropic. For non-technical readers, the key point is that competition among major technology firms continues to accelerate, expanding the range of AI tools organisations may eventually use for workforce and productivity purposes.\n   (TechCrunch — AI · 12 Oct 2026)\n\n3. Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents\n   https://about.fb.com/news/2026/10/introducing-muse-wonder-models/\n   In its own announcement, Meta introduced two models — Muse Wonder and Muse Wonder Full — describing them as its most capable to date and built specifically for 'agentic' tasks. Agentic AI refers to systems that can carry out multi-step actions on a person's behalf, such as completing a sequence of work tasks rather than simply answering a single question. Meta says the models are designed to support both personal and professional uses and claims state-of-the-art performance. This reflects a broader industry trend toward AI that acts more autonomously. For institutions focused on human capital, the shift toward AI agents raises practical questions about how workflows, training, and job roles may adapt as these tools take on more complex responsibilities.\n   (Meta (Newsroom) · 12 Oct 2026)\n\n4. Meta has some Wonder Full new AI models\n   https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model\n   The Verge frames Meta's Muse Wonder launch as part of the company's effort to make up ground in a highly competitive AI race. The two new models follow earlier releases from Meta's rebranded Superintelligence Labs division, including the lighter Muse Spark model and an AI assistant called Muse. Meta claims the new systems can compete directly with the best models from leading rivals, and they are being made available to users and developers. The coverage highlights how rapidly the AI landscape is shifting, with several major firms now offering comparable high-end tools. For readers, the takeaway is that no single company dominates, which may give organisations more choice but also makes it harder to keep track of which tools are most suitable and trustworthy.\n   (The Verge — AI · 12 Oct 2026)\n\n5. Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs\n   https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout\n   The Verge reports that Microsoft has unveiled its third-generation in-house AI chip, called Maia 300, intended to become the primary system for running AI across Microsoft's products and services. The significance is that Microsoft has historically relied heavily on chips from Nvidia, the dominant supplier of AI hardware; designing its own chips reduces that dependence and can lower the cost and improve the efficiency of running AI at scale. The new chip is also built to handle the latest 'reasoning' models and agentic tasks that require more computing power. While this is a technical and infrastructure story, it matters because the availability, cost, and control of AI hardware influence how affordable and widely accessible AI services become — a factor relevant to governments and large institutions planning long-term AI adoption.\n   (The Verge — AI · 12 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
