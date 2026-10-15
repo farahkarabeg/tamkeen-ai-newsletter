@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-15",
+  "generated_at_iso": "2026-10-15T11:37:39.897577+00:00",
+  "date_range_label": "15 October 2026",
+  "subtitle": "Thursday, 15 October 2026",
+  "editor_note": "This edition looks at how AI is reshaping the way people are hired and trained, how small businesses and robotics are putting it to work, and the growing legal and safety questions governments are raising. Together these stories highlight both the opportunities for workforce development and the importance of responsible oversight — themes central to Tamkeen's mandate.",
+  "items": [
+    {
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-14T22:53:31+00:00",
+      "summary": "The consulting firm McKinsey & Company has begun asking some entry-level job candidates to hold a ten-minute conversation with an AI programme that plays the role of a client, according to a Wall Street Journal report. The company says the simulation is designed to reflect roughly 80 percent of the situations its consultants might face in their everyday work, giving recruiters a way to see how applicants think and respond under realistic pressure. This signals a growing trend of employers using AI not just to screen CVs, but to assess practical skills during the hiring process itself. For workforce and human-capital planners, it is a notable example of how job interviews and candidate assessment may change. It also raises fair questions about how applicants can prepare for, and be fairly judged by, AI-driven evaluation methods.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-10-13T16:01:58+00:00",
+      "summary": "Google DeepMind has announced Gemini 4 Argon, a version of its advanced AI model built specifically for robotics applications. The system is intended to help robots better understand their surroundings and carry out physical tasks by combining language understanding with the ability to plan and act in the real world. This reflects a broader industry shift from AI that only works with text and images toward AI that can control machines and operate in physical environments such as warehouses, factories and service settings. For a non-technical audience, the key point is that these advances could gradually change the nature of manual and operational jobs over the coming years. It is an early signal worth watching for its long-term implications on the kinds of skills workers will need.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+      "source_name": "Meta (Newsroom)",
+      "published_iso": "2026-10-15T00:50:50+00:00",
+      "summary": "New research from Meta covering nine Asia-Pacific markets found that more than three quarters of small business owners say AI tools make them more productive, helping them grow, compete with larger companies and reach customers across borders. At the same time, the study found that most of these owners say they need more guidance on how to use AI effectively and confidently. This highlights a common gap: enthusiasm for AI is high, but practical knowledge and training often lag behind. For institutions focused on skills and human capital, the finding underlines the importance of accessible, hands-on support rather than simply providing access to the technology. It is a useful reminder that adoption success depends heavily on education and clear guidance.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-14T21:11:28+00:00",
+      "summary": "Eight US states — Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana — have filed separate lawsuits against OpenAI, the maker of ChatGPT, accusing the company of harming children and misleading customers about the chatbot's safety. The suits allege that OpenAI prioritised profit over adequate safeguards for young users. This is part of a wider wave of legal and regulatory scrutiny facing AI companies as the technology becomes more widely used by the public, including minors. For public-sector bodies, the case illustrates how governments are increasingly willing to use existing consumer-protection and child-safety laws to hold AI developers accountable. It also reinforces why clear rules, safety standards and responsible deployment are becoming central to how AI is governed.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "The AI race is back on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-14T19:06:03+00:00",
+      "summary": "According to The Verge, competition among the leading AI developers has intensified again after a period when Anthropic and OpenAI appeared to be far ahead of their rivals. Google, which had seemed to be lagging, has regained ground with stronger models, while Meta continues to invest heavily to establish itself as a serious contender. The article describes an AI race that is now more open and fast-moving than it looked only a short time ago. For non-technical readers, the main takeaway is that no single company dominates, and capabilities are improving quickly across several providers. This ongoing competition means organisations have more options to choose from, but also that the technology landscape will keep shifting, requiring regular review of which tools best serve their needs.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 15 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is reshaping the way people are hired and trained, how small businesses and robotics are putting it to work, and the growing legal and safety questions governments are raising. Together these stories highlight both the opportunities for workforce development and the importance of responsible oversight — themes central to Tamkeen's mandate.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The consulting firm McKinsey & Company has begun asking some entry-level job candidates to hold a ten-minute conversation with an AI programme that plays the role of a client, according to a Wall Street Journal report. The company says the simulation is designed to reflect roughly 80 percent of the situations its consultants might face in their everyday work, giving recruiters a way to see how applicants think and respond under realistic pressure. This signals a growing trend of employers using AI not just to screen CVs, but to assess practical skills during the hiring process itself. For workforce and human-capital planners, it is a notable example of how job interviews and candidate assessment may change. It also raises fair questions about how applicants can prepare for, and be fairly judged by, AI-driven evaluation methods.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has announced Gemini 4 Argon, a version of its advanced AI model built specifically for robotics applications. The system is intended to help robots better understand their surroundings and carry out physical tasks by combining language understanding with the ability to plan and act in the real world. This reflects a broader industry shift from AI that only works with text and images toward AI that can control machines and operate in physical environments such as warehouses, factories and service settings. For a non-technical audience, the key point is that these advances could gradually change the nature of manual and operational jobs over the coming years. It is an early signal worth watching for its long-term implications on the kinds of skills workers will need.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 13 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance](https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "New research from Meta covering nine Asia-Pacific markets found that more than three quarters of small business owners say AI tools make them more productive, helping them grow, compete with larger companies and reach customers across borders. At the same time, the study found that most of these owners say they need more guidance on how to use AI effectively and confidently. This highlights a common gap: enthusiasm for AI is high, but practical knowledge and training often lag behind. For institutions focused on skills and human capital, the finding underlines the importance of accessible, hands-on support rather than simply providing access to the technology. It is a useful reminder that adoption success depends heavily on education and clear guidance.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Eight states sue OpenAI, saying ChatGPT isn’t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Eight US states — Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana — have filed separate lawsuits against OpenAI, the maker of ChatGPT, accusing the company of harming children and misleading customers about the chatbot's safety. The suits allege that OpenAI prioritised profit over adequate safeguards for young users. This is part of a wider wave of legal and regulatory scrutiny facing AI companies as the technology becomes more widely used by the public, including minors. For public-sector bodies, the case illustrates how governments are increasingly willing to use existing consumer-protection and child-safety laws to hold AI developers accountable. It also reinforces why clear rules, safety standards and responsible deployment are becoming central to how AI is governed.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "According to The Verge, competition among the leading AI developers has intensified again after a period when Anthropic and OpenAI appeared to be far ahead of their rivals. Google, which had seemed to be lagging, has regained ground with stronger models, while Meta continues to invest heavily to establish itself as a serious contender. The article describes an AI race that is now more open and fast-moving than it looked only a short time ago. For non-technical readers, the main takeaway is that no single company dominates, and capabilities are improving quickly across several providers. This ongoing competition means organisations have more options to choose from, but also that the technology landscape will keep shifting, requiring regular review of which tools best serve their needs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 14 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 15 October 2026\n============================================================\nThis edition looks at how AI is reshaping the way people are hired and trained, how small businesses and robotics are putting it to work, and the growing legal and safety questions governments are raising. Together these stories highlight both the opportunities for workforce development and the importance of responsible oversight — themes central to Tamkeen's mandate.\n\n1. McKinsey is making job applicants spar with a fake AI client\n   https://www.theverge.com/news/1011654/mckinsey-ai-client-interview\n   The consulting firm McKinsey & Company has begun asking some entry-level job candidates to hold a ten-minute conversation with an AI programme that plays the role of a client, according to a Wall Street Journal report. The company says the simulation is designed to reflect roughly 80 percent of the situations its consultants might face in their everyday work, giving recruiters a way to see how applicants think and respond under realistic pressure. This signals a growing trend of employers using AI not just to screen CVs, but to assess practical skills during the hiring process itself. For workforce and human-capital planners, it is a notable example of how job interviews and candidate assessment may change. It also raises fair questions about how applicants can prepare for, and be fairly judged by, AI-driven evaluation methods.\n   (The Verge — AI · 15 Oct 2026)\n\n2. Gemini 4 Argon for Robotics\n   https://deepmind.google/blog/gemini-4-argon-for-robotics/\n   Google DeepMind has announced Gemini 4 Argon, a version of its advanced AI model built specifically for robotics applications. The system is intended to help robots better understand their surroundings and carry out physical tasks by combining language understanding with the ability to plan and act in the real world. This reflects a broader industry shift from AI that only works with text and images toward AI that can control machines and operate in physical environments such as warehouses, factories and service settings. For a non-technical audience, the key point is that these advances could gradually change the nature of manual and operational jobs over the coming years. It is an early signal worth watching for its long-term implications on the kinds of skills workers will need.\n   (Google DeepMind · 13 Oct 2026)\n\n3. More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance\n   https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/\n   New research from Meta covering nine Asia-Pacific markets found that more than three quarters of small business owners say AI tools make them more productive, helping them grow, compete with larger companies and reach customers across borders. At the same time, the study found that most of these owners say they need more guidance on how to use AI effectively and confidently. This highlights a common gap: enthusiasm for AI is high, but practical knowledge and training often lag behind. For institutions focused on skills and human capital, the finding underlines the importance of accessible, hands-on support rather than simply providing access to the technology. It is a useful reminder that adoption success depends heavily on education and clear guidance.\n   (Meta (Newsroom) · 15 Oct 2026)\n\n4. Eight states sue OpenAI, saying ChatGPT isn’t safe for kids\n   https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety\n   Eight US states — Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana — have filed separate lawsuits against OpenAI, the maker of ChatGPT, accusing the company of harming children and misleading customers about the chatbot's safety. The suits allege that OpenAI prioritised profit over adequate safeguards for young users. This is part of a wider wave of legal and regulatory scrutiny facing AI companies as the technology becomes more widely used by the public, including minors. For public-sector bodies, the case illustrates how governments are increasingly willing to use existing consumer-protection and child-safety laws to hold AI developers accountable. It also reinforces why clear rules, safety standards and responsible deployment are becoming central to how AI is governed.\n   (The Verge — AI · 15 Oct 2026)\n\n5. The AI race is back on\n   https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on\n   According to The Verge, competition among the leading AI developers has intensified again after a period when Anthropic and OpenAI appeared to be far ahead of their rivals. Google, which had seemed to be lagging, has regained ground with stronger models, while Meta continues to invest heavily to establish itself as a serious contender. The article describes an AI race that is now more open and fast-moving than it looked only a short time ago. For non-technical readers, the main takeaway is that no single company dominates, and capabilities are improving quickly across several providers. This ongoing competition means organisations have more options to choose from, but also that the technology landscape will keep shifting, requiring regular review of which tools best serve their needs.\n   (The Verge — AI · 14 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 15 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is reshaping the way people are hired and trained, how small businesses and robotics are putting it to work, and the growing legal and safety questions governments are raising. Together these stories highlight both the opportunities for workforce development and the importance of responsible oversight — themes central to Tamkeen's mandate.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. McKinsey is making job applicants spar with a fake AI client](https://www.theverge.com/news/1011654/mckinsey-ai-client-interview)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The consulting firm McKinsey & Company has begun asking some entry-level job candidates to hold a ten-minute conversation with an AI programme that plays the role of a client, according to a Wall Street Journal report. The company says the simulation is designed to reflect roughly 80 percent of the situations its consultants might face in their everyday work, giving recruiters a way to see how applicants think and respond under realistic pressure. This signals a growing trend of employers using AI not just to screen CVs, but to assess practical skills during the hiring process itself. For workforce and human-capital planners, it is a notable example of how job interviews and candidate assessment may change. It also raises fair questions about how applicants can prepare for, and be fairly judged by, AI-driven evaluation methods.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Gemini 4 Argon for Robotics](https://deepmind.google/blog/gemini-4-argon-for-robotics/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has announced Gemini 4 Argon, a version of its advanced AI model built specifically for robotics applications. The system is intended to help robots better understand their surroundings and carry out physical tasks by combining language understanding with the ability to plan and act in the real world. This reflects a broader industry shift from AI that only works with text and images toward AI that can control machines and operate in physical environments such as warehouses, factories and service settings. For a non-technical audience, the key point is that these advances could gradually change the nature of manual and operational jobs over the coming years. It is an early signal worth watching for its long-term implications on the kinds of skills workers will need.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 13 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance](https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "New research from Meta covering nine Asia-Pacific markets found that more than three quarters of small business owners say AI tools make them more productive, helping them grow, compete with larger companies and reach customers across borders. At the same time, the study found that most of these owners say they need more guidance on how to use AI effectively and confidently. This highlights a common gap: enthusiasm for AI is high, but practical knowledge and training often lag behind. For institutions focused on skills and human capital, the finding underlines the importance of accessible, hands-on support rather than simply providing access to the technology. It is a useful reminder that adoption success depends heavily on education and clear guidance.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Eight states sue OpenAI, saying ChatGPT isn’t safe for kids](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Eight US states — Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana — have filed separate lawsuits against OpenAI, the maker of ChatGPT, accusing the company of harming children and misleading customers about the chatbot's safety. The suits allege that OpenAI prioritised profit over adequate safeguards for young users. This is part of a wider wave of legal and regulatory scrutiny facing AI companies as the technology becomes more widely used by the public, including minors. For public-sector bodies, the case illustrates how governments are increasingly willing to use existing consumer-protection and child-safety laws to hold AI developers accountable. It also reinforces why clear rules, safety standards and responsible deployment are becoming central to how AI is governed.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "According to The Verge, competition among the leading AI developers has intensified again after a period when Anthropic and OpenAI appeared to be far ahead of their rivals. Google, which had seemed to be lagging, has regained ground with stronger models, while Meta continues to invest heavily to establish itself as a serious contender. The article describes an AI race that is now more open and fast-moving than it looked only a short time ago. For non-technical readers, the main takeaway is that no single company dominates, and capabilities are improving quickly across several providers. This ongoing competition means organisations have more options to choose from, but also that the technology landscape will keep shifting, requiring regular review of which tools best serve their needs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 14 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 15 October 2026\n============================================================\nThis edition looks at how AI is reshaping the way people are hired and trained, how small businesses and robotics are putting it to work, and the growing legal and safety questions governments are raising. Together these stories highlight both the opportunities for workforce development and the importance of responsible oversight — themes central to Tamkeen's mandate.\n\n1. McKinsey is making job applicants spar with a fake AI client\n   https://www.theverge.com/news/1011654/mckinsey-ai-client-interview\n   The consulting firm McKinsey & Company has begun asking some entry-level job candidates to hold a ten-minute conversation with an AI programme that plays the role of a client, according to a Wall Street Journal report. The company says the simulation is designed to reflect roughly 80 percent of the situations its consultants might face in their everyday work, giving recruiters a way to see how applicants think and respond under realistic pressure. This signals a growing trend of employers using AI not just to screen CVs, but to assess practical skills during the hiring process itself. For workforce and human-capital planners, it is a notable example of how job interviews and candidate assessment may change. It also raises fair questions about how applicants can prepare for, and be fairly judged by, AI-driven evaluation methods.\n   (The Verge — AI · 15 Oct 2026)\n\n2. Gemini 4 Argon for Robotics\n   https://deepmind.google/blog/gemini-4-argon-for-robotics/\n   Google DeepMind has announced Gemini 4 Argon, a version of its advanced AI model built specifically for robotics applications. The system is intended to help robots better understand their surroundings and carry out physical tasks by combining language understanding with the ability to plan and act in the real world. This reflects a broader industry shift from AI that only works with text and images toward AI that can control machines and operate in physical environments such as warehouses, factories and service settings. For a non-technical audience, the key point is that these advances could gradually change the nature of manual and operational jobs over the coming years. It is an early signal worth watching for its long-term implications on the kinds of skills workers will need.\n   (Google DeepMind · 13 Oct 2026)\n\n3. More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance\n   https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/\n   New research from Meta covering nine Asia-Pacific markets found that more than three quarters of small business owners say AI tools make them more productive, helping them grow, compete with larger companies and reach customers across borders. At the same time, the study found that most of these owners say they need more guidance on how to use AI effectively and confidently. This highlights a common gap: enthusiasm for AI is high, but practical knowledge and training often lag behind. For institutions focused on skills and human capital, the finding underlines the importance of accessible, hands-on support rather than simply providing access to the technology. It is a useful reminder that adoption success depends heavily on education and clear guidance.\n   (Meta (Newsroom) · 15 Oct 2026)\n\n4. Eight states sue OpenAI, saying ChatGPT isn’t safe for kids\n   https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety\n   Eight US states — Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana — have filed separate lawsuits against OpenAI, the maker of ChatGPT, accusing the company of harming children and misleading customers about the chatbot's safety. The suits allege that OpenAI prioritised profit over adequate safeguards for young users. This is part of a wider wave of legal and regulatory scrutiny facing AI companies as the technology becomes more widely used by the public, including minors. For public-sector bodies, the case illustrates how governments are increasingly willing to use existing consumer-protection and child-safety laws to hold AI developers accountable. It also reinforces why clear rules, safety standards and responsible deployment are becoming central to how AI is governed.\n   (The Verge — AI · 15 Oct 2026)\n\n5. The AI race is back on\n   https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on\n   According to The Verge, competition among the leading AI developers has intensified again after a period when Anthropic and OpenAI appeared to be far ahead of their rivals. Google, which had seemed to be lagging, has regained ground with stronger models, while Meta continues to invest heavily to establish itself as a serious contender. The article describes an AI race that is now more open and fast-moving than it looked only a short time ago. For non-technical readers, the main takeaway is that no single company dominates, and capabilities are improving quickly across several providers. This ongoing competition means organisations have more options to choose from, but also that the technology landscape will keep shifting, requiring regular review of which tools best serve their needs.\n   (The Verge — AI · 14 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
