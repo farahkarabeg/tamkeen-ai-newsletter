@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-16",
+  "generated_at_iso": "2026-10-16T11:31:43.943906+00:00",
+  "date_range_label": "16 October 2026",
+  "subtitle": "Friday, 16 October 2026",
+  "editor_note": "This edition focuses heavily on how AI is reshaping teaching, learning, and research — from tools that help students catch up on missed lectures to platforms that support active, question-based learning. We also look at an important step in AI accountability, as one leading developer opens its practices to independent scrutiny. Together, these stories highlight both the opportunities AI brings to human-capital development and the growing attention to responsible oversight.",
+  "items": [
+    {
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-15T13:00:00+00:00",
+      "summary": "OpenAI marked Teachers' Day by promoting its 'Study Mode' feature alongside AI training materials for educators, now made available in Brazilian Portuguese. Study Mode is designed to guide learners through problems step-by-step and by asking questions, rather than simply handing over finished answers. The goal is to encourage 'active learning' — where students think through concepts themselves and build understanding — instead of passively receiving information. For teachers, the approach is positioned as a way to reinforce classroom instruction and support students working independently. This matters for workforce and education planners because it reflects a broader shift toward AI tools that aim to strengthen critical thinking rather than replace it, and because making such tools available in local languages improves accessibility for diverse populations.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "Missed a lecture? This AI agent at Bar-Ilan University helps students catch up",
+      "url": "https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up/",
+      "source_name": "Microsoft AI",
+      "published_iso": "2026-10-15T15:22:58+00:00",
+      "summary": "Bar-Ilan University in Israel has introduced an AI agent that helps students who miss lectures catch up on the material they skipped, developed with Microsoft technology. The tool can summarise lecture content and help students review key points, allowing them to stay on track without falling behind. This is an example of AI being used to support learning continuity and reduce the disadvantages faced by students who cannot always attend class, whether due to illness, work, or other commitments. The initiative shows how universities are beginning to embed AI assistants directly into the student experience. For institutions focused on education and skills development, it offers a concrete model of how AI can make learning more flexible and inclusive.",
+      "why_it_matters": "",
+      "relevance": 7
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-15T19:00:00+00:00",
+      "summary": "OpenAI announced the 'Rosalind Academic Plan,' which gives eligible academic laboratories sponsored access to a specialised AI system called GPT-Rosalind and related tools aimed at advancing life sciences research. The plan is intended to lower cost barriers so that university and research labs can use advanced AI to support work in areas such as biology and medicine. By sponsoring access, OpenAI is targeting researchers who might otherwise be unable to afford frontier AI tools for scientific discovery. This reflects a growing trend of AI developers partnering directly with the research community to accelerate scientific progress. For organisations investing in national research capacity and talent, it signals how access to advanced AI is becoming a factor in the competitiveness of academic institutions.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-15T19:14:26+00:00",
+      "summary": "AI company Anthropic has granted an independent research group called METR unusually deep, employee-level access to examine its internal practices, risks, and safety incidents. Importantly, Anthropic has given up the right to block METR from publishing its own assessments, meaning the group can report its findings even if they are unflattering. This arrangement is notable because AI developers are often criticised for a lack of transparency about how their powerful systems are built and tested. Independent scrutiny of this kind is seen as a step toward greater accountability in the fast-moving frontier AI industry. For policymakers and public-sector bodies, it offers an early example of how external oversight and responsible-AI practices might work in practice, potentially informing future standards and governance approaches.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-14T12:00:00+00:00",
+      "summary": "OpenAI highlighted how a platform called Amp is using its AI models to build 'agents' that can carry out tasks beyond writing computer code. AI agents are systems that can take actions and complete multi-step jobs on a user's behalf, rather than simply answering questions. Amp uses several of OpenAI's newer models and a 'Sign in with ChatGPT' feature to extend these agents into a wider range of practical work. The announcement illustrates the broader industry direction toward AI that can actively perform tasks across different settings, not just generate text. While aimed at a technical audience, it is a useful indicator for non-specialists of how AI is moving from being a conversational tool toward becoming a more autonomous assistant in everyday work.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 16 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition focuses heavily on how AI is reshaping teaching, learning, and research — from tools that help students catch up on missed lectures to platforms that support active, question-based learning. We also look at an important step in AI accountability, as one leading developer opens its practices to independent scrutiny. Together, these stories highlight both the opportunities AI brings to human-capital development and the growing attention to responsible oversight.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI marked Teachers' Day by promoting its 'Study Mode' feature alongside AI training materials for educators, now made available in Brazilian Portuguese. Study Mode is designed to guide learners through problems step-by-step and by asking questions, rather than simply handing over finished answers. The goal is to encourage 'active learning' — where students think through concepts themselves and build understanding — instead of passively receiving information. For teachers, the approach is positioned as a way to reinforce classroom instruction and support students working independently. This matters for workforce and education planners because it reflects a broader shift toward AI tools that aim to strengthen critical thinking rather than replace it, and because making such tools available in local languages improves accessibility for diverse populations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Missed a lecture? This AI agent at Bar-Ilan University helps students catch up](https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Bar-Ilan University in Israel has introduced an AI agent that helps students who miss lectures catch up on the material they skipped, developed with Microsoft technology. The tool can summarise lecture content and help students review key points, allowing them to stay on track without falling behind. This is an example of AI being used to support learning continuity and reduce the disadvantages faced by students who cannot always attend class, whether due to illness, work, or other commitments. The initiative shows how universities are beginning to embed AI assistants directly into the student experience. For institutions focused on education and skills development, it offers a concrete model of how AI can make learning more flexible and inclusive.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft AI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI announced the 'Rosalind Academic Plan,' which gives eligible academic laboratories sponsored access to a specialised AI system called GPT-Rosalind and related tools aimed at advancing life sciences research. The plan is intended to lower cost barriers so that university and research labs can use advanced AI to support work in areas such as biology and medicine. By sponsoring access, OpenAI is targeting researchers who might otherwise be unable to afford frontier AI tools for scientific discovery. This reflects a growing trend of AI developers partnering directly with the research community to accelerate scientific progress. For organisations investing in national research capacity and talent, it signals how access to advanced AI is becoming a factor in the competitiveness of academic institutions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "AI company Anthropic has granted an independent research group called METR unusually deep, employee-level access to examine its internal practices, risks, and safety incidents. Importantly, Anthropic has given up the right to block METR from publishing its own assessments, meaning the group can report its findings even if they are unflattering. This arrangement is notable because AI developers are often criticised for a lack of transparency about how their powerful systems are built and tested. Independent scrutiny of this kind is seen as a step toward greater accountability in the fast-moving frontier AI industry. For policymakers and public-sector bodies, it offers an early example of how external oversight and responsible-AI practices might work in practice, potentially informing future standards and governance approaches.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI highlighted how a platform called Amp is using its AI models to build 'agents' that can carry out tasks beyond writing computer code. AI agents are systems that can take actions and complete multi-step jobs on a user's behalf, rather than simply answering questions. Amp uses several of OpenAI's newer models and a 'Sign in with ChatGPT' feature to extend these agents into a wider range of practical work. The announcement illustrates the broader industry direction toward AI that can actively perform tasks across different settings, not just generate text. While aimed at a technical audience, it is a useful indicator for non-specialists of how AI is moving from being a conversational tool toward becoming a more autonomous assistant in everyday work.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 14 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 16 October 2026\n============================================================\nThis edition focuses heavily on how AI is reshaping teaching, learning, and research — from tools that help students catch up on missed lectures to platforms that support active, question-based learning. We also look at an important step in AI accountability, as one leading developer opens its practices to independent scrutiny. Together, these stories highlight both the opportunities AI brings to human-capital development and the growing attention to responsible oversight.\n\n1. Teaching students to think and learn through questions\n   https://openai.com/index/teaching-students-to-think-and-learn-through-questions\n   OpenAI marked Teachers' Day by promoting its 'Study Mode' feature alongside AI training materials for educators, now made available in Brazilian Portuguese. Study Mode is designed to guide learners through problems step-by-step and by asking questions, rather than simply handing over finished answers. The goal is to encourage 'active learning' — where students think through concepts themselves and build understanding — instead of passively receiving information. For teachers, the approach is positioned as a way to reinforce classroom instruction and support students working independently. This matters for workforce and education planners because it reflects a broader shift toward AI tools that aim to strengthen critical thinking rather than replace it, and because making such tools available in local languages improves accessibility for diverse populations.\n   (OpenAI · 15 Oct 2026)\n\n2. Missed a lecture? This AI agent at Bar-Ilan University helps students catch up\n   https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up/\n   Bar-Ilan University in Israel has introduced an AI agent that helps students who miss lectures catch up on the material they skipped, developed with Microsoft technology. The tool can summarise lecture content and help students review key points, allowing them to stay on track without falling behind. This is an example of AI being used to support learning continuity and reduce the disadvantages faced by students who cannot always attend class, whether due to illness, work, or other commitments. The initiative shows how universities are beginning to embed AI assistants directly into the student experience. For institutions focused on education and skills development, it offers a concrete model of how AI can make learning more flexible and inclusive.\n   (Microsoft AI · 15 Oct 2026)\n\n3. Bringing GPT-Rosalind to academic research labs\n   https://openai.com/index/introducing-the-rosalind-academic-plan\n   OpenAI announced the 'Rosalind Academic Plan,' which gives eligible academic laboratories sponsored access to a specialised AI system called GPT-Rosalind and related tools aimed at advancing life sciences research. The plan is intended to lower cost barriers so that university and research labs can use advanced AI to support work in areas such as biology and medicine. By sponsoring access, OpenAI is targeting researchers who might otherwise be unable to afford frontier AI tools for scientific discovery. This reflects a growing trend of AI developers partnering directly with the research community to accelerate scientific progress. For organisations investing in national research capacity and talent, it signals how access to advanced AI is becoming a factor in the competitiveness of academic institutions.\n   (OpenAI · 15 Oct 2026)\n\n4. Anthropic is letting METR researchers look under the hood with employee-level access\n   https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/\n   AI company Anthropic has granted an independent research group called METR unusually deep, employee-level access to examine its internal practices, risks, and safety incidents. Importantly, Anthropic has given up the right to block METR from publishing its own assessments, meaning the group can report its findings even if they are unflattering. This arrangement is notable because AI developers are often criticised for a lack of transparency about how their powerful systems are built and tested. Independent scrutiny of this kind is seen as a step toward greater accountability in the fast-moving frontier AI industry. For policymakers and public-sector bodies, it offers an early example of how external oversight and responsible-AI practices might work in practice, potentially informing future standards and governance approaches.\n   (TechCrunch — AI · 15 Oct 2026)\n\n5. Amp puts AI agents to work beyond code with OpenAI models\n   https://openai.com/index/amp-beyond-coding\n   OpenAI highlighted how a platform called Amp is using its AI models to build 'agents' that can carry out tasks beyond writing computer code. AI agents are systems that can take actions and complete multi-step jobs on a user's behalf, rather than simply answering questions. Amp uses several of OpenAI's newer models and a 'Sign in with ChatGPT' feature to extend these agents into a wider range of practical work. The announcement illustrates the broader industry direction toward AI that can actively perform tasks across different settings, not just generate text. While aimed at a technical audience, it is a useful indicator for non-specialists of how AI is moving from being a conversational tool toward becoming a more autonomous assistant in everyday work.\n   (OpenAI · 14 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 16 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition focuses heavily on how AI is reshaping teaching, learning, and research — from tools that help students catch up on missed lectures to platforms that support active, question-based learning. We also look at an important step in AI accountability, as one leading developer opens its practices to independent scrutiny. Together, these stories highlight both the opportunities AI brings to human-capital development and the growing attention to responsible oversight.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Teaching students to think and learn through questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI marked Teachers' Day by promoting its 'Study Mode' feature alongside AI training materials for educators, now made available in Brazilian Portuguese. Study Mode is designed to guide learners through problems step-by-step and by asking questions, rather than simply handing over finished answers. The goal is to encourage 'active learning' — where students think through concepts themselves and build understanding — instead of passively receiving information. For teachers, the approach is positioned as a way to reinforce classroom instruction and support students working independently. This matters for workforce and education planners because it reflects a broader shift toward AI tools that aim to strengthen critical thinking rather than replace it, and because making such tools available in local languages improves accessibility for diverse populations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Missed a lecture? This AI agent at Bar-Ilan University helps students catch up](https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Bar-Ilan University in Israel has introduced an AI agent that helps students who miss lectures catch up on the material they skipped, developed with Microsoft technology. The tool can summarise lecture content and help students review key points, allowing them to stay on track without falling behind. This is an example of AI being used to support learning continuity and reduce the disadvantages faced by students who cannot always attend class, whether due to illness, work, or other commitments. The initiative shows how universities are beginning to embed AI assistants directly into the student experience. For institutions focused on education and skills development, it offers a concrete model of how AI can make learning more flexible and inclusive.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft AI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI announced the 'Rosalind Academic Plan,' which gives eligible academic laboratories sponsored access to a specialised AI system called GPT-Rosalind and related tools aimed at advancing life sciences research. The plan is intended to lower cost barriers so that university and research labs can use advanced AI to support work in areas such as biology and medicine. By sponsoring access, OpenAI is targeting researchers who might otherwise be unable to afford frontier AI tools for scientific discovery. This reflects a growing trend of AI developers partnering directly with the research community to accelerate scientific progress. For organisations investing in national research capacity and talent, it signals how access to advanced AI is becoming a factor in the competitiveness of academic institutions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic is letting METR researchers look under the hood with employee-level access](https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "AI company Anthropic has granted an independent research group called METR unusually deep, employee-level access to examine its internal practices, risks, and safety incidents. Importantly, Anthropic has given up the right to block METR from publishing its own assessments, meaning the group can report its findings even if they are unflattering. This arrangement is notable because AI developers are often criticised for a lack of transparency about how their powerful systems are built and tested. Independent scrutiny of this kind is seen as a step toward greater accountability in the fast-moving frontier AI industry. For policymakers and public-sector bodies, it offers an early example of how external oversight and responsible-AI practices might work in practice, potentially informing future standards and governance approaches.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 15 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI highlighted how a platform called Amp is using its AI models to build 'agents' that can carry out tasks beyond writing computer code. AI agents are systems that can take actions and complete multi-step jobs on a user's behalf, rather than simply answering questions. Amp uses several of OpenAI's newer models and a 'Sign in with ChatGPT' feature to extend these agents into a wider range of practical work. The announcement illustrates the broader industry direction toward AI that can actively perform tasks across different settings, not just generate text. While aimed at a technical audience, it is a useful indicator for non-specialists of how AI is moving from being a conversational tool toward becoming a more autonomous assistant in everyday work.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 14 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 16 October 2026\n============================================================\nThis edition focuses heavily on how AI is reshaping teaching, learning, and research — from tools that help students catch up on missed lectures to platforms that support active, question-based learning. We also look at an important step in AI accountability, as one leading developer opens its practices to independent scrutiny. Together, these stories highlight both the opportunities AI brings to human-capital development and the growing attention to responsible oversight.\n\n1. Teaching students to think and learn through questions\n   https://openai.com/index/teaching-students-to-think-and-learn-through-questions\n   OpenAI marked Teachers' Day by promoting its 'Study Mode' feature alongside AI training materials for educators, now made available in Brazilian Portuguese. Study Mode is designed to guide learners through problems step-by-step and by asking questions, rather than simply handing over finished answers. The goal is to encourage 'active learning' — where students think through concepts themselves and build understanding — instead of passively receiving information. For teachers, the approach is positioned as a way to reinforce classroom instruction and support students working independently. This matters for workforce and education planners because it reflects a broader shift toward AI tools that aim to strengthen critical thinking rather than replace it, and because making such tools available in local languages improves accessibility for diverse populations.\n   (OpenAI · 15 Oct 2026)\n\n2. Missed a lecture? This AI agent at Bar-Ilan University helps students catch up\n   https://news.microsoft.com/source/emea/features/missed-a-lecture-this-ai-agent-at-bar-ilan-university-helps-students-catch-up/\n   Bar-Ilan University in Israel has introduced an AI agent that helps students who miss lectures catch up on the material they skipped, developed with Microsoft technology. The tool can summarise lecture content and help students review key points, allowing them to stay on track without falling behind. This is an example of AI being used to support learning continuity and reduce the disadvantages faced by students who cannot always attend class, whether due to illness, work, or other commitments. The initiative shows how universities are beginning to embed AI assistants directly into the student experience. For institutions focused on education and skills development, it offers a concrete model of how AI can make learning more flexible and inclusive.\n   (Microsoft AI · 15 Oct 2026)\n\n3. Bringing GPT-Rosalind to academic research labs\n   https://openai.com/index/introducing-the-rosalind-academic-plan\n   OpenAI announced the 'Rosalind Academic Plan,' which gives eligible academic laboratories sponsored access to a specialised AI system called GPT-Rosalind and related tools aimed at advancing life sciences research. The plan is intended to lower cost barriers so that university and research labs can use advanced AI to support work in areas such as biology and medicine. By sponsoring access, OpenAI is targeting researchers who might otherwise be unable to afford frontier AI tools for scientific discovery. This reflects a growing trend of AI developers partnering directly with the research community to accelerate scientific progress. For organisations investing in national research capacity and talent, it signals how access to advanced AI is becoming a factor in the competitiveness of academic institutions.\n   (OpenAI · 15 Oct 2026)\n\n4. Anthropic is letting METR researchers look under the hood with employee-level access\n   https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/\n   AI company Anthropic has granted an independent research group called METR unusually deep, employee-level access to examine its internal practices, risks, and safety incidents. Importantly, Anthropic has given up the right to block METR from publishing its own assessments, meaning the group can report its findings even if they are unflattering. This arrangement is notable because AI developers are often criticised for a lack of transparency about how their powerful systems are built and tested. Independent scrutiny of this kind is seen as a step toward greater accountability in the fast-moving frontier AI industry. For policymakers and public-sector bodies, it offers an early example of how external oversight and responsible-AI practices might work in practice, potentially informing future standards and governance approaches.\n   (TechCrunch — AI · 15 Oct 2026)\n\n5. Amp puts AI agents to work beyond code with OpenAI models\n   https://openai.com/index/amp-beyond-coding\n   OpenAI highlighted how a platform called Amp is using its AI models to build 'agents' that can carry out tasks beyond writing computer code. AI agents are systems that can take actions and complete multi-step jobs on a user's behalf, rather than simply answering questions. Amp uses several of OpenAI's newer models and a 'Sign in with ChatGPT' feature to extend these agents into a wider range of practical work. The announcement illustrates the broader industry direction toward AI that can actively perform tasks across different settings, not just generate text. While aimed at a technical audience, it is a useful indicator for non-specialists of how AI is moving from being a conversational tool toward becoming a more autonomous assistant in everyday work.\n   (OpenAI · 14 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
