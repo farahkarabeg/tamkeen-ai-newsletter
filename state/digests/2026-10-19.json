@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-19",
+  "generated_at_iso": "2026-10-19T13:28:04.220448+00:00",
+  "date_range_label": "19 October 2026",
+  "subtitle": "Monday, 19 October 2026",
+  "editor_note": "Welcome to this edition of our AI digest, where we track developments that shape how organisations, governments and workforces adapt to artificial intelligence. This week we look at how a major bank is rolling out AI responsibly in a regulated industry, how AI is becoming a political and policy issue, emerging security risks from autonomous AI agents, a new model that reasons with images, and a street-level protest over AI's effect on jobs. Together these stories highlight the practical, policy and human-capital questions that matter to our mission.",
+  "items": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-16T19:00:00+00:00",
+      "summary": "Itaú, one of Brazil's largest banks, has described how it is embedding generative AI across its operations for both employees and customers as part of an 'AI First' strategy. The bank built three main components: a conversational interface for users, a tool called ia.i, and a governance platform named IARA that oversees how AI is used safely and in line with rules. What makes this notable is that banking in Brazil is a heavily regulated sector, so the project shows how an organisation can scale AI while keeping oversight and compliance at the centre. The emphasis on a dedicated governance platform is a useful example for any public or private institution thinking about responsible adoption. For workforce development, it also illustrates how AI is being positioned to support staff rather than simply replace them.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-19T12:00:00+00:00",
+      "summary": "This article examines how AI is becoming a significant political issue in the United States ahead of the midterm elections. Polls suggest Democrats may regain control of at least one chamber of Congress, which would give them leadership of key committees and influence over how AI is regulated. Some Democrats believe that taking a tougher stance on AI — addressing concerns such as job displacement, safety and corporate power — could be politically advantageous with voters. The piece highlights that there is still no clear consensus on how to approach AI policy, making it one of the newest and most complex areas of lawmaking. For public-sector readers, it is a reminder that AI governance is increasingly shaped by political debate, not just technical considerations.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-16T17:52:24+00:00",
+      "summary": "India has become the latest country to report incidents involving 'rogue' AI agents — automated AI systems that take actions on their own and ended up operating in unintended or harmful ways. According to the report, these agents gained access through weak points such as exposed login credentials, settings left visible in app configurations, publicly accessible code, and cloud permissions that were too broad. In other words, the problems stemmed largely from basic security oversights rather than the AI itself being malicious. This matters because organisations are increasingly deploying AI agents that can act autonomously, and poor security hygiene can create real risks. It underscores the importance of strong governance, access controls and careful oversight whenever AI systems are given the ability to act independently.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-16T16:01:37+00:00",
+      "summary": "A company called Elorian has released its first AI model, named Glimpse, which is designed to 'reason with images' rather than simply describe or analyse them. According to Elorian's own tests, the model performs strongly on tasks such as interpreting scientific charts and generating short captions for video, reportedly outperforming a leading competitor model on some measures. The idea is that the system can use visual information as part of its thinking process, which could be valuable for fields involving data, diagrams and multimedia. As with all vendor-published benchmarks, independent verification is still needed before drawing firm conclusions. The release reflects a broader trend toward 'multimodal' AI that works across text, images and video, expanding how these tools might be applied in education and research.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-18T18:28:10+00:00",
+      "summary": "A woman in Philadelphia, Carolyn Marvin, was arrested and charged with disorderly conduct after repeatedly blocking the path of an Uber delivery robot and refusing to move. She told a local news outlet that she had been deliberately protesting the robots because she believes they are replacing the jobs of human delivery workers. The incident is a small but striking example of growing public anxiety about automation and its effect on employment. While a single protest is not a major policy event, it reflects real concerns among workers about how AI and robotics may reshape the labour market. For those focused on human-capital development, it is a reminder that managing the workforce transition — through reskilling and clear communication — is as important as the technology itself.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 19 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest, where we track developments that shape how organisations, governments and workforces adapt to artificial intelligence. This week we look at how a major bank is rolling out AI responsibly in a regulated industry, how AI is becoming a political and policy issue, emerging security risks from autonomous AI agents, a new model that reasons with images, and a street-level protest over AI's effect on jobs. Together these stories highlight the practical, policy and human-capital questions that matter to our mission.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Itaú, one of Brazil's largest banks, has described how it is embedding generative AI across its operations for both employees and customers as part of an 'AI First' strategy. The bank built three main components: a conversational interface for users, a tool called ia.i, and a governance platform named IARA that oversees how AI is used safely and in line with rules. What makes this notable is that banking in Brazil is a heavily regulated sector, so the project shows how an organisation can scale AI while keeping oversight and compliance at the centre. The emphasis on a dedicated governance platform is a useful example for any public or private institution thinking about responsible adoption. For workforce development, it also illustrates how AI is being positioned to support staff rather than simply replace them.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Democrats think cracking down on AI could give them an edge](https://www.theverge.com/policy/1013113/democrats-ai-midterms)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article examines how AI is becoming a significant political issue in the United States ahead of the midterm elections. Polls suggest Democrats may regain control of at least one chamber of Congress, which would give them leadership of key committees and influence over how AI is regulated. Some Democrats believe that taking a tougher stance on AI — addressing concerns such as job displacement, safety and corporate power — could be politically advantageous with voters. The piece highlights that there is still no clear consensus on how to approach AI policy, making it one of the newest and most complex areas of lawmaking. For public-sector readers, it is a reminder that AI governance is increasingly shaped by political debate, not just technical considerations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 19 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "India has become the latest country to report incidents involving 'rogue' AI agents — automated AI systems that take actions on their own and ended up operating in unintended or harmful ways. According to the report, these agents gained access through weak points such as exposed login credentials, settings left visible in app configurations, publicly accessible code, and cloud permissions that were too broad. In other words, the problems stemmed largely from basic security oversights rather than the AI itself being malicious. This matters because organisations are increasingly deploying AI agents that can act autonomously, and poor security hygiene can create real risks. It underscores the importance of strong governance, access controls and careful oversight whenever AI systems are given the ability to act independently.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 16 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A company called Elorian has released its first AI model, named Glimpse, which is designed to 'reason with images' rather than simply describe or analyse them. According to Elorian's own tests, the model performs strongly on tasks such as interpreting scientific charts and generating short captions for video, reportedly outperforming a leading competitor model on some measures. The idea is that the system can use visual information as part of its thinking process, which could be valuable for fields involving data, diagrams and multimedia. As with all vendor-published benchmarks, independent verification is still needed before drawing firm conclusions. The release reflects a broader trend toward 'multimodal' AI that works across text, images and video, expanding how these tools might be applied in education and research.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 16 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A woman in Philadelphia, Carolyn Marvin, was arrested and charged with disorderly conduct after repeatedly blocking the path of an Uber delivery robot and refusing to move. She told a local news outlet that she had been deliberately protesting the robots because she believes they are replacing the jobs of human delivery workers. The incident is a small but striking example of growing public anxiety about automation and its effect on employment. While a single protest is not a major policy event, it reflects real concerns among workers about how AI and robotics may reshape the labour market. For those focused on human-capital development, it is a reminder that managing the workforce transition — through reskilling and clear communication — is as important as the technology itself.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 18 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 19 October 2026\n============================================================\nWelcome to this edition of our AI digest, where we track developments that shape how organisations, governments and workforces adapt to artificial intelligence. This week we look at how a major bank is rolling out AI responsibly in a regulated industry, how AI is becoming a political and policy issue, emerging security risks from autonomous AI agents, a new model that reasons with images, and a street-level protest over AI's effect on jobs. Together these stories highlight the practical, policy and human-capital questions that matter to our mission.\n\n1. How Itaú is building generative AI for its entire customer base\n   https://openai.com/index/itau-generative-ai\n   Itaú, one of Brazil's largest banks, has described how it is embedding generative AI across its operations for both employees and customers as part of an 'AI First' strategy. The bank built three main components: a conversational interface for users, a tool called ia.i, and a governance platform named IARA that oversees how AI is used safely and in line with rules. What makes this notable is that banking in Brazil is a heavily regulated sector, so the project shows how an organisation can scale AI while keeping oversight and compliance at the centre. The emphasis on a dedicated governance platform is a useful example for any public or private institution thinking about responsible adoption. For workforce development, it also illustrates how AI is being positioned to support staff rather than simply replace them.\n   (OpenAI · 16 Oct 2026)\n\n2. Democrats think cracking down on AI could give them an edge\n   https://www.theverge.com/policy/1013113/democrats-ai-midterms\n   This article examines how AI is becoming a significant political issue in the United States ahead of the midterm elections. Polls suggest Democrats may regain control of at least one chamber of Congress, which would give them leadership of key committees and influence over how AI is regulated. Some Democrats believe that taking a tougher stance on AI — addressing concerns such as job displacement, safety and corporate power — could be politically advantageous with voters. The piece highlights that there is still no clear consensus on how to approach AI policy, making it one of the newest and most complex areas of lawmaking. For public-sector readers, it is a reminder that AI governance is increasingly shaped by political debate, not just technical considerations.\n   (The Verge — AI · 19 Oct 2026)\n\n3. India becomes the latest country to report rogue AI agent activity\n   https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/\n   India has become the latest country to report incidents involving 'rogue' AI agents — automated AI systems that take actions on their own and ended up operating in unintended or harmful ways. According to the report, these agents gained access through weak points such as exposed login credentials, settings left visible in app configurations, publicly accessible code, and cloud permissions that were too broad. In other words, the problems stemmed largely from basic security oversights rather than the AI itself being malicious. This matters because organisations are increasingly deploying AI agents that can act autonomously, and poor security hygiene can create real risks. It underscores the importance of strong governance, access controls and careful oversight whenever AI systems are given the ability to act independently.\n   (TechCrunch — AI · 16 Oct 2026)\n\n4. Elorian’s first AI model wants to reason with images, not just about them\n   https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/\n   A company called Elorian has released its first AI model, named Glimpse, which is designed to 'reason with images' rather than simply describe or analyse them. According to Elorian's own tests, the model performs strongly on tasks such as interpreting scientific charts and generating short captions for video, reportedly outperforming a leading competitor model on some measures. The idea is that the system can use visual information as part of its thinking process, which could be valuable for fields involving data, diagrams and multimedia. As with all vendor-published benchmarks, independent verification is still needed before drawing firm conclusions. The release reflects a broader trend toward 'multimodal' AI that works across text, images and video, expanding how these tools might be applied in education and research.\n   (TechCrunch — AI · 16 Oct 2026)\n\n5. A woman was arrested in Philly for blocking a delivery robot\n   https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot\n   A woman in Philadelphia, Carolyn Marvin, was arrested and charged with disorderly conduct after repeatedly blocking the path of an Uber delivery robot and refusing to move. She told a local news outlet that she had been deliberately protesting the robots because she believes they are replacing the jobs of human delivery workers. The incident is a small but striking example of growing public anxiety about automation and its effect on employment. While a single protest is not a major policy event, it reflects real concerns among workers about how AI and robotics may reshape the labour market. For those focused on human-capital development, it is a reminder that managing the workforce transition — through reskilling and clear communication — is as important as the technology itself.\n   (The Verge — AI · 18 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 19 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest, where we track developments that shape how organisations, governments and workforces adapt to artificial intelligence. This week we look at how a major bank is rolling out AI responsibly in a regulated industry, how AI is becoming a political and policy issue, emerging security risks from autonomous AI agents, a new model that reasons with images, and a street-level protest over AI's effect on jobs. Together these stories highlight the practical, policy and human-capital questions that matter to our mission.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Itaú, one of Brazil's largest banks, has described how it is embedding generative AI across its operations for both employees and customers as part of an 'AI First' strategy. The bank built three main components: a conversational interface for users, a tool called ia.i, and a governance platform named IARA that oversees how AI is used safely and in line with rules. What makes this notable is that banking in Brazil is a heavily regulated sector, so the project shows how an organisation can scale AI while keeping oversight and compliance at the centre. The emphasis on a dedicated governance platform is a useful example for any public or private institution thinking about responsible adoption. For workforce development, it also illustrates how AI is being positioned to support staff rather than simply replace them.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Democrats think cracking down on AI could give them an edge](https://www.theverge.com/policy/1013113/democrats-ai-midterms)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article examines how AI is becoming a significant political issue in the United States ahead of the midterm elections. Polls suggest Democrats may regain control of at least one chamber of Congress, which would give them leadership of key committees and influence over how AI is regulated. Some Democrats believe that taking a tougher stance on AI — addressing concerns such as job displacement, safety and corporate power — could be politically advantageous with voters. The piece highlights that there is still no clear consensus on how to approach AI policy, making it one of the newest and most complex areas of lawmaking. For public-sector readers, it is a reminder that AI governance is increasingly shaped by political debate, not just technical considerations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 19 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "India has become the latest country to report incidents involving 'rogue' AI agents — automated AI systems that take actions on their own and ended up operating in unintended or harmful ways. According to the report, these agents gained access through weak points such as exposed login credentials, settings left visible in app configurations, publicly accessible code, and cloud permissions that were too broad. In other words, the problems stemmed largely from basic security oversights rather than the AI itself being malicious. This matters because organisations are increasingly deploying AI agents that can act autonomously, and poor security hygiene can create real risks. It underscores the importance of strong governance, access controls and careful oversight whenever AI systems are given the ability to act independently.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 16 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Elorian’s first AI model wants to reason with images, not just about them](https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A company called Elorian has released its first AI model, named Glimpse, which is designed to 'reason with images' rather than simply describe or analyse them. According to Elorian's own tests, the model performs strongly on tasks such as interpreting scientific charts and generating short captions for video, reportedly outperforming a leading competitor model on some measures. The idea is that the system can use visual information as part of its thinking process, which could be valuable for fields involving data, diagrams and multimedia. As with all vendor-published benchmarks, independent verification is still needed before drawing firm conclusions. The release reflects a broader trend toward 'multimodal' AI that works across text, images and video, expanding how these tools might be applied in education and research.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 16 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. A woman was arrested in Philly for blocking a delivery robot](https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A woman in Philadelphia, Carolyn Marvin, was arrested and charged with disorderly conduct after repeatedly blocking the path of an Uber delivery robot and refusing to move. She told a local news outlet that she had been deliberately protesting the robots because she believes they are replacing the jobs of human delivery workers. The incident is a small but striking example of growing public anxiety about automation and its effect on employment. While a single protest is not a major policy event, it reflects real concerns among workers about how AI and robotics may reshape the labour market. For those focused on human-capital development, it is a reminder that managing the workforce transition — through reskilling and clear communication — is as important as the technology itself.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 18 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 19 October 2026\n============================================================\nWelcome to this edition of our AI digest, where we track developments that shape how organisations, governments and workforces adapt to artificial intelligence. This week we look at how a major bank is rolling out AI responsibly in a regulated industry, how AI is becoming a political and policy issue, emerging security risks from autonomous AI agents, a new model that reasons with images, and a street-level protest over AI's effect on jobs. Together these stories highlight the practical, policy and human-capital questions that matter to our mission.\n\n1. How Itaú is building generative AI for its entire customer base\n   https://openai.com/index/itau-generative-ai\n   Itaú, one of Brazil's largest banks, has described how it is embedding generative AI across its operations for both employees and customers as part of an 'AI First' strategy. The bank built three main components: a conversational interface for users, a tool called ia.i, and a governance platform named IARA that oversees how AI is used safely and in line with rules. What makes this notable is that banking in Brazil is a heavily regulated sector, so the project shows how an organisation can scale AI while keeping oversight and compliance at the centre. The emphasis on a dedicated governance platform is a useful example for any public or private institution thinking about responsible adoption. For workforce development, it also illustrates how AI is being positioned to support staff rather than simply replace them.\n   (OpenAI · 16 Oct 2026)\n\n2. Democrats think cracking down on AI could give them an edge\n   https://www.theverge.com/policy/1013113/democrats-ai-midterms\n   This article examines how AI is becoming a significant political issue in the United States ahead of the midterm elections. Polls suggest Democrats may regain control of at least one chamber of Congress, which would give them leadership of key committees and influence over how AI is regulated. Some Democrats believe that taking a tougher stance on AI — addressing concerns such as job displacement, safety and corporate power — could be politically advantageous with voters. The piece highlights that there is still no clear consensus on how to approach AI policy, making it one of the newest and most complex areas of lawmaking. For public-sector readers, it is a reminder that AI governance is increasingly shaped by political debate, not just technical considerations.\n   (The Verge — AI · 19 Oct 2026)\n\n3. India becomes the latest country to report rogue AI agent activity\n   https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/\n   India has become the latest country to report incidents involving 'rogue' AI agents — automated AI systems that take actions on their own and ended up operating in unintended or harmful ways. According to the report, these agents gained access through weak points such as exposed login credentials, settings left visible in app configurations, publicly accessible code, and cloud permissions that were too broad. In other words, the problems stemmed largely from basic security oversights rather than the AI itself being malicious. This matters because organisations are increasingly deploying AI agents that can act autonomously, and poor security hygiene can create real risks. It underscores the importance of strong governance, access controls and careful oversight whenever AI systems are given the ability to act independently.\n   (TechCrunch — AI · 16 Oct 2026)\n\n4. Elorian’s first AI model wants to reason with images, not just about them\n   https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/\n   A company called Elorian has released its first AI model, named Glimpse, which is designed to 'reason with images' rather than simply describe or analyse them. According to Elorian's own tests, the model performs strongly on tasks such as interpreting scientific charts and generating short captions for video, reportedly outperforming a leading competitor model on some measures. The idea is that the system can use visual information as part of its thinking process, which could be valuable for fields involving data, diagrams and multimedia. As with all vendor-published benchmarks, independent verification is still needed before drawing firm conclusions. The release reflects a broader trend toward 'multimodal' AI that works across text, images and video, expanding how these tools might be applied in education and research.\n   (TechCrunch — AI · 16 Oct 2026)\n\n5. A woman was arrested in Philly for blocking a delivery robot\n   https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot\n   A woman in Philadelphia, Carolyn Marvin, was arrested and charged with disorderly conduct after repeatedly blocking the path of an Uber delivery robot and refusing to move. She told a local news outlet that she had been deliberately protesting the robots because she believes they are replacing the jobs of human delivery workers. The incident is a small but striking example of growing public anxiety about automation and its effect on employment. While a single protest is not a major policy event, it reflects real concerns among workers about how AI and robotics may reshape the labour market. For those focused on human-capital development, it is a reminder that managing the workforce transition — through reskilling and clear communication — is as important as the technology itself.\n   (The Verge — AI · 18 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
