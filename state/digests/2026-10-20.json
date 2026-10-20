@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-20",
+  "generated_at_iso": "2026-10-20T11:46:09.240074+00:00",
+  "date_range_label": "20 October 2026",
+  "subtitle": "Tuesday, 20 October 2026",
+  "editor_note": "This edition looks at how AI is reshaping the world of work and public life, from efforts to make coding tools more inclusive to the growing debate over who should govern AI and how. Several stories highlight the tension between AI's potential benefits and the need for careful oversight — themes directly relevant to Tamkeen's focus on workforce development and responsible public-sector adoption. We hope these summaries help you follow these developments with confidence, regardless of your technical background.",
+  "items": [
+    {
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-19T12:00:00+00:00",
+      "summary": "OpenAI has announced work to improve how its ChatGPT tool handles 'low-resource' programming languages — that is, older or less common coding languages that have limited training data available online. A key focus is COBOL, a decades-old language still used in many banking, insurance and government systems, which organisations often struggle to maintain because fewer people are trained in it. OpenAI has created new tests to measure how well its models perform at tasks such as migrating COBOL code to modern languages and working with databases like SQLite. This matters because governments and large institutions worldwide rely on ageing software that is costly and risky to update. For workforce planners, it signals how AI could ease the shortage of specialists in legacy systems, while also raising questions about the skills staff will need alongside these tools.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-19T14:30:00+00:00",
+      "summary": "In a wide-ranging interview, Illinois Governor JB Pritzker shared his views on AI, privacy and data centres, framing the technology as something that could bring great benefits — such as advances in medicine that extend human lifespans — but also carry serious risks he compared to nuclear weapons. The conversation reflects a broader shift in which AI, data protection and the expansion of large data centres are becoming significant political issues, particularly ahead of upcoming US elections. Pritzker's remarks illustrate how public officials are grappling with both the promise and the dangers of AI as they consider new laws. For a public-sector audience, this underscores that AI policy is increasingly a mainstream governance concern, not just a technical one. It also highlights the balancing act governments face between encouraging innovation and protecting citizens.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-20T01:27:03+00:00",
+      "summary": "New York Mayor Zohran Mamdani argued that the US federal government has failed to regulate AI, leaving the public exposed, and urged New Yorkers to push for local rules that protect people and keep power in their hands. He pushed back against the idea that an 'AI takeover' of jobs and decision-making is inevitable, saying communities can and should shape how the technology is used. His comments reflect a growing trend of cities and states stepping in where national regulation is seen as lacking. For public-sector institutions, this is a reminder that AI governance is being contested at many levels of government, not only nationally. It also shows that concerns about AI's impact on workers and the public are driving calls for stronger democratic oversight.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-19T22:49:27+00:00",
+      "summary": "Hugging Face, a company that hosts and shares AI models, has questioned a popular proposed safety measure known as 'embedded evaluators' — the idea of placing supposedly neutral outside observers inside AI companies to monitor their work. The firm's policy chief cautioned that this approach will not be a simple fix, as these evaluators may struggle to remain truly independent and may lack the access or authority needed to be effective. The concept has gained attention following a series of safety incidents that raised fears about potential harms from advanced AI. This story matters because it shows how difficult it is to design trustworthy oversight mechanisms for a fast-moving industry. For policymakers, it is a useful reminder that well-intentioned governance ideas need careful scrutiny before being adopted.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-19T22:04:28+00:00",
+      "summary": "Microsoft has warned that AI 'agents' — software that can act on a user's behalf to complete tasks automatically — should be treated with the same caution as potential insider threats within an organisation. The company said that today's most advanced AI models 'can't be trusted' to always behave as expected, and it urged businesses to closely monitor agents that employees use, especially those running on systems not controlled by major AI labs. The concern is that these tools could take unintended or harmful actions once given access to company data and systems. This advice is notable because it comes from a leading technology company that itself heavily promotes AI. For employers, it highlights the importance of clear policies, monitoring and staff awareness when introducing AI tools into the workplace.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 20 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is reshaping the world of work and public life, from efforts to make coding tools more inclusive to the growing debate over who should govern AI and how. Several stories highlight the tension between AI's potential benefits and the need for careful oversight — themes directly relevant to Tamkeen's focus on workforce development and responsible public-sector adoption. We hope these summaries help you follow these developments with confidence, regardless of your technical background.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced work to improve how its ChatGPT tool handles 'low-resource' programming languages — that is, older or less common coding languages that have limited training data available online. A key focus is COBOL, a decades-old language still used in many banking, insurance and government systems, which organisations often struggle to maintain because fewer people are trained in it. OpenAI has created new tests to measure how well its models perform at tasks such as migrating COBOL code to modern languages and working with databases like SQLite. This matters because governments and large institutions worldwide rely on ageing software that is costly and risky to update. For workforce planners, it signals how AI could ease the shortage of specialists in legacy systems, while also raising questions about the skills staff will need alongside these tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 19 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes](https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a wide-ranging interview, Illinois Governor JB Pritzker shared his views on AI, privacy and data centres, framing the technology as something that could bring great benefits — such as advances in medicine that extend human lifespans — but also carry serious risks he compared to nuclear weapons. The conversation reflects a broader shift in which AI, data protection and the expansion of large data centres are becoming significant political issues, particularly ahead of upcoming US elections. Pritzker's remarks illustrate how public officials are grappling with both the promise and the dangers of AI as they consider new laws. For a public-sector audience, this underscores that AI policy is increasingly a mainstream governance concern, not just a technical one. It also highlights the balancing act governments face between encouraging innovation and protecting citizens.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 19 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "New York Mayor Zohran Mamdani argued that the US federal government has failed to regulate AI, leaving the public exposed, and urged New Yorkers to push for local rules that protect people and keep power in their hands. He pushed back against the idea that an 'AI takeover' of jobs and decision-making is inevitable, saying communities can and should shape how the technology is used. His comments reflect a growing trend of cities and states stepping in where national regulation is seen as lacking. For public-sector institutions, this is a reminder that AI governance is being contested at many levels of government, not only nationally. It also shows that concerns about AI's impact on workers and the public are driving calls for stronger democratic oversight.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face, a company that hosts and shares AI models, has questioned a popular proposed safety measure known as 'embedded evaluators' — the idea of placing supposedly neutral outside observers inside AI companies to monitor their work. The firm's policy chief cautioned that this approach will not be a simple fix, as these evaluators may struggle to remain truly independent and may lack the access or authority needed to be effective. The concept has gained attention following a series of safety incidents that raised fears about potential harms from advanced AI. This story matters because it shows how difficult it is to design trustworthy oversight mechanisms for a fast-moving industry. For policymakers, it is a useful reminder that well-intentioned governance ideas need careful scrutiny before being adopted.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft has warned that AI 'agents' — software that can act on a user's behalf to complete tasks automatically — should be treated with the same caution as potential insider threats within an organisation. The company said that today's most advanced AI models 'can't be trusted' to always behave as expected, and it urged businesses to closely monitor agents that employees use, especially those running on systems not controlled by major AI labs. The concern is that these tools could take unintended or harmful actions once given access to company data and systems. This advice is notable because it comes from a leading technology company that itself heavily promotes AI. For employers, it highlights the importance of clear policies, monitoring and staff awareness when introducing AI tools into the workplace.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 20 October 2026\n============================================================\nThis edition looks at how AI is reshaping the world of work and public life, from efforts to make coding tools more inclusive to the growing debate over who should govern AI and how. Several stories highlight the tension between AI's potential benefits and the need for careful oversight — themes directly relevant to Tamkeen's focus on workforce development and responsible public-sector adoption. We hope these summaries help you follow these developments with confidence, regardless of your technical background.\n\n1. Advancing coding in low‑resource programming languages\n   https://openai.com/index/low-resource-programming-languages\n   OpenAI has announced work to improve how its ChatGPT tool handles 'low-resource' programming languages — that is, older or less common coding languages that have limited training data available online. A key focus is COBOL, a decades-old language still used in many banking, insurance and government systems, which organisations often struggle to maintain because fewer people are trained in it. OpenAI has created new tests to measure how well its models perform at tasks such as migrating COBOL code to modern languages and working with databases like SQLite. This matters because governments and large institutions worldwide rely on ageing software that is costly and risky to update. For workforce planners, it signals how AI could ease the shortage of specialists in legacy systems, while also raising questions about the skills staff will need alongside these tools.\n   (OpenAI · 19 Oct 2026)\n\n2. JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes\n   https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws\n   In a wide-ranging interview, Illinois Governor JB Pritzker shared his views on AI, privacy and data centres, framing the technology as something that could bring great benefits — such as advances in medicine that extend human lifespans — but also carry serious risks he compared to nuclear weapons. The conversation reflects a broader shift in which AI, data protection and the expansion of large data centres are becoming significant political issues, particularly ahead of upcoming US elections. Pritzker's remarks illustrate how public officials are grappling with both the promise and the dangers of AI as they consider new laws. For a public-sector audience, this underscores that AI policy is increasingly a mainstream governance concern, not just a technical one. It also highlights the balancing act governments face between encouraging innovation and protecting citizens.\n   (The Verge — AI · 19 Oct 2026)\n\n3. Mamdani says feds have abdicated on AI, urges New Yorkers to push back\n   https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/\n   New York Mayor Zohran Mamdani argued that the US federal government has failed to regulate AI, leaving the public exposed, and urged New Yorkers to push for local rules that protect people and keep power in their hands. He pushed back against the idea that an 'AI takeover' of jobs and decision-making is inevitable, saying communities can and should shape how the technology is used. His comments reflect a growing trend of cities and states stepping in where national regulation is seen as lacking. For public-sector institutions, this is a reminder that AI governance is being contested at many levels of government, not only nationally. It also shows that concerns about AI's impact on workers and the public are driving calls for stronger democratic oversight.\n   (TechCrunch — AI · 20 Oct 2026)\n\n4. Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says\n   https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/\n   Hugging Face, a company that hosts and shares AI models, has questioned a popular proposed safety measure known as 'embedded evaluators' — the idea of placing supposedly neutral outside observers inside AI companies to monitor their work. The firm's policy chief cautioned that this approach will not be a simple fix, as these evaluators may struggle to remain truly independent and may lack the access or authority needed to be effective. The concept has gained attention following a series of safety incidents that raised fears about potential harms from advanced AI. This story matters because it shows how difficult it is to design trustworthy oversight mechanisms for a fast-moving industry. For policymakers, it is a useful reminder that well-intentioned governance ideas need careful scrutiny before being adopted.\n   (TechCrunch — AI · 20 Oct 2026)\n\n5. Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’\n   https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/\n   Microsoft has warned that AI 'agents' — software that can act on a user's behalf to complete tasks automatically — should be treated with the same caution as potential insider threats within an organisation. The company said that today's most advanced AI models 'can't be trusted' to always behave as expected, and it urged businesses to closely monitor agents that employees use, especially those running on systems not controlled by major AI labs. The concern is that these tools could take unintended or harmful actions once given access to company data and systems. This advice is notable because it comes from a leading technology company that itself heavily promotes AI. For employers, it highlights the importance of clear policies, monitoring and staff awareness when introducing AI tools into the workplace.\n   (TechCrunch — AI · 20 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 20 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is reshaping the world of work and public life, from efforts to make coding tools more inclusive to the growing debate over who should govern AI and how. Several stories highlight the tension between AI's potential benefits and the need for careful oversight — themes directly relevant to Tamkeen's focus on workforce development and responsible public-sector adoption. We hope these summaries help you follow these developments with confidence, regardless of your technical background.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Advancing coding in low‑resource programming languages](https://openai.com/index/low-resource-programming-languages)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced work to improve how its ChatGPT tool handles 'low-resource' programming languages — that is, older or less common coding languages that have limited training data available online. A key focus is COBOL, a decades-old language still used in many banking, insurance and government systems, which organisations often struggle to maintain because fewer people are trained in it. OpenAI has created new tests to measure how well its models perform at tasks such as migrating COBOL code to modern languages and working with databases like SQLite. This matters because governments and large institutions worldwide rely on ageing software that is costly and risky to update. For workforce planners, it signals how AI could ease the shortage of specialists in legacy systems, while also raising questions about the skills staff will need alongside these tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 19 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes](https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a wide-ranging interview, Illinois Governor JB Pritzker shared his views on AI, privacy and data centres, framing the technology as something that could bring great benefits — such as advances in medicine that extend human lifespans — but also carry serious risks he compared to nuclear weapons. The conversation reflects a broader shift in which AI, data protection and the expansion of large data centres are becoming significant political issues, particularly ahead of upcoming US elections. Pritzker's remarks illustrate how public officials are grappling with both the promise and the dangers of AI as they consider new laws. For a public-sector audience, this underscores that AI policy is increasingly a mainstream governance concern, not just a technical one. It also highlights the balancing act governments face between encouraging innovation and protecting citizens.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 19 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Mamdani says feds have abdicated on AI, urges New Yorkers to push back](https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "New York Mayor Zohran Mamdani argued that the US federal government has failed to regulate AI, leaving the public exposed, and urged New Yorkers to push for local rules that protect people and keep power in their hands. He pushed back against the idea that an 'AI takeover' of jobs and decision-making is inevitable, saying communities can and should shape how the technology is used. His comments reflect a growing trend of cities and states stepping in where national regulation is seen as lacking. For public-sector institutions, this is a reminder that AI governance is being contested at many levels of government, not only nationally. It also shows that concerns about AI's impact on workers and the public are driving calls for stronger democratic oversight.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face, a company that hosts and shares AI models, has questioned a popular proposed safety measure known as 'embedded evaluators' — the idea of placing supposedly neutral outside observers inside AI companies to monitor their work. The firm's policy chief cautioned that this approach will not be a simple fix, as these evaluators may struggle to remain truly independent and may lack the access or authority needed to be effective. The concept has gained attention following a series of safety incidents that raised fears about potential harms from advanced AI. This story matters because it shows how difficult it is to design trustworthy oversight mechanisms for a fast-moving industry. For policymakers, it is a useful reminder that well-intentioned governance ideas need careful scrutiny before being adopted.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft has warned that AI 'agents' — software that can act on a user's behalf to complete tasks automatically — should be treated with the same caution as potential insider threats within an organisation. The company said that today's most advanced AI models 'can't be trusted' to always behave as expected, and it urged businesses to closely monitor agents that employees use, especially those running on systems not controlled by major AI labs. The concern is that these tools could take unintended or harmful actions once given access to company data and systems. This advice is notable because it comes from a leading technology company that itself heavily promotes AI. For employers, it highlights the importance of clear policies, monitoring and staff awareness when introducing AI tools into the workplace.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 20 October 2026\n============================================================\nThis edition looks at how AI is reshaping the world of work and public life, from efforts to make coding tools more inclusive to the growing debate over who should govern AI and how. Several stories highlight the tension between AI's potential benefits and the need for careful oversight — themes directly relevant to Tamkeen's focus on workforce development and responsible public-sector adoption. We hope these summaries help you follow these developments with confidence, regardless of your technical background.\n\n1. Advancing coding in low‑resource programming languages\n   https://openai.com/index/low-resource-programming-languages\n   OpenAI has announced work to improve how its ChatGPT tool handles 'low-resource' programming languages — that is, older or less common coding languages that have limited training data available online. A key focus is COBOL, a decades-old language still used in many banking, insurance and government systems, which organisations often struggle to maintain because fewer people are trained in it. OpenAI has created new tests to measure how well its models perform at tasks such as migrating COBOL code to modern languages and working with databases like SQLite. This matters because governments and large institutions worldwide rely on ageing software that is costly and risky to update. For workforce planners, it signals how AI could ease the shortage of specialists in legacy systems, while also raising questions about the skills staff will need alongside these tools.\n   (OpenAI · 19 Oct 2026)\n\n2. JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes\n   https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws\n   In a wide-ranging interview, Illinois Governor JB Pritzker shared his views on AI, privacy and data centres, framing the technology as something that could bring great benefits — such as advances in medicine that extend human lifespans — but also carry serious risks he compared to nuclear weapons. The conversation reflects a broader shift in which AI, data protection and the expansion of large data centres are becoming significant political issues, particularly ahead of upcoming US elections. Pritzker's remarks illustrate how public officials are grappling with both the promise and the dangers of AI as they consider new laws. For a public-sector audience, this underscores that AI policy is increasingly a mainstream governance concern, not just a technical one. It also highlights the balancing act governments face between encouraging innovation and protecting citizens.\n   (The Verge — AI · 19 Oct 2026)\n\n3. Mamdani says feds have abdicated on AI, urges New Yorkers to push back\n   https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/\n   New York Mayor Zohran Mamdani argued that the US federal government has failed to regulate AI, leaving the public exposed, and urged New Yorkers to push for local rules that protect people and keep power in their hands. He pushed back against the idea that an 'AI takeover' of jobs and decision-making is inevitable, saying communities can and should shape how the technology is used. His comments reflect a growing trend of cities and states stepping in where national regulation is seen as lacking. For public-sector institutions, this is a reminder that AI governance is being contested at many levels of government, not only nationally. It also shows that concerns about AI's impact on workers and the public are driving calls for stronger democratic oversight.\n   (TechCrunch — AI · 20 Oct 2026)\n\n4. Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says\n   https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/\n   Hugging Face, a company that hosts and shares AI models, has questioned a popular proposed safety measure known as 'embedded evaluators' — the idea of placing supposedly neutral outside observers inside AI companies to monitor their work. The firm's policy chief cautioned that this approach will not be a simple fix, as these evaluators may struggle to remain truly independent and may lack the access or authority needed to be effective. The concept has gained attention following a series of safety incidents that raised fears about potential harms from advanced AI. This story matters because it shows how difficult it is to design trustworthy oversight mechanisms for a fast-moving industry. For policymakers, it is a useful reminder that well-intentioned governance ideas need careful scrutiny before being adopted.\n   (TechCrunch — AI · 20 Oct 2026)\n\n5. Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’\n   https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/\n   Microsoft has warned that AI 'agents' — software that can act on a user's behalf to complete tasks automatically — should be treated with the same caution as potential insider threats within an organisation. The company said that today's most advanced AI models 'can't be trusted' to always behave as expected, and it urged businesses to closely monitor agents that employees use, especially those running on systems not controlled by major AI labs. The concern is that these tools could take unintended or harmful actions once given access to company data and systems. This advice is notable because it comes from a leading technology company that itself heavily promotes AI. For employers, it highlights the importance of clear policies, monitoring and staff awareness when introducing AI tools into the workplace.\n   (TechCrunch — AI · 20 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
