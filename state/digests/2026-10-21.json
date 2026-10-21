@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-21",
+  "generated_at_iso": "2026-10-21T11:58:22.622094+00:00",
+  "date_range_label": "21 October 2026",
+  "subtitle": "Wednesday, 21 October 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week's stories examine how artificial intelligence is spreading beyond the technology sector into everyday business operations, the growing debate over how governments should regulate and secure AI tools, and what these shifts mean for workforce planning and public-sector decision-making. As always, our aim is to keep you informed in plain language, so these developments can help shape our thinking on education and human-capital development here in the UAE.",
+  "items": [
+    {
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-10-20T12:00:00+00:00",
+      "summary": "This article argues that the public conversation about AI at work is too focused on Silicon Valley and the technology industry, which gives a misleading picture of how AI is actually spreading. The author's point is that the tech sector is simply the first in line to be transformed, and the same changes now reshaping software engineering and product management will soon reach other industries. For organisations planning ahead, this means the lessons being learned in tech today — about which tasks get automated, how roles change, and what new skills become valuable — offer an early preview of what other sectors can expect. The piece is notable for Tamkeen because it reinforces the need to anticipate workforce and skills shifts across the whole economy, not just in technology companies. Understanding these patterns early can help guide training and reskilling priorities before change arrives.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-20T23:01:23+00:00",
+      "summary": "Anthropic, a major AI company, has proposed a safety bill intended to prevent dangerous AI systems from being released, with one headline threshold being models that could plausibly contribute to the deaths of 50 or more people. On the surface the proposal appears to strengthen public protection, but critics highlighted in the article note a significant catch: it would prevent federal agencies from blocking a model's release unless they first obtain a judge's permission. This effectively shifts control over such decisions away from regulators and toward the courts, which some argue weakens rather than strengthens oversight. The story matters because it illustrates how complex and contested AI safety rules can be, and how the fine print of a policy can change its real-world effect. For public-sector readers, it is a useful reminder to look closely at how proposed AI governance actually assigns authority and accountability.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-20T13:07:24+00:00",
+      "summary": "The United States government has ordered its federal civilian agencies to remove DeepSeek, an AI system developed in China, from their systems, along with any third-party services built using DeepSeek's technology. The decision was justified on national security grounds, reflecting concerns about data handling and foreign-developed AI tools operating inside government networks. This move is part of a broader pattern of governments treating the origin and supply chain of AI software as a security issue, not just a technical or cost consideration. The story is relevant for any public institution that uses AI tools, because it shows that where a model comes from and who controls it can become a governance and procurement concern. It underscores the importance of carefully vetting AI vendors and understanding the data and security implications before adopting new tools.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "The new economics of enterprise AI",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-10-20T15:20:25+00:00",
+      "summary": "This article uses the analogy of a company discovering electricity to explain how organisations' relationship with AI is maturing. In the early stage, only a few processes use AI and no one worries about cost, because usage is low and the benefits are clear. But as AI becomes woven into everyday operations — effectively becoming infrastructure — the key question shifts from 'can we use it?' to 'how efficiently are we using it?' This marks a turning point where businesses must start managing AI consumption, cost, and value much more deliberately, just as they would any essential utility. For Tamkeen, the piece is a reminder that adopting AI is only the first step; the longer-term challenge is building the skills and management practices to use it wisely and sustainably across an organisation.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-20T07:00:00+00:00",
+      "summary": "This update from OpenAI describes how a company called Terminal X built an AI tool, using OpenAI's GPT-6.1 model, that can review investment outputs and match the judgment of a senior human investor roughly 88.6 percent of the time. The system grades results against a detailed 54-point checklist and reportedly catches about 25 percent more cases where an output strays from a fund's stated mandate than previous approaches. In plain terms, it is an example of AI being used not to make final decisions but to check and quality-assure the work of skilled professionals. While the figures come from the vendor and should be read with that in mind, the case illustrates a growing trend of AI acting as a reviewer or assistant in expert, judgment-heavy fields. For workforce planning, it points to how specialised roles may increasingly combine human expertise with AI-based checking rather than being replaced outright.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 21 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week's stories examine how artificial intelligence is spreading beyond the technology sector into everyday business operations, the growing debate over how governments should regulate and secure AI tools, and what these shifts mean for workforce planning and public-sector decision-making. As always, our aim is to keep you informed in plain language, so these developments can help shape our thinking on education and human-capital development here in the UAE.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. AI adoption by industry shows what other sectors can learn](https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article argues that the public conversation about AI at work is too focused on Silicon Valley and the technology industry, which gives a misleading picture of how AI is actually spreading. The author's point is that the tech sector is simply the first in line to be transformed, and the same changes now reshaping software engineering and product management will soon reach other industries. For organisations planning ahead, this means the lessons being learned in tech today — about which tasks get automated, how roles change, and what new skills become valuable — offer an early preview of what other sectors can expect. The piece is notable for Tamkeen because it reinforces the need to anticipate workforce and skills shifts across the whole economy, not just in technology companies. Understanding these patterns early can help guide training and reskilling priorities before change arrives.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, a major AI company, has proposed a safety bill intended to prevent dangerous AI systems from being released, with one headline threshold being models that could plausibly contribute to the deaths of 50 or more people. On the surface the proposal appears to strengthen public protection, but critics highlighted in the article note a significant catch: it would prevent federal agencies from blocking a model's release unless they first obtain a judge's permission. This effectively shifts control over such decisions away from regulators and toward the courts, which some argue weakens rather than strengthens oversight. The story matters because it illustrates how complex and contested AI safety rules can be, and how the fine print of a policy can change its real-world effect. For public-sector readers, it is a useful reminder to look closely at how proposed AI governance actually assigns authority and accountability.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 21 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. US orders federal agencies to remove China’s DeepSeek AI from their systems](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The United States government has ordered its federal civilian agencies to remove DeepSeek, an AI system developed in China, from their systems, along with any third-party services built using DeepSeek's technology. The decision was justified on national security grounds, reflecting concerns about data handling and foreign-developed AI tools operating inside government networks. This move is part of a broader pattern of governments treating the origin and supply chain of AI software as a security issue, not just a technical or cost consideration. The story is relevant for any public institution that uses AI tools, because it shows that where a model comes from and who controls it can become a governance and procurement concern. It underscores the importance of carefully vetting AI vendors and understanding the data and security implications before adopting new tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. The new economics of enterprise AI](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article uses the analogy of a company discovering electricity to explain how organisations' relationship with AI is maturing. In the early stage, only a few processes use AI and no one worries about cost, because usage is low and the benefits are clear. But as AI becomes woven into everyday operations — effectively becoming infrastructure — the key question shifts from 'can we use it?' to 'how efficiently are we using it?' This marks a turning point where businesses must start managing AI consumption, cost, and value much more deliberately, just as they would any essential utility. For Tamkeen, the piece is a reminder that adopting AI is only the first step; the longer-term challenge is building the skills and management practices to use it wisely and sustainably across an organisation.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This update from OpenAI describes how a company called Terminal X built an AI tool, using OpenAI's GPT-6.1 model, that can review investment outputs and match the judgment of a senior human investor roughly 88.6 percent of the time. The system grades results against a detailed 54-point checklist and reportedly catches about 25 percent more cases where an output strays from a fund's stated mandate than previous approaches. In plain terms, it is an example of AI being used not to make final decisions but to check and quality-assure the work of skilled professionals. While the figures come from the vendor and should be read with that in mind, the case illustrates a growing trend of AI acting as a reviewer or assistant in expert, judgment-heavy fields. For workforce planning, it points to how specialised roles may increasingly combine human expertise with AI-based checking rather than being replaced outright.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 21 October 2026\n============================================================\nWelcome to this edition of our AI digest. This week's stories examine how artificial intelligence is spreading beyond the technology sector into everyday business operations, the growing debate over how governments should regulate and secure AI tools, and what these shifts mean for workforce planning and public-sector decision-making. As always, our aim is to keep you informed in plain language, so these developments can help shape our thinking on education and human-capital development here in the UAE.\n\n1. AI adoption by industry shows what other sectors can learn\n   https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/\n   This article argues that the public conversation about AI at work is too focused on Silicon Valley and the technology industry, which gives a misleading picture of how AI is actually spreading. The author's point is that the tech sector is simply the first in line to be transformed, and the same changes now reshaping software engineering and product management will soon reach other industries. For organisations planning ahead, this means the lessons being learned in tech today — about which tasks get automated, how roles change, and what new skills become valuable — offer an early preview of what other sectors can expect. The piece is notable for Tamkeen because it reinforces the need to anticipate workforce and skills shifts across the whole economy, not just in technology companies. Understanding these patterns early can help guide training and reskilling priorities before change arrives.\n   (MIT Technology Review — AI · 20 Oct 2026)\n\n2. Anthropic pitches AI safety bill that may block a model if 50+ people could be killed\n   https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/\n   Anthropic, a major AI company, has proposed a safety bill intended to prevent dangerous AI systems from being released, with one headline threshold being models that could plausibly contribute to the deaths of 50 or more people. On the surface the proposal appears to strengthen public protection, but critics highlighted in the article note a significant catch: it would prevent federal agencies from blocking a model's release unless they first obtain a judge's permission. This effectively shifts control over such decisions away from regulators and toward the courts, which some argue weakens rather than strengthens oversight. The story matters because it illustrates how complex and contested AI safety rules can be, and how the fine print of a policy can change its real-world effect. For public-sector readers, it is a useful reminder to look closely at how proposed AI governance actually assigns authority and accountability.\n   (TechCrunch — AI · 21 Oct 2026)\n\n3. US orders federal agencies to remove China’s DeepSeek AI from their systems\n   https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/\n   The United States government has ordered its federal civilian agencies to remove DeepSeek, an AI system developed in China, from their systems, along with any third-party services built using DeepSeek's technology. The decision was justified on national security grounds, reflecting concerns about data handling and foreign-developed AI tools operating inside government networks. This move is part of a broader pattern of governments treating the origin and supply chain of AI software as a security issue, not just a technical or cost consideration. The story is relevant for any public institution that uses AI tools, because it shows that where a model comes from and who controls it can become a governance and procurement concern. It underscores the importance of carefully vetting AI vendors and understanding the data and security implications before adopting new tools.\n   (TechCrunch — AI · 20 Oct 2026)\n\n4. The new economics of enterprise AI\n   https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/\n   This article uses the analogy of a company discovering electricity to explain how organisations' relationship with AI is maturing. In the early stage, only a few processes use AI and no one worries about cost, because usage is low and the benefits are clear. But as AI becomes woven into everyday operations — effectively becoming infrastructure — the key question shifts from 'can we use it?' to 'how efficiently are we using it?' This marks a turning point where businesses must start managing AI consumption, cost, and value much more deliberately, just as they would any essential utility. For Tamkeen, the piece is a reminder that adopting AI is only the first step; the longer-term challenge is building the skills and management practices to use it wisely and sustainably across an organisation.\n   (MIT Technology Review — AI · 20 Oct 2026)\n\n5. Terminal X matches senior investor judgment 88.6% with GPT-6.1\n   https://openai.com/index/terminal-x\n   This update from OpenAI describes how a company called Terminal X built an AI tool, using OpenAI's GPT-6.1 model, that can review investment outputs and match the judgment of a senior human investor roughly 88.6 percent of the time. The system grades results against a detailed 54-point checklist and reportedly catches about 25 percent more cases where an output strays from a fund's stated mandate than previous approaches. In plain terms, it is an example of AI being used not to make final decisions but to check and quality-assure the work of skilled professionals. While the figures come from the vendor and should be read with that in mind, the case illustrates a growing trend of AI acting as a reviewer or assistant in expert, judgment-heavy fields. For workforce planning, it points to how specialised roles may increasingly combine human expertise with AI-based checking rather than being replaced outright.\n   (OpenAI · 20 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 21 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week's stories examine how artificial intelligence is spreading beyond the technology sector into everyday business operations, the growing debate over how governments should regulate and secure AI tools, and what these shifts mean for workforce planning and public-sector decision-making. As always, our aim is to keep you informed in plain language, so these developments can help shape our thinking on education and human-capital development here in the UAE.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. AI adoption by industry shows what other sectors can learn](https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article argues that the public conversation about AI at work is too focused on Silicon Valley and the technology industry, which gives a misleading picture of how AI is actually spreading. The author's point is that the tech sector is simply the first in line to be transformed, and the same changes now reshaping software engineering and product management will soon reach other industries. For organisations planning ahead, this means the lessons being learned in tech today — about which tasks get automated, how roles change, and what new skills become valuable — offer an early preview of what other sectors can expect. The piece is notable for Tamkeen because it reinforces the need to anticipate workforce and skills shifts across the whole economy, not just in technology companies. Understanding these patterns early can help guide training and reskilling priorities before change arrives.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Anthropic pitches AI safety bill that may block a model if 50+ people could be killed](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, a major AI company, has proposed a safety bill intended to prevent dangerous AI systems from being released, with one headline threshold being models that could plausibly contribute to the deaths of 50 or more people. On the surface the proposal appears to strengthen public protection, but critics highlighted in the article note a significant catch: it would prevent federal agencies from blocking a model's release unless they first obtain a judge's permission. This effectively shifts control over such decisions away from regulators and toward the courts, which some argue weakens rather than strengthens oversight. The story matters because it illustrates how complex and contested AI safety rules can be, and how the fine print of a policy can change its real-world effect. For public-sector readers, it is a useful reminder to look closely at how proposed AI governance actually assigns authority and accountability.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 21 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. US orders federal agencies to remove China’s DeepSeek AI from their systems](https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The United States government has ordered its federal civilian agencies to remove DeepSeek, an AI system developed in China, from their systems, along with any third-party services built using DeepSeek's technology. The decision was justified on national security grounds, reflecting concerns about data handling and foreign-developed AI tools operating inside government networks. This move is part of a broader pattern of governments treating the origin and supply chain of AI software as a security issue, not just a technical or cost consideration. The story is relevant for any public institution that uses AI tools, because it shows that where a model comes from and who controls it can become a governance and procurement concern. It underscores the importance of carefully vetting AI vendors and understanding the data and security implications before adopting new tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. The new economics of enterprise AI](https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article uses the analogy of a company discovering electricity to explain how organisations' relationship with AI is maturing. In the early stage, only a few processes use AI and no one worries about cost, because usage is low and the benefits are clear. But as AI becomes woven into everyday operations — effectively becoming infrastructure — the key question shifts from 'can we use it?' to 'how efficiently are we using it?' This marks a turning point where businesses must start managing AI consumption, cost, and value much more deliberately, just as they would any essential utility. For Tamkeen, the piece is a reminder that adopting AI is only the first step; the longer-term challenge is building the skills and management practices to use it wisely and sustainably across an organisation.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Terminal X matches senior investor judgment 88.6% with GPT-6.1](https://openai.com/index/terminal-x)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This update from OpenAI describes how a company called Terminal X built an AI tool, using OpenAI's GPT-6.1 model, that can review investment outputs and match the judgment of a senior human investor roughly 88.6 percent of the time. The system grades results against a detailed 54-point checklist and reportedly catches about 25 percent more cases where an output strays from a fund's stated mandate than previous approaches. In plain terms, it is an example of AI being used not to make final decisions but to check and quality-assure the work of skilled professionals. While the figures come from the vendor and should be read with that in mind, the case illustrates a growing trend of AI acting as a reviewer or assistant in expert, judgment-heavy fields. For workforce planning, it points to how specialised roles may increasingly combine human expertise with AI-based checking rather than being replaced outright.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 20 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 21 October 2026\n============================================================\nWelcome to this edition of our AI digest. This week's stories examine how artificial intelligence is spreading beyond the technology sector into everyday business operations, the growing debate over how governments should regulate and secure AI tools, and what these shifts mean for workforce planning and public-sector decision-making. As always, our aim is to keep you informed in plain language, so these developments can help shape our thinking on education and human-capital development here in the UAE.\n\n1. AI adoption by industry shows what other sectors can learn\n   https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/\n   This article argues that the public conversation about AI at work is too focused on Silicon Valley and the technology industry, which gives a misleading picture of how AI is actually spreading. The author's point is that the tech sector is simply the first in line to be transformed, and the same changes now reshaping software engineering and product management will soon reach other industries. For organisations planning ahead, this means the lessons being learned in tech today — about which tasks get automated, how roles change, and what new skills become valuable — offer an early preview of what other sectors can expect. The piece is notable for Tamkeen because it reinforces the need to anticipate workforce and skills shifts across the whole economy, not just in technology companies. Understanding these patterns early can help guide training and reskilling priorities before change arrives.\n   (MIT Technology Review — AI · 20 Oct 2026)\n\n2. Anthropic pitches AI safety bill that may block a model if 50+ people could be killed\n   https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/\n   Anthropic, a major AI company, has proposed a safety bill intended to prevent dangerous AI systems from being released, with one headline threshold being models that could plausibly contribute to the deaths of 50 or more people. On the surface the proposal appears to strengthen public protection, but critics highlighted in the article note a significant catch: it would prevent federal agencies from blocking a model's release unless they first obtain a judge's permission. This effectively shifts control over such decisions away from regulators and toward the courts, which some argue weakens rather than strengthens oversight. The story matters because it illustrates how complex and contested AI safety rules can be, and how the fine print of a policy can change its real-world effect. For public-sector readers, it is a useful reminder to look closely at how proposed AI governance actually assigns authority and accountability.\n   (TechCrunch — AI · 21 Oct 2026)\n\n3. US orders federal agencies to remove China’s DeepSeek AI from their systems\n   https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/\n   The United States government has ordered its federal civilian agencies to remove DeepSeek, an AI system developed in China, from their systems, along with any third-party services built using DeepSeek's technology. The decision was justified on national security grounds, reflecting concerns about data handling and foreign-developed AI tools operating inside government networks. This move is part of a broader pattern of governments treating the origin and supply chain of AI software as a security issue, not just a technical or cost consideration. The story is relevant for any public institution that uses AI tools, because it shows that where a model comes from and who controls it can become a governance and procurement concern. It underscores the importance of carefully vetting AI vendors and understanding the data and security implications before adopting new tools.\n   (TechCrunch — AI · 20 Oct 2026)\n\n4. The new economics of enterprise AI\n   https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/\n   This article uses the analogy of a company discovering electricity to explain how organisations' relationship with AI is maturing. In the early stage, only a few processes use AI and no one worries about cost, because usage is low and the benefits are clear. But as AI becomes woven into everyday operations — effectively becoming infrastructure — the key question shifts from 'can we use it?' to 'how efficiently are we using it?' This marks a turning point where businesses must start managing AI consumption, cost, and value much more deliberately, just as they would any essential utility. For Tamkeen, the piece is a reminder that adopting AI is only the first step; the longer-term challenge is building the skills and management practices to use it wisely and sustainably across an organisation.\n   (MIT Technology Review — AI · 20 Oct 2026)\n\n5. Terminal X matches senior investor judgment 88.6% with GPT-6.1\n   https://openai.com/index/terminal-x\n   This update from OpenAI describes how a company called Terminal X built an AI tool, using OpenAI's GPT-6.1 model, that can review investment outputs and match the judgment of a senior human investor roughly 88.6 percent of the time. The system grades results against a detailed 54-point checklist and reportedly catches about 25 percent more cases where an output strays from a fund's stated mandate than previous approaches. In plain terms, it is an example of AI being used not to make final decisions but to check and quality-assure the work of skilled professionals. While the figures come from the vendor and should be read with that in mind, the case illustrates a growing trend of AI acting as a reviewer or assistant in expert, judgment-heavy fields. For workforce planning, it points to how specialised roles may increasingly combine human expertise with AI-based checking rather than being replaced outright.\n   (OpenAI · 20 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
