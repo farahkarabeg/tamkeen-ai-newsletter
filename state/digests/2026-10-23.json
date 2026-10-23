@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-23",
+  "generated_at_iso": "2026-10-23T11:46:16.113364+00:00",
+  "date_range_label": "23 October 2026",
+  "subtitle": "Friday, 23 October 2026",
+  "editor_note": "This edition looks at how governments and large organisations are putting AI to practical use while also tightening safeguards around it. From a national AI safety partnership in Poland to workplace tools at major companies, these stories highlight both the opportunities and the governance questions that come with wider AI adoption — themes closely tied to Tamkeen's focus on workforce development and public-sector readiness.",
+  "items": [
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-23T00:00:00+00:00",
+      "summary": "OpenAI has announced a partnership with NASK, Poland's National Research Institute, to collaborate on AI safety, security, and technical research. The aim is to strengthen protections against misuse and to build a more resilient digital environment, combining OpenAI's technical expertise with NASK's role as a government-linked research body. This is an example of a private AI developer working directly with a public institution to address safety concerns at a national level. For public-sector staff, it illustrates a growing model in which governments partner with AI companies rather than simply regulating them from a distance. Such arrangements are likely to become more common as countries seek both the benefits and the safeguards of advanced AI.",
+      "why_it_matters": "",
+      "relevance": 8
+    },
+    {
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-22T00:00:00+00:00",
+      "summary": "Uber is rolling out ChatGPT Work, a workplace version of OpenAI's chatbot, to more than 30,000 of its employees. Staff will be able to use the tool to carry out research, analyse data, prepare presentations, and work through complex multi-step tasks. This is a large-scale example of a major company embedding AI assistants into everyday work across many different roles, rather than limiting them to technical teams. It reflects a wider trend of organisations adopting AI to support general productivity and decision-making. For workforce planners, it signals that familiarity with AI tools is increasingly becoming a basic workplace skill across many kinds of jobs.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-22T15:50:30+00:00",
+      "summary": "Federal disclosures in the United States show that OpenAI, Anthropic, and Nvidia each recorded their highest-ever spending on lobbying between July and September. Nvidia spent the most at $2.2 million, followed by Anthropic at $2.1 million and OpenAI at $1.5 million. Lobbying refers to efforts to influence government policy and regulation, and the sharp rise shows how actively AI companies are now seeking to shape the rules that will govern their industry. While these figures are still smaller than those of long-established technology giants, the rapid increase is notable. For public-sector observers, it underlines how closely commercial AI interests and policymaking are becoming intertwined.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-22T13:11:13+00:00",
+      "summary": "The Chinese AI company DeepSeek has reportedly raised $15 billion, making it one of the largest funding rounds in China's technology sector. The news came just days after the United States ordered federal agencies to remove DeepSeek's technology, citing national security concerns. The contrast highlights the growing divide between the US and China over advanced AI, where restrictions in one country can coincide with major investment in another. It also shows that competition in AI is increasingly shaped by geopolitics as much as by technology itself. For institutions tracking global AI trends, it is a reminder that the field is developing along separate national and regional lines.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-21T17:00:00+00:00",
+      "summary": "AT&T is working with OpenAI to make its in-house legal knowledge easier to access across the company. Its LegalEdge team is using AI to rethink how legal requests are received and handled, and to help extend expert legal judgment to more staff without overloading lawyers. The goal is to streamline routine intake tasks so that specialists can focus on more complex matters. This is a practical example of AI being applied to a specialised professional function rather than general office work. It points to how AI may reshape knowledge-heavy roles by supporting, rather than replacing, trained experts — a relevant consideration for skills and workforce planning.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 23 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how governments and large organisations are putting AI to practical use while also tightening safeguards around it. From a national AI safety partnership in Poland to workplace tools at major companies, these stories highlight both the opportunities and the governance questions that come with wider AI adoption — themes closely tied to Tamkeen's focus on workforce development and public-sector readiness.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced a partnership with NASK, Poland's National Research Institute, to collaborate on AI safety, security, and technical research. The aim is to strengthen protections against misuse and to build a more resilient digital environment, combining OpenAI's technical expertise with NASK's role as a government-linked research body. This is an example of a private AI developer working directly with a public institution to address safety concerns at a national level. For public-sector staff, it illustrates a growing model in which governments partner with AI companies rather than simply regulating them from a distance. Such arrangements are likely to become more common as countries seek both the benefits and the safeguards of advanced AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Uber brings ChatGPT Work to all employees with OpenAI](https://openai.com/index/uber-chatgpt-work-rollout)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Uber is rolling out ChatGPT Work, a workplace version of OpenAI's chatbot, to more than 30,000 of its employees. Staff will be able to use the tool to carry out research, analyse data, prepare presentations, and work through complex multi-step tasks. This is a large-scale example of a major company embedding AI assistants into everyday work across many different roles, rather than limiting them to technical teams. It reflects a wider trend of organisations adopting AI to support general productivity and decision-making. For workforce planners, it signals that familiarity with AI tools is increasingly becoming a basic workplace skill across many kinds of jobs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. OpenAI, Anthropic, and Nvidia had record lobbying quarters](https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Federal disclosures in the United States show that OpenAI, Anthropic, and Nvidia each recorded their highest-ever spending on lobbying between July and September. Nvidia spent the most at $2.2 million, followed by Anthropic at $2.1 million and OpenAI at $1.5 million. Lobbying refers to efforts to influence government policy and regulation, and the sharp rise shows how actively AI companies are now seeking to shape the rules that will govern their industry. While these figures are still smaller than those of long-established technology giants, the rapid increase is notable. For public-sector observers, it underlines how closely commercial AI interests and policymaking are becoming intertwined.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 22 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. DeepSeek reportedly raises $15B days after US restrictions](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Chinese AI company DeepSeek has reportedly raised $15 billion, making it one of the largest funding rounds in China's technology sector. The news came just days after the United States ordered federal agencies to remove DeepSeek's technology, citing national security concerns. The contrast highlights the growing divide between the US and China over advanced AI, where restrictions in one country can coincide with major investment in another. It also shows that competition in AI is increasingly shaped by geopolitics as much as by technology itself. For institutions tracking global AI trends, it is a reminder that the field is developing along separate national and regional lines.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 22 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "AT&T is working with OpenAI to make its in-house legal knowledge easier to access across the company. Its LegalEdge team is using AI to rethink how legal requests are received and handled, and to help extend expert legal judgment to more staff without overloading lawyers. The goal is to streamline routine intake tasks so that specialists can focus on more complex matters. This is a practical example of AI being applied to a specialised professional function rather than general office work. It points to how AI may reshape knowledge-heavy roles by supporting, rather than replacing, trained experts — a relevant consideration for skills and workforce planning.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 21 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 23 October 2026\n============================================================\nThis edition looks at how governments and large organisations are putting AI to practical use while also tightening safeguards around it. From a national AI safety partnership in Poland to workplace tools at major companies, these stories highlight both the opportunities and the governance questions that come with wider AI adoption — themes closely tied to Tamkeen's focus on workforce development and public-sector readiness.\n\n1. OpenAI and Poland’s NASK partner to advance AI safety and security\n   https://openai.com/index/openai-nask-ai-safety-security-partnership\n   OpenAI has announced a partnership with NASK, Poland's National Research Institute, to collaborate on AI safety, security, and technical research. The aim is to strengthen protections against misuse and to build a more resilient digital environment, combining OpenAI's technical expertise with NASK's role as a government-linked research body. This is an example of a private AI developer working directly with a public institution to address safety concerns at a national level. For public-sector staff, it illustrates a growing model in which governments partner with AI companies rather than simply regulating them from a distance. Such arrangements are likely to become more common as countries seek both the benefits and the safeguards of advanced AI.\n   (OpenAI · 23 Oct 2026)\n\n2. Uber brings ChatGPT Work to all employees with OpenAI\n   https://openai.com/index/uber-chatgpt-work-rollout\n   Uber is rolling out ChatGPT Work, a workplace version of OpenAI's chatbot, to more than 30,000 of its employees. Staff will be able to use the tool to carry out research, analyse data, prepare presentations, and work through complex multi-step tasks. This is a large-scale example of a major company embedding AI assistants into everyday work across many different roles, rather than limiting them to technical teams. It reflects a wider trend of organisations adopting AI to support general productivity and decision-making. For workforce planners, it signals that familiarity with AI tools is increasingly becoming a basic workplace skill across many kinds of jobs.\n   (OpenAI · 22 Oct 2026)\n\n3. OpenAI, Anthropic, and Nvidia had record lobbying quarters\n   https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records\n   Federal disclosures in the United States show that OpenAI, Anthropic, and Nvidia each recorded their highest-ever spending on lobbying between July and September. Nvidia spent the most at $2.2 million, followed by Anthropic at $2.1 million and OpenAI at $1.5 million. Lobbying refers to efforts to influence government policy and regulation, and the sharp rise shows how actively AI companies are now seeking to shape the rules that will govern their industry. While these figures are still smaller than those of long-established technology giants, the rapid increase is notable. For public-sector observers, it underlines how closely commercial AI interests and policymaking are becoming intertwined.\n   (The Verge — AI · 22 Oct 2026)\n\n4. DeepSeek reportedly raises $15B days after US restrictions\n   https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/\n   The Chinese AI company DeepSeek has reportedly raised $15 billion, making it one of the largest funding rounds in China's technology sector. The news came just days after the United States ordered federal agencies to remove DeepSeek's technology, citing national security concerns. The contrast highlights the growing divide between the US and China over advanced AI, where restrictions in one country can coincide with major investment in another. It also shows that competition in AI is increasingly shaped by geopolitics as much as by technology itself. For institutions tracking global AI trends, it is a reminder that the field is developing along separate national and regional lines.\n   (TechCrunch — AI · 22 Oct 2026)\n\n5. How AT&T is rethinking in-house legal work with OpenAI\n   https://openai.com/index/att-legal\n   AT&T is working with OpenAI to make its in-house legal knowledge easier to access across the company. Its LegalEdge team is using AI to rethink how legal requests are received and handled, and to help extend expert legal judgment to more staff without overloading lawyers. The goal is to streamline routine intake tasks so that specialists can focus on more complex matters. This is a practical example of AI being applied to a specialised professional function rather than general office work. It points to how AI may reshape knowledge-heavy roles by supporting, rather than replacing, trained experts — a relevant consideration for skills and workforce planning.\n   (OpenAI · 21 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 23 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how governments and large organisations are putting AI to practical use while also tightening safeguards around it. From a national AI safety partnership in Poland to workplace tools at major companies, these stories highlight both the opportunities and the governance questions that come with wider AI adoption — themes closely tied to Tamkeen's focus on workforce development and public-sector readiness.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. OpenAI and Poland’s NASK partner to advance AI safety and security](https://openai.com/index/openai-nask-ai-safety-security-partnership)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced a partnership with NASK, Poland's National Research Institute, to collaborate on AI safety, security, and technical research. The aim is to strengthen protections against misuse and to build a more resilient digital environment, combining OpenAI's technical expertise with NASK's role as a government-linked research body. This is an example of a private AI developer working directly with a public institution to address safety concerns at a national level. For public-sector staff, it illustrates a growing model in which governments partner with AI companies rather than simply regulating them from a distance. Such arrangements are likely to become more common as countries seek both the benefits and the safeguards of advanced AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Uber brings ChatGPT Work to all employees with OpenAI](https://openai.com/index/uber-chatgpt-work-rollout)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Uber is rolling out ChatGPT Work, a workplace version of OpenAI's chatbot, to more than 30,000 of its employees. Staff will be able to use the tool to carry out research, analyse data, prepare presentations, and work through complex multi-step tasks. This is a large-scale example of a major company embedding AI assistants into everyday work across many different roles, rather than limiting them to technical teams. It reflects a wider trend of organisations adopting AI to support general productivity and decision-making. For workforce planners, it signals that familiarity with AI tools is increasingly becoming a basic workplace skill across many kinds of jobs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. OpenAI, Anthropic, and Nvidia had record lobbying quarters](https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Federal disclosures in the United States show that OpenAI, Anthropic, and Nvidia each recorded their highest-ever spending on lobbying between July and September. Nvidia spent the most at $2.2 million, followed by Anthropic at $2.1 million and OpenAI at $1.5 million. Lobbying refers to efforts to influence government policy and regulation, and the sharp rise shows how actively AI companies are now seeking to shape the rules that will govern their industry. While these figures are still smaller than those of long-established technology giants, the rapid increase is notable. For public-sector observers, it underlines how closely commercial AI interests and policymaking are becoming intertwined.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 22 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. DeepSeek reportedly raises $15B days after US restrictions](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Chinese AI company DeepSeek has reportedly raised $15 billion, making it one of the largest funding rounds in China's technology sector. The news came just days after the United States ordered federal agencies to remove DeepSeek's technology, citing national security concerns. The contrast highlights the growing divide between the US and China over advanced AI, where restrictions in one country can coincide with major investment in another. It also shows that competition in AI is increasingly shaped by geopolitics as much as by technology itself. For institutions tracking global AI trends, it is a reminder that the field is developing along separate national and regional lines.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 22 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. How AT&T is rethinking in-house legal work with OpenAI](https://openai.com/index/att-legal)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "AT&T is working with OpenAI to make its in-house legal knowledge easier to access across the company. Its LegalEdge team is using AI to rethink how legal requests are received and handled, and to help extend expert legal judgment to more staff without overloading lawyers. The goal is to streamline routine intake tasks so that specialists can focus on more complex matters. This is a practical example of AI being applied to a specialised professional function rather than general office work. It points to how AI may reshape knowledge-heavy roles by supporting, rather than replacing, trained experts — a relevant consideration for skills and workforce planning.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 21 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 23 October 2026\n============================================================\nThis edition looks at how governments and large organisations are putting AI to practical use while also tightening safeguards around it. From a national AI safety partnership in Poland to workplace tools at major companies, these stories highlight both the opportunities and the governance questions that come with wider AI adoption — themes closely tied to Tamkeen's focus on workforce development and public-sector readiness.\n\n1. OpenAI and Poland’s NASK partner to advance AI safety and security\n   https://openai.com/index/openai-nask-ai-safety-security-partnership\n   OpenAI has announced a partnership with NASK, Poland's National Research Institute, to collaborate on AI safety, security, and technical research. The aim is to strengthen protections against misuse and to build a more resilient digital environment, combining OpenAI's technical expertise with NASK's role as a government-linked research body. This is an example of a private AI developer working directly with a public institution to address safety concerns at a national level. For public-sector staff, it illustrates a growing model in which governments partner with AI companies rather than simply regulating them from a distance. Such arrangements are likely to become more common as countries seek both the benefits and the safeguards of advanced AI.\n   (OpenAI · 23 Oct 2026)\n\n2. Uber brings ChatGPT Work to all employees with OpenAI\n   https://openai.com/index/uber-chatgpt-work-rollout\n   Uber is rolling out ChatGPT Work, a workplace version of OpenAI's chatbot, to more than 30,000 of its employees. Staff will be able to use the tool to carry out research, analyse data, prepare presentations, and work through complex multi-step tasks. This is a large-scale example of a major company embedding AI assistants into everyday work across many different roles, rather than limiting them to technical teams. It reflects a wider trend of organisations adopting AI to support general productivity and decision-making. For workforce planners, it signals that familiarity with AI tools is increasingly becoming a basic workplace skill across many kinds of jobs.\n   (OpenAI · 22 Oct 2026)\n\n3. OpenAI, Anthropic, and Nvidia had record lobbying quarters\n   https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records\n   Federal disclosures in the United States show that OpenAI, Anthropic, and Nvidia each recorded their highest-ever spending on lobbying between July and September. Nvidia spent the most at $2.2 million, followed by Anthropic at $2.1 million and OpenAI at $1.5 million. Lobbying refers to efforts to influence government policy and regulation, and the sharp rise shows how actively AI companies are now seeking to shape the rules that will govern their industry. While these figures are still smaller than those of long-established technology giants, the rapid increase is notable. For public-sector observers, it underlines how closely commercial AI interests and policymaking are becoming intertwined.\n   (The Verge — AI · 22 Oct 2026)\n\n4. DeepSeek reportedly raises $15B days after US restrictions\n   https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/\n   The Chinese AI company DeepSeek has reportedly raised $15 billion, making it one of the largest funding rounds in China's technology sector. The news came just days after the United States ordered federal agencies to remove DeepSeek's technology, citing national security concerns. The contrast highlights the growing divide between the US and China over advanced AI, where restrictions in one country can coincide with major investment in another. It also shows that competition in AI is increasingly shaped by geopolitics as much as by technology itself. For institutions tracking global AI trends, it is a reminder that the field is developing along separate national and regional lines.\n   (TechCrunch — AI · 22 Oct 2026)\n\n5. How AT&T is rethinking in-house legal work with OpenAI\n   https://openai.com/index/att-legal\n   AT&T is working with OpenAI to make its in-house legal knowledge easier to access across the company. Its LegalEdge team is using AI to rethink how legal requests are received and handled, and to help extend expert legal judgment to more staff without overloading lawyers. The goal is to streamline routine intake tasks so that specialists can focus on more complex matters. This is a practical example of AI being applied to a specialised professional function rather than general office work. It points to how AI may reshape knowledge-heavy roles by supporting, rather than replacing, trained experts — a relevant consideration for skills and workforce planning.\n   (OpenAI · 21 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
