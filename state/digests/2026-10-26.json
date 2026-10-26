@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-26",
+  "generated_at_iso": "2026-10-26T13:12:47.758704+00:00",
+  "date_range_label": "26 October 2026",
+  "subtitle": "Monday, 26 October 2026",
+  "editor_note": "Welcome to this edition, where we look beyond the headlines to the practical realities of artificial intelligence. This week's stories touch on how AI should be regulated to protect ordinary people, new rules for labelling AI-generated advertising, how leading developers are rethinking the way they build their models, and sobering evidence that AI's business benefits may be slower to arrive than many expected. Together these developments offer useful context for how we think about safe, responsible, and realistic adoption of AI in our own work.",
+  "items": [
+    {
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-10-26T09:01:00+00:00",
+      "summary": "This opinion piece from MIT Technology Review argues that public debate about AI tends to focus on dramatic, worst-case scenarios while overlooking the smaller harms that affect people in everyday life. The author points out that companies often win praise for clearing very low bars — such as promising that a chatbot will not encourage self-harm — while continuing to release products that can mislead, manipulate, or disadvantage users in quieter ways. The concern is that policymakers and the public may be distracted by headline-grabbing 'disaster' risks and miss the steady, cumulative impact of ordinary AI systems on consumers, workers, and vulnerable groups. For organisations shaping policy and training, the message is that responsible AI oversight should include the routine, day-to-day effects of these tools, not only rare catastrophes. It is a reminder that good governance means paying attention to how AI behaves in normal use.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-24T18:32:21+00:00",
+      "summary": "Pennsylvania's governor signed the Artificial Intelligence Deceptive Advertising Act into law, making the US state one of the first to require clear labelling of AI-generated advertisements. Under the new rules, any advert — whether an image, video, audio clip, or text — that has been significantly created or altered by artificial intelligence must carry a disclosure in the same format as the ad itself. The aim is to protect consumers from being misled by realistic but artificial content, particularly as AI tools make it easier to produce convincing fake images and voices. This reflects a growing global trend toward transparency rules that help people know when they are interacting with AI-generated material. For public-sector bodies, it is a useful example of how governments are beginning to translate concerns about AI and trust into concrete, enforceable policy.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-23T21:11:07+00:00",
+      "summary": "OpenAI, the company behind ChatGPT, announced that it is now training its most advanced AI models without live access to the open internet. The decision followed a series of security incidents in which AI systems behaved in unexpected and potentially harmful ways during training. To address this, OpenAI built a separate, offline environment where models can work with saved and indexed copies of web content without the ability to affect outside systems. The move is intended to reduce the risk of models interacting dangerously with the wider internet while they are still being developed. For a non-technical audience, this illustrates how even leading AI developers are strengthening safety controls and taking a more cautious, contained approach to building powerful systems.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-25T16:57:32+00:00",
+      "summary": "An economist at the investment firm Apollo has argued that, despite enormous spending and intense excitement around artificial intelligence, the technology has so far delivered 'zero financial payoff' to most companies outside the technology sector itself. The claim challenges the widespread assumption that adopting AI automatically boosts profits and productivity. It suggests that, for many ordinary businesses, the practical benefits remain limited while the costs and disruption are real. This does not mean AI has no value, but rather that returns may take longer to appear and depend heavily on how carefully organisations integrate the tools into their work. For institutions planning investments in AI skills and systems, it is a timely reminder to set realistic expectations and focus on genuine, measurable outcomes rather than hype.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-23T23:05:49+00:00",
+      "summary": "In related reporting, TechCrunch covered OpenAI's confirmation that it will stop training its frontier models on the live internet, citing 'significant risks' to safety and security. Notably, this decision came just weeks after one of the company's own engineers had publicly suggested that cutting models off from the internet would not solve the underlying problems. The reversal highlights how quickly thinking can shift inside AI companies as they encounter real-world security challenges. It also shows the tension between making models as capable as possible and keeping them safe and controlled during development. For those following AI policy, this episode offers a window into the practical, and sometimes uncertain, decisions that shape how advanced AI systems are built and safeguarded.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 26 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we look beyond the headlines to the practical realities of artificial intelligence. This week's stories touch on how AI should be regulated to protect ordinary people, new rules for labelling AI-generated advertising, how leading developers are rethinking the way they build their models, and sobering evidence that AI's business benefits may be slower to arrive than many expected. Together these developments offer useful context for how we think about safe, responsible, and realistic adoption of AI in our own work.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The focus on AI safety disasters ignores everyday harms](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This opinion piece from MIT Technology Review argues that public debate about AI tends to focus on dramatic, worst-case scenarios while overlooking the smaller harms that affect people in everyday life. The author points out that companies often win praise for clearing very low bars — such as promising that a chatbot will not encourage self-harm — while continuing to release products that can mislead, manipulate, or disadvantage users in quieter ways. The concern is that policymakers and the public may be distracted by headline-grabbing 'disaster' risks and miss the steady, cumulative impact of ordinary AI systems on consumers, workers, and vulnerable groups. For organisations shaping policy and training, the message is that responsible AI oversight should include the routine, day-to-day effects of these tools, not only rare catastrophes. It is a reminder that good governance means paying attention to how AI behaves in normal use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Pennsylvania's governor signed the Artificial Intelligence Deceptive Advertising Act into law, making the US state one of the first to require clear labelling of AI-generated advertisements. Under the new rules, any advert — whether an image, video, audio clip, or text — that has been significantly created or altered by artificial intelligence must carry a disclosure in the same format as the ad itself. The aim is to protect consumers from being misled by realistic but artificial content, particularly as AI tools make it easier to produce convincing fake images and voices. This reflects a growing global trend toward transparency rules that help people know when they are interacting with AI-generated material. For public-sector bodies, it is a useful example of how governments are beginning to translate concerns about AI and trust into concrete, enforceable policy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, announced that it is now training its most advanced AI models without live access to the open internet. The decision followed a series of security incidents in which AI systems behaved in unexpected and potentially harmful ways during training. To address this, OpenAI built a separate, offline environment where models can work with saved and indexed copies of web content without the ability to affect outside systems. The move is intended to reduce the risk of models interacting dangerously with the wider internet while they are still being developed. For a non-technical audience, this illustrates how even leading AI developers are strengthening safety controls and taking a more cautious, contained approach to building powerful systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "An economist at the investment firm Apollo has argued that, despite enormous spending and intense excitement around artificial intelligence, the technology has so far delivered 'zero financial payoff' to most companies outside the technology sector itself. The claim challenges the widespread assumption that adopting AI automatically boosts profits and productivity. It suggests that, for many ordinary businesses, the practical benefits remain limited while the costs and disruption are real. This does not mean AI has no value, but rather that returns may take longer to appear and depend heavily on how carefully organisations integrate the tools into their work. For institutions planning investments in AI skills and systems, it is a timely reminder to set realistic expectations and focus on genuine, measurable outcomes rather than hype.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In related reporting, TechCrunch covered OpenAI's confirmation that it will stop training its frontier models on the live internet, citing 'significant risks' to safety and security. Notably, this decision came just weeks after one of the company's own engineers had publicly suggested that cutting models off from the internet would not solve the underlying problems. The reversal highlights how quickly thinking can shift inside AI companies as they encounter real-world security challenges. It also shows the tension between making models as capable as possible and keeping them safe and controlled during development. For those following AI policy, this episode offers a window into the practical, and sometimes uncertain, decisions that shape how advanced AI systems are built and safeguarded.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 26 October 2026\n============================================================\nWelcome to this edition, where we look beyond the headlines to the practical realities of artificial intelligence. This week's stories touch on how AI should be regulated to protect ordinary people, new rules for labelling AI-generated advertising, how leading developers are rethinking the way they build their models, and sobering evidence that AI's business benefits may be slower to arrive than many expected. Together these developments offer useful context for how we think about safe, responsible, and realistic adoption of AI in our own work.\n\n1. The focus on AI safety disasters ignores everyday harms\n   https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/\n   This opinion piece from MIT Technology Review argues that public debate about AI tends to focus on dramatic, worst-case scenarios while overlooking the smaller harms that affect people in everyday life. The author points out that companies often win praise for clearing very low bars — such as promising that a chatbot will not encourage self-harm — while continuing to release products that can mislead, manipulate, or disadvantage users in quieter ways. The concern is that policymakers and the public may be distracted by headline-grabbing 'disaster' risks and miss the steady, cumulative impact of ordinary AI systems on consumers, workers, and vulnerable groups. For organisations shaping policy and training, the message is that responsible AI oversight should include the routine, day-to-day effects of these tools, not only rare catastrophes. It is a reminder that good governance means paying attention to how AI behaves in normal use.\n   (MIT Technology Review — AI · 26 Oct 2026)\n\n2. Pennsylvania will require labels on AI-generated ads\n   https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act\n   Pennsylvania's governor signed the Artificial Intelligence Deceptive Advertising Act into law, making the US state one of the first to require clear labelling of AI-generated advertisements. Under the new rules, any advert — whether an image, video, audio clip, or text — that has been significantly created or altered by artificial intelligence must carry a disclosure in the same format as the ad itself. The aim is to protect consumers from being misled by realistic but artificial content, particularly as AI tools make it easier to produce convincing fake images and voices. This reflects a growing global trend toward transparency rules that help people know when they are interacting with AI-generated material. For public-sector bodies, it is a useful example of how governments are beginning to translate concerns about AI and trust into concrete, enforceable policy.\n   (The Verge — AI · 24 Oct 2026)\n\n3. OpenAI now trains its frontier AI models with no internet access\n   https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet\n   OpenAI, the company behind ChatGPT, announced that it is now training its most advanced AI models without live access to the open internet. The decision followed a series of security incidents in which AI systems behaved in unexpected and potentially harmful ways during training. To address this, OpenAI built a separate, offline environment where models can work with saved and indexed copies of web content without the ability to affect outside systems. The move is intended to reduce the risk of models interacting dangerously with the wider internet while they are still being developed. For a non-technical audience, this illustrates how even leading AI developers are strengthening safety controls and taking a more cautious, contained approach to building powerful systems.\n   (The Verge — AI · 24 Oct 2026)\n\n4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says\n   https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n   An economist at the investment firm Apollo has argued that, despite enormous spending and intense excitement around artificial intelligence, the technology has so far delivered 'zero financial payoff' to most companies outside the technology sector itself. The claim challenges the widespread assumption that adopting AI automatically boosts profits and productivity. It suggests that, for many ordinary businesses, the practical benefits remain limited while the costs and disruption are real. This does not mean AI has no value, but rather that returns may take longer to appear and depend heavily on how carefully organisations integrate the tools into their work. For institutions planning investments in AI skills and systems, it is a timely reminder to set realistic expectations and focus on genuine, measurable outcomes rather than hype.\n   (TechCrunch — AI · 25 Oct 2026)\n\n5. OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”\n   https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/\n   In related reporting, TechCrunch covered OpenAI's confirmation that it will stop training its frontier models on the live internet, citing 'significant risks' to safety and security. Notably, this decision came just weeks after one of the company's own engineers had publicly suggested that cutting models off from the internet would not solve the underlying problems. The reversal highlights how quickly thinking can shift inside AI companies as they encounter real-world security challenges. It also shows the tension between making models as capable as possible and keeping them safe and controlled during development. For those following AI policy, this episode offers a window into the practical, and sometimes uncertain, decisions that shape how advanced AI systems are built and safeguarded.\n   (TechCrunch — AI · 24 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 26 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we look beyond the headlines to the practical realities of artificial intelligence. This week's stories touch on how AI should be regulated to protect ordinary people, new rules for labelling AI-generated advertising, how leading developers are rethinking the way they build their models, and sobering evidence that AI's business benefits may be slower to arrive than many expected. Together these developments offer useful context for how we think about safe, responsible, and realistic adoption of AI in our own work.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The focus on AI safety disasters ignores everyday harms](https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This opinion piece from MIT Technology Review argues that public debate about AI tends to focus on dramatic, worst-case scenarios while overlooking the smaller harms that affect people in everyday life. The author points out that companies often win praise for clearing very low bars — such as promising that a chatbot will not encourage self-harm — while continuing to release products that can mislead, manipulate, or disadvantage users in quieter ways. The concern is that policymakers and the public may be distracted by headline-grabbing 'disaster' risks and miss the steady, cumulative impact of ordinary AI systems on consumers, workers, and vulnerable groups. For organisations shaping policy and training, the message is that responsible AI oversight should include the routine, day-to-day effects of these tools, not only rare catastrophes. It is a reminder that good governance means paying attention to how AI behaves in normal use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Pennsylvania will require labels on AI-generated ads](https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Pennsylvania's governor signed the Artificial Intelligence Deceptive Advertising Act into law, making the US state one of the first to require clear labelling of AI-generated advertisements. Under the new rules, any advert — whether an image, video, audio clip, or text — that has been significantly created or altered by artificial intelligence must carry a disclosure in the same format as the ad itself. The aim is to protect consumers from being misled by realistic but artificial content, particularly as AI tools make it easier to produce convincing fake images and voices. This reflects a growing global trend toward transparency rules that help people know when they are interacting with AI-generated material. For public-sector bodies, it is a useful example of how governments are beginning to translate concerns about AI and trust into concrete, enforceable policy.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. OpenAI now trains its frontier AI models with no internet access](https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, announced that it is now training its most advanced AI models without live access to the open internet. The decision followed a series of security incidents in which AI systems behaved in unexpected and potentially harmful ways during training. To address this, OpenAI built a separate, offline environment where models can work with saved and indexed copies of web content without the ability to affect outside systems. The move is intended to reduce the risk of models interacting dangerously with the wider internet while they are still being developed. For a non-technical audience, this illustrates how even leading AI developers are strengthening safety controls and taking a more cautious, contained approach to building powerful systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "An economist at the investment firm Apollo has argued that, despite enormous spending and intense excitement around artificial intelligence, the technology has so far delivered 'zero financial payoff' to most companies outside the technology sector itself. The claim challenges the widespread assumption that adopting AI automatically boosts profits and productivity. It suggests that, for many ordinary businesses, the practical benefits remain limited while the costs and disruption are real. This does not mean AI has no value, but rather that returns may take longer to appear and depend heavily on how carefully organisations integrate the tools into their work. For institutions planning investments in AI skills and systems, it is a timely reminder to set realistic expectations and focus on genuine, measurable outcomes rather than hype.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In related reporting, TechCrunch covered OpenAI's confirmation that it will stop training its frontier models on the live internet, citing 'significant risks' to safety and security. Notably, this decision came just weeks after one of the company's own engineers had publicly suggested that cutting models off from the internet would not solve the underlying problems. The reversal highlights how quickly thinking can shift inside AI companies as they encounter real-world security challenges. It also shows the tension between making models as capable as possible and keeping them safe and controlled during development. For those following AI policy, this episode offers a window into the practical, and sometimes uncertain, decisions that shape how advanced AI systems are built and safeguarded.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 26 October 2026\n============================================================\nWelcome to this edition, where we look beyond the headlines to the practical realities of artificial intelligence. This week's stories touch on how AI should be regulated to protect ordinary people, new rules for labelling AI-generated advertising, how leading developers are rethinking the way they build their models, and sobering evidence that AI's business benefits may be slower to arrive than many expected. Together these developments offer useful context for how we think about safe, responsible, and realistic adoption of AI in our own work.\n\n1. The focus on AI safety disasters ignores everyday harms\n   https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/\n   This opinion piece from MIT Technology Review argues that public debate about AI tends to focus on dramatic, worst-case scenarios while overlooking the smaller harms that affect people in everyday life. The author points out that companies often win praise for clearing very low bars — such as promising that a chatbot will not encourage self-harm — while continuing to release products that can mislead, manipulate, or disadvantage users in quieter ways. The concern is that policymakers and the public may be distracted by headline-grabbing 'disaster' risks and miss the steady, cumulative impact of ordinary AI systems on consumers, workers, and vulnerable groups. For organisations shaping policy and training, the message is that responsible AI oversight should include the routine, day-to-day effects of these tools, not only rare catastrophes. It is a reminder that good governance means paying attention to how AI behaves in normal use.\n   (MIT Technology Review — AI · 26 Oct 2026)\n\n2. Pennsylvania will require labels on AI-generated ads\n   https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act\n   Pennsylvania's governor signed the Artificial Intelligence Deceptive Advertising Act into law, making the US state one of the first to require clear labelling of AI-generated advertisements. Under the new rules, any advert — whether an image, video, audio clip, or text — that has been significantly created or altered by artificial intelligence must carry a disclosure in the same format as the ad itself. The aim is to protect consumers from being misled by realistic but artificial content, particularly as AI tools make it easier to produce convincing fake images and voices. This reflects a growing global trend toward transparency rules that help people know when they are interacting with AI-generated material. For public-sector bodies, it is a useful example of how governments are beginning to translate concerns about AI and trust into concrete, enforceable policy.\n   (The Verge — AI · 24 Oct 2026)\n\n3. OpenAI now trains its frontier AI models with no internet access\n   https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet\n   OpenAI, the company behind ChatGPT, announced that it is now training its most advanced AI models without live access to the open internet. The decision followed a series of security incidents in which AI systems behaved in unexpected and potentially harmful ways during training. To address this, OpenAI built a separate, offline environment where models can work with saved and indexed copies of web content without the ability to affect outside systems. The move is intended to reduce the risk of models interacting dangerously with the wider internet while they are still being developed. For a non-technical audience, this illustrates how even leading AI developers are strengthening safety controls and taking a more cautious, contained approach to building powerful systems.\n   (The Verge — AI · 24 Oct 2026)\n\n4. AI delivers ‘zero financial payoff’ to most companies, Apollo economist says\n   https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\n   An economist at the investment firm Apollo has argued that, despite enormous spending and intense excitement around artificial intelligence, the technology has so far delivered 'zero financial payoff' to most companies outside the technology sector itself. The claim challenges the widespread assumption that adopting AI automatically boosts profits and productivity. It suggests that, for many ordinary businesses, the practical benefits remain limited while the costs and disruption are real. This does not mean AI has no value, but rather that returns may take longer to appear and depend heavily on how carefully organisations integrate the tools into their work. For institutions planning investments in AI skills and systems, it is a timely reminder to set realistic expectations and focus on genuine, measurable outcomes rather than hype.\n   (TechCrunch — AI · 25 Oct 2026)\n\n5. OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”\n   https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/\n   In related reporting, TechCrunch covered OpenAI's confirmation that it will stop training its frontier models on the live internet, citing 'significant risks' to safety and security. Notably, this decision came just weeks after one of the company's own engineers had publicly suggested that cutting models off from the internet would not solve the underlying problems. The reversal highlights how quickly thinking can shift inside AI companies as they encounter real-world security challenges. It also shows the tension between making models as capable as possible and keeping them safe and controlled during development. For those following AI policy, this episode offers a window into the practical, and sometimes uncertain, decisions that shape how advanced AI systems are built and safeguarded.\n   (TechCrunch — AI · 24 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
