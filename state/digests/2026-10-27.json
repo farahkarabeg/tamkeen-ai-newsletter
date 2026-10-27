@@ -1,0 +1,478 @@
+{
+  "id": "2026-10-27",
+  "generated_at_iso": "2026-10-27T12:20:35.832771+00:00",
+  "date_range_label": "27 October 2026",
+  "subtitle": "Tuesday, 27 October 2026",
+  "editor_note": "Welcome to this edition, where we focus on how artificial intelligence is reshaping the world of work — a theme that sits at the heart of Tamkeen's mandate. This issue looks at new evidence on how people use AI tools in their jobs, fresh capabilities in the latest models, and what large-scale workforce changes at a major technology company might signal. We also examine where AI could ease long-standing technical challenges in government and public services.",
+  "items": [
+    {
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-26T10:00:00+00:00",
+      "summary": "OpenAI has published a data study, called Signals, examining how people use ChatGPT for work across 165 distinct work activities in nearly 100 countries. The findings show that AI tools are being applied to a broad range of everyday professional tasks — from writing and research to planning and problem-solving — and that usage patterns shift over time as people grow more familiar with the technology. For a workforce-development institution, this offers a useful, real-world picture of which job tasks are most affected by AI and how quickly adoption is spreading. It is notable because it moves the conversation beyond speculation, grounding it in actual usage data from many regions. Understanding these patterns can help shape training and reskilling priorities so that workers are prepared for the tasks AI is most likely to change.",
+      "why_it_matters": "",
+      "relevance": 9
+    },
+    {
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-26T00:00:00+00:00",
+      "summary": "OpenAI has released a new model, GPT-6.1 Terra, designed to make \"computer use\" faster and more widely available. Computer use refers to AI that can operate software and carry out multi-step tasks on a computer much as a person would, such as navigating applications, filling in forms, or completing routine digital workflows. The emphasis in this release is on speed and accessibility, aiming to bring these capabilities to a broader group of users rather than only specialists. This matters for the public sector and for workforce planning because AI that can handle practical digital tasks may change how certain administrative and operational roles are performed. As with any new capability, the practical value will depend on careful testing, oversight, and clear guidelines for responsible use.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source_name": "OpenAI",
+      "published_iso": "2026-10-26T14:30:00+00:00",
+      "summary": "OpenAI has shared results from applying its models to complex scientific problems, including the Kakeya conjecture in mathematics, the Exponential Time Hypothesis in computer science, and aspects of quantum chromodynamics in physics. Importantly, the company is working with academic communities and has invited researchers to verify and build on these results, rather than presenting them as final conclusions. This collaborative, check-the-work approach is significant because independent verification is a cornerstone of credible science and helps guard against overstated claims. For an institution focused on education and human capital, it highlights how AI is beginning to assist advanced research and how partnerships between AI developers and universities are forming. It also underlines the continued importance of skilled human experts who can review, challenge, and extend what these tools produce.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-26T15:58:27+00:00",
+      "summary": "Microsoft is offering voluntary buyouts to as many as 60,000 employees across the United States, United Kingdom, Canada, and India. In a message to staff, the company's chief people officer described the offer as a chance to leave with financial support and career-planning resources, framing it as a way to reduce headcount without resorting to further layoffs. The move comes amid broader restructuring across the technology sector, much of it linked to heavy investment in AI and shifting business priorities. While this is a company-specific decision, it is notable as a signal of how major employers are reshaping their workforces during a period of rapid technological change. For workforce-development bodies, it reinforces the importance of career transition support, reskilling, and helping employees adapt as industries evolve.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Can AI help solve the COBOL code crisis?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-26T13:15:00+00:00",
+      "summary": "This article examines whether AI can help address the long-standing problem of COBOL, an old programming language that still underpins critical systems at tax agencies, banks, airlines, and government infrastructure worldwide. These systems are often decades old, poorly documented, and risky to modify, yet few workers today have the specialized skills to maintain them. OpenAI and other companies have pointed to improvements in their latest models' ability to understand and help migrate such legacy code to modern systems. If reliable, this could ease a genuine bottleneck in public services and reduce dependence on a shrinking pool of specialist programmers. The report is cautious, however, noting that modernizing essential systems carries real risks and that any AI assistance would need thorough human verification before being trusted with vital infrastructure.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 27 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we focus on how artificial intelligence is reshaping the world of work — a theme that sits at the heart of Tamkeen's mandate. This issue looks at new evidence on how people use AI tools in their jobs, fresh capabilities in the latest models, and what large-scale workforce changes at a major technology company might signal. We also examine where AI could ease long-standing technical challenges in government and public services.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. ChatGPT’s expanding world of work](https://openai.com/index/chatgpt-expanding-world-of-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a data study, called Signals, examining how people use ChatGPT for work across 165 distinct work activities in nearly 100 countries. The findings show that AI tools are being applied to a broad range of everyday professional tasks — from writing and research to planning and problem-solving — and that usage patterns shift over time as people grow more familiar with the technology. For a workforce-development institution, this offers a useful, real-world picture of which job tasks are most affected by AI and how quickly adoption is spreading. It is notable because it moves the conversation beyond speculation, grounding it in actual usage data from many regions. Understanding these patterns can help shape training and reskilling priorities so that workers are prepared for the tasks AI is most likely to change.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Introducing GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has released a new model, GPT-6.1 Terra, designed to make \"computer use\" faster and more widely available. Computer use refers to AI that can operate software and carry out multi-step tasks on a computer much as a person would, such as navigating applications, filling in forms, or completing routine digital workflows. The emphasis in this release is on speed and accessibility, aiming to bring these capabilities to a broader group of users rather than only specialists. This matters for the public sector and for workforce planning because AI that can handle practical digital tasks may change how certain administrative and operational roles are performed. As with any new capability, the practical value will depend on careful testing, oversight, and clear guidelines for responsible use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has shared results from applying its models to complex scientific problems, including the Kakeya conjecture in mathematics, the Exponential Time Hypothesis in computer science, and aspects of quantum chromodynamics in physics. Importantly, the company is working with academic communities and has invited researchers to verify and build on these results, rather than presenting them as final conclusions. This collaborative, check-the-work approach is significant because independent verification is a cornerstone of credible science and helps guard against overstated claims. For an institution focused on education and human capital, it highlights how AI is beginning to assist advanced research and how partnerships between AI developers and universities are forming. It also underlines the continued importance of skilled human experts who can review, challenge, and extend what these tools produce.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Microsoft offers buyouts to 60,000 employees](https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft is offering voluntary buyouts to as many as 60,000 employees across the United States, United Kingdom, Canada, and India. In a message to staff, the company's chief people officer described the offer as a chance to leave with financial support and career-planning resources, framing it as a way to reduce headcount without resorting to further layoffs. The move comes amid broader restructuring across the technology sector, much of it linked to heavy investment in AI and shifting business priorities. While this is a company-specific decision, it is notable as a signal of how major employers are reshaping their workforces during a period of rapid technological change. For workforce-development bodies, it reinforces the importance of career transition support, reskilling, and helping employees adapt as industries evolve.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Can AI help solve the COBOL code crisis?](https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article examines whether AI can help address the long-standing problem of COBOL, an old programming language that still underpins critical systems at tax agencies, banks, airlines, and government infrastructure worldwide. These systems are often decades old, poorly documented, and risky to modify, yet few workers today have the specialized skills to maintain them. OpenAI and other companies have pointed to improvements in their latest models' ability to understand and help migrate such legacy code to modern systems. If reliable, this could ease a genuine bottleneck in public services and reduce dependence on a shrinking pool of specialist programmers. The report is cautious, however, noting that modernizing essential systems carries real risks and that any AI assistance would need thorough human verification before being trusted with vital infrastructure.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 27 October 2026\n============================================================\nWelcome to this edition, where we focus on how artificial intelligence is reshaping the world of work — a theme that sits at the heart of Tamkeen's mandate. This issue looks at new evidence on how people use AI tools in their jobs, fresh capabilities in the latest models, and what large-scale workforce changes at a major technology company might signal. We also examine where AI could ease long-standing technical challenges in government and public services.\n\n1. ChatGPT’s expanding world of work\n   https://openai.com/index/chatgpt-expanding-world-of-work\n   OpenAI has published a data study, called Signals, examining how people use ChatGPT for work across 165 distinct work activities in nearly 100 countries. The findings show that AI tools are being applied to a broad range of everyday professional tasks — from writing and research to planning and problem-solving — and that usage patterns shift over time as people grow more familiar with the technology. For a workforce-development institution, this offers a useful, real-world picture of which job tasks are most affected by AI and how quickly adoption is spreading. It is notable because it moves the conversation beyond speculation, grounding it in actual usage data from many regions. Understanding these patterns can help shape training and reskilling priorities so that workers are prepared for the tasks AI is most likely to change.\n   (OpenAI · 26 Oct 2026)\n\n2. Introducing GPT-6.1 Terra\n   https://openai.com/index/introducing-gpt-6-1-terra\n   OpenAI has released a new model, GPT-6.1 Terra, designed to make \"computer use\" faster and more widely available. Computer use refers to AI that can operate software and carry out multi-step tasks on a computer much as a person would, such as navigating applications, filling in forms, or completing routine digital workflows. The emphasis in this release is on speed and accessibility, aiming to bring these capabilities to a broader group of users rather than only specialists. This matters for the public sector and for workforce planning because AI that can handle practical digital tasks may change how certain administrative and operational roles are performed. As with any new capability, the practical value will depend on careful testing, oversight, and clear guidelines for responsible use.\n   (OpenAI · 26 Oct 2026)\n\n3. Working with academic communities to build scientific understanding\n   https://openai.com/index/building-scientific-understanding-with-academic-communities\n   OpenAI has shared results from applying its models to complex scientific problems, including the Kakeya conjecture in mathematics, the Exponential Time Hypothesis in computer science, and aspects of quantum chromodynamics in physics. Importantly, the company is working with academic communities and has invited researchers to verify and build on these results, rather than presenting them as final conclusions. This collaborative, check-the-work approach is significant because independent verification is a cornerstone of credible science and helps guard against overstated claims. For an institution focused on education and human capital, it highlights how AI is beginning to assist advanced research and how partnerships between AI developers and universities are forming. It also underlines the continued importance of skilled human experts who can review, challenge, and extend what these tools produce.\n   (OpenAI · 26 Oct 2026)\n\n4. Microsoft offers buyouts to 60,000 employees\n   https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible\n   Microsoft is offering voluntary buyouts to as many as 60,000 employees across the United States, United Kingdom, Canada, and India. In a message to staff, the company's chief people officer described the offer as a chance to leave with financial support and career-planning resources, framing it as a way to reduce headcount without resorting to further layoffs. The move comes amid broader restructuring across the technology sector, much of it linked to heavy investment in AI and shifting business priorities. While this is a company-specific decision, it is notable as a signal of how major employers are reshaping their workforces during a period of rapid technological change. For workforce-development bodies, it reinforces the importance of career transition support, reskilling, and helping employees adapt as industries evolve.\n   (The Verge — AI · 26 Oct 2026)\n\n5. Can AI help solve the COBOL code crisis?\n   https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic\n   This article examines whether AI can help address the long-standing problem of COBOL, an old programming language that still underpins critical systems at tax agencies, banks, airlines, and government infrastructure worldwide. These systems are often decades old, poorly documented, and risky to modify, yet few workers today have the specialized skills to maintain them. OpenAI and other companies have pointed to improvements in their latest models' ability to understand and help migrate such legacy code to modern systems. If reliable, this could ease a genuine bottleneck in public services and reduce dependence on a shrinking pool of specialist programmers. The report is cautious, however, noting that modernizing essential systems carries real risks and that any AI assistance would need thorough human verification before being trusted with vital infrastructure.\n   (The Verge — AI · 26 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 27 October 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where we focus on how artificial intelligence is reshaping the world of work — a theme that sits at the heart of Tamkeen's mandate. This issue looks at new evidence on how people use AI tools in their jobs, fresh capabilities in the latest models, and what large-scale workforce changes at a major technology company might signal. We also examine where AI could ease long-standing technical challenges in government and public services.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. ChatGPT’s expanding world of work](https://openai.com/index/chatgpt-expanding-world-of-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a data study, called Signals, examining how people use ChatGPT for work across 165 distinct work activities in nearly 100 countries. The findings show that AI tools are being applied to a broad range of everyday professional tasks — from writing and research to planning and problem-solving — and that usage patterns shift over time as people grow more familiar with the technology. For a workforce-development institution, this offers a useful, real-world picture of which job tasks are most affected by AI and how quickly adoption is spreading. It is notable because it moves the conversation beyond speculation, grounding it in actual usage data from many regions. Understanding these patterns can help shape training and reskilling priorities so that workers are prepared for the tasks AI is most likely to change.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Introducing GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has released a new model, GPT-6.1 Terra, designed to make \"computer use\" faster and more widely available. Computer use refers to AI that can operate software and carry out multi-step tasks on a computer much as a person would, such as navigating applications, filling in forms, or completing routine digital workflows. The emphasis in this release is on speed and accessibility, aiming to bring these capabilities to a broader group of users rather than only specialists. This matters for the public sector and for workforce planning because AI that can handle practical digital tasks may change how certain administrative and operational roles are performed. As with any new capability, the practical value will depend on careful testing, oversight, and clear guidelines for responsible use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has shared results from applying its models to complex scientific problems, including the Kakeya conjecture in mathematics, the Exponential Time Hypothesis in computer science, and aspects of quantum chromodynamics in physics. Importantly, the company is working with academic communities and has invited researchers to verify and build on these results, rather than presenting them as final conclusions. This collaborative, check-the-work approach is significant because independent verification is a cornerstone of credible science and helps guard against overstated claims. For an institution focused on education and human capital, it highlights how AI is beginning to assist advanced research and how partnerships between AI developers and universities are forming. It also underlines the continued importance of skilled human experts who can review, challenge, and extend what these tools produce.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Microsoft offers buyouts to 60,000 employees](https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Microsoft is offering voluntary buyouts to as many as 60,000 employees across the United States, United Kingdom, Canada, and India. In a message to staff, the company's chief people officer described the offer as a chance to leave with financial support and career-planning resources, framing it as a way to reduce headcount without resorting to further layoffs. The move comes amid broader restructuring across the technology sector, much of it linked to heavy investment in AI and shifting business priorities. While this is a company-specific decision, it is notable as a signal of how major employers are reshaping their workforces during a period of rapid technological change. For workforce-development bodies, it reinforces the importance of career transition support, reskilling, and helping employees adapt as industries evolve.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Can AI help solve the COBOL code crisis?](https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This article examines whether AI can help address the long-standing problem of COBOL, an old programming language that still underpins critical systems at tax agencies, banks, airlines, and government infrastructure worldwide. These systems are often decades old, poorly documented, and risky to modify, yet few workers today have the specialized skills to maintain them. OpenAI and other companies have pointed to improvements in their latest models' ability to understand and help migrate such legacy code to modern systems. If reliable, this could ease a genuine bottleneck in public services and reduce dependence on a shrinking pool of specialist programmers. The report is cautious, however, noting that modernizing essential systems carries real risks and that any AI assistance would need thorough human verification before being trusted with vital infrastructure.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 26 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 27 October 2026\n============================================================\nWelcome to this edition, where we focus on how artificial intelligence is reshaping the world of work — a theme that sits at the heart of Tamkeen's mandate. This issue looks at new evidence on how people use AI tools in their jobs, fresh capabilities in the latest models, and what large-scale workforce changes at a major technology company might signal. We also examine where AI could ease long-standing technical challenges in government and public services.\n\n1. ChatGPT’s expanding world of work\n   https://openai.com/index/chatgpt-expanding-world-of-work\n   OpenAI has published a data study, called Signals, examining how people use ChatGPT for work across 165 distinct work activities in nearly 100 countries. The findings show that AI tools are being applied to a broad range of everyday professional tasks — from writing and research to planning and problem-solving — and that usage patterns shift over time as people grow more familiar with the technology. For a workforce-development institution, this offers a useful, real-world picture of which job tasks are most affected by AI and how quickly adoption is spreading. It is notable because it moves the conversation beyond speculation, grounding it in actual usage data from many regions. Understanding these patterns can help shape training and reskilling priorities so that workers are prepared for the tasks AI is most likely to change.\n   (OpenAI · 26 Oct 2026)\n\n2. Introducing GPT-6.1 Terra\n   https://openai.com/index/introducing-gpt-6-1-terra\n   OpenAI has released a new model, GPT-6.1 Terra, designed to make \"computer use\" faster and more widely available. Computer use refers to AI that can operate software and carry out multi-step tasks on a computer much as a person would, such as navigating applications, filling in forms, or completing routine digital workflows. The emphasis in this release is on speed and accessibility, aiming to bring these capabilities to a broader group of users rather than only specialists. This matters for the public sector and for workforce planning because AI that can handle practical digital tasks may change how certain administrative and operational roles are performed. As with any new capability, the practical value will depend on careful testing, oversight, and clear guidelines for responsible use.\n   (OpenAI · 26 Oct 2026)\n\n3. Working with academic communities to build scientific understanding\n   https://openai.com/index/building-scientific-understanding-with-academic-communities\n   OpenAI has shared results from applying its models to complex scientific problems, including the Kakeya conjecture in mathematics, the Exponential Time Hypothesis in computer science, and aspects of quantum chromodynamics in physics. Importantly, the company is working with academic communities and has invited researchers to verify and build on these results, rather than presenting them as final conclusions. This collaborative, check-the-work approach is significant because independent verification is a cornerstone of credible science and helps guard against overstated claims. For an institution focused on education and human capital, it highlights how AI is beginning to assist advanced research and how partnerships between AI developers and universities are forming. It also underlines the continued importance of skilled human experts who can review, challenge, and extend what these tools produce.\n   (OpenAI · 26 Oct 2026)\n\n4. Microsoft offers buyouts to 60,000 employees\n   https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible\n   Microsoft is offering voluntary buyouts to as many as 60,000 employees across the United States, United Kingdom, Canada, and India. In a message to staff, the company's chief people officer described the offer as a chance to leave with financial support and career-planning resources, framing it as a way to reduce headcount without resorting to further layoffs. The move comes amid broader restructuring across the technology sector, much of it linked to heavy investment in AI and shifting business priorities. While this is a company-specific decision, it is notable as a signal of how major employers are reshaping their workforces during a period of rapid technological change. For workforce-development bodies, it reinforces the importance of career transition support, reskilling, and helping employees adapt as industries evolve.\n   (The Verge — AI · 26 Oct 2026)\n\n5. Can AI help solve the COBOL code crisis?\n   https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic\n   This article examines whether AI can help address the long-standing problem of COBOL, an old programming language that still underpins critical systems at tax agencies, banks, airlines, and government infrastructure worldwide. These systems are often decades old, poorly documented, and risky to modify, yet few workers today have the specialized skills to maintain them. OpenAI and other companies have pointed to improvements in their latest models' ability to understand and help migrate such legacy code to modern systems. If reliable, this could ease a genuine bottleneck in public services and reduce dependence on a shrinking pool of specialist programmers. The report is cautious, however, noting that modernizing essential systems carries real risks and that any AI assistance would need thorough human verification before being trusted with vital infrastructure.\n   (The Verge — AI · 26 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
