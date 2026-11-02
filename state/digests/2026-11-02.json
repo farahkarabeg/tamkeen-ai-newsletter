@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-02",
+  "generated_at_iso": "2026-11-02T16:06:47.949590+00:00",
+  "date_range_label": "2 November 2026",
+  "subtitle": "Monday, 2 November 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week we look at how major AI companies are giving publishers more control over their content, the financial questions emerging around the AI investment boom, and the rise of 'agentic' software that acts on our behalf. We also cover AI's growing energy footprint and Apple's expansion of its AI features into new markets — developments that touch on policy, workforce, and the practical realities of a rapidly evolving technology.",
+  "items": [
+    {
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-30T20:26:10+00:00",
+      "summary": "OpenAI, Google, Microsoft, and Anthropic — four of the largest AI companies — have agreed to support a new shared standard that lets website publishers opt out of having their content collected (or 'scraped') to train AI systems. Until now, publishers often had to set their preferences separately with each company, a cumbersome and inconsistent process. The new approach uses a single 'policy token' signal that applies a publisher's wishes across all participating companies at once. For organisations that produce educational materials, research, or cultural content, this offers a simpler way to control how their work is used by AI. It is also a notable example of industry players coordinating on shared rules, which could inform how governments and institutions think about responsible data use.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-10-30T21:17:40+00:00",
+      "summary": "This report examines growing concerns about whether the enormous spending on AI by large technology companies is financially sustainable. Firms are investing billions in data centres and computing infrastructure, but some are now carrying rising debt, spending more cash than they bring in, and facing increased scepticism from investors. The article notes that these financial strains are prompting questions about whether current levels of investment can continue at the same pace. For public-sector planners, this is a useful reminder that the AI sector, despite its rapid growth, carries real economic risks and uncertainty. Understanding these dynamics can help institutions make measured, long-term decisions rather than reacting to short-term enthusiasm.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "The agentic web is here",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-11-02T09:35:19+00:00",
+      "summary": "This piece from MIT Technology Review describes the arrival of the 'agentic web' — an internet increasingly navigated not just by people, but by autonomous software 'agents' that can carry out tasks on our behalf, such as booking services or gathering information. The idea traces back to a vision outlined by Tim Berners-Lee, the inventor of the World Wide Web, over two decades ago, and is now becoming practical thanks to advances in AI. Instead of clicking through websites ourselves, we may increasingly delegate online tasks to AI assistants that act independently. This shift could reshape how public services are accessed and delivered, and how organisations design their websites and digital tools. It also raises important questions about oversight, accuracy, and accountability when software acts without direct human control at each step.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-02T15:00:00+00:00",
+      "summary": "OpenAI has announced a 'Grid Protectors Program' aimed at addressing one of the biggest practical challenges of AI: its heavy demand for electricity. The program will work with utility companies to help ensure that the large computing facilities needed to run AI do not strain local power grids or drive up electricity costs for ordinary consumers. As AI data centres expand, their energy use has become a significant public concern, particularly around reliability and affordability. The initiative reflects a growing recognition that AI's physical infrastructure has real-world consequences for communities and national resources. For governments focused on sustainable development, the link between AI growth and energy planning is an increasingly important consideration.",
+      "why_it_matters": "",
+      "relevance": 3
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-10-30T22:32:53+00:00",
+      "summary": "Apple has announced that it will bring its 'Apple Intelligence' AI features to China through the iOS 27.3 software update, starting with a beta version in early November and a full release in December. The rollout has taken longer in China than in other markets, largely because of local regulations governing AI services and data. To comply, Apple is reportedly partnering with domestic companies to deliver these features within the country's rules. This highlights how AI products must be adapted to meet different national regulatory and language requirements rather than being deployed identically everywhere. For institutions in the Gulf and elsewhere, it is a clear example of how local policy, language, and governance shape the way global AI technologies arrive in each market.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 2 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how major AI companies are giving publishers more control over their content, the financial questions emerging around the AI investment boom, and the rise of 'agentic' software that acts on our behalf. We also cover AI's growing energy footprint and Apple's expansion of its AI features into new markets — developments that touch on policy, workforce, and the practical realities of a rapidly evolving technology.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, Google, Microsoft, and Anthropic — four of the largest AI companies — have agreed to support a new shared standard that lets website publishers opt out of having their content collected (or 'scraped') to train AI systems. Until now, publishers often had to set their preferences separately with each company, a cumbersome and inconsistent process. The new approach uses a single 'policy token' signal that applies a publisher's wishes across all participating companies at once. For organisations that produce educational materials, research, or cultural content, this offers a simpler way to control how their work is used by AI. It is also a notable example of industry players coordinating on shared rules, which could inform how governments and institutions think about responsible data use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Cracks are emerging in the AI spending boom](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This report examines growing concerns about whether the enormous spending on AI by large technology companies is financially sustainable. Firms are investing billions in data centres and computing infrastructure, but some are now carrying rising debt, spending more cash than they bring in, and facing increased scepticism from investors. The article notes that these financial strains are prompting questions about whether current levels of investment can continue at the same pace. For public-sector planners, this is a useful reminder that the AI sector, despite its rapid growth, carries real economic risks and uncertainty. Understanding these dynamics can help institutions make measured, long-term decisions rather than reacting to short-term enthusiasm.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 31 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. The agentic web is here](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This piece from MIT Technology Review describes the arrival of the 'agentic web' — an internet increasingly navigated not just by people, but by autonomous software 'agents' that can carry out tasks on our behalf, such as booking services or gathering information. The idea traces back to a vision outlined by Tim Berners-Lee, the inventor of the World Wide Web, over two decades ago, and is now becoming practical thanks to advances in AI. Instead of clicking through websites ourselves, we may increasingly delegate online tasks to AI assistants that act independently. This shift could reshape how public services are accessed and delivered, and how organisations design their websites and digital tools. It also raises important questions about oversight, accuracy, and accountability when software acts without direct human control at each step.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 02 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced a 'Grid Protectors Program' aimed at addressing one of the biggest practical challenges of AI: its heavy demand for electricity. The program will work with utility companies to help ensure that the large computing facilities needed to run AI do not strain local power grids or drive up electricity costs for ordinary consumers. As AI data centres expand, their energy use has become a significant public concern, particularly around reliability and affordability. The initiative reflects a growing recognition that AI's physical infrastructure has real-world consequences for communities and national resources. For governments focused on sustainable development, the link between AI growth and energy planning is an increasingly important consideration.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 02 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Apple has announced that it will bring its 'Apple Intelligence' AI features to China through the iOS 27.3 software update, starting with a beta version in early November and a full release in December. The rollout has taken longer in China than in other markets, largely because of local regulations governing AI services and data. To comply, Apple is reportedly partnering with domestic companies to deliver these features within the country's rules. This highlights how AI products must be adapted to meet different national regulatory and language requirements rather than being deployed identically everywhere. For institutions in the Gulf and elsewhere, it is a clear example of how local policy, language, and governance shape the way global AI technologies arrive in each market.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 2 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how major AI companies are giving publishers more control over their content, the financial questions emerging around the AI investment boom, and the rise of 'agentic' software that acts on our behalf. We also cover AI's growing energy footprint and Apple's expansion of its AI features into new markets — developments that touch on policy, workforce, and the practical realities of a rapidly evolving technology.\n\n1. The biggest names in AI are backing a new way to opt out of scraping\n   https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out\n   OpenAI, Google, Microsoft, and Anthropic — four of the largest AI companies — have agreed to support a new shared standard that lets website publishers opt out of having their content collected (or 'scraped') to train AI systems. Until now, publishers often had to set their preferences separately with each company, a cumbersome and inconsistent process. The new approach uses a single 'policy token' signal that applies a publisher's wishes across all participating companies at once. For organisations that produce educational materials, research, or cultural content, this offers a simpler way to control how their work is used by AI. It is also a notable example of industry players coordinating on shared rules, which could inform how governments and institutions think about responsible data use.\n   (The Verge — AI · 31 Oct 2026)\n\n2. Cracks are emerging in the AI spending boom\n   https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/\n   This report examines growing concerns about whether the enormous spending on AI by large technology companies is financially sustainable. Firms are investing billions in data centres and computing infrastructure, but some are now carrying rising debt, spending more cash than they bring in, and facing increased scepticism from investors. The article notes that these financial strains are prompting questions about whether current levels of investment can continue at the same pace. For public-sector planners, this is a useful reminder that the AI sector, despite its rapid growth, carries real economic risks and uncertainty. Understanding these dynamics can help institutions make measured, long-term decisions rather than reacting to short-term enthusiasm.\n   (TechCrunch — AI · 31 Oct 2026)\n\n3. The agentic web is here\n   https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/\n   This piece from MIT Technology Review describes the arrival of the 'agentic web' — an internet increasingly navigated not just by people, but by autonomous software 'agents' that can carry out tasks on our behalf, such as booking services or gathering information. The idea traces back to a vision outlined by Tim Berners-Lee, the inventor of the World Wide Web, over two decades ago, and is now becoming practical thanks to advances in AI. Instead of clicking through websites ourselves, we may increasingly delegate online tasks to AI assistants that act independently. This shift could reshape how public services are accessed and delivered, and how organisations design their websites and digital tools. It also raises important questions about oversight, accuracy, and accountability when software acts without direct human control at each step.\n   (MIT Technology Review — AI · 02 Nov 2026)\n\n4. Introducing the Grid Protectors Program\n   https://openai.com/index/grid-protectors-program\n   OpenAI has announced a 'Grid Protectors Program' aimed at addressing one of the biggest practical challenges of AI: its heavy demand for electricity. The program will work with utility companies to help ensure that the large computing facilities needed to run AI do not strain local power grids or drive up electricity costs for ordinary consumers. As AI data centres expand, their energy use has become a significant public concern, particularly around reliability and affordability. The initiative reflects a growing recognition that AI's physical infrastructure has real-world consequences for communities and national resources. For governments focused on sustainable development, the link between AI growth and energy planning is an increasingly important consideration.\n   (OpenAI · 02 Nov 2026)\n\n5. Apple Intelligence is finally coming to China with iOS 27.3\n   https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3\n   Apple has announced that it will bring its 'Apple Intelligence' AI features to China through the iOS 27.3 software update, starting with a beta version in early November and a full release in December. The rollout has taken longer in China than in other markets, largely because of local regulations governing AI services and data. To comply, Apple is reportedly partnering with domestic companies to deliver these features within the country's rules. This highlights how AI products must be adapted to meet different national regulatory and language requirements rather than being deployed identically everywhere. For institutions in the Gulf and elsewhere, it is a clear example of how local policy, language, and governance shape the way global AI technologies arrive in each market.\n   (The Verge — AI · 31 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 2 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how major AI companies are giving publishers more control over their content, the financial questions emerging around the AI investment boom, and the rise of 'agentic' software that acts on our behalf. We also cover AI's growing energy footprint and Apple's expansion of its AI features into new markets — developments that touch on policy, workforce, and the practical realities of a rapidly evolving technology.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The biggest names in AI are backing a new way to opt out of scraping](https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, Google, Microsoft, and Anthropic — four of the largest AI companies — have agreed to support a new shared standard that lets website publishers opt out of having their content collected (or 'scraped') to train AI systems. Until now, publishers often had to set their preferences separately with each company, a cumbersome and inconsistent process. The new approach uses a single 'policy token' signal that applies a publisher's wishes across all participating companies at once. For organisations that produce educational materials, research, or cultural content, this offers a simpler way to control how their work is used by AI. It is also a notable example of industry players coordinating on shared rules, which could inform how governments and institutions think about responsible data use.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Cracks are emerging in the AI spending boom](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This report examines growing concerns about whether the enormous spending on AI by large technology companies is financially sustainable. Firms are investing billions in data centres and computing infrastructure, but some are now carrying rising debt, spending more cash than they bring in, and facing increased scepticism from investors. The article notes that these financial strains are prompting questions about whether current levels of investment can continue at the same pace. For public-sector planners, this is a useful reminder that the AI sector, despite its rapid growth, carries real economic risks and uncertainty. Understanding these dynamics can help institutions make measured, long-term decisions rather than reacting to short-term enthusiasm.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 31 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. The agentic web is here](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This piece from MIT Technology Review describes the arrival of the 'agentic web' — an internet increasingly navigated not just by people, but by autonomous software 'agents' that can carry out tasks on our behalf, such as booking services or gathering information. The idea traces back to a vision outlined by Tim Berners-Lee, the inventor of the World Wide Web, over two decades ago, and is now becoming practical thanks to advances in AI. Instead of clicking through websites ourselves, we may increasingly delegate online tasks to AI assistants that act independently. This shift could reshape how public services are accessed and delivered, and how organisations design their websites and digital tools. It also raises important questions about oversight, accuracy, and accountability when software acts without direct human control at each step.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 02 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Introducing the Grid Protectors Program](https://openai.com/index/grid-protectors-program)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has announced a 'Grid Protectors Program' aimed at addressing one of the biggest practical challenges of AI: its heavy demand for electricity. The program will work with utility companies to help ensure that the large computing facilities needed to run AI do not strain local power grids or drive up electricity costs for ordinary consumers. As AI data centres expand, their energy use has become a significant public concern, particularly around reliability and affordability. The initiative reflects a growing recognition that AI's physical infrastructure has real-world consequences for communities and national resources. For governments focused on sustainable development, the link between AI growth and energy planning is an increasingly important consideration.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 02 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Apple Intelligence is finally coming to China with iOS 27.3](https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Apple has announced that it will bring its 'Apple Intelligence' AI features to China through the iOS 27.3 software update, starting with a beta version in early November and a full release in December. The rollout has taken longer in China than in other markets, largely because of local regulations governing AI services and data. To comply, Apple is reportedly partnering with domestic companies to deliver these features within the country's rules. This highlights how AI products must be adapted to meet different national regulatory and language requirements rather than being deployed identically everywhere. For institutions in the Gulf and elsewhere, it is a clear example of how local policy, language, and governance shape the way global AI technologies arrive in each market.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 31 Oct 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 2 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how major AI companies are giving publishers more control over their content, the financial questions emerging around the AI investment boom, and the rise of 'agentic' software that acts on our behalf. We also cover AI's growing energy footprint and Apple's expansion of its AI features into new markets — developments that touch on policy, workforce, and the practical realities of a rapidly evolving technology.\n\n1. The biggest names in AI are backing a new way to opt out of scraping\n   https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out\n   OpenAI, Google, Microsoft, and Anthropic — four of the largest AI companies — have agreed to support a new shared standard that lets website publishers opt out of having their content collected (or 'scraped') to train AI systems. Until now, publishers often had to set their preferences separately with each company, a cumbersome and inconsistent process. The new approach uses a single 'policy token' signal that applies a publisher's wishes across all participating companies at once. For organisations that produce educational materials, research, or cultural content, this offers a simpler way to control how their work is used by AI. It is also a notable example of industry players coordinating on shared rules, which could inform how governments and institutions think about responsible data use.\n   (The Verge — AI · 31 Oct 2026)\n\n2. Cracks are emerging in the AI spending boom\n   https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/\n   This report examines growing concerns about whether the enormous spending on AI by large technology companies is financially sustainable. Firms are investing billions in data centres and computing infrastructure, but some are now carrying rising debt, spending more cash than they bring in, and facing increased scepticism from investors. The article notes that these financial strains are prompting questions about whether current levels of investment can continue at the same pace. For public-sector planners, this is a useful reminder that the AI sector, despite its rapid growth, carries real economic risks and uncertainty. Understanding these dynamics can help institutions make measured, long-term decisions rather than reacting to short-term enthusiasm.\n   (TechCrunch — AI · 31 Oct 2026)\n\n3. The agentic web is here\n   https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/\n   This piece from MIT Technology Review describes the arrival of the 'agentic web' — an internet increasingly navigated not just by people, but by autonomous software 'agents' that can carry out tasks on our behalf, such as booking services or gathering information. The idea traces back to a vision outlined by Tim Berners-Lee, the inventor of the World Wide Web, over two decades ago, and is now becoming practical thanks to advances in AI. Instead of clicking through websites ourselves, we may increasingly delegate online tasks to AI assistants that act independently. This shift could reshape how public services are accessed and delivered, and how organisations design their websites and digital tools. It also raises important questions about oversight, accuracy, and accountability when software acts without direct human control at each step.\n   (MIT Technology Review — AI · 02 Nov 2026)\n\n4. Introducing the Grid Protectors Program\n   https://openai.com/index/grid-protectors-program\n   OpenAI has announced a 'Grid Protectors Program' aimed at addressing one of the biggest practical challenges of AI: its heavy demand for electricity. The program will work with utility companies to help ensure that the large computing facilities needed to run AI do not strain local power grids or drive up electricity costs for ordinary consumers. As AI data centres expand, their energy use has become a significant public concern, particularly around reliability and affordability. The initiative reflects a growing recognition that AI's physical infrastructure has real-world consequences for communities and national resources. For governments focused on sustainable development, the link between AI growth and energy planning is an increasingly important consideration.\n   (OpenAI · 02 Nov 2026)\n\n5. Apple Intelligence is finally coming to China with iOS 27.3\n   https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3\n   Apple has announced that it will bring its 'Apple Intelligence' AI features to China through the iOS 27.3 software update, starting with a beta version in early November and a full release in December. The rollout has taken longer in China than in other markets, largely because of local regulations governing AI services and data. To comply, Apple is reportedly partnering with domestic companies to deliver these features within the country's rules. This highlights how AI products must be adapted to meet different national regulatory and language requirements rather than being deployed identically everywhere. For institutions in the Gulf and elsewhere, it is a clear example of how local policy, language, and governance shape the way global AI technologies arrive in each market.\n   (The Verge — AI · 31 Oct 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
