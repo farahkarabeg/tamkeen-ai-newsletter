@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-04",
+  "generated_at_iso": "2026-11-04T14:39:39.131701+00:00",
+  "date_range_label": "4 November 2026",
+  "subtitle": "Wednesday, 4 November 2026",
+  "editor_note": "This edition looks closely at how AI is reshaping classrooms, with Google tying its education tools — and even basic Search — to AI adoption in schools. We also feature a new effort to make AI model-building accessible to people without technical backgrounds, which speaks directly to workforce development, alongside two real-world examples of AI supporting engineering and cybersecurity work.",
+  "items": [
+    {
+      "title": "Google is entirely disabling Search in schools that don’t want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-03T17:00:04+00:00",
+      "summary": "Google has told The New York Times that it will completely switch off its Search service in schools that choose to reject its AI features. In a wider education update shared on Tuesday, the company explained that for K-12 student accounts, access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search would all be \"entirely off\" if a school opts out of AI. The change reflects how deeply Google has now woven AI into its core products, making it difficult to separate traditional search from AI-powered features. For schools, this creates a stark choice: accept AI tools or lose access to a search engine many classrooms rely on daily. This matters for education policymakers because it shows how technology providers are increasingly bundling AI into essential services, limiting the ability of institutions to adopt technology selectively.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-03T16:30:34+00:00",
+      "summary": "In related coverage, TechCrunch reported that Google will allow schools to disable its AI tools, but only at the cost of also losing access to Google Search. Because AI features are now built directly into the search engine itself, there is no longer a way to turn off the AI while keeping ordinary search. This leaves school administrators weighing whether to restrict AI for younger students — a common concern around accuracy, data privacy, and age-appropriateness — against the practical disruption of losing a widely used research tool. The situation highlights a growing tension for education authorities who want control over how and when AI reaches students. For institutions focused on human-capital development, it underscores the importance of understanding vendor terms before committing to any single platform.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-02T23:13:53+00:00",
+      "summary": "A one-year-old startup called Trajectory has raised $45 million in new funding, giving it a valuation of $300 million. The company's goal is to make the training of AI models accessible to subject-matter experts who do not have technical or programming backgrounds. In practice, this means allowing professionals such as teachers, doctors, or legal specialists to shape AI systems using their own knowledge, rather than relying solely on software engineers. This trend is notable for workforce development because it could broaden who is able to build and customize AI, lowering the technical barrier to entry. For organizations investing in skills and talent, it points to a future where domain expertise — not just coding ability — becomes central to working effectively with AI.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-03T12:00:00+00:00",
+      "summary": "OpenAI has published examples of how its tools, including ChatGPT and a coding assistant called Codex, are being used to speed up engineering work in the physical world. The applications include computer-aided design (CAD), printed circuit board (PCB) design, simulations, and other technical workflows used to build real products and machines. Rather than replacing engineers, the tools are described as helping them complete routine or complex tasks more quickly. This is relevant to workforce planning because it shows AI moving beyond text and office tasks into hands-on technical and manufacturing fields. For training providers, it signals that even highly specialized engineering roles may increasingly require familiarity with AI-assisted tools.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-03T08:00:00+00:00",
+      "summary": "OpenAI has shared how the technology company Cisco is using its AI models to strengthen cybersecurity for large organizations. Cisco combines its knowledge of computer networks with OpenAI's models to detect and respond to threats at what it calls \"machine speed\" — faster than human teams could manage alone. The aim is to build more adaptive defenses that can keep pace with increasingly sophisticated cyberattacks. This example illustrates a practical and growing use of AI in protecting digital infrastructure, an area of rising importance for governments and public institutions. For public-sector bodies, it is a reminder that AI is becoming a key part of both the risks and the defenses in modern cybersecurity.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 4 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks closely at how AI is reshaping classrooms, with Google tying its education tools — and even basic Search — to AI adoption in schools. We also feature a new effort to make AI model-building accessible to people without technical backgrounds, which speaks directly to workforce development, alongside two real-world examples of AI supporting engineering and cybersecurity work.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Google is entirely disabling Search in schools that don’t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google has told The New York Times that it will completely switch off its Search service in schools that choose to reject its AI features. In a wider education update shared on Tuesday, the company explained that for K-12 student accounts, access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search would all be \"entirely off\" if a school opts out of AI. The change reflects how deeply Google has now woven AI into its core products, making it difficult to separate traditional search from AI-powered features. For schools, this creates a stark choice: accept AI tools or lose access to a search engine many classrooms rely on daily. This matters for education policymakers because it shows how technology providers are increasingly bundling AI into essential services, limiting the ability of institutions to adopt technology selectively.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In related coverage, TechCrunch reported that Google will allow schools to disable its AI tools, but only at the cost of also losing access to Google Search. Because AI features are now built directly into the search engine itself, there is no longer a way to turn off the AI while keeping ordinary search. This leaves school administrators weighing whether to restrict AI for younger students — a common concern around accuracy, data privacy, and age-appropriateness — against the practical disruption of losing a widely used research tool. The situation highlights a growing tension for education authorities who want control over how and when AI reaches students. For institutions focused on human-capital development, it underscores the importance of understanding vendor terms before committing to any single platform.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A one-year-old startup called Trajectory has raised $45 million in new funding, giving it a valuation of $300 million. The company's goal is to make the training of AI models accessible to subject-matter experts who do not have technical or programming backgrounds. In practice, this means allowing professionals such as teachers, doctors, or legal specialists to shape AI systems using their own knowledge, rather than relying solely on software engineers. This trend is notable for workforce development because it could broaden who is able to build and customize AI, lowering the technical barrier to entry. For organizations investing in skills and talent, it points to a future where domain expertise — not just coding ability — becomes central to working effectively with AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published examples of how its tools, including ChatGPT and a coding assistant called Codex, are being used to speed up engineering work in the physical world. The applications include computer-aided design (CAD), printed circuit board (PCB) design, simulations, and other technical workflows used to build real products and machines. Rather than replacing engineers, the tools are described as helping them complete routine or complex tasks more quickly. This is relevant to workforce planning because it shows AI moving beyond text and office tasks into hands-on technical and manufacturing fields. For training providers, it signals that even highly specialized engineering roles may increasingly require familiarity with AI-assisted tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has shared how the technology company Cisco is using its AI models to strengthen cybersecurity for large organizations. Cisco combines its knowledge of computer networks with OpenAI's models to detect and respond to threats at what it calls \"machine speed\" — faster than human teams could manage alone. The aim is to build more adaptive defenses that can keep pace with increasingly sophisticated cyberattacks. This example illustrates a practical and growing use of AI in protecting digital infrastructure, an area of rising importance for governments and public institutions. For public-sector bodies, it is a reminder that AI is becoming a key part of both the risks and the defenses in modern cybersecurity.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 4 November 2026\n============================================================\nThis edition looks closely at how AI is reshaping classrooms, with Google tying its education tools — and even basic Search — to AI adoption in schools. We also feature a new effort to make AI model-building accessible to people without technical backgrounds, which speaks directly to workforce development, alongside two real-world examples of AI supporting engineering and cybersecurity work.\n\n1. Google is entirely disabling Search in schools that don’t want AI\n   https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features\n   Google has told The New York Times that it will completely switch off its Search service in schools that choose to reject its AI features. In a wider education update shared on Tuesday, the company explained that for K-12 student accounts, access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search would all be \"entirely off\" if a school opts out of AI. The change reflects how deeply Google has now woven AI into its core products, making it difficult to separate traditional search from AI-powered features. For schools, this creates a stark choice: accept AI tools or lose access to a search engine many classrooms rely on daily. This matters for education policymakers because it shows how technology providers are increasingly bundling AI into essential services, limiting the ability of institutions to adopt technology selectively.\n   (The Verge — AI · 03 Nov 2026)\n\n2. Google will let schools disable its AI tools, but not without sacrificing Search\n   https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/\n   In related coverage, TechCrunch reported that Google will allow schools to disable its AI tools, but only at the cost of also losing access to Google Search. Because AI features are now built directly into the search engine itself, there is no longer a way to turn off the AI while keeping ordinary search. This leaves school administrators weighing whether to restrict AI for younger students — a common concern around accuracy, data privacy, and age-appropriateness — against the practical disruption of losing a widely used research tool. The situation highlights a growing tension for education authorities who want control over how and when AI reaches students. For institutions focused on human-capital development, it underscores the importance of understanding vendor terms before committing to any single platform.\n   (TechCrunch — AI · 03 Nov 2026)\n\n3. Trajectory raises $45M to make AI model training accessible to nontechnical experts\n   https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/\n   A one-year-old startup called Trajectory has raised $45 million in new funding, giving it a valuation of $300 million. The company's goal is to make the training of AI models accessible to subject-matter experts who do not have technical or programming backgrounds. In practice, this means allowing professionals such as teachers, doctors, or legal specialists to shape AI systems using their own knowledge, rather than relying solely on software engineers. This trend is notable for workforce development because it could broaden who is able to build and customize AI, lowering the technical barrier to entry. For organizations investing in skills and talent, it points to a future where domain expertise — not just coding ability — becomes central to working effectively with AI.\n   (TechCrunch — AI · 03 Nov 2026)\n\n4. Accelerating engineering for the physical world\n   https://openai.com/index/accelerating-engineering-for-the-physical-world\n   OpenAI has published examples of how its tools, including ChatGPT and a coding assistant called Codex, are being used to speed up engineering work in the physical world. The applications include computer-aided design (CAD), printed circuit board (PCB) design, simulations, and other technical workflows used to build real products and machines. Rather than replacing engineers, the tools are described as helping them complete routine or complex tasks more quickly. This is relevant to workforce planning because it shows AI moving beyond text and office tasks into hands-on technical and manufacturing fields. For training providers, it signals that even highly specialized engineering roles may increasingly require familiarity with AI-assisted tools.\n   (OpenAI · 03 Nov 2026)\n\n5. How Cisco defends at machine speed with OpenAI\n   https://openai.com/index/cisco-cyber\n   OpenAI has shared how the technology company Cisco is using its AI models to strengthen cybersecurity for large organizations. Cisco combines its knowledge of computer networks with OpenAI's models to detect and respond to threats at what it calls \"machine speed\" — faster than human teams could manage alone. The aim is to build more adaptive defenses that can keep pace with increasingly sophisticated cyberattacks. This example illustrates a practical and growing use of AI in protecting digital infrastructure, an area of rising importance for governments and public institutions. For public-sector bodies, it is a reminder that AI is becoming a key part of both the risks and the defenses in modern cybersecurity.\n   (OpenAI · 03 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 4 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks closely at how AI is reshaping classrooms, with Google tying its education tools — and even basic Search — to AI adoption in schools. We also feature a new effort to make AI model-building accessible to people without technical backgrounds, which speaks directly to workforce development, alongside two real-world examples of AI supporting engineering and cybersecurity work.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Google is entirely disabling Search in schools that don’t want AI](https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google has told The New York Times that it will completely switch off its Search service in schools that choose to reject its AI features. In a wider education update shared on Tuesday, the company explained that for K-12 student accounts, access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search would all be \"entirely off\" if a school opts out of AI. The change reflects how deeply Google has now woven AI into its core products, making it difficult to separate traditional search from AI-powered features. For schools, this creates a stark choice: accept AI tools or lose access to a search engine many classrooms rely on daily. This matters for education policymakers because it shows how technology providers are increasingly bundling AI into essential services, limiting the ability of institutions to adopt technology selectively.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Google will let schools disable its AI tools, but not without sacrificing Search](https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In related coverage, TechCrunch reported that Google will allow schools to disable its AI tools, but only at the cost of also losing access to Google Search. Because AI features are now built directly into the search engine itself, there is no longer a way to turn off the AI while keeping ordinary search. This leaves school administrators weighing whether to restrict AI for younger students — a common concern around accuracy, data privacy, and age-appropriateness — against the practical disruption of losing a widely used research tool. The situation highlights a growing tension for education authorities who want control over how and when AI reaches students. For institutions focused on human-capital development, it underscores the importance of understanding vendor terms before committing to any single platform.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Trajectory raises $45M to make AI model training accessible to nontechnical experts](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A one-year-old startup called Trajectory has raised $45 million in new funding, giving it a valuation of $300 million. The company's goal is to make the training of AI models accessible to subject-matter experts who do not have technical or programming backgrounds. In practice, this means allowing professionals such as teachers, doctors, or legal specialists to shape AI systems using their own knowledge, rather than relying solely on software engineers. This trend is notable for workforce development because it could broaden who is able to build and customize AI, lowering the technical barrier to entry. For organizations investing in skills and talent, it points to a future where domain expertise — not just coding ability — becomes central to working effectively with AI.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Accelerating engineering for the physical world](https://openai.com/index/accelerating-engineering-for-the-physical-world)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published examples of how its tools, including ChatGPT and a coding assistant called Codex, are being used to speed up engineering work in the physical world. The applications include computer-aided design (CAD), printed circuit board (PCB) design, simulations, and other technical workflows used to build real products and machines. Rather than replacing engineers, the tools are described as helping them complete routine or complex tasks more quickly. This is relevant to workforce planning because it shows AI moving beyond text and office tasks into hands-on technical and manufacturing fields. For training providers, it signals that even highly specialized engineering roles may increasingly require familiarity with AI-assisted tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. How Cisco defends at machine speed with OpenAI](https://openai.com/index/cisco-cyber)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has shared how the technology company Cisco is using its AI models to strengthen cybersecurity for large organizations. Cisco combines its knowledge of computer networks with OpenAI's models to detect and respond to threats at what it calls \"machine speed\" — faster than human teams could manage alone. The aim is to build more adaptive defenses that can keep pace with increasingly sophisticated cyberattacks. This example illustrates a practical and growing use of AI in protecting digital infrastructure, an area of rising importance for governments and public institutions. For public-sector bodies, it is a reminder that AI is becoming a key part of both the risks and the defenses in modern cybersecurity.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 03 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 4 November 2026\n============================================================\nThis edition looks closely at how AI is reshaping classrooms, with Google tying its education tools — and even basic Search — to AI adoption in schools. We also feature a new effort to make AI model-building accessible to people without technical backgrounds, which speaks directly to workforce development, alongside two real-world examples of AI supporting engineering and cybersecurity work.\n\n1. Google is entirely disabling Search in schools that don’t want AI\n   https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features\n   Google has told The New York Times that it will completely switch off its Search service in schools that choose to reject its AI features. In a wider education update shared on Tuesday, the company explained that for K-12 student accounts, access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search would all be \"entirely off\" if a school opts out of AI. The change reflects how deeply Google has now woven AI into its core products, making it difficult to separate traditional search from AI-powered features. For schools, this creates a stark choice: accept AI tools or lose access to a search engine many classrooms rely on daily. This matters for education policymakers because it shows how technology providers are increasingly bundling AI into essential services, limiting the ability of institutions to adopt technology selectively.\n   (The Verge — AI · 03 Nov 2026)\n\n2. Google will let schools disable its AI tools, but not without sacrificing Search\n   https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/\n   In related coverage, TechCrunch reported that Google will allow schools to disable its AI tools, but only at the cost of also losing access to Google Search. Because AI features are now built directly into the search engine itself, there is no longer a way to turn off the AI while keeping ordinary search. This leaves school administrators weighing whether to restrict AI for younger students — a common concern around accuracy, data privacy, and age-appropriateness — against the practical disruption of losing a widely used research tool. The situation highlights a growing tension for education authorities who want control over how and when AI reaches students. For institutions focused on human-capital development, it underscores the importance of understanding vendor terms before committing to any single platform.\n   (TechCrunch — AI · 03 Nov 2026)\n\n3. Trajectory raises $45M to make AI model training accessible to nontechnical experts\n   https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/\n   A one-year-old startup called Trajectory has raised $45 million in new funding, giving it a valuation of $300 million. The company's goal is to make the training of AI models accessible to subject-matter experts who do not have technical or programming backgrounds. In practice, this means allowing professionals such as teachers, doctors, or legal specialists to shape AI systems using their own knowledge, rather than relying solely on software engineers. This trend is notable for workforce development because it could broaden who is able to build and customize AI, lowering the technical barrier to entry. For organizations investing in skills and talent, it points to a future where domain expertise — not just coding ability — becomes central to working effectively with AI.\n   (TechCrunch — AI · 03 Nov 2026)\n\n4. Accelerating engineering for the physical world\n   https://openai.com/index/accelerating-engineering-for-the-physical-world\n   OpenAI has published examples of how its tools, including ChatGPT and a coding assistant called Codex, are being used to speed up engineering work in the physical world. The applications include computer-aided design (CAD), printed circuit board (PCB) design, simulations, and other technical workflows used to build real products and machines. Rather than replacing engineers, the tools are described as helping them complete routine or complex tasks more quickly. This is relevant to workforce planning because it shows AI moving beyond text and office tasks into hands-on technical and manufacturing fields. For training providers, it signals that even highly specialized engineering roles may increasingly require familiarity with AI-assisted tools.\n   (OpenAI · 03 Nov 2026)\n\n5. How Cisco defends at machine speed with OpenAI\n   https://openai.com/index/cisco-cyber\n   OpenAI has shared how the technology company Cisco is using its AI models to strengthen cybersecurity for large organizations. Cisco combines its knowledge of computer networks with OpenAI's models to detect and respond to threats at what it calls \"machine speed\" — faster than human teams could manage alone. The aim is to build more adaptive defenses that can keep pace with increasingly sophisticated cyberattacks. This example illustrates a practical and growing use of AI in protecting digital infrastructure, an area of rising importance for governments and public institutions. For public-sector bodies, it is a reminder that AI is becoming a key part of both the risks and the defenses in modern cybersecurity.\n   (OpenAI · 03 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
