@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-09",
+  "generated_at_iso": "2026-11-09T16:30:40.821285+00:00",
+  "date_range_label": "9 November 2026",
+  "subtitle": "Monday, 9 November 2026",
+  "editor_note": "This edition looks at how political shifts in the United States are shaping the direction and oversight of artificial intelligence, from government attitudes on AI safety to the growing public debate over the infrastructure that powers these systems. We also cover a landmark investment in one of the field's leading companies and a global expansion of online protections for young people. Together, these stories highlight how questions of governance, investment, and public trust are increasingly central to how AI develops worldwide.",
+  "items": [
+    {
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-09T15:50:38+00:00",
+      "summary": "In a televised interview on the US programme 60 Minutes, President Trump played down warnings from AI company executives about the potential dangers of their own systems, saying he believes the risks are 'not nearly as real' as these leaders claim and can be managed. He stated that the US Department of Justice is handling any such risks and referenced a situation involving a threat to arrest an AI executive. The comments are notable because many AI developers have publicly called for careful oversight of advanced systems, and the President's dismissive tone suggests a lighter-touch approach to federal regulation. For institutions tracking AI policy, this signals how the current US administration may frame safety concerns and government intervention. How major governments balance innovation with oversight remains an important backdrop for national AI strategies everywhere, including in the Gulf.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-06T22:53:46+00:00",
+      "summary": "OpenAI, the company behind ChatGPT, has reportedly raised an additional 11 billion dollars in a funding round that is expected to close in the coming weeks, valuing the company at around 1.25 trillion dollars. This would make OpenAI one of the most valuable private companies in the world, reflecting the enormous investor confidence in the commercial potential of AI. Such large sums are needed to pay for the expensive computing power, data centres, and talent required to build and run advanced AI models. The scale of this investment underscores how much money is flowing into a small number of leading AI firms, which increasingly shape the tools that governments, businesses, and schools rely on. For workforce and education planners, it is a reminder that the capabilities of these systems are likely to keep advancing quickly.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-06T18:00:00+00:00",
+      "summary": "This TechCrunch discussion examines how major Democratic victories in the recent US midterm elections could reshape the technology sector. A striking detail is that voters weighed in on 41 ballot measures related to data centres — the large facilities that house the computers powering AI — and in all but one case chose to impose more restrictions on their development. Even where data centres were not directly on the ballot, they featured heavily in local debates, reflecting public concern about their energy use, water consumption, and community impact. This matters because AI growth depends on building more of this infrastructure, and rising public resistance could slow or complicate expansion. It illustrates how everyday citizens, not just regulators, are beginning to influence the pace of AI deployment.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-06T17:23:52+00:00",
+      "summary": "In a related video segment, TechCrunch asks whether the AI industry faces a difficult two years following the Democrats' strong midterm performance. The same voter pushback against data centre construction — with restrictions approved in nearly every ballot measure — points to growing friction between the industry's need to expand and local communities' concerns about the costs. A shift in political power could also change how federal and state governments approach taxation, energy policy, and oversight of large technology firms. The analysis suggests the industry may encounter a more challenging regulatory and public environment than it has enjoyed in recent years. For policymakers abroad, it offers a useful case study in how democratic processes can shape the conditions for AI growth.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Expanding Teen Account Protections to Teens Around the World",
+      "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/",
+      "source_name": "Meta (Newsroom)",
+      "published_iso": "2026-11-09T12:00:45+00:00",
+      "summary": "Meta announced it is expanding its 'Teen Account' protections to young users around the world, using AI-based age-estimation technology to automatically place millions more teenagers into these safer settings on Instagram. Teen Accounts apply stricter default limits on messaging, content, and privacy, intended to give younger users a more controlled experience and reassure parents. The AI tool works by estimating a user's age from signals on the platform, allowing Meta to apply protections even when teens have not accurately reported their age. This is notable as an example of AI being used to support online child safety at a global scale, a topic of growing interest to regulators and educators. For institutions focused on human capital and young people, it highlights both the promise and the responsibility that come with applying AI to protect vulnerable users.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 9 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how political shifts in the United States are shaping the direction and oversight of artificial intelligence, from government attitudes on AI safety to the growing public debate over the infrastructure that powers these systems. We also cover a landmark investment in one of the field's leading companies and a global expansion of online protections for young people. Together, these stories highlight how questions of governance, investment, and public trust are increasingly central to how AI develops worldwide.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec](https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a televised interview on the US programme 60 Minutes, President Trump played down warnings from AI company executives about the potential dangers of their own systems, saying he believes the risks are 'not nearly as real' as these leaders claim and can be managed. He stated that the US Department of Justice is handling any such risks and referenced a situation involving a threat to arrest an AI executive. The comments are notable because many AI developers have publicly called for careful oversight of advanced systems, and the President's dismissive tone suggests a lighter-touch approach to federal regulation. For institutions tracking AI policy, this signals how the current US administration may frame safety concerns and government intervention. How major governments balance innovation with oversight remains an important backdrop for national AI strategies everywhere, including in the Gulf.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, has reportedly raised an additional 11 billion dollars in a funding round that is expected to close in the coming weeks, valuing the company at around 1.25 trillion dollars. This would make OpenAI one of the most valuable private companies in the world, reflecting the enormous investor confidence in the commercial potential of AI. Such large sums are needed to pay for the expensive computing power, data centres, and talent required to build and run advanced AI models. The scale of this investment underscores how much money is flowing into a small number of leading AI firms, which increasingly shape the tools that governments, businesses, and schools rely on. For workforce and education planners, it is a reminder that the capabilities of these systems are likely to keep advancing quickly.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 07 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. How a Blue Wave midterm might reshape the AI industry](https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This TechCrunch discussion examines how major Democratic victories in the recent US midterm elections could reshape the technology sector. A striking detail is that voters weighed in on 41 ballot measures related to data centres — the large facilities that house the computers powering AI — and in all but one case chose to impose more restrictions on their development. Even where data centres were not directly on the ballot, they featured heavily in local debates, reflecting public concern about their energy use, water consumption, and community impact. This matters because AI growth depends on building more of this infrastructure, and rising public resistance could slow or complicate expansion. It illustrates how everyday citizens, not just regulators, are beginning to influence the pace of AI deployment.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 06 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a related video segment, TechCrunch asks whether the AI industry faces a difficult two years following the Democrats' strong midterm performance. The same voter pushback against data centre construction — with restrictions approved in nearly every ballot measure — points to growing friction between the industry's need to expand and local communities' concerns about the costs. A shift in political power could also change how federal and state governments approach taxation, energy policy, and oversight of large technology firms. The analysis suggests the industry may encounter a more challenging regulatory and public environment than it has enjoyed in recent years. For policymakers abroad, it offers a useful case study in how democratic processes can shape the conditions for AI growth.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 06 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Expanding Teen Account Protections to Teens Around the World](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta announced it is expanding its 'Teen Account' protections to young users around the world, using AI-based age-estimation technology to automatically place millions more teenagers into these safer settings on Instagram. Teen Accounts apply stricter default limits on messaging, content, and privacy, intended to give younger users a more controlled experience and reassure parents. The AI tool works by estimating a user's age from signals on the platform, allowing Meta to apply protections even when teens have not accurately reported their age. This is notable as an example of AI being used to support online child safety at a global scale, a topic of growing interest to regulators and educators. For institutions focused on human capital and young people, it highlights both the promise and the responsibility that come with applying AI to protect vulnerable users.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 9 November 2026\n============================================================\nThis edition looks at how political shifts in the United States are shaping the direction and oversight of artificial intelligence, from government attitudes on AI safety to the growing public debate over the infrastructure that powers these systems. We also cover a landmark investment in one of the field's leading companies and a global expansion of online protections for young people. Together, these stories highlight how questions of governance, investment, and public trust are increasingly central to how AI develops worldwide.\n\n1. Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec\n   https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai\n   In a televised interview on the US programme 60 Minutes, President Trump played down warnings from AI company executives about the potential dangers of their own systems, saying he believes the risks are 'not nearly as real' as these leaders claim and can be managed. He stated that the US Department of Justice is handling any such risks and referenced a situation involving a threat to arrest an AI executive. The comments are notable because many AI developers have publicly called for careful oversight of advanced systems, and the President's dismissive tone suggests a lighter-touch approach to federal regulation. For institutions tracking AI policy, this signals how the current US administration may frame safety concerns and government intervention. How major governments balance innovation with oversight remains an important backdrop for national AI strategies everywhere, including in the Gulf.\n   (The Verge — AI · 09 Nov 2026)\n\n2. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation\n   https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/\n   OpenAI, the company behind ChatGPT, has reportedly raised an additional 11 billion dollars in a funding round that is expected to close in the coming weeks, valuing the company at around 1.25 trillion dollars. This would make OpenAI one of the most valuable private companies in the world, reflecting the enormous investor confidence in the commercial potential of AI. Such large sums are needed to pay for the expensive computing power, data centres, and talent required to build and run advanced AI models. The scale of this investment underscores how much money is flowing into a small number of leading AI firms, which increasingly shape the tools that governments, businesses, and schools rely on. For workforce and education planners, it is a reminder that the capabilities of these systems are likely to keep advancing quickly.\n   (TechCrunch — AI · 07 Nov 2026)\n\n3. How a Blue Wave midterm might reshape the AI industry\n   https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/\n   This TechCrunch discussion examines how major Democratic victories in the recent US midterm elections could reshape the technology sector. A striking detail is that voters weighed in on 41 ballot measures related to data centres — the large facilities that house the computers powering AI — and in all but one case chose to impose more restrictions on their development. Even where data centres were not directly on the ballot, they featured heavily in local debates, reflecting public concern about their energy use, water consumption, and community impact. This matters because AI growth depends on building more of this infrastructure, and rising public resistance could slow or complicate expansion. It illustrates how everyday citizens, not just regulators, are beginning to influence the pace of AI deployment.\n   (TechCrunch — AI · 06 Nov 2026)\n\n4. After the midterms, is the AI industry in for a rough two years?\n   https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/\n   In a related video segment, TechCrunch asks whether the AI industry faces a difficult two years following the Democrats' strong midterm performance. The same voter pushback against data centre construction — with restrictions approved in nearly every ballot measure — points to growing friction between the industry's need to expand and local communities' concerns about the costs. A shift in political power could also change how federal and state governments approach taxation, energy policy, and oversight of large technology firms. The analysis suggests the industry may encounter a more challenging regulatory and public environment than it has enjoyed in recent years. For policymakers abroad, it offers a useful case study in how democratic processes can shape the conditions for AI growth.\n   (TechCrunch — AI · 06 Nov 2026)\n\n5. Expanding Teen Account Protections to Teens Around the World\n   https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/\n   Meta announced it is expanding its 'Teen Account' protections to young users around the world, using AI-based age-estimation technology to automatically place millions more teenagers into these safer settings on Instagram. Teen Accounts apply stricter default limits on messaging, content, and privacy, intended to give younger users a more controlled experience and reassure parents. The AI tool works by estimating a user's age from signals on the platform, allowing Meta to apply protections even when teens have not accurately reported their age. This is notable as an example of AI being used to support online child safety at a global scale, a topic of growing interest to regulators and educators. For institutions focused on human capital and young people, it highlights both the promise and the responsibility that come with applying AI to protect vulnerable users.\n   (Meta (Newsroom) · 09 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 9 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how political shifts in the United States are shaping the direction and oversight of artificial intelligence, from government attitudes on AI safety to the growing public debate over the infrastructure that powers these systems. We also cover a landmark investment in one of the field's leading companies and a global expansion of online protections for young people. Together, these stories highlight how questions of governance, investment, and public trust are increasingly central to how AI develops worldwide.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec](https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a televised interview on the US programme 60 Minutes, President Trump played down warnings from AI company executives about the potential dangers of their own systems, saying he believes the risks are 'not nearly as real' as these leaders claim and can be managed. He stated that the US Department of Justice is handling any such risks and referenced a situation involving a threat to arrest an AI executive. The comments are notable because many AI developers have publicly called for careful oversight of advanced systems, and the President's dismissive tone suggests a lighter-touch approach to federal regulation. For institutions tracking AI policy, this signals how the current US administration may frame safety concerns and government intervention. How major governments balance innovation with oversight remains an important backdrop for national AI strategies everywhere, including in the Gulf.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI, the company behind ChatGPT, has reportedly raised an additional 11 billion dollars in a funding round that is expected to close in the coming weeks, valuing the company at around 1.25 trillion dollars. This would make OpenAI one of the most valuable private companies in the world, reflecting the enormous investor confidence in the commercial potential of AI. Such large sums are needed to pay for the expensive computing power, data centres, and talent required to build and run advanced AI models. The scale of this investment underscores how much money is flowing into a small number of leading AI firms, which increasingly shape the tools that governments, businesses, and schools rely on. For workforce and education planners, it is a reminder that the capabilities of these systems are likely to keep advancing quickly.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 07 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. How a Blue Wave midterm might reshape the AI industry](https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "This TechCrunch discussion examines how major Democratic victories in the recent US midterm elections could reshape the technology sector. A striking detail is that voters weighed in on 41 ballot measures related to data centres — the large facilities that house the computers powering AI — and in all but one case chose to impose more restrictions on their development. Even where data centres were not directly on the ballot, they featured heavily in local debates, reflecting public concern about their energy use, water consumption, and community impact. This matters because AI growth depends on building more of this infrastructure, and rising public resistance could slow or complicate expansion. It illustrates how everyday citizens, not just regulators, are beginning to influence the pace of AI deployment.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 06 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a related video segment, TechCrunch asks whether the AI industry faces a difficult two years following the Democrats' strong midterm performance. The same voter pushback against data centre construction — with restrictions approved in nearly every ballot measure — points to growing friction between the industry's need to expand and local communities' concerns about the costs. A shift in political power could also change how federal and state governments approach taxation, energy policy, and oversight of large technology firms. The analysis suggests the industry may encounter a more challenging regulatory and public environment than it has enjoyed in recent years. For policymakers abroad, it offers a useful case study in how democratic processes can shape the conditions for AI growth.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 06 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Expanding Teen Account Protections to Teens Around the World](https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta announced it is expanding its 'Teen Account' protections to young users around the world, using AI-based age-estimation technology to automatically place millions more teenagers into these safer settings on Instagram. Teen Accounts apply stricter default limits on messaging, content, and privacy, intended to give younger users a more controlled experience and reassure parents. The AI tool works by estimating a user's age from signals on the platform, allowing Meta to apply protections even when teens have not accurately reported their age. This is notable as an example of AI being used to support online child safety at a global scale, a topic of growing interest to regulators and educators. For institutions focused on human capital and young people, it highlights both the promise and the responsibility that come with applying AI to protect vulnerable users.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 9 November 2026\n============================================================\nThis edition looks at how political shifts in the United States are shaping the direction and oversight of artificial intelligence, from government attitudes on AI safety to the growing public debate over the infrastructure that powers these systems. We also cover a landmark investment in one of the field's leading companies and a global expansion of online protections for young people. Together, these stories highlight how questions of governance, investment, and public trust are increasingly central to how AI develops worldwide.\n\n1. Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec\n   https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai\n   In a televised interview on the US programme 60 Minutes, President Trump played down warnings from AI company executives about the potential dangers of their own systems, saying he believes the risks are 'not nearly as real' as these leaders claim and can be managed. He stated that the US Department of Justice is handling any such risks and referenced a situation involving a threat to arrest an AI executive. The comments are notable because many AI developers have publicly called for careful oversight of advanced systems, and the President's dismissive tone suggests a lighter-touch approach to federal regulation. For institutions tracking AI policy, this signals how the current US administration may frame safety concerns and government intervention. How major governments balance innovation with oversight remains an important backdrop for national AI strategies everywhere, including in the Gulf.\n   (The Verge — AI · 09 Nov 2026)\n\n2. OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation\n   https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/\n   OpenAI, the company behind ChatGPT, has reportedly raised an additional 11 billion dollars in a funding round that is expected to close in the coming weeks, valuing the company at around 1.25 trillion dollars. This would make OpenAI one of the most valuable private companies in the world, reflecting the enormous investor confidence in the commercial potential of AI. Such large sums are needed to pay for the expensive computing power, data centres, and talent required to build and run advanced AI models. The scale of this investment underscores how much money is flowing into a small number of leading AI firms, which increasingly shape the tools that governments, businesses, and schools rely on. For workforce and education planners, it is a reminder that the capabilities of these systems are likely to keep advancing quickly.\n   (TechCrunch — AI · 07 Nov 2026)\n\n3. How a Blue Wave midterm might reshape the AI industry\n   https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/\n   This TechCrunch discussion examines how major Democratic victories in the recent US midterm elections could reshape the technology sector. A striking detail is that voters weighed in on 41 ballot measures related to data centres — the large facilities that house the computers powering AI — and in all but one case chose to impose more restrictions on their development. Even where data centres were not directly on the ballot, they featured heavily in local debates, reflecting public concern about their energy use, water consumption, and community impact. This matters because AI growth depends on building more of this infrastructure, and rising public resistance could slow or complicate expansion. It illustrates how everyday citizens, not just regulators, are beginning to influence the pace of AI deployment.\n   (TechCrunch — AI · 06 Nov 2026)\n\n4. After the midterms, is the AI industry in for a rough two years?\n   https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/\n   In a related video segment, TechCrunch asks whether the AI industry faces a difficult two years following the Democrats' strong midterm performance. The same voter pushback against data centre construction — with restrictions approved in nearly every ballot measure — points to growing friction between the industry's need to expand and local communities' concerns about the costs. A shift in political power could also change how federal and state governments approach taxation, energy policy, and oversight of large technology firms. The analysis suggests the industry may encounter a more challenging regulatory and public environment than it has enjoyed in recent years. For policymakers abroad, it offers a useful case study in how democratic processes can shape the conditions for AI growth.\n   (TechCrunch — AI · 06 Nov 2026)\n\n5. Expanding Teen Account Protections to Teens Around the World\n   https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/\n   Meta announced it is expanding its 'Teen Account' protections to young users around the world, using AI-based age-estimation technology to automatically place millions more teenagers into these safer settings on Instagram. Teen Accounts apply stricter default limits on messaging, content, and privacy, intended to give younger users a more controlled experience and reassure parents. The AI tool works by estimating a user's age from signals on the platform, allowing Meta to apply protections even when teens have not accurately reported their age. This is notable as an example of AI being used to support online child safety at a global scale, a topic of growing interest to regulators and educators. For institutions focused on human capital and young people, it highlights both the promise and the responsibility that come with applying AI to protect vulnerable users.\n   (Meta (Newsroom) · 09 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
