@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-10",
+  "generated_at_iso": "2026-11-10T14:58:59.379873+00:00",
+  "date_range_label": "10 November 2026",
+  "subtitle": "Tuesday, 10 November 2026",
+  "editor_note": "This edition looks at how AI is reaching the people who shape learning and daily life — from teachers and caregivers to the policymakers now writing the rules. We also cover the latest steps AI companies are taking to keep their systems safe, alongside two new model releases. Together, these stories highlight the growing link between AI skills, trustworthy systems, and sound governance.",
+  "items": [
+    {
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-10T09:00:00+00:00",
+      "summary": "OpenAI has published new research, carried out with the youth organisation ThinkYoung, examining a 'guidance gap' in how AI is used in education: students are increasingly turning to AI tools, but teachers often lack clear support, training, and guidelines to use them well. The report draws on OpenAI's education partnerships across Europe, the Middle East, and Africa (the EMEA region) and highlights the importance of building AI literacy so learners can use these tools to think independently rather than simply get answers. Key themes include helping teachers understand what AI can and cannot do, giving students the skills to question and verify AI output, and designing classroom practices that keep humans central to learning. For an institution focused on human-capital and workforce development, this is notable because it points to a practical need: teacher training and clear guidance must come alongside any rollout of AI in schools. It also offers lessons that are directly relevant to the Gulf, where governments are actively integrating AI into education systems.",
+      "why_it_matters": "",
+      "relevance": 10
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-11-09T17:05:43+00:00",
+      "summary": "Scott Wiener, a California state senator known for authoring legislation to address the risks of advanced AI, has won the congressional seat in San Francisco previously held by former House Speaker Nancy Pelosi. In this interview with MIT Technology Review, he signals that he intends to be active in shaping federal AI policy in the United States, bringing his experience from state-level AI regulation to the national stage. His earlier state bill sought to require safety measures from companies building the most powerful AI systems, a proposal that drew significant debate between those urging caution and those worried about slowing innovation. His arrival in Congress could influence how, and how strictly, the US chooses to regulate AI in the coming years. For public-sector readers, this is a useful signal of where one of the world's most influential AI markets may be heading on regulation, which often sets reference points that other governments watch closely.",
+      "why_it_matters": "",
+      "relevance": 7
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-10T12:00:00+00:00",
+      "summary": "OpenAI is running free, hands-on ChatGPT workshops for caregivers in five US cities through its OpenAI Academy initiative. The sessions are aimed at people who care for others — such as family members or professional carers — and focus on practical, everyday uses of AI, like organising schedules, drafting messages, finding information, and reducing daily administrative burdens. The goal is to build basic, confident AI skills among a group that is often overlooked in technology training but stands to benefit from time-saving tools. This matters because it is an example of AI upskilling reaching beyond offices and classrooms into community and care settings, broadening who gets access to these skills. For Tamkeen, it is a relevant model of targeted, accessible training that meets people where they are, an approach that can inform inclusive workforce and human-capital programmes.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-09T13:00:00+00:00",
+      "summary": "OpenAI has described a new internal system called 'Control Room' designed to monitor the AI workloads running across its research infrastructure and to stop them quickly if safety or security concerns arise. In simple terms, it acts as a central oversight and emergency-stop mechanism, giving the company a clearer view of what its models are doing and the ability to intervene rapidly. This reflects a wider industry trend toward building practical safeguards and governance tools directly into how advanced AI systems are operated, rather than relying on policy statements alone. For non-technical readers, the key point is that leading AI developers are investing in ways to maintain control over increasingly powerful systems. It is notable for public-sector bodies thinking about AI governance, because it illustrates the kind of operational safety controls that may become standard expectations — and potential reference points for regulation and procurement.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-09T19:24:51+00:00",
+      "summary": "The AI company Anthropic has released two new models, named Mythos and Fable, which it says offer improvements in coding, reasoning, image understanding (vision), and communicating more clearly with users. The release comes amid ongoing concerns the industry refers to around responsible scaling and the risks of ever more capable systems, reflecting continued debate about balancing advancement with safety. These updates place Anthropic in direct competition with other frontier developers such as OpenAI and Google, each racing to improve how well their models think through problems and interact with people. For non-technical readers, the practical takeaway is that the tools available for writing, analysis, and everyday tasks are steadily becoming more capable and easier to use. For Tamkeen, such releases are worth tracking because better reasoning and clearer communication can expand how AI supports education, training, and workplace productivity.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 10 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is reaching the people who shape learning and daily life — from teachers and caregivers to the policymakers now writing the rules. We also cover the latest steps AI companies are taking to keep their systems safe, alongside two new model releases. Together, these stories highlight the growing link between AI skills, trustworthy systems, and sound governance.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published new research, carried out with the youth organisation ThinkYoung, examining a 'guidance gap' in how AI is used in education: students are increasingly turning to AI tools, but teachers often lack clear support, training, and guidelines to use them well. The report draws on OpenAI's education partnerships across Europe, the Middle East, and Africa (the EMEA region) and highlights the importance of building AI literacy so learners can use these tools to think independently rather than simply get answers. Key themes include helping teachers understand what AI can and cannot do, giving students the skills to question and verify AI output, and designing classroom practices that keep humans central to learning. For an institution focused on human-capital and workforce development, this is notable because it points to a practical need: teacher training and clear guidance must come alongside any rollout of AI in schools. It also offers lessons that are directly relevant to the Gulf, where governments are actively integrating AI into education systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Nancy Pelosi’s replacement is ready to regulate AI](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Scott Wiener, a California state senator known for authoring legislation to address the risks of advanced AI, has won the congressional seat in San Francisco previously held by former House Speaker Nancy Pelosi. In this interview with MIT Technology Review, he signals that he intends to be active in shaping federal AI policy in the United States, bringing his experience from state-level AI regulation to the national stage. His earlier state bill sought to require safety measures from companies building the most powerful AI systems, a proposal that drew significant debate between those urging caution and those worried about slowing innovation. His arrival in Congress could influence how, and how strictly, the US chooses to regulate AI in the coming years. For public-sector readers, this is a useful signal of where one of the world's most influential AI markets may be heading on regulation, which often sets reference points that other governments watch closely.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI is running free, hands-on ChatGPT workshops for caregivers in five US cities through its OpenAI Academy initiative. The sessions are aimed at people who care for others — such as family members or professional carers — and focus on practical, everyday uses of AI, like organising schedules, drafting messages, finding information, and reducing daily administrative burdens. The goal is to build basic, confident AI skills among a group that is often overlooked in technology training but stands to benefit from time-saving tools. This matters because it is an example of AI upskilling reaching beyond offices and classrooms into community and care settings, broadening who gets access to these skills. For Tamkeen, it is a relevant model of targeted, accessible training that meets people where they are, an approach that can inform inclusive workforce and human-capital programmes.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has described a new internal system called 'Control Room' designed to monitor the AI workloads running across its research infrastructure and to stop them quickly if safety or security concerns arise. In simple terms, it acts as a central oversight and emergency-stop mechanism, giving the company a clearer view of what its models are doing and the ability to intervene rapidly. This reflects a wider industry trend toward building practical safeguards and governance tools directly into how advanced AI systems are operated, rather than relying on policy statements alone. For non-technical readers, the key point is that leading AI developers are investing in ways to maintain control over increasingly powerful systems. It is notable for public-sector bodies thinking about AI governance, because it illustrates the kind of operational safety controls that may become standard expectations — and potential reference points for regulation and procurement.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Anthropic releases new Mythos and Fable models amid RSI concerns](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The AI company Anthropic has released two new models, named Mythos and Fable, which it says offer improvements in coding, reasoning, image understanding (vision), and communicating more clearly with users. The release comes amid ongoing concerns the industry refers to around responsible scaling and the risks of ever more capable systems, reflecting continued debate about balancing advancement with safety. These updates place Anthropic in direct competition with other frontier developers such as OpenAI and Google, each racing to improve how well their models think through problems and interact with people. For non-technical readers, the practical takeaway is that the tools available for writing, analysis, and everyday tasks are steadily becoming more capable and easier to use. For Tamkeen, such releases are worth tracking because better reasoning and clearer communication can expand how AI supports education, training, and workplace productivity.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 10 November 2026\n============================================================\nThis edition looks at how AI is reaching the people who shape learning and daily life — from teachers and caregivers to the policymakers now writing the rules. We also cover the latest steps AI companies are taking to keep their systems safe, alongside two new model releases. Together, these stories highlight the growing link between AI skills, trustworthy systems, and sound governance.\n\n1. Closing the AI guidance gap in education\n   https://openai.com/index/closing-ai-guidance-gap-education\n   OpenAI has published new research, carried out with the youth organisation ThinkYoung, examining a 'guidance gap' in how AI is used in education: students are increasingly turning to AI tools, but teachers often lack clear support, training, and guidelines to use them well. The report draws on OpenAI's education partnerships across Europe, the Middle East, and Africa (the EMEA region) and highlights the importance of building AI literacy so learners can use these tools to think independently rather than simply get answers. Key themes include helping teachers understand what AI can and cannot do, giving students the skills to question and verify AI output, and designing classroom practices that keep humans central to learning. For an institution focused on human-capital and workforce development, this is notable because it points to a practical need: teacher training and clear guidance must come alongside any rollout of AI in schools. It also offers lessons that are directly relevant to the Gulf, where governments are actively integrating AI into education systems.\n   (OpenAI · 10 Nov 2026)\n\n2. Nancy Pelosi’s replacement is ready to regulate AI\n   https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/\n   Scott Wiener, a California state senator known for authoring legislation to address the risks of advanced AI, has won the congressional seat in San Francisco previously held by former House Speaker Nancy Pelosi. In this interview with MIT Technology Review, he signals that he intends to be active in shaping federal AI policy in the United States, bringing his experience from state-level AI regulation to the national stage. His earlier state bill sought to require safety measures from companies building the most powerful AI systems, a proposal that drew significant debate between those urging caution and those worried about slowing innovation. His arrival in Congress could influence how, and how strictly, the US chooses to regulate AI in the coming years. For public-sector readers, this is a useful signal of where one of the world's most influential AI markets may be heading on regulation, which often sets reference points that other governments watch closely.\n   (MIT Technology Review — AI · 09 Nov 2026)\n\n3. Helping caregivers use AI in everyday life\n   https://openai.com/index/helping-caregivers-use-ai-in-everyday-life\n   OpenAI is running free, hands-on ChatGPT workshops for caregivers in five US cities through its OpenAI Academy initiative. The sessions are aimed at people who care for others — such as family members or professional carers — and focus on practical, everyday uses of AI, like organising schedules, drafting messages, finding information, and reducing daily administrative burdens. The goal is to build basic, confident AI skills among a group that is often overlooked in technology training but stands to benefit from time-saving tools. This matters because it is an example of AI upskilling reaching beyond offices and classrooms into community and care settings, broadening who gets access to these skills. For Tamkeen, it is a relevant model of targeted, accessible training that meets people where they are, an approach that can inform inclusive workforce and human-capital programmes.\n   (OpenAI · 10 Nov 2026)\n\n4. Control Room: A central system to track and stop model workloads across our research infrastructure\n   https://openai.com/index/control-room\n   OpenAI has described a new internal system called 'Control Room' designed to monitor the AI workloads running across its research infrastructure and to stop them quickly if safety or security concerns arise. In simple terms, it acts as a central oversight and emergency-stop mechanism, giving the company a clearer view of what its models are doing and the ability to intervene rapidly. This reflects a wider industry trend toward building practical safeguards and governance tools directly into how advanced AI systems are operated, rather than relying on policy statements alone. For non-technical readers, the key point is that leading AI developers are investing in ways to maintain control over increasingly powerful systems. It is notable for public-sector bodies thinking about AI governance, because it illustrates the kind of operational safety controls that may become standard expectations — and potential reference points for regulation and procurement.\n   (OpenAI · 09 Nov 2026)\n\n5. Anthropic releases new Mythos and Fable models amid RSI concerns\n   https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/\n   The AI company Anthropic has released two new models, named Mythos and Fable, which it says offer improvements in coding, reasoning, image understanding (vision), and communicating more clearly with users. The release comes amid ongoing concerns the industry refers to around responsible scaling and the risks of ever more capable systems, reflecting continued debate about balancing advancement with safety. These updates place Anthropic in direct competition with other frontier developers such as OpenAI and Google, each racing to improve how well their models think through problems and interact with people. For non-technical readers, the practical takeaway is that the tools available for writing, analysis, and everyday tasks are steadily becoming more capable and easier to use. For Tamkeen, such releases are worth tracking because better reasoning and clearer communication can expand how AI supports education, training, and workplace productivity.\n   (TechCrunch — AI · 09 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 10 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is reaching the people who shape learning and daily life — from teachers and caregivers to the policymakers now writing the rules. We also cover the latest steps AI companies are taking to keep their systems safe, alongside two new model releases. Together, these stories highlight the growing link between AI skills, trustworthy systems, and sound governance.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Closing the AI guidance gap in education](https://openai.com/index/closing-ai-guidance-gap-education)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published new research, carried out with the youth organisation ThinkYoung, examining a 'guidance gap' in how AI is used in education: students are increasingly turning to AI tools, but teachers often lack clear support, training, and guidelines to use them well. The report draws on OpenAI's education partnerships across Europe, the Middle East, and Africa (the EMEA region) and highlights the importance of building AI literacy so learners can use these tools to think independently rather than simply get answers. Key themes include helping teachers understand what AI can and cannot do, giving students the skills to question and verify AI output, and designing classroom practices that keep humans central to learning. For an institution focused on human-capital and workforce development, this is notable because it points to a practical need: teacher training and clear guidance must come alongside any rollout of AI in schools. It also offers lessons that are directly relevant to the Gulf, where governments are actively integrating AI into education systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Nancy Pelosi’s replacement is ready to regulate AI](https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Scott Wiener, a California state senator known for authoring legislation to address the risks of advanced AI, has won the congressional seat in San Francisco previously held by former House Speaker Nancy Pelosi. In this interview with MIT Technology Review, he signals that he intends to be active in shaping federal AI policy in the United States, bringing his experience from state-level AI regulation to the national stage. His earlier state bill sought to require safety measures from companies building the most powerful AI systems, a proposal that drew significant debate between those urging caution and those worried about slowing innovation. His arrival in Congress could influence how, and how strictly, the US chooses to regulate AI in the coming years. For public-sector readers, this is a useful signal of where one of the world's most influential AI markets may be heading on regulation, which often sets reference points that other governments watch closely.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Helping caregivers use AI in everyday life](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI is running free, hands-on ChatGPT workshops for caregivers in five US cities through its OpenAI Academy initiative. The sessions are aimed at people who care for others — such as family members or professional carers — and focus on practical, everyday uses of AI, like organising schedules, drafting messages, finding information, and reducing daily administrative burdens. The goal is to build basic, confident AI skills among a group that is often overlooked in technology training but stands to benefit from time-saving tools. This matters because it is an example of AI upskilling reaching beyond offices and classrooms into community and care settings, broadening who gets access to these skills. For Tamkeen, it is a relevant model of targeted, accessible training that meets people where they are, an approach that can inform inclusive workforce and human-capital programmes.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Control Room: A central system to track and stop model workloads across our research infrastructure](https://openai.com/index/control-room)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has described a new internal system called 'Control Room' designed to monitor the AI workloads running across its research infrastructure and to stop them quickly if safety or security concerns arise. In simple terms, it acts as a central oversight and emergency-stop mechanism, giving the company a clearer view of what its models are doing and the ability to intervene rapidly. This reflects a wider industry trend toward building practical safeguards and governance tools directly into how advanced AI systems are operated, rather than relying on policy statements alone. For non-technical readers, the key point is that leading AI developers are investing in ways to maintain control over increasingly powerful systems. It is notable for public-sector bodies thinking about AI governance, because it illustrates the kind of operational safety controls that may become standard expectations — and potential reference points for regulation and procurement.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Anthropic releases new Mythos and Fable models amid RSI concerns](https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The AI company Anthropic has released two new models, named Mythos and Fable, which it says offer improvements in coding, reasoning, image understanding (vision), and communicating more clearly with users. The release comes amid ongoing concerns the industry refers to around responsible scaling and the risks of ever more capable systems, reflecting continued debate about balancing advancement with safety. These updates place Anthropic in direct competition with other frontier developers such as OpenAI and Google, each racing to improve how well their models think through problems and interact with people. For non-technical readers, the practical takeaway is that the tools available for writing, analysis, and everyday tasks are steadily becoming more capable and easier to use. For Tamkeen, such releases are worth tracking because better reasoning and clearer communication can expand how AI supports education, training, and workplace productivity.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 10 November 2026\n============================================================\nThis edition looks at how AI is reaching the people who shape learning and daily life — from teachers and caregivers to the policymakers now writing the rules. We also cover the latest steps AI companies are taking to keep their systems safe, alongside two new model releases. Together, these stories highlight the growing link between AI skills, trustworthy systems, and sound governance.\n\n1. Closing the AI guidance gap in education\n   https://openai.com/index/closing-ai-guidance-gap-education\n   OpenAI has published new research, carried out with the youth organisation ThinkYoung, examining a 'guidance gap' in how AI is used in education: students are increasingly turning to AI tools, but teachers often lack clear support, training, and guidelines to use them well. The report draws on OpenAI's education partnerships across Europe, the Middle East, and Africa (the EMEA region) and highlights the importance of building AI literacy so learners can use these tools to think independently rather than simply get answers. Key themes include helping teachers understand what AI can and cannot do, giving students the skills to question and verify AI output, and designing classroom practices that keep humans central to learning. For an institution focused on human-capital and workforce development, this is notable because it points to a practical need: teacher training and clear guidance must come alongside any rollout of AI in schools. It also offers lessons that are directly relevant to the Gulf, where governments are actively integrating AI into education systems.\n   (OpenAI · 10 Nov 2026)\n\n2. Nancy Pelosi’s replacement is ready to regulate AI\n   https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/\n   Scott Wiener, a California state senator known for authoring legislation to address the risks of advanced AI, has won the congressional seat in San Francisco previously held by former House Speaker Nancy Pelosi. In this interview with MIT Technology Review, he signals that he intends to be active in shaping federal AI policy in the United States, bringing his experience from state-level AI regulation to the national stage. His earlier state bill sought to require safety measures from companies building the most powerful AI systems, a proposal that drew significant debate between those urging caution and those worried about slowing innovation. His arrival in Congress could influence how, and how strictly, the US chooses to regulate AI in the coming years. For public-sector readers, this is a useful signal of where one of the world's most influential AI markets may be heading on regulation, which often sets reference points that other governments watch closely.\n   (MIT Technology Review — AI · 09 Nov 2026)\n\n3. Helping caregivers use AI in everyday life\n   https://openai.com/index/helping-caregivers-use-ai-in-everyday-life\n   OpenAI is running free, hands-on ChatGPT workshops for caregivers in five US cities through its OpenAI Academy initiative. The sessions are aimed at people who care for others — such as family members or professional carers — and focus on practical, everyday uses of AI, like organising schedules, drafting messages, finding information, and reducing daily administrative burdens. The goal is to build basic, confident AI skills among a group that is often overlooked in technology training but stands to benefit from time-saving tools. This matters because it is an example of AI upskilling reaching beyond offices and classrooms into community and care settings, broadening who gets access to these skills. For Tamkeen, it is a relevant model of targeted, accessible training that meets people where they are, an approach that can inform inclusive workforce and human-capital programmes.\n   (OpenAI · 10 Nov 2026)\n\n4. Control Room: A central system to track and stop model workloads across our research infrastructure\n   https://openai.com/index/control-room\n   OpenAI has described a new internal system called 'Control Room' designed to monitor the AI workloads running across its research infrastructure and to stop them quickly if safety or security concerns arise. In simple terms, it acts as a central oversight and emergency-stop mechanism, giving the company a clearer view of what its models are doing and the ability to intervene rapidly. This reflects a wider industry trend toward building practical safeguards and governance tools directly into how advanced AI systems are operated, rather than relying on policy statements alone. For non-technical readers, the key point is that leading AI developers are investing in ways to maintain control over increasingly powerful systems. It is notable for public-sector bodies thinking about AI governance, because it illustrates the kind of operational safety controls that may become standard expectations — and potential reference points for regulation and procurement.\n   (OpenAI · 09 Nov 2026)\n\n5. Anthropic releases new Mythos and Fable models amid RSI concerns\n   https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/\n   The AI company Anthropic has released two new models, named Mythos and Fable, which it says offer improvements in coding, reasoning, image understanding (vision), and communicating more clearly with users. The release comes amid ongoing concerns the industry refers to around responsible scaling and the risks of ever more capable systems, reflecting continued debate about balancing advancement with safety. These updates place Anthropic in direct competition with other frontier developers such as OpenAI and Google, each racing to improve how well their models think through problems and interact with people. For non-technical readers, the practical takeaway is that the tools available for writing, analysis, and everyday tasks are steadily becoming more capable and easier to use. For Tamkeen, such releases are worth tracking because better reasoning and clearer communication can expand how AI supports education, training, and workplace productivity.\n   (TechCrunch — AI · 09 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
