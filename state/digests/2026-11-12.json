@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-12",
+  "generated_at_iso": "2026-11-12T15:22:19.745563+00:00",
+  "date_range_label": "12 November 2026",
+  "subtitle": "Thursday, 12 November 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week we look at how AI is being shaped around safety and responsibility — particularly for children — alongside practical examples of how large organisations are putting AI into everyday service and operations. These stories offer useful lessons on balancing innovation with trust, governance, and real-world results, themes that sit close to Tamkeen's mandate on human-capital development.",
+  "items": [
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-12T00:00:00+00:00",
+      "summary": "OpenAI has pledged $2 million to fund research focused on the safety of children and young people in relation to artificial intelligence. The money will support the development of shared tools that can measure both the risks and the potential benefits AI holds for younger users. This matters because children increasingly interact with AI through schoolwork, apps, and online services, yet the long-term effects on them are not well understood. By investing in independent research and common measurement standards, the initiative aims to give educators, parents, and policymakers better evidence to guide safe use. For organisations involved in education and human-capital development, this reflects a growing recognition that protecting young learners must be a built-in priority as AI spreads into classrooms and homes.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-11-09T19:51:47+00:00",
+      "summary": "Google DeepMind has introduced Gemini Robotics 2.5, its most advanced model for connecting AI 'thinking' to physical robot movement. The system combines vision, language, and action, meaning a robot can understand instructions, interpret what it sees, and carry out delicate physical tasks more reliably. DeepMind reports improvements in dexterity, consistency, and safety, allowing robots to handle real-world situations with greater skill. This represents a step toward machines that can work more flexibly in settings such as warehouses, manufacturing, and eventually everyday environments. For workforce planners, such progress signals that certain physical and manual roles may gradually change, underscoring the importance of reskilling and preparing people for new kinds of jobs.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-11T00:00:00+00:00",
+      "summary": "JioStar, a major media and streaming company serving around 500 million users, shared how it applies AI to help people discover content at enormous scale. Its chief architect, Vijay Seshadri, explained the practical lessons learned in moving AI from experiments into full production use. He highlighted the importance of 'evals' — systematic testing to check that an AI system performs as intended — and 'guardrails' that keep the technology safe and reliable for users. His account offers a candid view of the engineering discipline required to deploy AI responsibly for very large audiences. For public-sector bodies considering AI for citizen services, these lessons on testing, safeguards, and careful rollout are especially relevant.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-10T08:00:00+00:00",
+      "summary": "Singapore Airlines has expanded its use of OpenAI's technology to improve both customer service and employee productivity. The airline uses AI models to support travellers in planning trips, to power its Kris customer-service chatbot, and to help staff work more efficiently. Notably, the company reports that customer satisfaction (CSAT) scores for the Kris chatbot have doubled since adopting the technology. This example shows how AI can enhance the quality of service in a large, customer-facing organisation rather than simply cutting costs. It offers a useful reference point for public institutions interested in using AI to improve service delivery while supporting, rather than replacing, their workforce.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-09T19:00:00+00:00",
+      "summary": "OpenAI has made ChatGPT Enterprise available through the Amazon Web Services (AWS) Marketplace, a widely used platform for buying cloud and software products. The change allows organisations that already work with AWS to purchase and pay for ChatGPT Enterprise through their existing accounts and billing arrangements. While this is largely a procurement and administrative development, it lowers the practical barriers that can slow AI adoption in large organisations. Simpler buying processes make it easier for institutions, including government bodies, to trial and deploy approved AI tools. For those managing technology procurement in the public sector, it is a reminder that ease of acquisition and clear governance are important parts of responsible AI adoption.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 12 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how AI is being shaped around safety and responsibility — particularly for children — alongside practical examples of how large organisations are putting AI into everyday service and operations. These stories offer useful lessons on balancing innovation with trust, governance, and real-world results, themes that sit close to Tamkeen's mandate on human-capital development.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Supporting research on AI and children’s safety](https://openai.com/index/children-first-declaration)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has pledged $2 million to fund research focused on the safety of children and young people in relation to artificial intelligence. The money will support the development of shared tools that can measure both the risks and the potential benefits AI holds for younger users. This matters because children increasingly interact with AI through schoolwork, apps, and online services, yet the long-term effects on them are not well understood. By investing in independent research and common measurement standards, the initiative aims to give educators, parents, and policymakers better evidence to guide safe use. For organisations involved in education and human-capital development, this reflects a growing recognition that protecting young learners must be a built-in priority as AI spreads into classrooms and homes.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 12 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has introduced Gemini Robotics 2.5, its most advanced model for connecting AI 'thinking' to physical robot movement. The system combines vision, language, and action, meaning a robot can understand instructions, interpret what it sees, and carry out delicate physical tasks more reliably. DeepMind reports improvements in dexterity, consistency, and safety, allowing robots to handle real-world situations with greater skill. This represents a step toward machines that can work more flexibly in settings such as warehouses, manufacturing, and eventually everyday environments. For workforce planners, such progress signals that certain physical and manual roles may gradually change, underscoring the importance of reskilling and preparing people for new kinds of jobs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. JioStar’s chief architect on AI discovery at 500M-user scale](https://openai.com/index/jiostar-vijay-seshadri)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "JioStar, a major media and streaming company serving around 500 million users, shared how it applies AI to help people discover content at enormous scale. Its chief architect, Vijay Seshadri, explained the practical lessons learned in moving AI from experiments into full production use. He highlighted the importance of 'evals' — systematic testing to check that an AI system performs as intended — and 'guardrails' that keep the technology safe and reliable for users. His account offers a candid view of the engineering discipline required to deploy AI responsibly for very large audiences. For public-sector bodies considering AI for citizen services, these lessons on testing, safeguards, and careful rollout are especially relevant.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 11 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Singapore Airlines elevates travel & work with OpenAI technology](https://openai.com/index/singapore-airlines-travel-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Singapore Airlines has expanded its use of OpenAI's technology to improve both customer service and employee productivity. The airline uses AI models to support travellers in planning trips, to power its Kris customer-service chatbot, and to help staff work more efficiently. Notably, the company reports that customer satisfaction (CSAT) scores for the Kris chatbot have doubled since adopting the technology. This example shows how AI can enhance the quality of service in a large, customer-facing organisation rather than simply cutting costs. It offers a useful reference point for public institutions interested in using AI to improve service delivery while supporting, rather than replacing, their workforce.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. ChatGPT Enterprise now available in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has made ChatGPT Enterprise available through the Amazon Web Services (AWS) Marketplace, a widely used platform for buying cloud and software products. The change allows organisations that already work with AWS to purchase and pay for ChatGPT Enterprise through their existing accounts and billing arrangements. While this is largely a procurement and administrative development, it lowers the practical barriers that can slow AI adoption in large organisations. Simpler buying processes make it easier for institutions, including government bodies, to trial and deploy approved AI tools. For those managing technology procurement in the public sector, it is a reminder that ease of acquisition and clear governance are important parts of responsible AI adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nThursday, 12 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how AI is being shaped around safety and responsibility — particularly for children — alongside practical examples of how large organisations are putting AI into everyday service and operations. These stories offer useful lessons on balancing innovation with trust, governance, and real-world results, themes that sit close to Tamkeen's mandate on human-capital development.\n\n1. Supporting research on AI and children’s safety\n   https://openai.com/index/children-first-declaration\n   OpenAI has pledged $2 million to fund research focused on the safety of children and young people in relation to artificial intelligence. The money will support the development of shared tools that can measure both the risks and the potential benefits AI holds for younger users. This matters because children increasingly interact with AI through schoolwork, apps, and online services, yet the long-term effects on them are not well understood. By investing in independent research and common measurement standards, the initiative aims to give educators, parents, and policymakers better evidence to guide safe use. For organisations involved in education and human-capital development, this reflects a growing recognition that protecting young learners must be a built-in priority as AI spreads into classrooms and homes.\n   (OpenAI · 12 Nov 2026)\n\n2. Gemini Robotics 2.5 accelerates real-world general dexterity\n   https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/\n   Google DeepMind has introduced Gemini Robotics 2.5, its most advanced model for connecting AI 'thinking' to physical robot movement. The system combines vision, language, and action, meaning a robot can understand instructions, interpret what it sees, and carry out delicate physical tasks more reliably. DeepMind reports improvements in dexterity, consistency, and safety, allowing robots to handle real-world situations with greater skill. This represents a step toward machines that can work more flexibly in settings such as warehouses, manufacturing, and eventually everyday environments. For workforce planners, such progress signals that certain physical and manual roles may gradually change, underscoring the importance of reskilling and preparing people for new kinds of jobs.\n   (Google DeepMind · 09 Nov 2026)\n\n3. JioStar’s chief architect on AI discovery at 500M-user scale\n   https://openai.com/index/jiostar-vijay-seshadri\n   JioStar, a major media and streaming company serving around 500 million users, shared how it applies AI to help people discover content at enormous scale. Its chief architect, Vijay Seshadri, explained the practical lessons learned in moving AI from experiments into full production use. He highlighted the importance of 'evals' — systematic testing to check that an AI system performs as intended — and 'guardrails' that keep the technology safe and reliable for users. His account offers a candid view of the engineering discipline required to deploy AI responsibly for very large audiences. For public-sector bodies considering AI for citizen services, these lessons on testing, safeguards, and careful rollout are especially relevant.\n   (OpenAI · 11 Nov 2026)\n\n4. Singapore Airlines elevates travel & work with OpenAI technology\n   https://openai.com/index/singapore-airlines-travel-work\n   Singapore Airlines has expanded its use of OpenAI's technology to improve both customer service and employee productivity. The airline uses AI models to support travellers in planning trips, to power its Kris customer-service chatbot, and to help staff work more efficiently. Notably, the company reports that customer satisfaction (CSAT) scores for the Kris chatbot have doubled since adopting the technology. This example shows how AI can enhance the quality of service in a large, customer-facing organisation rather than simply cutting costs. It offers a useful reference point for public institutions interested in using AI to improve service delivery while supporting, rather than replacing, their workforce.\n   (OpenAI · 10 Nov 2026)\n\n5. ChatGPT Enterprise now available in AWS Marketplace\n   https://openai.com/index/chatgpt-enterprise-aws-marketplace\n   OpenAI has made ChatGPT Enterprise available through the Amazon Web Services (AWS) Marketplace, a widely used platform for buying cloud and software products. The change allows organisations that already work with AWS to purchase and pay for ChatGPT Enterprise through their existing accounts and billing arrangements. While this is largely a procurement and administrative development, it lowers the practical barriers that can slow AI adoption in large organisations. Simpler buying processes make it easier for institutions, including government bodies, to trial and deploy approved AI tools. For those managing technology procurement in the public sector, it is a reminder that ease of acquisition and clear governance are important parts of responsible AI adoption.\n   (OpenAI · 09 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Thursday, 12 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how AI is being shaped around safety and responsibility — particularly for children — alongside practical examples of how large organisations are putting AI into everyday service and operations. These stories offer useful lessons on balancing innovation with trust, governance, and real-world results, themes that sit close to Tamkeen's mandate on human-capital development.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Supporting research on AI and children’s safety](https://openai.com/index/children-first-declaration)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has pledged $2 million to fund research focused on the safety of children and young people in relation to artificial intelligence. The money will support the development of shared tools that can measure both the risks and the potential benefits AI holds for younger users. This matters because children increasingly interact with AI through schoolwork, apps, and online services, yet the long-term effects on them are not well understood. By investing in independent research and common measurement standards, the initiative aims to give educators, parents, and policymakers better evidence to guide safe use. For organisations involved in education and human-capital development, this reflects a growing recognition that protecting young learners must be a built-in priority as AI spreads into classrooms and homes.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 12 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Gemini Robotics 2.5 accelerates real-world general dexterity](https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has introduced Gemini Robotics 2.5, its most advanced model for connecting AI 'thinking' to physical robot movement. The system combines vision, language, and action, meaning a robot can understand instructions, interpret what it sees, and carry out delicate physical tasks more reliably. DeepMind reports improvements in dexterity, consistency, and safety, allowing robots to handle real-world situations with greater skill. This represents a step toward machines that can work more flexibly in settings such as warehouses, manufacturing, and eventually everyday environments. For workforce planners, such progress signals that certain physical and manual roles may gradually change, underscoring the importance of reskilling and preparing people for new kinds of jobs.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. JioStar’s chief architect on AI discovery at 500M-user scale](https://openai.com/index/jiostar-vijay-seshadri)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "JioStar, a major media and streaming company serving around 500 million users, shared how it applies AI to help people discover content at enormous scale. Its chief architect, Vijay Seshadri, explained the practical lessons learned in moving AI from experiments into full production use. He highlighted the importance of 'evals' — systematic testing to check that an AI system performs as intended — and 'guardrails' that keep the technology safe and reliable for users. His account offers a candid view of the engineering discipline required to deploy AI responsibly for very large audiences. For public-sector bodies considering AI for citizen services, these lessons on testing, safeguards, and careful rollout are especially relevant.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 11 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Singapore Airlines elevates travel & work with OpenAI technology](https://openai.com/index/singapore-airlines-travel-work)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Singapore Airlines has expanded its use of OpenAI's technology to improve both customer service and employee productivity. The airline uses AI models to support travellers in planning trips, to power its Kris customer-service chatbot, and to help staff work more efficiently. Notably, the company reports that customer satisfaction (CSAT) scores for the Kris chatbot have doubled since adopting the technology. This example shows how AI can enhance the quality of service in a large, customer-facing organisation rather than simply cutting costs. It offers a useful reference point for public institutions interested in using AI to improve service delivery while supporting, rather than replacing, their workforce.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 10 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. ChatGPT Enterprise now available in AWS Marketplace](https://openai.com/index/chatgpt-enterprise-aws-marketplace)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has made ChatGPT Enterprise available through the Amazon Web Services (AWS) Marketplace, a widely used platform for buying cloud and software products. The change allows organisations that already work with AWS to purchase and pay for ChatGPT Enterprise through their existing accounts and billing arrangements. While this is largely a procurement and administrative development, it lowers the practical barriers that can slow AI adoption in large organisations. Simpler buying processes make it easier for institutions, including government bodies, to trial and deploy approved AI tools. For those managing technology procurement in the public sector, it is a reminder that ease of acquisition and clear governance are important parts of responsible AI adoption.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 09 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nThursday, 12 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how AI is being shaped around safety and responsibility — particularly for children — alongside practical examples of how large organisations are putting AI into everyday service and operations. These stories offer useful lessons on balancing innovation with trust, governance, and real-world results, themes that sit close to Tamkeen's mandate on human-capital development.\n\n1. Supporting research on AI and children’s safety\n   https://openai.com/index/children-first-declaration\n   OpenAI has pledged $2 million to fund research focused on the safety of children and young people in relation to artificial intelligence. The money will support the development of shared tools that can measure both the risks and the potential benefits AI holds for younger users. This matters because children increasingly interact with AI through schoolwork, apps, and online services, yet the long-term effects on them are not well understood. By investing in independent research and common measurement standards, the initiative aims to give educators, parents, and policymakers better evidence to guide safe use. For organisations involved in education and human-capital development, this reflects a growing recognition that protecting young learners must be a built-in priority as AI spreads into classrooms and homes.\n   (OpenAI · 12 Nov 2026)\n\n2. Gemini Robotics 2.5 accelerates real-world general dexterity\n   https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/\n   Google DeepMind has introduced Gemini Robotics 2.5, its most advanced model for connecting AI 'thinking' to physical robot movement. The system combines vision, language, and action, meaning a robot can understand instructions, interpret what it sees, and carry out delicate physical tasks more reliably. DeepMind reports improvements in dexterity, consistency, and safety, allowing robots to handle real-world situations with greater skill. This represents a step toward machines that can work more flexibly in settings such as warehouses, manufacturing, and eventually everyday environments. For workforce planners, such progress signals that certain physical and manual roles may gradually change, underscoring the importance of reskilling and preparing people for new kinds of jobs.\n   (Google DeepMind · 09 Nov 2026)\n\n3. JioStar’s chief architect on AI discovery at 500M-user scale\n   https://openai.com/index/jiostar-vijay-seshadri\n   JioStar, a major media and streaming company serving around 500 million users, shared how it applies AI to help people discover content at enormous scale. Its chief architect, Vijay Seshadri, explained the practical lessons learned in moving AI from experiments into full production use. He highlighted the importance of 'evals' — systematic testing to check that an AI system performs as intended — and 'guardrails' that keep the technology safe and reliable for users. His account offers a candid view of the engineering discipline required to deploy AI responsibly for very large audiences. For public-sector bodies considering AI for citizen services, these lessons on testing, safeguards, and careful rollout are especially relevant.\n   (OpenAI · 11 Nov 2026)\n\n4. Singapore Airlines elevates travel & work with OpenAI technology\n   https://openai.com/index/singapore-airlines-travel-work\n   Singapore Airlines has expanded its use of OpenAI's technology to improve both customer service and employee productivity. The airline uses AI models to support travellers in planning trips, to power its Kris customer-service chatbot, and to help staff work more efficiently. Notably, the company reports that customer satisfaction (CSAT) scores for the Kris chatbot have doubled since adopting the technology. This example shows how AI can enhance the quality of service in a large, customer-facing organisation rather than simply cutting costs. It offers a useful reference point for public institutions interested in using AI to improve service delivery while supporting, rather than replacing, their workforce.\n   (OpenAI · 10 Nov 2026)\n\n5. ChatGPT Enterprise now available in AWS Marketplace\n   https://openai.com/index/chatgpt-enterprise-aws-marketplace\n   OpenAI has made ChatGPT Enterprise available through the Amazon Web Services (AWS) Marketplace, a widely used platform for buying cloud and software products. The change allows organisations that already work with AWS to purchase and pay for ChatGPT Enterprise through their existing accounts and billing arrangements. While this is largely a procurement and administrative development, it lowers the practical barriers that can slow AI adoption in large organisations. Simpler buying processes make it easier for institutions, including government bodies, to trial and deploy approved AI tools. For those managing technology procurement in the public sector, it is a reminder that ease of acquisition and clear governance are important parts of responsible AI adoption.\n   (OpenAI · 09 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
