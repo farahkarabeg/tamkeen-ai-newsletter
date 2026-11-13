@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-13",
+  "generated_at_iso": "2026-11-13T14:40:38.468626+00:00",
+  "date_range_label": "13 November 2026",
+  "subtitle": "Friday, 13 November 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week we focus on a major new Google model and the practical ways it is changing everyday tools like search, alongside real-world examples of how organisations are adopting AI to transform their work. We close with a look at how AI is advancing medical research, offering a glimpse of the broader benefits these technologies may bring.",
+  "items": [
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-11-12T18:00:50+00:00",
+      "summary": "Google DeepMind has announced Gemini 4 Hydrogen, the latest version of its flagship AI model. According to the company, this release improves the model's ability to understand and respond to complicated requests, breaking them into parts and addressing each one more carefully. Gemini 4 Hydrogen is being rolled out across Google's products, including its search engine and the standalone Gemini app, meaning many everyday users will encounter it directly. For an organisation like Tamkeen, frontier model releases like this matter because they shape the tools that staff, educators, and the public increasingly rely on. Understanding the pace of these updates helps us plan how such capabilities might support learning and workforce development over time.",
+      "why_it_matters": "",
+      "relevance": 7
+    },
+    {
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-12T21:55:32+00:00",
+      "summary": "The Verge reports that Google's new Gemini 4 Hydrogen model is designed to give more helpful answers to complex questions, including those with several parts, difficult typos, or very specific requirements. The model can now break a question down into its components and respond to each element separately, rather than giving a single general answer. This feature is available immediately across Google Search, the Gemini app, and all paid and free tiers of Google's services. The practical effect is that people asking detailed or messy questions should get clearer, more complete responses. This is relevant for education and training contexts, where learners often pose layered or imperfectly worded questions and benefit from thorough, well-structured answers.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-12T19:27:45+00:00",
+      "summary": "TechCrunch covers the same Gemini 4 Hydrogen launch from the angle of Google's search upgrade, specifically its 'AI Mode' feature. The report notes that the new model is better at understanding complicated queries, pointing users to relevant web links, and presenting answers with richer visual elements. This reflects a broader shift in how people find information online, moving from simple keyword searches toward conversational, AI-assisted responses. For non-technical staff, the key takeaway is that familiar tools such as Google Search are steadily incorporating more advanced AI, often without requiring any new skills to use. Being aware of these changes helps staff understand how information is increasingly curated and summarised by AI systems.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-12T00:00:00+00:00",
+      "summary": "OpenAI has published a conversation with Sam Nickless, Partner and Chief Executive Officer at the Australian law firm Gilbert + Tobin, about how the firm is using AI to rethink the way legal work is done. The discussion highlights a practical example of a professional-services organisation adopting AI tools to improve efficiency and reshape traditional ways of working. Law is a knowledge-intensive field, so its experiences offer useful lessons for how AI can support skilled professionals rather than simply replace them. For Tamkeen, this case is relevant to workforce development, as it illustrates how established professions are adapting their skills and roles in response to new technology. It also underscores the growing importance of helping employees learn to work alongside AI tools.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-11-11T15:00:15+00:00",
+      "summary": "Google DeepMind has introduced AlphaGenome 2, a research tool that predicts how DNA sequences and their variations affect specific human cell types and may contribute to disease. The system aims to help scientists better understand how cells 'read' DNA, which could support medical research into the causes of illness. This is a specialised scientific application rather than a consumer product, and it continues a line of DeepMind work applying AI to biology and health. While not directly tied to education or public administration, it demonstrates the wider potential of AI to advance knowledge in fields such as healthcare and life sciences. For Tamkeen staff, it serves as a reminder that AI's impact extends well beyond chatbots into areas with long-term societal benefit.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 13 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we focus on a major new Google model and the practical ways it is changing everyday tools like search, alongside real-world examples of how organisations are adopting AI to transform their work. We close with a look at how AI is advancing medical research, offering a glimpse of the broader benefits these technologies may bring.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has announced Gemini 4 Hydrogen, the latest version of its flagship AI model. According to the company, this release improves the model's ability to understand and respond to complicated requests, breaking them into parts and addressing each one more carefully. Gemini 4 Hydrogen is being rolled out across Google's products, including its search engine and the standalone Gemini app, meaning many everyday users will encounter it directly. For an organisation like Tamkeen, frontier model releases like this matter because they shape the tools that staff, educators, and the public increasingly rely on. Understanding the pace of these updates helps us plan how such capabilities might support learning and workforce development over time.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 12 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reports that Google's new Gemini 4 Hydrogen model is designed to give more helpful answers to complex questions, including those with several parts, difficult typos, or very specific requirements. The model can now break a question down into its components and respond to each element separately, rather than giving a single general answer. This feature is available immediately across Google Search, the Gemini app, and all paid and free tiers of Google's services. The practical effect is that people asking detailed or messy questions should get clearer, more complete responses. This is relevant for education and training contexts, where learners often pose layered or imperfectly worded questions and benefit from thorough, well-structured answers.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 13 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch covers the same Gemini 4 Hydrogen launch from the angle of Google's search upgrade, specifically its 'AI Mode' feature. The report notes that the new model is better at understanding complicated queries, pointing users to relevant web links, and presenting answers with richer visual elements. This reflects a broader shift in how people find information online, moving from simple keyword searches toward conversational, AI-assisted responses. For non-technical staff, the key takeaway is that familiar tools such as Google Search are steadily incorporating more advanced AI, often without requiring any new skills to use. Being aware of these changes helps staff understand how information is increasingly curated and summarised by AI systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 12 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a conversation with Sam Nickless, Partner and Chief Executive Officer at the Australian law firm Gilbert + Tobin, about how the firm is using AI to rethink the way legal work is done. The discussion highlights a practical example of a professional-services organisation adopting AI tools to improve efficiency and reshape traditional ways of working. Law is a knowledge-intensive field, so its experiences offer useful lessons for how AI can support skilled professionals rather than simply replace them. For Tamkeen, this case is relevant to workforce development, as it illustrates how established professions are adapting their skills and roles in response to new technology. It also underscores the growing importance of helping employees learn to work alongside AI tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 12 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has introduced AlphaGenome 2, a research tool that predicts how DNA sequences and their variations affect specific human cell types and may contribute to disease. The system aims to help scientists better understand how cells 'read' DNA, which could support medical research into the causes of illness. This is a specialised scientific application rather than a consumer product, and it continues a line of DeepMind work applying AI to biology and health. While not directly tied to education or public administration, it demonstrates the wider potential of AI to advance knowledge in fields such as healthcare and life sciences. For Tamkeen staff, it serves as a reminder that AI's impact extends well beyond chatbots into areas with long-term societal benefit.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 11 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 13 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we focus on a major new Google model and the practical ways it is changing everyday tools like search, alongside real-world examples of how organisations are adopting AI to transform their work. We close with a look at how AI is advancing medical research, offering a glimpse of the broader benefits these technologies may bring.\n\n1. Introducing Gemini 4 Hydrogen\n   https://deepmind.google/blog/introducing-gemini-4-hydrogen/\n   Google DeepMind has announced Gemini 4 Hydrogen, the latest version of its flagship AI model. According to the company, this release improves the model's ability to understand and respond to complicated requests, breaking them into parts and addressing each one more carefully. Gemini 4 Hydrogen is being rolled out across Google's products, including its search engine and the standalone Gemini app, meaning many everyday users will encounter it directly. For an organisation like Tamkeen, frontier model releases like this matter because they shape the tools that staff, educators, and the public increasingly rely on. Understanding the pace of these updates helps us plan how such capabilities might support learning and workforce development over time.\n   (Google DeepMind · 12 Nov 2026)\n\n2. Google’s new Gemini model is better at understanding complicated questions\n   https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen\n   The Verge reports that Google's new Gemini 4 Hydrogen model is designed to give more helpful answers to complex questions, including those with several parts, difficult typos, or very specific requirements. The model can now break a question down into its components and respond to each element separately, rather than giving a single general answer. This feature is available immediately across Google Search, the Gemini app, and all paid and free tiers of Google's services. The practical effect is that people asking detailed or messy questions should get clearer, more complete responses. This is relevant for education and training contexts, where learners often pose layered or imperfectly worded questions and benefit from thorough, well-structured answers.\n   (The Verge — AI · 13 Nov 2026)\n\n3. Google’s latest Search upgrade promises better answers to your most complicated questions\n   https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/\n   TechCrunch covers the same Gemini 4 Hydrogen launch from the angle of Google's search upgrade, specifically its 'AI Mode' feature. The report notes that the new model is better at understanding complicated queries, pointing users to relevant web links, and presenting answers with richer visual elements. This reflects a broader shift in how people find information online, moving from simple keyword searches toward conversational, AI-assisted responses. For non-technical staff, the key takeaway is that familiar tools such as Google Search are steadily incorporating more advanced AI, often without requiring any new skills to use. Being aware of these changes helps staff understand how information is increasingly curated and summarised by AI systems.\n   (TechCrunch — AI · 12 Nov 2026)\n\n4. Gilbert + Tobin rethinks the business of law with AI\n   https://openai.com/index/gilbert-tobin-sam-nickless\n   OpenAI has published a conversation with Sam Nickless, Partner and Chief Executive Officer at the Australian law firm Gilbert + Tobin, about how the firm is using AI to rethink the way legal work is done. The discussion highlights a practical example of a professional-services organisation adopting AI tools to improve efficiency and reshape traditional ways of working. Law is a knowledge-intensive field, so its experiences offer useful lessons for how AI can support skilled professionals rather than simply replace them. For Tamkeen, this case is relevant to workforce development, as it illustrates how established professions are adapting their skills and roles in response to new technology. It also underscores the growing importance of helping employees learn to work alongside AI tools.\n   (OpenAI · 12 Nov 2026)\n\n5. AlphaGenome 2: Deciphering how cells read DNA to better understand disease\n   https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/\n   Google DeepMind has introduced AlphaGenome 2, a research tool that predicts how DNA sequences and their variations affect specific human cell types and may contribute to disease. The system aims to help scientists better understand how cells 'read' DNA, which could support medical research into the causes of illness. This is a specialised scientific application rather than a consumer product, and it continues a line of DeepMind work applying AI to biology and health. While not directly tied to education or public administration, it demonstrates the wider potential of AI to advance knowledge in fields such as healthcare and life sciences. For Tamkeen staff, it serves as a reminder that AI's impact extends well beyond chatbots into areas with long-term societal benefit.\n   (Google DeepMind · 11 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 13 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we focus on a major new Google model and the practical ways it is changing everyday tools like search, alongside real-world examples of how organisations are adopting AI to transform their work. We close with a look at how AI is advancing medical research, offering a glimpse of the broader benefits these technologies may bring.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Introducing Gemini 4 Hydrogen](https://deepmind.google/blog/introducing-gemini-4-hydrogen/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has announced Gemini 4 Hydrogen, the latest version of its flagship AI model. According to the company, this release improves the model's ability to understand and respond to complicated requests, breaking them into parts and addressing each one more carefully. Gemini 4 Hydrogen is being rolled out across Google's products, including its search engine and the standalone Gemini app, meaning many everyday users will encounter it directly. For an organisation like Tamkeen, frontier model releases like this matter because they shape the tools that staff, educators, and the public increasingly rely on. Understanding the pace of these updates helps us plan how such capabilities might support learning and workforce development over time.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 12 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Google’s new Gemini model is better at understanding complicated questions](https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge reports that Google's new Gemini 4 Hydrogen model is designed to give more helpful answers to complex questions, including those with several parts, difficult typos, or very specific requirements. The model can now break a question down into its components and respond to each element separately, rather than giving a single general answer. This feature is available immediately across Google Search, the Gemini app, and all paid and free tiers of Google's services. The practical effect is that people asking detailed or messy questions should get clearer, more complete responses. This is relevant for education and training contexts, where learners often pose layered or imperfectly worded questions and benefit from thorough, well-structured answers.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 13 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch covers the same Gemini 4 Hydrogen launch from the angle of Google's search upgrade, specifically its 'AI Mode' feature. The report notes that the new model is better at understanding complicated queries, pointing users to relevant web links, and presenting answers with richer visual elements. This reflects a broader shift in how people find information online, moving from simple keyword searches toward conversational, AI-assisted responses. For non-technical staff, the key takeaway is that familiar tools such as Google Search are steadily incorporating more advanced AI, often without requiring any new skills to use. Being aware of these changes helps staff understand how information is increasingly curated and summarised by AI systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 12 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI has published a conversation with Sam Nickless, Partner and Chief Executive Officer at the Australian law firm Gilbert + Tobin, about how the firm is using AI to rethink the way legal work is done. The discussion highlights a practical example of a professional-services organisation adopting AI tools to improve efficiency and reshape traditional ways of working. Law is a knowledge-intensive field, so its experiences offer useful lessons for how AI can support skilled professionals rather than simply replace them. For Tamkeen, this case is relevant to workforce development, as it illustrates how established professions are adapting their skills and roles in response to new technology. It also underscores the growing importance of helping employees learn to work alongside AI tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 12 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. AlphaGenome 2: Deciphering how cells read DNA to better understand disease](https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind has introduced AlphaGenome 2, a research tool that predicts how DNA sequences and their variations affect specific human cell types and may contribute to disease. The system aims to help scientists better understand how cells 'read' DNA, which could support medical research into the causes of illness. This is a specialised scientific application rather than a consumer product, and it continues a line of DeepMind work applying AI to biology and health. While not directly tied to education or public administration, it demonstrates the wider potential of AI to advance knowledge in fields such as healthcare and life sciences. For Tamkeen staff, it serves as a reminder that AI's impact extends well beyond chatbots into areas with long-term societal benefit.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 11 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 13 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we focus on a major new Google model and the practical ways it is changing everyday tools like search, alongside real-world examples of how organisations are adopting AI to transform their work. We close with a look at how AI is advancing medical research, offering a glimpse of the broader benefits these technologies may bring.\n\n1. Introducing Gemini 4 Hydrogen\n   https://deepmind.google/blog/introducing-gemini-4-hydrogen/\n   Google DeepMind has announced Gemini 4 Hydrogen, the latest version of its flagship AI model. According to the company, this release improves the model's ability to understand and respond to complicated requests, breaking them into parts and addressing each one more carefully. Gemini 4 Hydrogen is being rolled out across Google's products, including its search engine and the standalone Gemini app, meaning many everyday users will encounter it directly. For an organisation like Tamkeen, frontier model releases like this matter because they shape the tools that staff, educators, and the public increasingly rely on. Understanding the pace of these updates helps us plan how such capabilities might support learning and workforce development over time.\n   (Google DeepMind · 12 Nov 2026)\n\n2. Google’s new Gemini model is better at understanding complicated questions\n   https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen\n   The Verge reports that Google's new Gemini 4 Hydrogen model is designed to give more helpful answers to complex questions, including those with several parts, difficult typos, or very specific requirements. The model can now break a question down into its components and respond to each element separately, rather than giving a single general answer. This feature is available immediately across Google Search, the Gemini app, and all paid and free tiers of Google's services. The practical effect is that people asking detailed or messy questions should get clearer, more complete responses. This is relevant for education and training contexts, where learners often pose layered or imperfectly worded questions and benefit from thorough, well-structured answers.\n   (The Verge — AI · 13 Nov 2026)\n\n3. Google’s latest Search upgrade promises better answers to your most complicated questions\n   https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/\n   TechCrunch covers the same Gemini 4 Hydrogen launch from the angle of Google's search upgrade, specifically its 'AI Mode' feature. The report notes that the new model is better at understanding complicated queries, pointing users to relevant web links, and presenting answers with richer visual elements. This reflects a broader shift in how people find information online, moving from simple keyword searches toward conversational, AI-assisted responses. For non-technical staff, the key takeaway is that familiar tools such as Google Search are steadily incorporating more advanced AI, often without requiring any new skills to use. Being aware of these changes helps staff understand how information is increasingly curated and summarised by AI systems.\n   (TechCrunch — AI · 12 Nov 2026)\n\n4. Gilbert + Tobin rethinks the business of law with AI\n   https://openai.com/index/gilbert-tobin-sam-nickless\n   OpenAI has published a conversation with Sam Nickless, Partner and Chief Executive Officer at the Australian law firm Gilbert + Tobin, about how the firm is using AI to rethink the way legal work is done. The discussion highlights a practical example of a professional-services organisation adopting AI tools to improve efficiency and reshape traditional ways of working. Law is a knowledge-intensive field, so its experiences offer useful lessons for how AI can support skilled professionals rather than simply replace them. For Tamkeen, this case is relevant to workforce development, as it illustrates how established professions are adapting their skills and roles in response to new technology. It also underscores the growing importance of helping employees learn to work alongside AI tools.\n   (OpenAI · 12 Nov 2026)\n\n5. AlphaGenome 2: Deciphering how cells read DNA to better understand disease\n   https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/\n   Google DeepMind has introduced AlphaGenome 2, a research tool that predicts how DNA sequences and their variations affect specific human cell types and may contribute to disease. The system aims to help scientists better understand how cells 'read' DNA, which could support medical research into the causes of illness. This is a specialised scientific application rather than a consumer product, and it continues a line of DeepMind work applying AI to biology and health. While not directly tied to education or public administration, it demonstrates the wider potential of AI to advance knowledge in fields such as healthcare and life sciences. For Tamkeen staff, it serves as a reminder that AI's impact extends well beyond chatbots into areas with long-term societal benefit.\n   (Google DeepMind · 11 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
