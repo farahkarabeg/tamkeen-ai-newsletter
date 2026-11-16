@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-16",
+  "generated_at_iso": "2026-11-16T15:57:00.583617+00:00",
+  "date_range_label": "16 November 2026",
+  "subtitle": "Monday, 16 November 2026",
+  "editor_note": "Welcome to this edition, where our focus falls firmly on building AI skills for people and organisations — from a major youth-training partnership in the UK to small-business upskilling efforts in Singapore. We also track the fast-moving world of AI governance, including fresh debates over who should be trusted to lead AI companies and tightening international rules on the advanced chips that power the technology. Together these stories highlight both the human-capital opportunities and the policy questions shaping the global AI landscape.",
+  "items": [
+    {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-16T00:00:00+00:00",
+      "summary": "The King's Trust, a UK charity that supports young people, has partnered with OpenAI in a £1 million (roughly AED 4.6 million) initiative to help up to 25,000 young people across the United Kingdom gain practical AI skills for the workplace. The programme aims to equip participants with hands-on experience using AI tools, improving their readiness for jobs in an economy increasingly shaped by the technology. It reflects a growing trend of leading AI companies working directly with education and youth organisations to close skills gaps. For an institution like Tamkeen, focused on human-capital and workforce development, this is a notable example of how public-interest bodies and technology firms can collaborate to prepare young people for the future of work. It also signals that AI literacy is becoming a core employability skill rather than a specialist niche.",
+      "why_it_matters": "",
+      "relevance": 10
+    },
+    {
+      "title": "94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed",
+      "url": "https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/",
+      "source_name": "Meta (Newsroom)",
+      "published_iso": "2026-11-16T06:25:27+00:00",
+      "summary": "At Meta's Upskill Day 2026 in Singapore, part of its Small Business Growth Academy, more than 180 small-business owners, local merchants and creator-entrepreneurs gathered to learn how to use AI in their work, with a senior government minister attending as guest of honour. A survey tied to the event found that 94 percent of the small-business owners polled said they need more guidance on how to use AI effectively. The finding highlights a common challenge: while interest in AI is high, many smaller organisations lack the knowledge and support to adopt it confidently. The event underlines the important role that structured training programmes and public-private partnerships can play in building practical skills. For Tamkeen, it is a useful reminder that demand for clear, accessible AI guidance is strong, especially among smaller employers who form a large part of any workforce.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-15T19:15:43+00:00",
+      "summary": "Members of the United States Congress are pushing to tighten rules on exporting advanced AI chips, following a scandal involving Nvidia's former chief executive, Jensen Huang, and a suspected Chinese spy. Lawmakers from both major parties have expressed support for new measures and bills to restrict these exports, and have called for Huang and other Nvidia leaders to testify before Congress. Advanced AI chips are the specialised hardware needed to build and run powerful AI systems, making control over them a matter of national security and economic competition. The episode shows how deeply intertwined AI has become with geopolitics and trade policy. For government institutions worldwide, including those in the Gulf, such restrictions can affect access to the computing power required for AI ambitions.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-14T15:00:00+00:00",
+      "summary": "In a podcast interview, Helen Toner — a well-known figure in AI safety and policy who now directs a research centre at Georgetown University — argued that the public still cannot simply trust the leaders of AI companies to act in everyone's best interest. Toner is perhaps best known for her time on OpenAI's board, during which the board briefly removed chief executive Sam Altman before he was reinstated. Drawing on that experience, she stressed the need for independent oversight and strong governance rather than relying on the goodwill of individual executives. Her comments add to an ongoing debate about how AI companies should be held accountable and who should set the rules. For public-sector bodies, the discussion reinforces why clear governance frameworks and independent scrutiny matter as AI becomes more influential.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-16T15:02:34+00:00",
+      "summary": "The United States has introduced new interim rules requiring companies to obtain licences before exporting advanced AI chips if those chips might give China or other restricted countries access to computing power, even remotely. The measure specifically targets a workaround in which organisations could tap into powerful AI systems over the internet without physically importing the hardware. This closes a gap in earlier export controls and reflects Washington's determination to limit rival nations' access to cutting-edge AI capabilities. Because AI increasingly depends on large amounts of computing power, controlling access to it has become a key lever in international policy. For countries pursuing their own AI strategies, including those in the Gulf, such rules are an important reminder that the global supply of AI infrastructure is subject to shifting regulations.",
+      "why_it_matters": "",
+      "relevance": 5
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 16 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where our focus falls firmly on building AI skills for people and organisations — from a major youth-training partnership in the UK to small-business upskilling efforts in Singapore. We also track the fast-moving world of AI governance, including fresh debates over who should be trusted to lead AI companies and tightening international rules on the advanced chips that power the technology. Together these stories highlight both the human-capital opportunities and the policy questions shaping the global AI landscape.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The King’s Trust and OpenAI launch £1m partnership](https://openai.com/index/the-kings-trust-and-openai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The King's Trust, a UK charity that supports young people, has partnered with OpenAI in a £1 million (roughly AED 4.6 million) initiative to help up to 25,000 young people across the United Kingdom gain practical AI skills for the workplace. The programme aims to equip participants with hands-on experience using AI tools, improving their readiness for jobs in an economy increasingly shaped by the technology. It reflects a growing trend of leading AI companies working directly with education and youth organisations to close skills gaps. For an institution like Tamkeen, focused on human-capital and workforce development, this is a notable example of how public-interest bodies and technology firms can collaborate to prepare young people for the future of work. It also signals that AI literacy is becoming a core employability skill rather than a specialist niche.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed](https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "At Meta's Upskill Day 2026 in Singapore, part of its Small Business Growth Academy, more than 180 small-business owners, local merchants and creator-entrepreneurs gathered to learn how to use AI in their work, with a senior government minister attending as guest of honour. A survey tied to the event found that 94 percent of the small-business owners polled said they need more guidance on how to use AI effectively. The finding highlights a common challenge: while interest in AI is high, many smaller organisations lack the knowledge and support to adopt it confidently. The event underlines the important role that structured training programmes and public-private partnerships can play in building practical skills. For Tamkeen, it is a useful reminder that demand for clear, accessible AI guidance is strong, especially among smaller employers who form a large part of any workforce.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 16 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Members of the United States Congress are pushing to tighten rules on exporting advanced AI chips, following a scandal involving Nvidia's former chief executive, Jensen Huang, and a suspected Chinese spy. Lawmakers from both major parties have expressed support for new measures and bills to restrict these exports, and have called for Huang and other Nvidia leaders to testify before Congress. Advanced AI chips are the specialised hardware needed to build and run powerful AI systems, making control over them a matter of national security and economic competition. The episode shows how deeply intertwined AI has become with geopolitics and trade policy. For government institutions worldwide, including those in the Gulf, such restrictions can affect access to the computing power required for AI ambitions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a podcast interview, Helen Toner — a well-known figure in AI safety and policy who now directs a research centre at Georgetown University — argued that the public still cannot simply trust the leaders of AI companies to act in everyone's best interest. Toner is perhaps best known for her time on OpenAI's board, during which the board briefly removed chief executive Sam Altman before he was reinstated. Drawing on that experience, she stressed the need for independent oversight and strong governance rather than relying on the goodwill of individual executives. Her comments add to an ongoing debate about how AI companies should be held accountable and who should set the rules. For public-sector bodies, the discussion reinforces why clear governance frameworks and independent scrutiny matter as AI becomes more influential.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 14 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. US tightens AI chip export controls to deter Chinese companies from accessing compute remotely](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The United States has introduced new interim rules requiring companies to obtain licences before exporting advanced AI chips if those chips might give China or other restricted countries access to computing power, even remotely. The measure specifically targets a workaround in which organisations could tap into powerful AI systems over the internet without physically importing the hardware. This closes a gap in earlier export controls and reflects Washington's determination to limit rival nations' access to cutting-edge AI capabilities. Because AI increasingly depends on large amounts of computing power, controlling access to it has become a key lever in international policy. For countries pursuing their own AI strategies, including those in the Gulf, such rules are an important reminder that the global supply of AI infrastructure is subject to shifting regulations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 16 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 16 November 2026\n============================================================\nWelcome to this edition, where our focus falls firmly on building AI skills for people and organisations — from a major youth-training partnership in the UK to small-business upskilling efforts in Singapore. We also track the fast-moving world of AI governance, including fresh debates over who should be trusted to lead AI companies and tightening international rules on the advanced chips that power the technology. Together these stories highlight both the human-capital opportunities and the policy questions shaping the global AI landscape.\n\n1. The King’s Trust and OpenAI launch £1m partnership\n   https://openai.com/index/the-kings-trust-and-openai\n   The King's Trust, a UK charity that supports young people, has partnered with OpenAI in a £1 million (roughly AED 4.6 million) initiative to help up to 25,000 young people across the United Kingdom gain practical AI skills for the workplace. The programme aims to equip participants with hands-on experience using AI tools, improving their readiness for jobs in an economy increasingly shaped by the technology. It reflects a growing trend of leading AI companies working directly with education and youth organisations to close skills gaps. For an institution like Tamkeen, focused on human-capital and workforce development, this is a notable example of how public-interest bodies and technology firms can collaborate to prepare young people for the future of work. It also signals that AI literacy is becoming a core employability skill rather than a specialist niche.\n   (OpenAI · 16 Nov 2026)\n\n2. 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed\n   https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/\n   At Meta's Upskill Day 2026 in Singapore, part of its Small Business Growth Academy, more than 180 small-business owners, local merchants and creator-entrepreneurs gathered to learn how to use AI in their work, with a senior government minister attending as guest of honour. A survey tied to the event found that 94 percent of the small-business owners polled said they need more guidance on how to use AI effectively. The finding highlights a common challenge: while interest in AI is high, many smaller organisations lack the knowledge and support to adopt it confidently. The event underlines the important role that structured training programmes and public-private partnerships can play in building practical skills. For Tamkeen, it is a useful reminder that demand for clear, accessible AI guidance is strong, especially among smaller employers who form a large part of any workforce.\n   (Meta (Newsroom) · 16 Nov 2026)\n\n3. Congress wants to tighten export rules on AI chips after Nvidia spy scandal\n   https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china\n   Members of the United States Congress are pushing to tighten rules on exporting advanced AI chips, following a scandal involving Nvidia's former chief executive, Jensen Huang, and a suspected Chinese spy. Lawmakers from both major parties have expressed support for new measures and bills to restrict these exports, and have called for Huang and other Nvidia leaders to testify before Congress. Advanced AI chips are the specialised hardware needed to build and run powerful AI systems, making control over them a matter of national security and economic competition. The episode shows how deeply intertwined AI has become with geopolitics and trade policy. For government institutions worldwide, including those in the Gulf, such restrictions can affect access to the computing power required for AI ambitions.\n   (The Verge — AI · 15 Nov 2026)\n\n4. The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs\n   https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview\n   In a podcast interview, Helen Toner — a well-known figure in AI safety and policy who now directs a research centre at Georgetown University — argued that the public still cannot simply trust the leaders of AI companies to act in everyone's best interest. Toner is perhaps best known for her time on OpenAI's board, during which the board briefly removed chief executive Sam Altman before he was reinstated. Drawing on that experience, she stressed the need for independent oversight and strong governance rather than relying on the goodwill of individual executives. Her comments add to an ongoing debate about how AI companies should be held accountable and who should set the rules. For public-sector bodies, the discussion reinforces why clear governance frameworks and independent scrutiny matter as AI becomes more influential.\n   (The Verge — AI · 14 Nov 2026)\n\n5. US tightens AI chip export controls to deter Chinese companies from accessing compute remotely\n   https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/\n   The United States has introduced new interim rules requiring companies to obtain licences before exporting advanced AI chips if those chips might give China or other restricted countries access to computing power, even remotely. The measure specifically targets a workaround in which organisations could tap into powerful AI systems over the internet without physically importing the hardware. This closes a gap in earlier export controls and reflects Washington's determination to limit rival nations' access to cutting-edge AI capabilities. Because AI increasingly depends on large amounts of computing power, controlling access to it has become a key lever in international policy. For countries pursuing their own AI strategies, including those in the Gulf, such rules are an important reminder that the global supply of AI infrastructure is subject to shifting regulations.\n   (TechCrunch — AI · 16 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 16 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition, where our focus falls firmly on building AI skills for people and organisations — from a major youth-training partnership in the UK to small-business upskilling efforts in Singapore. We also track the fast-moving world of AI governance, including fresh debates over who should be trusted to lead AI companies and tightening international rules on the advanced chips that power the technology. Together these stories highlight both the human-capital opportunities and the policy questions shaping the global AI landscape.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The King’s Trust and OpenAI launch £1m partnership](https://openai.com/index/the-kings-trust-and-openai)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The King's Trust, a UK charity that supports young people, has partnered with OpenAI in a £1 million (roughly AED 4.6 million) initiative to help up to 25,000 young people across the United Kingdom gain practical AI skills for the workplace. The programme aims to equip participants with hands-on experience using AI tools, improving their readiness for jobs in an economy increasingly shaped by the technology. It reflects a growing trend of leading AI companies working directly with education and youth organisations to close skills gaps. For an institution like Tamkeen, focused on human-capital and workforce development, this is a notable example of how public-interest bodies and technology firms can collaborate to prepare young people for the future of work. It also signals that AI literacy is becoming a core employability skill rather than a specialist niche.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 16 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed](https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "At Meta's Upskill Day 2026 in Singapore, part of its Small Business Growth Academy, more than 180 small-business owners, local merchants and creator-entrepreneurs gathered to learn how to use AI in their work, with a senior government minister attending as guest of honour. A survey tied to the event found that 94 percent of the small-business owners polled said they need more guidance on how to use AI effectively. The finding highlights a common challenge: while interest in AI is high, many smaller organisations lack the knowledge and support to adopt it confidently. The event underlines the important role that structured training programmes and public-private partnerships can play in building practical skills. For Tamkeen, it is a useful reminder that demand for clear, accessible AI guidance is strong, especially among smaller employers who form a large part of any workforce.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 16 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Congress wants to tighten export rules on AI chips after Nvidia spy scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Members of the United States Congress are pushing to tighten rules on exporting advanced AI chips, following a scandal involving Nvidia's former chief executive, Jensen Huang, and a suspected Chinese spy. Lawmakers from both major parties have expressed support for new measures and bills to restrict these exports, and have called for Huang and other Nvidia leaders to testify before Congress. Advanced AI chips are the specialised hardware needed to build and run powerful AI systems, making control over them a matter of national security and economic competition. The episode shows how deeply intertwined AI has become with geopolitics and trade policy. For government institutions worldwide, including those in the Gulf, such restrictions can affect access to the computing power required for AI ambitions.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 15 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In a podcast interview, Helen Toner — a well-known figure in AI safety and policy who now directs a research centre at Georgetown University — argued that the public still cannot simply trust the leaders of AI companies to act in everyone's best interest. Toner is perhaps best known for her time on OpenAI's board, during which the board briefly removed chief executive Sam Altman before he was reinstated. Drawing on that experience, she stressed the need for independent oversight and strong governance rather than relying on the goodwill of individual executives. Her comments add to an ongoing debate about how AI companies should be held accountable and who should set the rules. For public-sector bodies, the discussion reinforces why clear governance frameworks and independent scrutiny matter as AI becomes more influential.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 14 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. US tightens AI chip export controls to deter Chinese companies from accessing compute remotely](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The United States has introduced new interim rules requiring companies to obtain licences before exporting advanced AI chips if those chips might give China or other restricted countries access to computing power, even remotely. The measure specifically targets a workaround in which organisations could tap into powerful AI systems over the internet without physically importing the hardware. This closes a gap in earlier export controls and reflects Washington's determination to limit rival nations' access to cutting-edge AI capabilities. Because AI increasingly depends on large amounts of computing power, controlling access to it has become a key lever in international policy. For countries pursuing their own AI strategies, including those in the Gulf, such rules are an important reminder that the global supply of AI infrastructure is subject to shifting regulations.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 16 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 16 November 2026\n============================================================\nWelcome to this edition, where our focus falls firmly on building AI skills for people and organisations — from a major youth-training partnership in the UK to small-business upskilling efforts in Singapore. We also track the fast-moving world of AI governance, including fresh debates over who should be trusted to lead AI companies and tightening international rules on the advanced chips that power the technology. Together these stories highlight both the human-capital opportunities and the policy questions shaping the global AI landscape.\n\n1. The King’s Trust and OpenAI launch £1m partnership\n   https://openai.com/index/the-kings-trust-and-openai\n   The King's Trust, a UK charity that supports young people, has partnered with OpenAI in a £1 million (roughly AED 4.6 million) initiative to help up to 25,000 young people across the United Kingdom gain practical AI skills for the workplace. The programme aims to equip participants with hands-on experience using AI tools, improving their readiness for jobs in an economy increasingly shaped by the technology. It reflects a growing trend of leading AI companies working directly with education and youth organisations to close skills gaps. For an institution like Tamkeen, focused on human-capital and workforce development, this is a notable example of how public-interest bodies and technology firms can collaborate to prepare young people for the future of work. It also signals that AI literacy is becoming a core employability skill rather than a specialist niche.\n   (OpenAI · 16 Nov 2026)\n\n2. 94% of Singapore Small Business Owners Surveyed Say More AI Guidance Is Needed\n   https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/\n   At Meta's Upskill Day 2026 in Singapore, part of its Small Business Growth Academy, more than 180 small-business owners, local merchants and creator-entrepreneurs gathered to learn how to use AI in their work, with a senior government minister attending as guest of honour. A survey tied to the event found that 94 percent of the small-business owners polled said they need more guidance on how to use AI effectively. The finding highlights a common challenge: while interest in AI is high, many smaller organisations lack the knowledge and support to adopt it confidently. The event underlines the important role that structured training programmes and public-private partnerships can play in building practical skills. For Tamkeen, it is a useful reminder that demand for clear, accessible AI guidance is strong, especially among smaller employers who form a large part of any workforce.\n   (Meta (Newsroom) · 16 Nov 2026)\n\n3. Congress wants to tighten export rules on AI chips after Nvidia spy scandal\n   https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china\n   Members of the United States Congress are pushing to tighten rules on exporting advanced AI chips, following a scandal involving Nvidia's former chief executive, Jensen Huang, and a suspected Chinese spy. Lawmakers from both major parties have expressed support for new measures and bills to restrict these exports, and have called for Huang and other Nvidia leaders to testify before Congress. Advanced AI chips are the specialised hardware needed to build and run powerful AI systems, making control over them a matter of national security and economic competition. The episode shows how deeply intertwined AI has become with geopolitics and trade policy. For government institutions worldwide, including those in the Gulf, such restrictions can affect access to the computing power required for AI ambitions.\n   (The Verge — AI · 15 Nov 2026)\n\n4. The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs\n   https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview\n   In a podcast interview, Helen Toner — a well-known figure in AI safety and policy who now directs a research centre at Georgetown University — argued that the public still cannot simply trust the leaders of AI companies to act in everyone's best interest. Toner is perhaps best known for her time on OpenAI's board, during which the board briefly removed chief executive Sam Altman before he was reinstated. Drawing on that experience, she stressed the need for independent oversight and strong governance rather than relying on the goodwill of individual executives. Her comments add to an ongoing debate about how AI companies should be held accountable and who should set the rules. For public-sector bodies, the discussion reinforces why clear governance frameworks and independent scrutiny matter as AI becomes more influential.\n   (The Verge — AI · 14 Nov 2026)\n\n5. US tightens AI chip export controls to deter Chinese companies from accessing compute remotely\n   https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/\n   The United States has introduced new interim rules requiring companies to obtain licences before exporting advanced AI chips if those chips might give China or other restricted countries access to computing power, even remotely. The measure specifically targets a workaround in which organisations could tap into powerful AI systems over the internet without physically importing the hardware. This closes a gap in earlier export controls and reflects Washington's determination to limit rival nations' access to cutting-edge AI capabilities. Because AI increasingly depends on large amounts of computing power, controlling access to it has become a key lever in international policy. For countries pursuing their own AI strategies, including those in the Gulf, such rules are an important reminder that the global supply of AI infrastructure is subject to shifting regulations.\n   (TechCrunch — AI · 16 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
