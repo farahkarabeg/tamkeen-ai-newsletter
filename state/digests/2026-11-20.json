@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-20",
+  "generated_at_iso": "2026-11-20T15:33:30.386168+00:00",
+  "date_range_label": "20 November 2026",
+  "subtitle": "Friday, 20 November 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week we look at how AI tools are increasingly being used to accelerate research and technical work, how leading developers are balancing speed with caution, and what real-world adoption looks like inside large organisations. These themes connect directly to our focus on workforce development and responsible public-sector use of new technology.",
+  "items": [
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-18T08:00:00+00:00",
+      "summary": "OpenAI published research examining how AI 'coding agents' — software tools that can write and test computer code with limited human help — are speeding up its own AI research work. The company found that these tools perform unevenly: they are strong at some tasks and noticeably weaker at others, which OpenAI describes as a 'jagged frontier' of capability. This matters because it offers an honest, measured picture of what AI can and cannot yet do, rather than assuming steady progress across the board. The report also touches on 'recursive self-improvement', the idea that AI systems could eventually help build better AI systems, which raises important questions for planning and oversight. For a non-technical reader, the key takeaway is that AI is becoming a genuine productivity tool in highly skilled fields, but its reliability still varies from task to task. This reinforces why human judgement and verification remain essential when adopting such tools.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source_name": "Google DeepMind",
+      "published_iso": "2026-11-18T18:13:42+00:00",
+      "summary": "Google DeepMind announced the availability of Genie 4, the latest version of its system for generating interactive, playable environments from simple inputs such as text or images. Unlike tools that produce a static picture or video, Genie creates spaces that a person can move through and interact with, which has potential uses in simulation, design and training scenarios. The announcement positions the technology as a step toward richer 'world models' that can represent how environments behave over time. For education and workforce development, tools like this could eventually support immersive training simulations without the cost of building them manually. It remains early-stage, and practical, affordable applications will take time to emerge. Still, it signals the direction in which interactive, AI-generated learning and design environments are heading.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-19T16:19:41+00:00",
+      "summary": "During a speech at the Nasdaq opening bell, Anthropic CEO Dario Amodei restated his company's commitment to developing AI at a deliberate, measured pace. He emphasised that Anthropic would maintain its safety-focused approach regardless of commercial competition or political pressure to move faster. This is notable because Anthropic is one of the leading AI developers, and public commitments from its leadership shape expectations across the industry. For public-sector audiences, the message underlines an ongoing debate about how to balance rapid innovation against careful, responsible deployment. It also reflects a broader recognition that trust, safety and governance are becoming central to how AI companies present themselves. The remarks are a reminder that responsible pacing is now a visible part of industry discourse, not just a regulatory concern.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-18T08:00:00+00:00",
+      "summary": "OpenAI shared a case study describing how Sumitomo Life, a large Japanese insurer, adopted ChatGPT Enterprise across its teams. Staff use the tool to research other insurers, prepare proposals and draft code for investment analysis, speeding up routine knowledge work. A key detail is that early, visible use by senior executives helped encourage wider adoption among employees, showing the importance of leadership example in driving change. This is a practical illustration of how organisations move from experimenting with AI to embedding it in daily tasks. For institutions focused on human capital, it highlights that successful adoption depends as much on culture and leadership as on the technology itself. The example offers useful lessons for any organisation planning structured, supported rollout of AI tools.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-18T00:00:00+00:00",
+      "summary": "OpenAI described how its models were used to assist in designing computer chips, including optimising electronic circuits for 'Jalapeño' silicon and improving RISC-V processor core designs. According to the company, this work used a model it refers to as GPT-6 Astra, pointing to growing capability in highly technical engineering domains. Chip design is a complex, specialised field, so AI assistance here suggests these tools are moving beyond text and into advanced scientific and industrial applications. For a non-technical reader, the significance is that AI is increasingly contributing to the foundational hardware that powers modern technology. This kind of progress could influence future workforce needs, as engineers learn to work alongside AI tools. It also illustrates how AI capabilities continue to expand into areas once considered purely the domain of human experts.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 20 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how AI tools are increasingly being used to accelerate research and technical work, how leading developers are balancing speed with caution, and what real-world adoption looks like inside large organisations. These themes connect directly to our focus on workforce development and responsible public-sector use of new technology.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI published research examining how AI 'coding agents' — software tools that can write and test computer code with limited human help — are speeding up its own AI research work. The company found that these tools perform unevenly: they are strong at some tasks and noticeably weaker at others, which OpenAI describes as a 'jagged frontier' of capability. This matters because it offers an honest, measured picture of what AI can and cannot yet do, rather than assuming steady progress across the board. The report also touches on 'recursive self-improvement', the idea that AI systems could eventually help build better AI systems, which raises important questions for planning and oversight. For a non-technical reader, the key takeaway is that AI is becoming a genuine productivity tool in highly skilled fields, but its reliability still varies from task to task. This reinforces why human judgement and verification remain essential when adopting such tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind announced the availability of Genie 4, the latest version of its system for generating interactive, playable environments from simple inputs such as text or images. Unlike tools that produce a static picture or video, Genie creates spaces that a person can move through and interact with, which has potential uses in simulation, design and training scenarios. The announcement positions the technology as a step toward richer 'world models' that can represent how environments behave over time. For education and workforce development, tools like this could eventually support immersive training simulations without the cost of building them manually. It remains early-stage, and practical, affordable applications will take time to emerge. Still, it signals the direction in which interactive, AI-generated learning and design environments are heading.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 18 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "During a speech at the Nasdaq opening bell, Anthropic CEO Dario Amodei restated his company's commitment to developing AI at a deliberate, measured pace. He emphasised that Anthropic would maintain its safety-focused approach regardless of commercial competition or political pressure to move faster. This is notable because Anthropic is one of the leading AI developers, and public commitments from its leadership shape expectations across the industry. For public-sector audiences, the message underlines an ongoing debate about how to balance rapid innovation against careful, responsible deployment. It also reflects a broader recognition that trust, safety and governance are becoming central to how AI companies present themselves. The remarks are a reminder that responsible pacing is now a visible part of industry discourse, not just a regulatory concern.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 19 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI shared a case study describing how Sumitomo Life, a large Japanese insurer, adopted ChatGPT Enterprise across its teams. Staff use the tool to research other insurers, prepare proposals and draft code for investment analysis, speeding up routine knowledge work. A key detail is that early, visible use by senior executives helped encourage wider adoption among employees, showing the importance of leadership example in driving change. This is a practical illustration of how organisations move from experimenting with AI to embedding it in daily tasks. For institutions focused on human capital, it highlights that successful adoption depends as much on culture and leadership as on the technology itself. The example offers useful lessons for any organisation planning structured, supported rollout of AI tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI described how its models were used to assist in designing computer chips, including optimising electronic circuits for 'Jalapeño' silicon and improving RISC-V processor core designs. According to the company, this work used a model it refers to as GPT-6 Astra, pointing to growing capability in highly technical engineering domains. Chip design is a complex, specialised field, so AI assistance here suggests these tools are moving beyond text and into advanced scientific and industrial applications. For a non-technical reader, the significance is that AI is increasingly contributing to the foundational hardware that powers modern technology. This kind of progress could influence future workforce needs, as engineers learn to work alongside AI tools. It also illustrates how AI capabilities continue to expand into areas once considered purely the domain of human experts.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 20 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how AI tools are increasingly being used to accelerate research and technical work, how leading developers are balancing speed with caution, and what real-world adoption looks like inside large organisations. These themes connect directly to our focus on workforce development and responsible public-sector use of new technology.\n\n1. Research acceleration: The jagged frontier\n   https://openai.com/index/research-acceleration-jagged-frontier\n   OpenAI published research examining how AI 'coding agents' — software tools that can write and test computer code with limited human help — are speeding up its own AI research work. The company found that these tools perform unevenly: they are strong at some tasks and noticeably weaker at others, which OpenAI describes as a 'jagged frontier' of capability. This matters because it offers an honest, measured picture of what AI can and cannot yet do, rather than assuming steady progress across the board. The report also touches on 'recursive self-improvement', the idea that AI systems could eventually help build better AI systems, which raises important questions for planning and oversight. For a non-technical reader, the key takeaway is that AI is becoming a genuine productivity tool in highly skilled fields, but its reliability still varies from task to task. This reinforces why human judgement and verification remain essential when adopting such tools.\n   (OpenAI · 18 Nov 2026)\n\n2. Genie 4 is now available\n   https://deepmind.google/blog/genie-4-is-now-available/\n   Google DeepMind announced the availability of Genie 4, the latest version of its system for generating interactive, playable environments from simple inputs such as text or images. Unlike tools that produce a static picture or video, Genie creates spaces that a person can move through and interact with, which has potential uses in simulation, design and training scenarios. The announcement positions the technology as a step toward richer 'world models' that can represent how environments behave over time. For education and workforce development, tools like this could eventually support immersive training simulations without the cost of building them manually. It remains early-stage, and practical, affordable applications will take time to emerge. Still, it signals the direction in which interactive, AI-generated learning and design environments are heading.\n   (Google DeepMind · 18 Nov 2026)\n\n3. At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development\n   https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/\n   During a speech at the Nasdaq opening bell, Anthropic CEO Dario Amodei restated his company's commitment to developing AI at a deliberate, measured pace. He emphasised that Anthropic would maintain its safety-focused approach regardless of commercial competition or political pressure to move faster. This is notable because Anthropic is one of the leading AI developers, and public commitments from its leadership shape expectations across the industry. For public-sector audiences, the message underlines an ongoing debate about how to balance rapid innovation against careful, responsible deployment. It also reflects a broader recognition that trust, safety and governance are becoming central to how AI companies present themselves. The remarks are a reminder that responsible pacing is now a visible part of industry discourse, not just a regulatory concern.\n   (TechCrunch — AI · 19 Nov 2026)\n\n4. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise\n   https://openai.com/business/customer-stories/sumitomo-life\n   OpenAI shared a case study describing how Sumitomo Life, a large Japanese insurer, adopted ChatGPT Enterprise across its teams. Staff use the tool to research other insurers, prepare proposals and draft code for investment analysis, speeding up routine knowledge work. A key detail is that early, visible use by senior executives helped encourage wider adoption among employees, showing the importance of leadership example in driving change. This is a practical illustration of how organisations move from experimenting with AI to embedding it in daily tasks. For institutions focused on human capital, it highlights that successful adoption depends as much on culture and leadership as on the technology itself. The example offers useful lessons for any organisation planning structured, supported rollout of AI tools.\n   (OpenAI · 18 Nov 2026)\n\n5. Advancing chip design with OpenAI models\n   https://openai.com/index/advancing-chip-design-with-our-models\n   OpenAI described how its models were used to assist in designing computer chips, including optimising electronic circuits for 'Jalapeño' silicon and improving RISC-V processor core designs. According to the company, this work used a model it refers to as GPT-6 Astra, pointing to growing capability in highly technical engineering domains. Chip design is a complex, specialised field, so AI assistance here suggests these tools are moving beyond text and into advanced scientific and industrial applications. For a non-technical reader, the significance is that AI is increasingly contributing to the foundational hardware that powers modern technology. This kind of progress could influence future workforce needs, as engineers learn to work alongside AI tools. It also illustrates how AI capabilities continue to expand into areas once considered purely the domain of human experts.\n   (OpenAI · 18 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 20 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how AI tools are increasingly being used to accelerate research and technical work, how leading developers are balancing speed with caution, and what real-world adoption looks like inside large organisations. These themes connect directly to our focus on workforce development and responsible public-sector use of new technology.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI published research examining how AI 'coding agents' — software tools that can write and test computer code with limited human help — are speeding up its own AI research work. The company found that these tools perform unevenly: they are strong at some tasks and noticeably weaker at others, which OpenAI describes as a 'jagged frontier' of capability. This matters because it offers an honest, measured picture of what AI can and cannot yet do, rather than assuming steady progress across the board. The report also touches on 'recursive self-improvement', the idea that AI systems could eventually help build better AI systems, which raises important questions for planning and oversight. For a non-technical reader, the key takeaway is that AI is becoming a genuine productivity tool in highly skilled fields, but its reliability still varies from task to task. This reinforces why human judgement and verification remain essential when adopting such tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Genie 4 is now available](https://deepmind.google/blog/genie-4-is-now-available/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind announced the availability of Genie 4, the latest version of its system for generating interactive, playable environments from simple inputs such as text or images. Unlike tools that produce a static picture or video, Genie creates spaces that a person can move through and interact with, which has potential uses in simulation, design and training scenarios. The announcement positions the technology as a step toward richer 'world models' that can represent how environments behave over time. For education and workforce development, tools like this could eventually support immersive training simulations without the cost of building them manually. It remains early-stage, and practical, affordable applications will take time to emerge. Still, it signals the direction in which interactive, AI-generated learning and design environments are heading.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Google DeepMind · 18 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development](https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "During a speech at the Nasdaq opening bell, Anthropic CEO Dario Amodei restated his company's commitment to developing AI at a deliberate, measured pace. He emphasised that Anthropic would maintain its safety-focused approach regardless of commercial competition or political pressure to move faster. This is notable because Anthropic is one of the leading AI developers, and public commitments from its leadership shape expectations across the industry. For public-sector audiences, the message underlines an ongoing debate about how to balance rapid innovation against careful, responsible deployment. It also reflects a broader recognition that trust, safety and governance are becoming central to how AI companies present themselves. The remarks are a reminder that responsible pacing is now a visible part of industry discourse, not just a regulatory concern.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 19 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI shared a case study describing how Sumitomo Life, a large Japanese insurer, adopted ChatGPT Enterprise across its teams. Staff use the tool to research other insurers, prepare proposals and draft code for investment analysis, speeding up routine knowledge work. A key detail is that early, visible use by senior executives helped encourage wider adoption among employees, showing the importance of leadership example in driving change. This is a practical illustration of how organisations move from experimenting with AI to embedding it in daily tasks. For institutions focused on human capital, it highlights that successful adoption depends as much on culture and leadership as on the technology itself. The example offers useful lessons for any organisation planning structured, supported rollout of AI tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI described how its models were used to assist in designing computer chips, including optimising electronic circuits for 'Jalapeño' silicon and improving RISC-V processor core designs. According to the company, this work used a model it refers to as GPT-6 Astra, pointing to growing capability in highly technical engineering domains. Chip design is a complex, specialised field, so AI assistance here suggests these tools are moving beyond text and into advanced scientific and industrial applications. For a non-technical reader, the significance is that AI is increasingly contributing to the foundational hardware that powers modern technology. This kind of progress could influence future workforce needs, as engineers learn to work alongside AI tools. It also illustrates how AI capabilities continue to expand into areas once considered purely the domain of human experts.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 18 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 20 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how AI tools are increasingly being used to accelerate research and technical work, how leading developers are balancing speed with caution, and what real-world adoption looks like inside large organisations. These themes connect directly to our focus on workforce development and responsible public-sector use of new technology.\n\n1. Research acceleration: The jagged frontier\n   https://openai.com/index/research-acceleration-jagged-frontier\n   OpenAI published research examining how AI 'coding agents' — software tools that can write and test computer code with limited human help — are speeding up its own AI research work. The company found that these tools perform unevenly: they are strong at some tasks and noticeably weaker at others, which OpenAI describes as a 'jagged frontier' of capability. This matters because it offers an honest, measured picture of what AI can and cannot yet do, rather than assuming steady progress across the board. The report also touches on 'recursive self-improvement', the idea that AI systems could eventually help build better AI systems, which raises important questions for planning and oversight. For a non-technical reader, the key takeaway is that AI is becoming a genuine productivity tool in highly skilled fields, but its reliability still varies from task to task. This reinforces why human judgement and verification remain essential when adopting such tools.\n   (OpenAI · 18 Nov 2026)\n\n2. Genie 4 is now available\n   https://deepmind.google/blog/genie-4-is-now-available/\n   Google DeepMind announced the availability of Genie 4, the latest version of its system for generating interactive, playable environments from simple inputs such as text or images. Unlike tools that produce a static picture or video, Genie creates spaces that a person can move through and interact with, which has potential uses in simulation, design and training scenarios. The announcement positions the technology as a step toward richer 'world models' that can represent how environments behave over time. For education and workforce development, tools like this could eventually support immersive training simulations without the cost of building them manually. It remains early-stage, and practical, affordable applications will take time to emerge. Still, it signals the direction in which interactive, AI-generated learning and design environments are heading.\n   (Google DeepMind · 18 Nov 2026)\n\n3. At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development\n   https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/\n   During a speech at the Nasdaq opening bell, Anthropic CEO Dario Amodei restated his company's commitment to developing AI at a deliberate, measured pace. He emphasised that Anthropic would maintain its safety-focused approach regardless of commercial competition or political pressure to move faster. This is notable because Anthropic is one of the leading AI developers, and public commitments from its leadership shape expectations across the industry. For public-sector audiences, the message underlines an ongoing debate about how to balance rapid innovation against careful, responsible deployment. It also reflects a broader recognition that trust, safety and governance are becoming central to how AI companies present themselves. The remarks are a reminder that responsible pacing is now a visible part of industry discourse, not just a regulatory concern.\n   (TechCrunch — AI · 19 Nov 2026)\n\n4. How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise\n   https://openai.com/business/customer-stories/sumitomo-life\n   OpenAI shared a case study describing how Sumitomo Life, a large Japanese insurer, adopted ChatGPT Enterprise across its teams. Staff use the tool to research other insurers, prepare proposals and draft code for investment analysis, speeding up routine knowledge work. A key detail is that early, visible use by senior executives helped encourage wider adoption among employees, showing the importance of leadership example in driving change. This is a practical illustration of how organisations move from experimenting with AI to embedding it in daily tasks. For institutions focused on human capital, it highlights that successful adoption depends as much on culture and leadership as on the technology itself. The example offers useful lessons for any organisation planning structured, supported rollout of AI tools.\n   (OpenAI · 18 Nov 2026)\n\n5. Advancing chip design with OpenAI models\n   https://openai.com/index/advancing-chip-design-with-our-models\n   OpenAI described how its models were used to assist in designing computer chips, including optimising electronic circuits for 'Jalapeño' silicon and improving RISC-V processor core designs. According to the company, this work used a model it refers to as GPT-6 Astra, pointing to growing capability in highly technical engineering domains. Chip design is a complex, specialised field, so AI assistance here suggests these tools are moving beyond text and into advanced scientific and industrial applications. For a non-technical reader, the significance is that AI is increasingly contributing to the foundational hardware that powers modern technology. This kind of progress could influence future workforce needs, as engineers learn to work alongside AI tools. It also illustrates how AI capabilities continue to expand into areas once considered purely the domain of human experts.\n   (OpenAI · 18 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
