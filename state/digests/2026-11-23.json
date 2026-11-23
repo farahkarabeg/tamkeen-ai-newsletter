@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-23",
+  "generated_at_iso": "2026-11-23T18:20:38.022466+00:00",
+  "date_range_label": "23 November 2026",
+  "subtitle": "Monday, 23 November 2026",
+  "editor_note": "This edition looks at the ongoing international effort to set guardrails around artificial intelligence — from global talks on autonomous weapons to new ideas for measuring how fast AI is advancing. We also cover a major milestone as one of the leading AI labs enters the public markets, and a policy move that could reshape where AI infrastructure is built. Together, these stories show how questions of safety, governance, and economic strategy are becoming central to the AI conversation worldwide.",
+  "items": [
+    {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-21T20:03:37+00:00",
+      "summary": "Diplomats from around the world met in Geneva under the United Nations framework to discuss rules governing autonomous weapons — systems sometimes called 'killer robots' that can select and attack targets without direct human control. After a week of talks, representatives failed to reach any binding agreement and instead committed only to 'start discussing options' in the future. Many countries and campaigners had pushed for firm limits, arguing that decisions over life and death should not be left to machines, but consensus proved difficult to achieve. This matters because it illustrates how slow and challenging international cooperation on AI governance can be, even on high-stakes issues. For public-sector bodies thinking about responsible AI, it is a reminder that global rules often lag well behind the technology itself.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-22T21:14:07+00:00",
+      "summary": "OpenAI's chief scientist shared ideas on how the industry might set a kind of 'speed limit' on AI development to keep progress safe and manageable. A central point is that before you can agree to slow down or cap development, everyone first needs a shared, reliable way to measure how capable AI systems actually are. Without agreed measurements, discussions about limits become vague and hard to enforce. The remarks reflect a growing debate among AI leaders about balancing rapid innovation with caution. For non-specialists, the takeaway is that meaningful rules depend on first agreeing on common standards and definitions — a foundational step that is still being worked out.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-22T00:00:00+00:00",
+      "summary": "OpenAI published an explanation of 'perplexity,' a technical measure used to gauge how well an AI model predicts language and, by extension, how capable it is. The company argues that having clear, shared ways to measure AI progress could help developers across the industry evaluate new capabilities using a common yardstick. This connects directly to broader conversations about setting standards and limits on AI, since agreed measurements are needed before any rules can be applied consistently. While the concept itself is technical, the underlying goal is practical: creating transparency and comparability in how AI advancement is tracked. For organisations building AI literacy, it signals a move toward more standardised, accountable ways of assessing these systems.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-21T15:00:00+00:00",
+      "summary": "Anthropic, the AI company behind the Claude assistant, went public on the Nasdaq stock exchange, marking a major financial milestone for a firm that has positioned safety as central to its identity. The Verge's podcast discussion explored the tension this creates: once a company is publicly traded, it faces constant pressure from investors to grow and generate returns, which can compete with a commitment to cautious, safety-first development. The core question is whether a company can genuinely prioritise responsible AI while also satisfying the financial demands of public markets. This is notable because Anthropic has long marketed itself as the more safety-conscious alternative to rivals. It highlights a broader challenge for the whole industry — how to reconcile ethical ambitions with commercial realities.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-20T18:50:19+00:00",
+      "summary": "US President Donald Trump said he would impose a 'tremendous tax' on companies that build AI data centres outside the United States, arguing that such critical infrastructure should remain on American soil. Data centres are the large facilities full of computers that power AI systems, and they require significant land, energy, and water. The move comes even as many US states and cities are themselves placing restrictions on new data centre projects due to local concerns. This signals how AI infrastructure is becoming a matter of national economic and strategic policy, not just technology. For Gulf nations and others investing heavily in AI capacity, it underscores how geopolitics and trade policy could shape where the backbone of AI is located globally.",
+      "why_it_matters": "",
+      "relevance": 4
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 23 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at the ongoing international effort to set guardrails around artificial intelligence — from global talks on autonomous weapons to new ideas for measuring how fast AI is advancing. We also cover a major milestone as one of the leading AI labs enters the public markets, and a policy move that could reshape where AI infrastructure is built. Together, these stories show how questions of safety, governance, and economic strategy are becoming central to the AI conversation worldwide.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Diplomats from around the world met in Geneva under the United Nations framework to discuss rules governing autonomous weapons — systems sometimes called 'killer robots' that can select and attack targets without direct human control. After a week of talks, representatives failed to reach any binding agreement and instead committed only to 'start discussing options' in the future. Many countries and campaigners had pushed for firm limits, arguing that decisions over life and death should not be left to machines, but consensus proved difficult to achieve. This matters because it illustrates how slow and challenging international cooperation on AI governance can be, even on high-stakes issues. For public-sector bodies thinking about responsible AI, it is a reminder that global rules often lag well behind the technology itself.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 22 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI's chief scientist shared ideas on how the industry might set a kind of 'speed limit' on AI development to keep progress safe and manageable. A central point is that before you can agree to slow down or cap development, everyone first needs a shared, reliable way to measure how capable AI systems actually are. Without agreed measurements, discussions about limits become vague and hard to enforce. The remarks reflect a growing debate among AI leaders about balancing rapid innovation with caution. For non-specialists, the takeaway is that meaningful rules depend on first agreeing on common standards and definitions — a foundational step that is still being worked out.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI published an explanation of 'perplexity,' a technical measure used to gauge how well an AI model predicts language and, by extension, how capable it is. The company argues that having clear, shared ways to measure AI progress could help developers across the industry evaluate new capabilities using a common yardstick. This connects directly to broader conversations about setting standards and limits on AI, since agreed measurements are needed before any rules can be applied consistently. While the concept itself is technical, the underlying goal is practical: creating transparency and comparability in how AI advancement is tracked. For organisations building AI literacy, it signals a move toward more standardised, accountable ways of assessing these systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, the AI company behind the Claude assistant, went public on the Nasdaq stock exchange, marking a major financial milestone for a firm that has positioned safety as central to its identity. The Verge's podcast discussion explored the tension this creates: once a company is publicly traded, it faces constant pressure from investors to grow and generate returns, which can compete with a commitment to cautious, safety-first development. The core question is whether a company can genuinely prioritise responsible AI while also satisfying the financial demands of public markets. This is notable because Anthropic has long marketed itself as the more safety-conscious alternative to rivals. It highlights a broader challenge for the whole industry — how to reconcile ethical ambitions with commercial realities.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 21 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "US President Donald Trump said he would impose a 'tremendous tax' on companies that build AI data centres outside the United States, arguing that such critical infrastructure should remain on American soil. Data centres are the large facilities full of computers that power AI systems, and they require significant land, energy, and water. The move comes even as many US states and cities are themselves placing restrictions on new data centre projects due to local concerns. This signals how AI infrastructure is becoming a matter of national economic and strategic policy, not just technology. For Gulf nations and others investing heavily in AI capacity, it underscores how geopolitics and trade policy could shape where the backbone of AI is located globally.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 20 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nMonday, 23 November 2026\n============================================================\nThis edition looks at the ongoing international effort to set guardrails around artificial intelligence — from global talks on autonomous weapons to new ideas for measuring how fast AI is advancing. We also cover a major milestone as one of the leading AI labs enters the public markets, and a policy move that could reshape where AI infrastructure is built. Together, these stories show how questions of safety, governance, and economic strategy are becoming central to the AI conversation worldwide.\n\n1. The UN fails to agree on rules regulating ‘killer robots’\n   https://www.theverge.com/tech/1039554/un-regulations-killer-robots\n   Diplomats from around the world met in Geneva under the United Nations framework to discuss rules governing autonomous weapons — systems sometimes called 'killer robots' that can select and attack targets without direct human control. After a week of talks, representatives failed to reach any binding agreement and instead committed only to 'start discussing options' in the future. Many countries and campaigners had pushed for firm limits, arguing that decisions over life and death should not be left to machines, but consensus proved difficult to achieve. This matters because it illustrates how slow and challenging international cooperation on AI governance can be, even on high-stakes issues. For public-sector bodies thinking about responsible AI, it is a reminder that global rules often lag well behind the technology itself.\n   (The Verge — AI · 22 Nov 2026)\n\n2. OpenAI’s chief scientist has thoughts on how to limit AI development\n   https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/\n   OpenAI's chief scientist shared ideas on how the industry might set a kind of 'speed limit' on AI development to keep progress safe and manageable. A central point is that before you can agree to slow down or cap development, everyone first needs a shared, reliable way to measure how capable AI systems actually are. Without agreed measurements, discussions about limits become vague and hard to enforce. The remarks reflect a growing debate among AI leaders about balancing rapid innovation with caution. For non-specialists, the takeaway is that meaningful rules depend on first agreeing on common standards and definitions — a foundational step that is still being worked out.\n   (TechCrunch — AI · 23 Nov 2026)\n\n3. Perplexity and Intelligence\n   https://openai.com/index/perplexity-and-intelligence\n   OpenAI published an explanation of 'perplexity,' a technical measure used to gauge how well an AI model predicts language and, by extension, how capable it is. The company argues that having clear, shared ways to measure AI progress could help developers across the industry evaluate new capabilities using a common yardstick. This connects directly to broader conversations about setting standards and limits on AI, since agreed measurements are needed before any rules can be applied consistently. While the concept itself is technical, the underlying goal is practical: creating transparency and comparability in how AI advancement is tracked. For organisations building AI literacy, it signals a move toward more standardised, accountable ways of assessing these systems.\n   (OpenAI · 22 Nov 2026)\n\n4. Can Anthropic afford to put safety first?\n   https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure\n   Anthropic, the AI company behind the Claude assistant, went public on the Nasdaq stock exchange, marking a major financial milestone for a firm that has positioned safety as central to its identity. The Verge's podcast discussion explored the tension this creates: once a company is publicly traded, it faces constant pressure from investors to grow and generate returns, which can compete with a commitment to cautious, safety-first development. The core question is whether a company can genuinely prioritise responsible AI while also satisfying the financial demands of public markets. This is notable because Anthropic has long marketed itself as the more safety-conscious alternative to rivals. It highlights a broader challenge for the whole industry — how to reconcile ethical ambitions with commercial realities.\n   (The Verge — AI · 21 Nov 2026)\n\n5. Trump threatens ‘tremendous tax’ for moving AI data centers outside the US\n   https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax\n   US President Donald Trump said he would impose a 'tremendous tax' on companies that build AI data centres outside the United States, arguing that such critical infrastructure should remain on American soil. Data centres are the large facilities full of computers that power AI systems, and they require significant land, energy, and water. The move comes even as many US states and cities are themselves placing restrictions on new data centre projects due to local concerns. This signals how AI infrastructure is becoming a matter of national economic and strategic policy, not just technology. For Gulf nations and others investing heavily in AI capacity, it underscores how geopolitics and trade policy could shape where the backbone of AI is located globally.\n   (The Verge — AI · 20 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Monday, 23 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at the ongoing international effort to set guardrails around artificial intelligence — from global talks on autonomous weapons to new ideas for measuring how fast AI is advancing. We also cover a major milestone as one of the leading AI labs enters the public markets, and a policy move that could reshape where AI infrastructure is built. Together, these stories show how questions of safety, governance, and economic strategy are becoming central to the AI conversation worldwide.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. The UN fails to agree on rules regulating ‘killer robots’](https://www.theverge.com/tech/1039554/un-regulations-killer-robots)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Diplomats from around the world met in Geneva under the United Nations framework to discuss rules governing autonomous weapons — systems sometimes called 'killer robots' that can select and attack targets without direct human control. After a week of talks, representatives failed to reach any binding agreement and instead committed only to 'start discussing options' in the future. Many countries and campaigners had pushed for firm limits, arguing that decisions over life and death should not be left to machines, but consensus proved difficult to achieve. This matters because it illustrates how slow and challenging international cooperation on AI governance can be, even on high-stakes issues. For public-sector bodies thinking about responsible AI, it is a reminder that global rules often lag well behind the technology itself.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 22 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. OpenAI’s chief scientist has thoughts on how to limit AI development](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI's chief scientist shared ideas on how the industry might set a kind of 'speed limit' on AI development to keep progress safe and manageable. A central point is that before you can agree to slow down or cap development, everyone first needs a shared, reliable way to measure how capable AI systems actually are. Without agreed measurements, discussions about limits become vague and hard to enforce. The remarks reflect a growing debate among AI leaders about balancing rapid innovation with caution. For non-specialists, the takeaway is that meaningful rules depend on first agreeing on common standards and definitions — a foundational step that is still being worked out.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 23 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI published an explanation of 'perplexity,' a technical measure used to gauge how well an AI model predicts language and, by extension, how capable it is. The company argues that having clear, shared ways to measure AI progress could help developers across the industry evaluate new capabilities using a common yardstick. This connects directly to broader conversations about setting standards and limits on AI, since agreed measurements are needed before any rules can be applied consistently. While the concept itself is technical, the underlying goal is practical: creating transparency and comparability in how AI advancement is tracked. For organisations building AI literacy, it signals a move toward more standardised, accountable ways of assessing these systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 22 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Can Anthropic afford to put safety first?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic, the AI company behind the Claude assistant, went public on the Nasdaq stock exchange, marking a major financial milestone for a firm that has positioned safety as central to its identity. The Verge's podcast discussion explored the tension this creates: once a company is publicly traded, it faces constant pressure from investors to grow and generate returns, which can compete with a commitment to cautious, safety-first development. The core question is whether a company can genuinely prioritise responsible AI while also satisfying the financial demands of public markets. This is notable because Anthropic has long marketed itself as the more safety-conscious alternative to rivals. It highlights a broader challenge for the whole industry — how to reconcile ethical ambitions with commercial realities.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 21 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Trump threatens ‘tremendous tax’ for moving AI data centers outside the US](https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "US President Donald Trump said he would impose a 'tremendous tax' on companies that build AI data centres outside the United States, arguing that such critical infrastructure should remain on American soil. Data centres are the large facilities full of computers that power AI systems, and they require significant land, energy, and water. The move comes even as many US states and cities are themselves placing restrictions on new data centre projects due to local concerns. This signals how AI infrastructure is becoming a matter of national economic and strategic policy, not just technology. For Gulf nations and others investing heavily in AI capacity, it underscores how geopolitics and trade policy could shape where the backbone of AI is located globally.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 20 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nMonday, 23 November 2026\n============================================================\nThis edition looks at the ongoing international effort to set guardrails around artificial intelligence — from global talks on autonomous weapons to new ideas for measuring how fast AI is advancing. We also cover a major milestone as one of the leading AI labs enters the public markets, and a policy move that could reshape where AI infrastructure is built. Together, these stories show how questions of safety, governance, and economic strategy are becoming central to the AI conversation worldwide.\n\n1. The UN fails to agree on rules regulating ‘killer robots’\n   https://www.theverge.com/tech/1039554/un-regulations-killer-robots\n   Diplomats from around the world met in Geneva under the United Nations framework to discuss rules governing autonomous weapons — systems sometimes called 'killer robots' that can select and attack targets without direct human control. After a week of talks, representatives failed to reach any binding agreement and instead committed only to 'start discussing options' in the future. Many countries and campaigners had pushed for firm limits, arguing that decisions over life and death should not be left to machines, but consensus proved difficult to achieve. This matters because it illustrates how slow and challenging international cooperation on AI governance can be, even on high-stakes issues. For public-sector bodies thinking about responsible AI, it is a reminder that global rules often lag well behind the technology itself.\n   (The Verge — AI · 22 Nov 2026)\n\n2. OpenAI’s chief scientist has thoughts on how to limit AI development\n   https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/\n   OpenAI's chief scientist shared ideas on how the industry might set a kind of 'speed limit' on AI development to keep progress safe and manageable. A central point is that before you can agree to slow down or cap development, everyone first needs a shared, reliable way to measure how capable AI systems actually are. Without agreed measurements, discussions about limits become vague and hard to enforce. The remarks reflect a growing debate among AI leaders about balancing rapid innovation with caution. For non-specialists, the takeaway is that meaningful rules depend on first agreeing on common standards and definitions — a foundational step that is still being worked out.\n   (TechCrunch — AI · 23 Nov 2026)\n\n3. Perplexity and Intelligence\n   https://openai.com/index/perplexity-and-intelligence\n   OpenAI published an explanation of 'perplexity,' a technical measure used to gauge how well an AI model predicts language and, by extension, how capable it is. The company argues that having clear, shared ways to measure AI progress could help developers across the industry evaluate new capabilities using a common yardstick. This connects directly to broader conversations about setting standards and limits on AI, since agreed measurements are needed before any rules can be applied consistently. While the concept itself is technical, the underlying goal is practical: creating transparency and comparability in how AI advancement is tracked. For organisations building AI literacy, it signals a move toward more standardised, accountable ways of assessing these systems.\n   (OpenAI · 22 Nov 2026)\n\n4. Can Anthropic afford to put safety first?\n   https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure\n   Anthropic, the AI company behind the Claude assistant, went public on the Nasdaq stock exchange, marking a major financial milestone for a firm that has positioned safety as central to its identity. The Verge's podcast discussion explored the tension this creates: once a company is publicly traded, it faces constant pressure from investors to grow and generate returns, which can compete with a commitment to cautious, safety-first development. The core question is whether a company can genuinely prioritise responsible AI while also satisfying the financial demands of public markets. This is notable because Anthropic has long marketed itself as the more safety-conscious alternative to rivals. It highlights a broader challenge for the whole industry — how to reconcile ethical ambitions with commercial realities.\n   (The Verge — AI · 21 Nov 2026)\n\n5. Trump threatens ‘tremendous tax’ for moving AI data centers outside the US\n   https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax\n   US President Donald Trump said he would impose a 'tremendous tax' on companies that build AI data centres outside the United States, arguing that such critical infrastructure should remain on American soil. Data centres are the large facilities full of computers that power AI systems, and they require significant land, energy, and water. The move comes even as many US states and cities are themselves placing restrictions on new data centre projects due to local concerns. This signals how AI infrastructure is becoming a matter of national economic and strategic policy, not just technology. For Gulf nations and others investing heavily in AI capacity, it underscores how geopolitics and trade policy could shape where the backbone of AI is located globally.\n   (The Verge — AI · 20 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
