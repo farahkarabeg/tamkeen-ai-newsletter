@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-24",
+  "generated_at_iso": "2026-11-24T17:53:24.737732+00:00",
+  "date_range_label": "24 November 2026",
+  "subtitle": "Tuesday, 24 November 2026",
+  "editor_note": "This edition looks at how AI is moving from experimentation into practical, specialised work — supporting legal teams, scientific research, software engineering, and system security. While many of these stories are technical in nature, they illustrate a broader shift worth understanding: AI tools are increasingly being trusted to handle routine professional tasks, which has real implications for how we think about skills, workforce roles, and responsible adoption.",
+  "items": [
+    {
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-23T08:00:00+00:00",
+      "summary": "OpenAI published a discussion featuring its own specialists alongside legal professionals from LECG and the law firm Cooley, exploring how in-house legal teams can use AI in their day-to-day work. The conversation focused on how AI can help legal departments understand business context, create reusable workflows for repetitive tasks, and work more efficiently with external law firms. The idea is to free up legal staff from routine processing so they can focus on higher-value judgement and advisory work. For a human-capital institution, this is a useful example of how AI is changing the nature of professional roles rather than simply replacing them — it shifts the skills that staff need toward oversight, coordination, and strategic thinking. It also signals that specialised fields like law, long considered difficult to automate, are now actively integrating these tools.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine",
+      "url": "https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/",
+      "source_name": "Meta (Newsroom)",
+      "published_iso": "2026-11-23T18:00:01+00:00",
+      "summary": "Meta hosted an Open Source AI For Science Summit where researchers shared how they are using Meta's freely available \"open-weight\" AI models to speed up scientific and medical discovery. Open-weight models are AI systems whose underlying components are made publicly available, allowing researchers, universities, and institutions to use and adapt them without paying for access or depending on a single company. Scientists described applying these tools to accelerate work on medical breakthroughs, from understanding diseases to analysing complex biological data. This matters because open models lower the cost and barriers for public institutions, universities, and smaller organisations to build their own AI capabilities. For workforce and talent development, it highlights the growing value of researchers and professionals who can apply AI responsibly within specialised domains such as healthcare and science.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-23T20:00:00+00:00",
+      "summary": "Anthropic announced a new product called Claude Ship that allows its Claude AI to independently review, fix, and approve \"pull requests\" — the standard way software engineers propose and merge changes to computer code. Previously, Claude could review code and suggest improvements, but a human engineer still had to give final approval; this new capability lets the AI handle some of those approvals on its own. The goal is to reduce bottlenecks as AI-generated code becomes more common and the volume of routine review work grows. This is notable because it represents AI taking on decision-making tasks that were previously reserved for trained professionals, not just offering suggestions. It raises practical questions, relevant to any organisation, about how much independent authority to grant AI tools and what human oversight should remain in place.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-23T22:05:50+00:00",
+      "summary": "TechCrunch reported on the same Anthropic launch, framing Claude Ship as a response to a growing challenge: as AI tools generate ever more computer code, human engineers are overwhelmed by the task of reviewing and approving it all. The new tools let AI \"agents\" — software that can carry out multi-step tasks with limited human input — handle routine approvals automatically, aiming to remove this bottleneck. The broader trend here is the move from AI that assists people to AI that acts more autonomously on their behalf. For non-technical readers, the key takeaway is that this reflects a shift in how work gets done, with AI increasingly managing end-to-end processes. Such developments carry clear implications for workforce planning, as the demand grows for staff who can supervise, govern, and set guardrails around these automated systems.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-23T21:20:00+00:00",
+      "summary": "OpenAI and the technology company Cisco jointly introduced Shirudo, a free, open-source tool designed to improve the security of computer systems running the Linux operating system, which is widely used across governments and large organisations. Shirudo helps technical teams protect systems while they are applying security updates, known as patches — a process that can temporarily leave systems exposed. By making the tool open-source, the companies allow any organisation to use and adapt it without licensing costs. This is relevant to public-sector bodies because keeping systems secure during routine maintenance is a persistent operational challenge. It also illustrates a constructive side of AI-era collaboration: major technology firms contributing shared tools that strengthen the digital infrastructure many institutions rely on.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 24 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is moving from experimentation into practical, specialised work — supporting legal teams, scientific research, software engineering, and system security. While many of these stories are technical in nature, they illustrate a broader shift worth understanding: AI tools are increasingly being trusted to handle routine professional tasks, which has real implications for how we think about skills, workforce roles, and responsible adoption.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Connected intelligence for in-house legal](https://openai.com/business/learn/connected-intelligence-for-in-house-legal)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI published a discussion featuring its own specialists alongside legal professionals from LECG and the law firm Cooley, exploring how in-house legal teams can use AI in their day-to-day work. The conversation focused on how AI can help legal departments understand business context, create reusable workflows for repetitive tasks, and work more efficiently with external law firms. The idea is to free up legal staff from routine processing so they can focus on higher-value judgement and advisory work. For a human-capital institution, this is a useful example of how AI is changing the nature of professional roles rather than simply replacing them — it shifts the skills that staff need toward oversight, coordination, and strategic thinking. It also signals that specialised fields like law, long considered difficult to automate, are now actively integrating these tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine](https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta hosted an Open Source AI For Science Summit where researchers shared how they are using Meta's freely available \"open-weight\" AI models to speed up scientific and medical discovery. Open-weight models are AI systems whose underlying components are made publicly available, allowing researchers, universities, and institutions to use and adapt them without paying for access or depending on a single company. Scientists described applying these tools to accelerate work on medical breakthroughs, from understanding diseases to analysing complex biological data. This matters because open models lower the cost and barriers for public institutions, universities, and smaller organisations to build their own AI capabilities. For workforce and talent development, it highlights the growing value of researchers and professionals who can apply AI responsibly within specialised domains such as healthcare and science.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 23 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic announced a new product called Claude Ship that allows its Claude AI to independently review, fix, and approve \"pull requests\" — the standard way software engineers propose and merge changes to computer code. Previously, Claude could review code and suggest improvements, but a human engineer still had to give final approval; this new capability lets the AI handle some of those approvals on its own. The goal is to reduce bottlenecks as AI-generated code becomes more common and the volume of routine review work grows. This is notable because it represents AI taking on decision-making tasks that were previously reserved for trained professionals, not just offering suggestions. It raises practical questions, relevant to any organisation, about how much independent authority to grant AI tools and what human oversight should remain in place.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reported on the same Anthropic launch, framing Claude Ship as a response to a growing challenge: as AI tools generate ever more computer code, human engineers are overwhelmed by the task of reviewing and approving it all. The new tools let AI \"agents\" — software that can carry out multi-step tasks with limited human input — handle routine approvals automatically, aiming to remove this bottleneck. The broader trend here is the move from AI that assists people to AI that acts more autonomously on their behalf. For non-technical readers, the key takeaway is that this reflects a shift in how work gets done, with AI increasingly managing end-to-end processes. Such developments carry clear implications for workforce planning, as the demand grows for staff who can supervise, govern, and set guardrails around these automated systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. OpenAI and Cisco introduce Shirudo](https://openai.com/index/introducing-shirudo)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI and the technology company Cisco jointly introduced Shirudo, a free, open-source tool designed to improve the security of computer systems running the Linux operating system, which is widely used across governments and large organisations. Shirudo helps technical teams protect systems while they are applying security updates, known as patches — a process that can temporarily leave systems exposed. By making the tool open-source, the companies allow any organisation to use and adapt it without licensing costs. This is relevant to public-sector bodies because keeping systems secure during routine maintenance is a persistent operational challenge. It also illustrates a constructive side of AI-era collaboration: major technology firms contributing shared tools that strengthen the digital infrastructure many institutions rely on.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nTuesday, 24 November 2026\n============================================================\nThis edition looks at how AI is moving from experimentation into practical, specialised work — supporting legal teams, scientific research, software engineering, and system security. While many of these stories are technical in nature, they illustrate a broader shift worth understanding: AI tools are increasingly being trusted to handle routine professional tasks, which has real implications for how we think about skills, workforce roles, and responsible adoption.\n\n1. Connected intelligence for in-house legal\n   https://openai.com/business/learn/connected-intelligence-for-in-house-legal\n   OpenAI published a discussion featuring its own specialists alongside legal professionals from LECG and the law firm Cooley, exploring how in-house legal teams can use AI in their day-to-day work. The conversation focused on how AI can help legal departments understand business context, create reusable workflows for repetitive tasks, and work more efficiently with external law firms. The idea is to free up legal staff from routine processing so they can focus on higher-value judgement and advisory work. For a human-capital institution, this is a useful example of how AI is changing the nature of professional roles rather than simply replacing them — it shifts the skills that staff need toward oversight, coordination, and strategic thinking. It also signals that specialised fields like law, long considered difficult to automate, are now actively integrating these tools.\n   (OpenAI · 23 Nov 2026)\n\n2. Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine\n   https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/\n   Meta hosted an Open Source AI For Science Summit where researchers shared how they are using Meta's freely available \"open-weight\" AI models to speed up scientific and medical discovery. Open-weight models are AI systems whose underlying components are made publicly available, allowing researchers, universities, and institutions to use and adapt them without paying for access or depending on a single company. Scientists described applying these tools to accelerate work on medical breakthroughs, from understanding diseases to analysing complex biological data. This matters because open models lower the cost and barriers for public institutions, universities, and smaller organisations to build their own AI capabilities. For workforce and talent development, it highlights the growing value of researchers and professionals who can apply AI responsibly within specialised domains such as healthcare and science.\n   (Meta (Newsroom) · 23 Nov 2026)\n\n3. Claude AI can review pull requests and ship fixes on its own now\n   https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests\n   Anthropic announced a new product called Claude Ship that allows its Claude AI to independently review, fix, and approve \"pull requests\" — the standard way software engineers propose and merge changes to computer code. Previously, Claude could review code and suggest improvements, but a human engineer still had to give final approval; this new capability lets the AI handle some of those approvals on its own. The goal is to reduce bottlenecks as AI-generated code becomes more common and the volume of routine review work grows. This is notable because it represents AI taking on decision-making tasks that were previously reserved for trained professionals, not just offering suggestions. It raises practical questions, relevant to any organisation, about how much independent authority to grant AI tools and what human oversight should remain in place.\n   (The Verge — AI · 24 Nov 2026)\n\n4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes\n   https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n   TechCrunch reported on the same Anthropic launch, framing Claude Ship as a response to a growing challenge: as AI tools generate ever more computer code, human engineers are overwhelmed by the task of reviewing and approving it all. The new tools let AI \"agents\" — software that can carry out multi-step tasks with limited human input — handle routine approvals automatically, aiming to remove this bottleneck. The broader trend here is the move from AI that assists people to AI that acts more autonomously on their behalf. For non-technical readers, the key takeaway is that this reflects a shift in how work gets done, with AI increasingly managing end-to-end processes. Such developments carry clear implications for workforce planning, as the demand grows for staff who can supervise, govern, and set guardrails around these automated systems.\n   (TechCrunch — AI · 24 Nov 2026)\n\n5. OpenAI and Cisco introduce Shirudo\n   https://openai.com/index/introducing-shirudo\n   OpenAI and the technology company Cisco jointly introduced Shirudo, a free, open-source tool designed to improve the security of computer systems running the Linux operating system, which is widely used across governments and large organisations. Shirudo helps technical teams protect systems while they are applying security updates, known as patches — a process that can temporarily leave systems exposed. By making the tool open-source, the companies allow any organisation to use and adapt it without licensing costs. This is relevant to public-sector bodies because keeping systems secure during routine maintenance is a persistent operational challenge. It also illustrates a constructive side of AI-era collaboration: major technology firms contributing shared tools that strengthen the digital infrastructure many institutions rely on.\n   (OpenAI · 24 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Tuesday, 24 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "This edition looks at how AI is moving from experimentation into practical, specialised work — supporting legal teams, scientific research, software engineering, and system security. While many of these stories are technical in nature, they illustrate a broader shift worth understanding: AI tools are increasingly being trusted to handle routine professional tasks, which has real implications for how we think about skills, workforce roles, and responsible adoption.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Connected intelligence for in-house legal](https://openai.com/business/learn/connected-intelligence-for-in-house-legal)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI published a discussion featuring its own specialists alongside legal professionals from LECG and the law firm Cooley, exploring how in-house legal teams can use AI in their day-to-day work. The conversation focused on how AI can help legal departments understand business context, create reusable workflows for repetitive tasks, and work more efficiently with external law firms. The idea is to free up legal staff from routine processing so they can focus on higher-value judgement and advisory work. For a human-capital institution, this is a useful example of how AI is changing the nature of professional roles rather than simply replacing them — it shifts the skills that staff need toward oversight, coordination, and strategic thinking. It also signals that specialised fields like law, long considered difficult to automate, are now actively integrating these tools.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 23 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine](https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta hosted an Open Source AI For Science Summit where researchers shared how they are using Meta's freely available \"open-weight\" AI models to speed up scientific and medical discovery. Open-weight models are AI systems whose underlying components are made publicly available, allowing researchers, universities, and institutions to use and adapt them without paying for access or depending on a single company. Scientists described applying these tools to accelerate work on medical breakthroughs, from understanding diseases to analysing complex biological data. This matters because open models lower the cost and barriers for public institutions, universities, and smaller organisations to build their own AI capabilities. For workforce and talent development, it highlights the growing value of researchers and professionals who can apply AI responsibly within specialised domains such as healthcare and science.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Meta (Newsroom) · 23 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Claude AI can review pull requests and ship fixes on its own now](https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Anthropic announced a new product called Claude Ship that allows its Claude AI to independently review, fix, and approve \"pull requests\" — the standard way software engineers propose and merge changes to computer code. Previously, Claude could review code and suggest improvements, but a human engineer still had to give final approval; this new capability lets the AI handle some of those approvals on its own. The goal is to reduce bottlenecks as AI-generated code becomes more common and the volume of routine review work grows. This is notable because it represents AI taking on decision-making tasks that were previously reserved for trained professionals, not just offering suggestions. It raises practical questions, relevant to any organisation, about how much independent authority to grant AI tools and what human oversight should remain in place.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch reported on the same Anthropic launch, framing Claude Ship as a response to a growing challenge: as AI tools generate ever more computer code, human engineers are overwhelmed by the task of reviewing and approving it all. The new tools let AI \"agents\" — software that can carry out multi-step tasks with limited human input — handle routine approvals automatically, aiming to remove this bottleneck. The broader trend here is the move from AI that assists people to AI that acts more autonomously on their behalf. For non-technical readers, the key takeaway is that this reflects a shift in how work gets done, with AI increasingly managing end-to-end processes. Such developments carry clear implications for workforce planning, as the demand grows for staff who can supervise, govern, and set guardrails around these automated systems.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. OpenAI and Cisco introduce Shirudo](https://openai.com/index/introducing-shirudo)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI and the technology company Cisco jointly introduced Shirudo, a free, open-source tool designed to improve the security of computer systems running the Linux operating system, which is widely used across governments and large organisations. Shirudo helps technical teams protect systems while they are applying security updates, known as patches — a process that can temporarily leave systems exposed. By making the tool open-source, the companies allow any organisation to use and adapt it without licensing costs. This is relevant to public-sector bodies because keeping systems secure during routine maintenance is a persistent operational challenge. It also illustrates a constructive side of AI-era collaboration: major technology firms contributing shared tools that strengthen the digital infrastructure many institutions rely on.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nTuesday, 24 November 2026\n============================================================\nThis edition looks at how AI is moving from experimentation into practical, specialised work — supporting legal teams, scientific research, software engineering, and system security. While many of these stories are technical in nature, they illustrate a broader shift worth understanding: AI tools are increasingly being trusted to handle routine professional tasks, which has real implications for how we think about skills, workforce roles, and responsible adoption.\n\n1. Connected intelligence for in-house legal\n   https://openai.com/business/learn/connected-intelligence-for-in-house-legal\n   OpenAI published a discussion featuring its own specialists alongside legal professionals from LECG and the law firm Cooley, exploring how in-house legal teams can use AI in their day-to-day work. The conversation focused on how AI can help legal departments understand business context, create reusable workflows for repetitive tasks, and work more efficiently with external law firms. The idea is to free up legal staff from routine processing so they can focus on higher-value judgement and advisory work. For a human-capital institution, this is a useful example of how AI is changing the nature of professional roles rather than simply replacing them — it shifts the skills that staff need toward oversight, coordination, and strategic thinking. It also signals that specialised fields like law, long considered difficult to automate, are now actively integrating these tools.\n   (OpenAI · 23 Nov 2026)\n\n2. Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine\n   https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/\n   Meta hosted an Open Source AI For Science Summit where researchers shared how they are using Meta's freely available \"open-weight\" AI models to speed up scientific and medical discovery. Open-weight models are AI systems whose underlying components are made publicly available, allowing researchers, universities, and institutions to use and adapt them without paying for access or depending on a single company. Scientists described applying these tools to accelerate work on medical breakthroughs, from understanding diseases to analysing complex biological data. This matters because open models lower the cost and barriers for public institutions, universities, and smaller organisations to build their own AI capabilities. For workforce and talent development, it highlights the growing value of researchers and professionals who can apply AI responsibly within specialised domains such as healthcare and science.\n   (Meta (Newsroom) · 23 Nov 2026)\n\n3. Claude AI can review pull requests and ship fixes on its own now\n   https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests\n   Anthropic announced a new product called Claude Ship that allows its Claude AI to independently review, fix, and approve \"pull requests\" — the standard way software engineers propose and merge changes to computer code. Previously, Claude could review code and suggest improvements, but a human engineer still had to give final approval; this new capability lets the AI handle some of those approvals on its own. The goal is to reduce bottlenecks as AI-generated code becomes more common and the volume of routine review work grows. This is notable because it represents AI taking on decision-making tasks that were previously reserved for trained professionals, not just offering suggestions. It raises practical questions, relevant to any organisation, about how much independent authority to grant AI tools and what human oversight should remain in place.\n   (The Verge — AI · 24 Nov 2026)\n\n4. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes\n   https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n   TechCrunch reported on the same Anthropic launch, framing Claude Ship as a response to a growing challenge: as AI tools generate ever more computer code, human engineers are overwhelmed by the task of reviewing and approving it all. The new tools let AI \"agents\" — software that can carry out multi-step tasks with limited human input — handle routine approvals automatically, aiming to remove this bottleneck. The broader trend here is the move from AI that assists people to AI that acts more autonomously on their behalf. For non-technical readers, the key takeaway is that this reflects a shift in how work gets done, with AI increasingly managing end-to-end processes. Such developments carry clear implications for workforce planning, as the demand grows for staff who can supervise, govern, and set guardrails around these automated systems.\n   (TechCrunch — AI · 24 Nov 2026)\n\n5. OpenAI and Cisco introduce Shirudo\n   https://openai.com/index/introducing-shirudo\n   OpenAI and the technology company Cisco jointly introduced Shirudo, a free, open-source tool designed to improve the security of computer systems running the Linux operating system, which is widely used across governments and large organisations. Shirudo helps technical teams protect systems while they are applying security updates, known as patches — a process that can temporarily leave systems exposed. By making the tool open-source, the companies allow any organisation to use and adapt it without licensing costs. This is relevant to public-sector bodies because keeping systems secure during routine maintenance is a persistent operational challenge. It also illustrates a constructive side of AI-era collaboration: major technology firms contributing shared tools that strengthen the digital infrastructure many institutions rely on.\n   (OpenAI · 24 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
