@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-25",
+  "generated_at_iso": "2026-11-25T17:20:00.167418+00:00",
+  "date_range_label": "25 November 2026",
+  "subtitle": "Wednesday, 25 November 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This week we look at how AI is testing the capacity of public institutions and strengthening cybersecurity awareness, alongside new findings about the real-world limits of AI assistants and striking examples of AI aiding scientific discovery. Together these stories remind us that AI's promise comes with practical responsibilities for governments, workplaces, and everyday users alike.",
+  "items": [
+    {
+      "title": "AI is straining America’s open records systems",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "source_name": "MIT Technology Review — AI",
+      "published_iso": "2026-11-25T10:00:00+00:00",
+      "summary": "In the small town of Panton, Vermont, a single clerk handled everything from budgets to public records requests until AI tools began to change the nature of those requests. Across the United States, open records systems—which legally require governments to share documents with the public—are being overwhelmed by a surge of automated, AI-generated requests that are often broad, numerous, and time-consuming to process. Many of these systems were built for a slower, manual era and depend on small teams or even individuals to respond. The strain raises difficult questions about transparency: governments must stay open and accountable, but staff capacity is limited. For public-sector employees, this is a useful reminder that AI can increase demand on public services in unexpected ways, and that administrative systems may need updating to cope. It highlights the importance of planning for AI's indirect effects on government workflows, not just its direct uses.",
+      "why_it_matters": "",
+      "relevance": 6
+    },
+    {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-24T13:00:00+00:00",
+      "summary": "OpenAI reported that its GPT-6 models showed an unexpected ability to design proteins—the building blocks of biology—using reasoning and code rather than being specially built for the task. In laboratory tests, the designs showed evidence of binding to five biological targets, a meaningful early sign that the approach can produce functional results. Protein design is central to developing new medicines, vaccines, and materials, so a general-purpose AI model demonstrating this skill is notable. It suggests that advanced models may increasingly assist specialised scientific fields beyond their original purpose. For a workforce-focused institution, this points to how AI could reshape skills needed in research, healthcare, and biotechnology. It also underlines why responsible oversight matters, as powerful scientific capabilities carry both benefits and risks that require careful governance.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-24T18:02:59+00:00",
+      "summary": "The United Kingdom's national cyber agency warned that AI-powered hacking tools are increasingly exploiting basic, long-standing security weaknesses in organisations' systems. The agency stressed that \"building strong foundations has never mattered more,\" noting that many successful attacks still rely on simple flaws that could have been fixed years ago. AI does not necessarily invent new types of attacks; instead, it allows attackers to find and exploit existing vulnerabilities faster and at greater scale. This makes routine security practices—such as updating software, strong passwords, and staff awareness—more important than ever. For public-sector organisations that hold sensitive data, the message is clear: good basic cybersecurity hygiene is the first and most effective line of defence. It is a timely reminder that protecting institutions against AI-era threats often starts with getting the fundamentals right.",
+      "why_it_matters": "",
+      "relevance": 5
+    },
+    {
+      "title": "Even the best AI agents struggle with everyday life",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-24T21:33:29+00:00",
+      "summary": "As more people adopt personal AI assistants to help with daily tasks, a new benchmark test found that even the most advanced AI models frequently struggle to complete everyday activities reliably and safely. The research showed that these AI agents—designed to take actions on a user's behalf—can make mistakes, misunderstand instructions, or create new problems while trying to be helpful. This matters because expectations for AI assistants are high, yet their real-world performance still falls short of being fully dependable. The findings encourage a realistic view: AI can be useful, but human oversight remains essential, especially for important or sensitive tasks. For staff considering AI tools in their work, this is a valuable caution against over-relying on automation. It reinforces the need to treat AI as an assistant that supports, rather than replaces, human judgement.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source_name": "OpenAI",
+      "published_iso": "2026-11-24T11:00:00+00:00",
+      "summary": "Two amateur astronomers used OpenAI's Codex and Astra tools to search publicly available data from NASA's Kepler and TESS space telescopes, identifying potential new planets beyond our solar system. Rather than being professional scientists with large research budgets, these individuals used AI to analyse complex datasets that would normally require specialised expertise. Their work shows how AI can lower barriers to scientific discovery, enabling more people to contribute to fields once reserved for experts. It is an encouraging example of AI acting as a tool for learning, exploration, and skill-building. For an institution focused on human capital, this illustrates how AI can expand access to knowledge and empower curious, motivated people. It also demonstrates the value of open public data combined with accessible AI tools in creating new opportunities for education and participation.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 25 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how AI is testing the capacity of public institutions and strengthening cybersecurity awareness, alongside new findings about the real-world limits of AI assistants and striking examples of AI aiding scientific discovery. Together these stories remind us that AI's promise comes with practical responsibilities for governments, workplaces, and everyday users alike.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In the small town of Panton, Vermont, a single clerk handled everything from budgets to public records requests until AI tools began to change the nature of those requests. Across the United States, open records systems—which legally require governments to share documents with the public—are being overwhelmed by a surge of automated, AI-generated requests that are often broad, numerous, and time-consuming to process. Many of these systems were built for a slower, manual era and depend on small teams or even individuals to respond. The strain raises difficult questions about transparency: governments must stay open and accountable, but staff capacity is limited. For public-sector employees, this is a useful reminder that AI can increase demand on public services in unexpected ways, and that administrative systems may need updating to cope. It highlights the importance of planning for AI's indirect effects on government workflows, not just its direct uses.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI reported that its GPT-6 models showed an unexpected ability to design proteins—the building blocks of biology—using reasoning and code rather than being specially built for the task. In laboratory tests, the designs showed evidence of binding to five biological targets, a meaningful early sign that the approach can produce functional results. Protein design is central to developing new medicines, vaccines, and materials, so a general-purpose AI model demonstrating this skill is notable. It suggests that advanced models may increasingly assist specialised scientific fields beyond their original purpose. For a workforce-focused institution, this points to how AI could reshape skills needed in research, healthcare, and biotechnology. It also underlines why responsible oversight matters, as powerful scientific capabilities carry both benefits and risks that require careful governance.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The United Kingdom's national cyber agency warned that AI-powered hacking tools are increasingly exploiting basic, long-standing security weaknesses in organisations' systems. The agency stressed that \"building strong foundations has never mattered more,\" noting that many successful attacks still rely on simple flaws that could have been fixed years ago. AI does not necessarily invent new types of attacks; instead, it allows attackers to find and exploit existing vulnerabilities faster and at greater scale. This makes routine security practices—such as updating software, strong passwords, and staff awareness—more important than ever. For public-sector organisations that hold sensitive data, the message is clear: good basic cybersecurity hygiene is the first and most effective line of defence. It is a timely reminder that protecting institutions against AI-era threats often starts with getting the fundamentals right.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "As more people adopt personal AI assistants to help with daily tasks, a new benchmark test found that even the most advanced AI models frequently struggle to complete everyday activities reliably and safely. The research showed that these AI agents—designed to take actions on a user's behalf—can make mistakes, misunderstand instructions, or create new problems while trying to be helpful. This matters because expectations for AI assistants are high, yet their real-world performance still falls short of being fully dependable. The findings encourage a realistic view: AI can be useful, but human oversight remains essential, especially for important or sensitive tasks. For staff considering AI tools in their work, this is a valuable caution against over-relying on automation. It reinforces the need to treat AI as an assistant that supports, rather than replaces, human judgement.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Two amateur astronomers used OpenAI's Codex and Astra tools to search publicly available data from NASA's Kepler and TESS space telescopes, identifying potential new planets beyond our solar system. Rather than being professional scientists with large research budgets, these individuals used AI to analyse complex datasets that would normally require specialised expertise. Their work shows how AI can lower barriers to scientific discovery, enabling more people to contribute to fields once reserved for experts. It is an encouraging example of AI acting as a tool for learning, exploration, and skill-building. For an institution focused on human capital, this illustrates how AI can expand access to knowledge and empower curious, motivated people. It also demonstrates the value of open public data combined with accessible AI tools in creating new opportunities for education and participation.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nWednesday, 25 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how AI is testing the capacity of public institutions and strengthening cybersecurity awareness, alongside new findings about the real-world limits of AI assistants and striking examples of AI aiding scientific discovery. Together these stories remind us that AI's promise comes with practical responsibilities for governments, workplaces, and everyday users alike.\n\n1. AI is straining America’s open records systems\n   https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/\n   In the small town of Panton, Vermont, a single clerk handled everything from budgets to public records requests until AI tools began to change the nature of those requests. Across the United States, open records systems—which legally require governments to share documents with the public—are being overwhelmed by a surge of automated, AI-generated requests that are often broad, numerous, and time-consuming to process. Many of these systems were built for a slower, manual era and depend on small teams or even individuals to respond. The strain raises difficult questions about transparency: governments must stay open and accountable, but staff capacity is limited. For public-sector employees, this is a useful reminder that AI can increase demand on public services in unexpected ways, and that administrative systems may need updating to cope. It highlights the importance of planning for AI's indirect effects on government workflows, not just its direct uses.\n   (MIT Technology Review — AI · 25 Nov 2026)\n\n2. GPT-6 models demonstrate intrinsic protein-design capabilities\n   https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities\n   OpenAI reported that its GPT-6 models showed an unexpected ability to design proteins—the building blocks of biology—using reasoning and code rather than being specially built for the task. In laboratory tests, the designs showed evidence of binding to five biological targets, a meaningful early sign that the approach can produce functional results. Protein design is central to developing new medicines, vaccines, and materials, so a general-purpose AI model demonstrating this skill is notable. It suggests that advanced models may increasingly assist specialised scientific fields beyond their original purpose. For a workforce-focused institution, this points to how AI could reshape skills needed in research, healthcare, and biotechnology. It also underlines why responsible oversight matters, as powerful scientific capabilities carry both benefits and risks that require careful governance.\n   (OpenAI · 24 Nov 2026)\n\n3. UK warns AI-driven cyberattacks are exposing years of weak security\n   https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/\n   The United Kingdom's national cyber agency warned that AI-powered hacking tools are increasingly exploiting basic, long-standing security weaknesses in organisations' systems. The agency stressed that \"building strong foundations has never mattered more,\" noting that many successful attacks still rely on simple flaws that could have been fixed years ago. AI does not necessarily invent new types of attacks; instead, it allows attackers to find and exploit existing vulnerabilities faster and at greater scale. This makes routine security practices—such as updating software, strong passwords, and staff awareness—more important than ever. For public-sector organisations that hold sensitive data, the message is clear: good basic cybersecurity hygiene is the first and most effective line of defence. It is a timely reminder that protecting institutions against AI-era threats often starts with getting the fundamentals right.\n   (TechCrunch — AI · 24 Nov 2026)\n\n4. Even the best AI agents struggle with everyday life\n   https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/\n   As more people adopt personal AI assistants to help with daily tasks, a new benchmark test found that even the most advanced AI models frequently struggle to complete everyday activities reliably and safely. The research showed that these AI agents—designed to take actions on a user's behalf—can make mistakes, misunderstand instructions, or create new problems while trying to be helpful. This matters because expectations for AI assistants are high, yet their real-world performance still falls short of being fully dependable. The findings encourage a realistic view: AI can be useful, but human oversight remains essential, especially for important or sensitive tasks. For staff considering AI tools in their work, this is a valuable caution against over-relying on automation. It reinforces the need to treat AI as an assistant that supports, rather than replaces, human judgement.\n   (TechCrunch — AI · 25 Nov 2026)\n\n5. Searching for distant planets with Astra\n   https://openai.com/index/searching-for-distant-planets-with-astra\n   Two amateur astronomers used OpenAI's Codex and Astra tools to search publicly available data from NASA's Kepler and TESS space telescopes, identifying potential new planets beyond our solar system. Rather than being professional scientists with large research budgets, these individuals used AI to analyse complex datasets that would normally require specialised expertise. Their work shows how AI can lower barriers to scientific discovery, enabling more people to contribute to fields once reserved for experts. It is an encouraging example of AI acting as a tool for learning, exploration, and skill-building. For an institution focused on human capital, this illustrates how AI can expand access to knowledge and empower curious, motivated people. It also demonstrates the value of open public data combined with accessible AI tools in creating new opportunities for education and participation.\n   (OpenAI · 24 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Wednesday, 25 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This week we look at how AI is testing the capacity of public institutions and strengthening cybersecurity awareness, alongside new findings about the real-world limits of AI assistants and striking examples of AI aiding scientific discovery. Together these stories remind us that AI's promise comes with practical responsibilities for governments, workplaces, and everyday users alike.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. AI is straining America’s open records systems](https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "In the small town of Panton, Vermont, a single clerk handled everything from budgets to public records requests until AI tools began to change the nature of those requests. Across the United States, open records systems—which legally require governments to share documents with the public—are being overwhelmed by a surge of automated, AI-generated requests that are often broad, numerous, and time-consuming to process. Many of these systems were built for a slower, manual era and depend on small teams or even individuals to respond. The strain raises difficult questions about transparency: governments must stay open and accountable, but staff capacity is limited. For public-sector employees, this is a useful reminder that AI can increase demand on public services in unexpected ways, and that administrative systems may need updating to cope. It highlights the importance of planning for AI's indirect effects on government workflows, not just its direct uses.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "MIT Technology Review — AI · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI reported that its GPT-6 models showed an unexpected ability to design proteins—the building blocks of biology—using reasoning and code rather than being specially built for the task. In laboratory tests, the designs showed evidence of binding to five biological targets, a meaningful early sign that the approach can produce functional results. Protein design is central to developing new medicines, vaccines, and materials, so a general-purpose AI model demonstrating this skill is notable. It suggests that advanced models may increasingly assist specialised scientific fields beyond their original purpose. For a workforce-focused institution, this points to how AI could reshape skills needed in research, healthcare, and biotechnology. It also underlines why responsible oversight matters, as powerful scientific capabilities carry both benefits and risks that require careful governance.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The United Kingdom's national cyber agency warned that AI-powered hacking tools are increasingly exploiting basic, long-standing security weaknesses in organisations' systems. The agency stressed that \"building strong foundations has never mattered more,\" noting that many successful attacks still rely on simple flaws that could have been fixed years ago. AI does not necessarily invent new types of attacks; instead, it allows attackers to find and exploit existing vulnerabilities faster and at greater scale. This makes routine security practices—such as updating software, strong passwords, and staff awareness—more important than ever. For public-sector organisations that hold sensitive data, the message is clear: good basic cybersecurity hygiene is the first and most effective line of defence. It is a timely reminder that protecting institutions against AI-era threats often starts with getting the fundamentals right.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "As more people adopt personal AI assistants to help with daily tasks, a new benchmark test found that even the most advanced AI models frequently struggle to complete everyday activities reliably and safely. The research showed that these AI agents—designed to take actions on a user's behalf—can make mistakes, misunderstand instructions, or create new problems while trying to be helpful. This matters because expectations for AI assistants are high, yet their real-world performance still falls short of being fully dependable. The findings encourage a realistic view: AI can be useful, but human oversight remains essential, especially for important or sensitive tasks. For staff considering AI tools in their work, this is a valuable caution against over-relying on automation. It reinforces the need to treat AI as an assistant that supports, rather than replaces, human judgement.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Two amateur astronomers used OpenAI's Codex and Astra tools to search publicly available data from NASA's Kepler and TESS space telescopes, identifying potential new planets beyond our solar system. Rather than being professional scientists with large research budgets, these individuals used AI to analyse complex datasets that would normally require specialised expertise. Their work shows how AI can lower barriers to scientific discovery, enabling more people to contribute to fields once reserved for experts. It is an encouraging example of AI acting as a tool for learning, exploration, and skill-building. For an institution focused on human capital, this illustrates how AI can expand access to knowledge and empower curious, motivated people. It also demonstrates the value of open public data combined with accessible AI tools in creating new opportunities for education and participation.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "OpenAI · 24 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nWednesday, 25 November 2026\n============================================================\nWelcome to this edition of our AI digest. This week we look at how AI is testing the capacity of public institutions and strengthening cybersecurity awareness, alongside new findings about the real-world limits of AI assistants and striking examples of AI aiding scientific discovery. Together these stories remind us that AI's promise comes with practical responsibilities for governments, workplaces, and everyday users alike.\n\n1. AI is straining America’s open records systems\n   https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/\n   In the small town of Panton, Vermont, a single clerk handled everything from budgets to public records requests until AI tools began to change the nature of those requests. Across the United States, open records systems—which legally require governments to share documents with the public—are being overwhelmed by a surge of automated, AI-generated requests that are often broad, numerous, and time-consuming to process. Many of these systems were built for a slower, manual era and depend on small teams or even individuals to respond. The strain raises difficult questions about transparency: governments must stay open and accountable, but staff capacity is limited. For public-sector employees, this is a useful reminder that AI can increase demand on public services in unexpected ways, and that administrative systems may need updating to cope. It highlights the importance of planning for AI's indirect effects on government workflows, not just its direct uses.\n   (MIT Technology Review — AI · 25 Nov 2026)\n\n2. GPT-6 models demonstrate intrinsic protein-design capabilities\n   https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities\n   OpenAI reported that its GPT-6 models showed an unexpected ability to design proteins—the building blocks of biology—using reasoning and code rather than being specially built for the task. In laboratory tests, the designs showed evidence of binding to five biological targets, a meaningful early sign that the approach can produce functional results. Protein design is central to developing new medicines, vaccines, and materials, so a general-purpose AI model demonstrating this skill is notable. It suggests that advanced models may increasingly assist specialised scientific fields beyond their original purpose. For a workforce-focused institution, this points to how AI could reshape skills needed in research, healthcare, and biotechnology. It also underlines why responsible oversight matters, as powerful scientific capabilities carry both benefits and risks that require careful governance.\n   (OpenAI · 24 Nov 2026)\n\n3. UK warns AI-driven cyberattacks are exposing years of weak security\n   https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/\n   The United Kingdom's national cyber agency warned that AI-powered hacking tools are increasingly exploiting basic, long-standing security weaknesses in organisations' systems. The agency stressed that \"building strong foundations has never mattered more,\" noting that many successful attacks still rely on simple flaws that could have been fixed years ago. AI does not necessarily invent new types of attacks; instead, it allows attackers to find and exploit existing vulnerabilities faster and at greater scale. This makes routine security practices—such as updating software, strong passwords, and staff awareness—more important than ever. For public-sector organisations that hold sensitive data, the message is clear: good basic cybersecurity hygiene is the first and most effective line of defence. It is a timely reminder that protecting institutions against AI-era threats often starts with getting the fundamentals right.\n   (TechCrunch — AI · 24 Nov 2026)\n\n4. Even the best AI agents struggle with everyday life\n   https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/\n   As more people adopt personal AI assistants to help with daily tasks, a new benchmark test found that even the most advanced AI models frequently struggle to complete everyday activities reliably and safely. The research showed that these AI agents—designed to take actions on a user's behalf—can make mistakes, misunderstand instructions, or create new problems while trying to be helpful. This matters because expectations for AI assistants are high, yet their real-world performance still falls short of being fully dependable. The findings encourage a realistic view: AI can be useful, but human oversight remains essential, especially for important or sensitive tasks. For staff considering AI tools in their work, this is a valuable caution against over-relying on automation. It reinforces the need to treat AI as an assistant that supports, rather than replaces, human judgement.\n   (TechCrunch — AI · 25 Nov 2026)\n\n5. Searching for distant planets with Astra\n   https://openai.com/index/searching-for-distant-planets-with-astra\n   Two amateur astronomers used OpenAI's Codex and Astra tools to search publicly available data from NASA's Kepler and TESS space telescopes, identifying potential new planets beyond our solar system. Rather than being professional scientists with large research budgets, these individuals used AI to analyse complex datasets that would normally require specialised expertise. Their work shows how AI can lower barriers to scientific discovery, enabling more people to contribute to fields once reserved for experts. It is an encouraging example of AI acting as a tool for learning, exploration, and skill-building. For an institution focused on human capital, this illustrates how AI can expand access to knowledge and empower curious, motivated people. It also demonstrates the value of open public data combined with accessible AI tools in creating new opportunities for education and participation.\n   (OpenAI · 24 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
