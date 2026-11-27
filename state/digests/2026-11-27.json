@@ -1,0 +1,478 @@
+{
+  "id": "2026-11-27",
+  "generated_at_iso": "2026-11-27T16:45:54.072443+00:00",
+  "date_range_label": "27 November 2026",
+  "subtitle": "Friday, 27 November 2026",
+  "editor_note": "Welcome to this edition of our AI digest. This issue looks at how researchers are setting boundaries for increasingly independent AI systems, how global politics is reshaping the supply of the chips that power AI, and new efforts to make AI work in more of the world's languages. We also touch on an ambitious plan to move AI computing into space. Together these stories highlight both the fast pace of change and the practical questions of trust, access, and inclusion that matter for workforce and public-service planning.",
+  "items": [
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source_name": "Hugging Face Blog",
+      "published_iso": "2026-11-25T18:52:55+00:00",
+      "summary": "Researchers at the Allen Institute for AI, writing on the Hugging Face blog, explored where scientists believe limits should be placed on 'AI agents' — software that can act on its own to carry out tasks rather than simply answering questions. The piece gathers expert views on which decisions and actions should remain under human control and which can be safely delegated to machines. It reflects a growing concern that as AI systems gain the ability to take real-world actions, clear rules are needed to prevent mistakes or misuse. The discussion covers both technical safeguards and broader questions about accountability and oversight. For organisations beginning to use these tools, this is a reminder that human judgment and clear boundaries remain essential. It is notable because it signals that even leading AI developers are urging caution about giving systems too much independence.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "source_name": "TechCrunch — AI",
+      "published_iso": "2026-11-26T20:03:54+00:00",
+      "summary": "Nvidia, the world's leading maker of AI chips, has instructed its manufacturing partners to pause shipments of AI servers to Malaysia, Singapore, Thailand and Indonesia. The move follows tighter rules from the United States aimed at stopping advanced AI chips from reaching China through other countries. Southeast Asian nations have been caught in the middle because they are major hubs for electronics assembly and re-export. The pause shows how access to the hardware that powers AI is increasingly shaped by geopolitics and trade controls, not just by market demand. For regions building their own AI capacity, including the Gulf, this underlines how dependent AI development is on a small number of suppliers and on shifting international rules. It is a reminder that national technology strategies must account for supply-chain risks beyond their own borders.",
+      "why_it_matters": "",
+      "relevance": 4
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source_name": "Hugging Face Blog",
+      "published_iso": "2026-11-26T00:00:00+00:00",
+      "summary": "A technical article on the Hugging Face blog explains how developers can build and train 'multi-agent systems' — groups of AI programs that work together, described here with terms like swarms, flocks and gangs. Instead of relying on a single AI model to handle a task, these approaches have several AI agents collaborate, divide work, or check one another. The piece walks through how to design, train, and evaluate such systems, including how to measure whether the group performs better than a single model. This reflects a wider trend toward AI tools that coordinate rather than operate alone. For non-technical readers, the key point is that AI is moving from single assistants toward teams of cooperating programs. Understanding this shift helps anticipate how future workplace tools may be structured and managed.",
+      "why_it_matters": "",
+      "relevance": 3
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source_name": "Hugging Face Blog",
+      "published_iso": "2026-11-25T10:22:09+00:00",
+      "summary": "IBM Research shared a project on the Hugging Face blog describing an 'Indic voice agent' built using its CUGA system — a voice-based AI assistant designed to work in Indian languages. Much of today's AI performs best in English, so efforts like this aim to make voice technology usable for speakers of languages that are often underserved. The project shows how AI can be adapted to understand and respond in local languages through voice rather than text, which matters in places where many people prefer speaking over typing. This kind of work is directly relevant to the Gulf's interest in strong Arabic-language AI and inclusive public services. It demonstrates that making AI genuinely useful requires investment in local languages and voice interfaces. For workforce and public-service planning, it points to the value of tools that reach all citizens, not only those comfortable in English.",
+      "why_it_matters": "",
+      "relevance": 3
+    },
+    {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source_name": "The Verge — AI",
+      "published_iso": "2026-11-25T17:44:51+00:00",
+      "summary": "The US Federal Communications Commission has approved a plan by SpaceX to launch up to one million satellites equipped with AI chips, part of an initiative the company calls 'Starmind.' The idea is to place AI data centres in space, where they could potentially run computing tasks using solar power and avoid some of the land, energy and cooling demands of data centres on Earth. This is the first such approval the agency has granted, though other companies including Google and Blue Origin are exploring similar concepts. The plan is highly ambitious and remains unproven at this scale, raising practical, cost and environmental questions. It is notable because it signals how the enormous energy and infrastructure needs of AI are pushing companies toward unconventional solutions. For now it is an early-stage vision rather than a working system, but it illustrates how seriously the industry is treating AI's growing resource demands.",
+      "why_it_matters": "",
+      "relevance": 3
+    }
+  ],
+  "adaptive_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "warning",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "● DRAFT — for Policy & Strategy review",
+            "weight": "Bolder",
+            "wrap": true,
+            "color": "Warning"
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 27 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue looks at how researchers are setting boundaries for increasingly independent AI systems, how global politics is reshaping the supply of the chips that power AI, and new efforts to make AI work in more of the world's languages. We also touch on an ambitious plan to move AI computing into space. Together these stories highlight both the fast pace of change and the practical questions of trust, access, and inclusion that matter for workforce and public-service planning.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Researchers at the Allen Institute for AI, writing on the Hugging Face blog, explored where scientists believe limits should be placed on 'AI agents' — software that can act on its own to carry out tasks rather than simply answering questions. The piece gathers expert views on which decisions and actions should remain under human control and which can be safely delegated to machines. It reflects a growing concern that as AI systems gain the ability to take real-world actions, clear rules are needed to prevent mistakes or misuse. The discussion covers both technical safeguards and broader questions about accountability and oversight. For organisations beginning to use these tools, this is a reminder that human judgment and clear boundaries remain essential. It is notable because it signals that even leading AI developers are urging caution about giving systems too much independence.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face Blog · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Nvidia hits pause on chip shipments to Southeast Asia](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Nvidia, the world's leading maker of AI chips, has instructed its manufacturing partners to pause shipments of AI servers to Malaysia, Singapore, Thailand and Indonesia. The move follows tighter rules from the United States aimed at stopping advanced AI chips from reaching China through other countries. Southeast Asian nations have been caught in the middle because they are major hubs for electronics assembly and re-export. The pause shows how access to the hardware that powers AI is increasingly shaped by geopolitics and trade controls, not just by market demand. For regions building their own AI capacity, including the Gulf, this underlines how dependent AI development is on a small number of suppliers and on shifting international rules. It is a reminder that national technology strategies must account for supply-chain risks beyond their own borders.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 27 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A technical article on the Hugging Face blog explains how developers can build and train 'multi-agent systems' — groups of AI programs that work together, described here with terms like swarms, flocks and gangs. Instead of relying on a single AI model to handle a task, these approaches have several AI agents collaborate, divide work, or check one another. The piece walks through how to design, train, and evaluate such systems, including how to measure whether the group performs better than a single model. This reflects a wider trend toward AI tools that coordinate rather than operate alone. For non-technical readers, the key point is that AI is moving from single assistants toward teams of cooperating programs. Understanding this shift helps anticipate how future workplace tools may be structured and managed.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face Blog · 26 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "IBM Research shared a project on the Hugging Face blog describing an 'Indic voice agent' built using its CUGA system — a voice-based AI assistant designed to work in Indian languages. Much of today's AI performs best in English, so efforts like this aim to make voice technology usable for speakers of languages that are often underserved. The project shows how AI can be adapted to understand and respond in local languages through voice rather than text, which matters in places where many people prefer speaking over typing. This kind of work is directly relevant to the Gulf's interest in strong Arabic-language AI and inclusive public services. It demonstrates that making AI genuinely useful requires investment in local languages and voice interfaces. For workforce and public-service planning, it points to the value of tools that reach all citizens, not only those comfortable in English.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face Blog · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The US Federal Communications Commission has approved a plan by SpaceX to launch up to one million satellites equipped with AI chips, part of an initiative the company calls 'Starmind.' The idea is to place AI data centres in space, where they could potentially run computing tasks using solar power and avoid some of the land, energy and cooling demands of data centres on Earth. This is the first such approval the agency has granted, though other companies including Google and Blue Origin are exploring similar concepts. The plan is highly ambitious and remains unproven at this scale, raising practical, cost and environmental questions. It is notable because it signals how the enormous energy and infrastructure needs of AI are pushing companies toward unconventional solutions. For now it is an early-stage vision rather than a working system, but it illustrates how seriously the industry is treating AI's growing resource demands.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "plain_text": "*** DRAFT — for Policy & Strategy review ***\n\nAI Pulse — Weekly AI News Digest\nFriday, 27 November 2026\n============================================================\nWelcome to this edition of our AI digest. This issue looks at how researchers are setting boundaries for increasingly independent AI systems, how global politics is reshaping the supply of the chips that power AI, and new efforts to make AI work in more of the world's languages. We also touch on an ambitious plan to move AI computing into space. Together these stories highlight both the fast pace of change and the practical questions of trust, access, and inclusion that matter for workforce and public-service planning.\n\n1. Where scientists draw the line on AI agents\n   https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents\n   Researchers at the Allen Institute for AI, writing on the Hugging Face blog, explored where scientists believe limits should be placed on 'AI agents' — software that can act on its own to carry out tasks rather than simply answering questions. The piece gathers expert views on which decisions and actions should remain under human control and which can be safely delegated to machines. It reflects a growing concern that as AI systems gain the ability to take real-world actions, clear rules are needed to prevent mistakes or misuse. The discussion covers both technical safeguards and broader questions about accountability and oversight. For organisations beginning to use these tools, this is a reminder that human judgment and clear boundaries remain essential. It is notable because it signals that even leading AI developers are urging caution about giving systems too much independence.\n   (Hugging Face Blog · 25 Nov 2026)\n\n2. Nvidia hits pause on chip shipments to Southeast Asia\n   https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n   Nvidia, the world's leading maker of AI chips, has instructed its manufacturing partners to pause shipments of AI servers to Malaysia, Singapore, Thailand and Indonesia. The move follows tighter rules from the United States aimed at stopping advanced AI chips from reaching China through other countries. Southeast Asian nations have been caught in the middle because they are major hubs for electronics assembly and re-export. The pause shows how access to the hardware that powers AI is increasingly shaped by geopolitics and trade controls, not just by market demand. For regions building their own AI capacity, including the Gulf, this underlines how dependent AI development is on a small number of suppliers and on shifting international rules. It is a reminder that national technology strategies must account for supply-chain risks beyond their own borders.\n   (TechCrunch — AI · 27 Nov 2026)\n\n3. Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems\n   https://huggingface.co/blog/training-swarms\n   A technical article on the Hugging Face blog explains how developers can build and train 'multi-agent systems' — groups of AI programs that work together, described here with terms like swarms, flocks and gangs. Instead of relying on a single AI model to handle a task, these approaches have several AI agents collaborate, divide work, or check one another. The piece walks through how to design, train, and evaluate such systems, including how to measure whether the group performs better than a single model. This reflects a wider trend toward AI tools that coordinate rather than operate alone. For non-technical readers, the key point is that AI is moving from single assistants toward teams of cooperating programs. Understanding this shift helps anticipate how future workplace tools may be structured and managed.\n   (Hugging Face Blog · 26 Nov 2026)\n\n4. An Indic Voice Agent with CUGA\n   https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga\n   IBM Research shared a project on the Hugging Face blog describing an 'Indic voice agent' built using its CUGA system — a voice-based AI assistant designed to work in Indian languages. Much of today's AI performs best in English, so efforts like this aim to make voice technology usable for speakers of languages that are often underserved. The project shows how AI can be adapted to understand and respond in local languages through voice rather than text, which matters in places where many people prefer speaking over typing. This kind of work is directly relevant to the Gulf's interest in strong Arabic-language AI and inclusive public services. It demonstrates that making AI genuinely useful requires investment in local languages and voice interfaces. For workforce and public-service planning, it points to the value of tools that reach all citizens, not only those comfortable in English.\n   (Hugging Face Blog · 25 Nov 2026)\n\n5. FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space\n   https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers\n   The US Federal Communications Commission has approved a plan by SpaceX to launch up to one million satellites equipped with AI chips, part of an initiative the company calls 'Starmind.' The idea is to place AI data centres in space, where they could potentially run computing tasks using solar power and avoid some of the land, energy and cooling demands of data centres on Earth. This is the first such approval the agency has granted, though other companies including Google and Blue Origin are exploring similar concepts. The plan is highly ambitious and remains unproven at this scale, raising practical, cost and environmental questions. It is notable because it signals how the enormous energy and infrastructure needs of AI are pushing companies toward unconventional solutions. For now it is an early-stage vision rather than a working system, but it illustrates how seriously the industry is treating AI's growing resource demands.\n   (The Verge — AI · 25 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy.",
+  "broadcast_card": {
+    "type": "AdaptiveCard",
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.5",
+    "body": [
+      {
+        "type": "Container",
+        "style": "emphasis",
+        "bleed": true,
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "AI Pulse — Weekly AI News Digest",
+            "size": "ExtraLarge",
+            "weight": "Bolder",
+            "color": "Good",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Friday, 27 November 2026",
+            "isSubtle": true,
+            "spacing": "None",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "TextBlock",
+        "text": "Welcome to this edition of our AI digest. This issue looks at how researchers are setting boundaries for increasingly independent AI systems, how global politics is reshaping the supply of the chips that power AI, and new efforts to make AI work in more of the world's languages. We also touch on an ambitious plan to move AI computing into space. Together these stories highlight both the fast pace of change and the practical questions of trust, access, and inclusion that matter for workforce and public-service planning.",
+        "wrap": true,
+        "spacing": "Medium"
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[1. Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Researchers at the Allen Institute for AI, writing on the Hugging Face blog, explored where scientists believe limits should be placed on 'AI agents' — software that can act on its own to carry out tasks rather than simply answering questions. The piece gathers expert views on which decisions and actions should remain under human control and which can be safely delegated to machines. It reflects a growing concern that as AI systems gain the ability to take real-world actions, clear rules are needed to prevent mistakes or misuse. The discussion covers both technical safeguards and broader questions about accountability and oversight. For organisations beginning to use these tools, this is a reminder that human judgment and clear boundaries remain essential. It is notable because it signals that even leading AI developers are urging caution about giving systems too much independence.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face Blog · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[2. Nvidia hits pause on chip shipments to Southeast Asia](https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "Nvidia, the world's leading maker of AI chips, has instructed its manufacturing partners to pause shipments of AI servers to Malaysia, Singapore, Thailand and Indonesia. The move follows tighter rules from the United States aimed at stopping advanced AI chips from reaching China through other countries. Southeast Asian nations have been caught in the middle because they are major hubs for electronics assembly and re-export. The pause shows how access to the hardware that powers AI is increasingly shaped by geopolitics and trade controls, not just by market demand. For regions building their own AI capacity, including the Gulf, this underlines how dependent AI development is on a small number of suppliers and on shifting international rules. It is a reminder that national technology strategies must account for supply-chain risks beyond their own borders.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "TechCrunch — AI · 27 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[3. Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems](https://huggingface.co/blog/training-swarms)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "A technical article on the Hugging Face blog explains how developers can build and train 'multi-agent systems' — groups of AI programs that work together, described here with terms like swarms, flocks and gangs. Instead of relying on a single AI model to handle a task, these approaches have several AI agents collaborate, divide work, or check one another. The piece walks through how to design, train, and evaluate such systems, including how to measure whether the group performs better than a single model. This reflects a wider trend toward AI tools that coordinate rather than operate alone. For non-technical readers, the key point is that AI is moving from single assistants toward teams of cooperating programs. Understanding this shift helps anticipate how future workplace tools may be structured and managed.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face Blog · 26 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[4. An Indic Voice Agent with CUGA](https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "IBM Research shared a project on the Hugging Face blog describing an 'Indic voice agent' built using its CUGA system — a voice-based AI assistant designed to work in Indian languages. Much of today's AI performs best in English, so efforts like this aim to make voice technology usable for speakers of languages that are often underserved. The project shows how AI can be adapted to understand and respond in local languages through voice rather than text, which matters in places where many people prefer speaking over typing. This kind of work is directly relevant to the Gulf's interest in strong Arabic-language AI and inclusive public services. It demonstrates that making AI genuinely useful requires investment in local languages and voice interfaces. For workforce and public-service planning, it points to the value of tools that reach all citizens, not only those comfortable in English.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "Hugging Face Blog · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Medium",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "[5. FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space](https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers)",
+            "weight": "Bolder",
+            "size": "Medium",
+            "color": "Accent",
+            "wrap": true
+          },
+          {
+            "type": "TextBlock",
+            "text": "The US Federal Communications Commission has approved a plan by SpaceX to launch up to one million satellites equipped with AI chips, part of an initiative the company calls 'Starmind.' The idea is to place AI data centres in space, where they could potentially run computing tasks using solar power and avoid some of the land, energy and cooling demands of data centres on Earth. This is the first such approval the agency has granted, though other companies including Google and Blue Origin are exploring similar concepts. The plan is highly ambitious and remains unproven at this scale, raising practical, cost and environmental questions. It is notable because it signals how the enormous energy and infrastructure needs of AI are pushing companies toward unconventional solutions. For now it is an early-stage vision rather than a working system, but it illustrates how seriously the industry is treating AI's growing resource demands.",
+            "wrap": true,
+            "spacing": "Small"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The Verge — AI · 25 Nov 2026",
+            "isSubtle": true,
+            "size": "Small",
+            "spacing": "Small",
+            "wrap": true
+          }
+        ]
+      },
+      {
+        "type": "Container",
+        "separator": true,
+        "spacing": "Large",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "Automated digest curated for Tamkeen by Policy & Strategy.",
+            "isSubtle": true,
+            "size": "Small",
+            "wrap": true,
+            "horizontalAlignment": "Center"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "brand": {
+        "primary": "#006A4E",
+        "accent": "#C0921E"
+      }
+    },
+    "msteams": {
+      "width": "Full"
+    }
+  },
+  "broadcast_text": "AI Pulse — Weekly AI News Digest\nFriday, 27 November 2026\n============================================================\nWelcome to this edition of our AI digest. This issue looks at how researchers are setting boundaries for increasingly independent AI systems, how global politics is reshaping the supply of the chips that power AI, and new efforts to make AI work in more of the world's languages. We also touch on an ambitious plan to move AI computing into space. Together these stories highlight both the fast pace of change and the practical questions of trust, access, and inclusion that matter for workforce and public-service planning.\n\n1. Where scientists draw the line on AI agents\n   https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents\n   Researchers at the Allen Institute for AI, writing on the Hugging Face blog, explored where scientists believe limits should be placed on 'AI agents' — software that can act on its own to carry out tasks rather than simply answering questions. The piece gathers expert views on which decisions and actions should remain under human control and which can be safely delegated to machines. It reflects a growing concern that as AI systems gain the ability to take real-world actions, clear rules are needed to prevent mistakes or misuse. The discussion covers both technical safeguards and broader questions about accountability and oversight. For organisations beginning to use these tools, this is a reminder that human judgment and clear boundaries remain essential. It is notable because it signals that even leading AI developers are urging caution about giving systems too much independence.\n   (Hugging Face Blog · 25 Nov 2026)\n\n2. Nvidia hits pause on chip shipments to Southeast Asia\n   https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n   Nvidia, the world's leading maker of AI chips, has instructed its manufacturing partners to pause shipments of AI servers to Malaysia, Singapore, Thailand and Indonesia. The move follows tighter rules from the United States aimed at stopping advanced AI chips from reaching China through other countries. Southeast Asian nations have been caught in the middle because they are major hubs for electronics assembly and re-export. The pause shows how access to the hardware that powers AI is increasingly shaped by geopolitics and trade controls, not just by market demand. For regions building their own AI capacity, including the Gulf, this underlines how dependent AI development is on a small number of suppliers and on shifting international rules. It is a reminder that national technology strategies must account for supply-chain risks beyond their own borders.\n   (TechCrunch — AI · 27 Nov 2026)\n\n3. Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems\n   https://huggingface.co/blog/training-swarms\n   A technical article on the Hugging Face blog explains how developers can build and train 'multi-agent systems' — groups of AI programs that work together, described here with terms like swarms, flocks and gangs. Instead of relying on a single AI model to handle a task, these approaches have several AI agents collaborate, divide work, or check one another. The piece walks through how to design, train, and evaluate such systems, including how to measure whether the group performs better than a single model. This reflects a wider trend toward AI tools that coordinate rather than operate alone. For non-technical readers, the key point is that AI is moving from single assistants toward teams of cooperating programs. Understanding this shift helps anticipate how future workplace tools may be structured and managed.\n   (Hugging Face Blog · 26 Nov 2026)\n\n4. An Indic Voice Agent with CUGA\n   https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga\n   IBM Research shared a project on the Hugging Face blog describing an 'Indic voice agent' built using its CUGA system — a voice-based AI assistant designed to work in Indian languages. Much of today's AI performs best in English, so efforts like this aim to make voice technology usable for speakers of languages that are often underserved. The project shows how AI can be adapted to understand and respond in local languages through voice rather than text, which matters in places where many people prefer speaking over typing. This kind of work is directly relevant to the Gulf's interest in strong Arabic-language AI and inclusive public services. It demonstrates that making AI genuinely useful requires investment in local languages and voice interfaces. For workforce and public-service planning, it points to the value of tools that reach all citizens, not only those comfortable in English.\n   (Hugging Face Blog · 25 Nov 2026)\n\n5. FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space\n   https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers\n   The US Federal Communications Commission has approved a plan by SpaceX to launch up to one million satellites equipped with AI chips, part of an initiative the company calls 'Starmind.' The idea is to place AI data centres in space, where they could potentially run computing tasks using solar power and avoid some of the land, energy and cooling demands of data centres on Earth. This is the first such approval the agency has granted, though other companies including Google and Blue Origin are exploring similar concepts. The plan is highly ambitious and remains unproven at this scale, raising practical, cost and environmental questions. It is notable because it signals how the enormous energy and infrastructure needs of AI are pushing companies toward unconventional solutions. For now it is an early-stage vision rather than a working system, but it illustrates how seriously the industry is treating AI's growing resource demands.\n   (The Verge — AI · 25 Nov 2026)\n\n------------------------------------------------------------\nAutomated digest curated for Tamkeen by Policy & Strategy."
+}
